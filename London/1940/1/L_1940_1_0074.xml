@@ -176,6 +176,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, B. J</Text>
+      <PageNumber>20</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Donaldson</Key>
       <Forenames>V. D.</Forenames>
       <PageNumber>20</PageNumber>
@@ -263,7 +271,9 @@
       <Key>Madden</Key>
       <Title>Sir</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +342,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Ford, A</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobley</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,8 +893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Forenames>C. G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. G. de L</Forenames>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1247,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>

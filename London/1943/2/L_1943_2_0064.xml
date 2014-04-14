@@ -184,7 +184,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>K. C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,7 +1789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bushra</Key>
-      <Forenames>Sadek</Forenames>
+      <Title>Sadek .</Title>
       <PageNumber>2811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2118,7 +2120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caine</Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2210,7 +2213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaway</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2240,7 +2243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callow</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2632,7 +2635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Candlin</Key>
-      <Text>C, J</Text>
+      <Forenames>C</Forenames>
+      <Text>, J</Text>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>

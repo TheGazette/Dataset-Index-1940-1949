@@ -836,8 +836,10 @@
     <MainItem>
       <Key>Barttelot</Key>
       <Title>Sir</Title>
-      <Forenames>W.</Forenames>
-      <Text>de S., Bt Barty, A. S</Text>
+      <Forenames>W. de S</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1132,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>4789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>A. de M</Forenames>
       <PageNumber>4366</PageNumber>
     </MainItem>
   </ItemGroup>

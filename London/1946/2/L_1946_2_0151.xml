@@ -87,7 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>L 330i Dickenson, E. A</Text>
+      <Forenames>L</Forenames>
+      <Text>330i Dickenson, E. A</Text>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>G, H. P</Text>
+      <Forenames>G</Forenames>
+      <Text>, H. P</Text>
       <PageNumber>3023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>C, H</Text>
+      <Forenames>C</Forenames>
+      <Text>, H</Text>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdial</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannah</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodding</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeson</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +1569,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,7 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maran</Key>
-      <Forenames>Gaim</Forenames>
+      <Title>Gaim .</Title>
       <PageNumber>2632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maung</Key>
-      <Forenames>Levin</Forenames>
+      <Title>Levin.</Title>
       <PageNumber>2352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,14 +1782,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Maung</Key>
-      <Forenames>Wunna</Forenames>
+      <Title>Wunna .</Title>
       <PageNumber>1752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,7 +1852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Midgley</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammed</Key>
-      <Forenames>Yousuf</Forenames>
+      <Title>Yousuf .</Title>
       <PageNumber>2631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,7 +1912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2026,7 +2029,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicoll</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2074,8 +2077,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, M. T</Text>
+      <Key>O'Regan</Key>
+      <Forenames>M. T.</Forenames>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,7 +2323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>

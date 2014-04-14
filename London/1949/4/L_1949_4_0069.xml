@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>. James (Cake Boards)</Text>
+      <Forenames>James</Forenames>
+      <Text>(Cake Boards)</Text>
       <PageNumber>5143</PageNumber>
       <PageNumber>5614</PageNumber>
       <PageNumber>5617</PageNumber>
@@ -70,14 +71,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, H :</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>5567</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Forenames>Club</Forenames>
+      <Title>Club .</Title>
       <PageNumber>5985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>(Somerset) Estates ~</Text>
+      <Title>(Somerset)</Title>
+      <Forenames>Estates</Forenames>
+      <Text>~</Text>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wedgwood</Key>
-      <Forenames>Hotels</Forenames>
+      <Title>Hotels .</Title>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welling</Key>
-      <Forenames>Shops</Forenames>
+      <Title>Shops .</Title>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wensum</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,8 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>Publications</Forenames>
-      <Text>. '</Text>
+      <Title>Publications .</Title>
+      <Text>'</Text>
       <PageNumber>5375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wightman</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (Leeds)</Text>
+      <Title>Bros. (Leeds)</Title>
       <PageNumber>5615</PageNumber>
       <PageNumber>5617</PageNumber>
     </MainItem>
@@ -429,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilham</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winstay</Key>
-      <Forenames>Holdings</Forenames>
+      <Title>Holdings .</Title>
       <PageNumber>5429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zenalite</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>.C.M. Gravel Company</Text>
+      <Forenames>C.M. Gravel Company</Forenames>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,15 +882,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baldwyn</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. J. and G. M. Williamson</Text>
+      <Forenames>K. St. J</Forenames>
+      <Text>. and G. M. Williamson</Text>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>. &amp; R. Toys</Text>
+      <Text>&amp; R. Toys</Text>
       <PageNumber>4767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,14 +1189,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosy</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>5806</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>County</Key>
-      <Forenames>Radio</Forenames>
+      <Title>Radio .</Title>
       <PageNumber>5506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,14 +1254,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Denham</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>5379</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dennett</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dore</Key>
-      <Forenames>Lynn</Forenames>
+      <Title>Lynn .</Title>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elms</Key>
-      <Forenames>School</Forenames>
+      <Title>School .</Title>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,7 +1367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.C.C. Builders and Decorators</Text>
+      <Forenames>C.C. Builders</Forenames>
+      <Text>and Decorators</Text>
       <PageNumber>5990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gascoigne</Key>
-      <Text>. G. &amp; C</Text>
+      <Forenames>G.</Forenames>
+      <Text>&amp; C</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glasshomes</Key>
-      <Text>(Sheffield) Co</Text>
+      <Title>(Sheffield) Co.</Title>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Highfield</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howarth</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4920</PageNumber>
     </MainItem>
   </ItemGroup>

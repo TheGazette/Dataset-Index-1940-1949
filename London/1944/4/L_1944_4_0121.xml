@@ -38,14 +38,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Meiklem</Key>
-      <Text>, ,R. C</Text>
+      <Text>,R. C</Text>
       <PageNumber>5384</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mellard</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mersey</Key>
-      <Text>, -E. L</Text>
+      <Text>-E. L</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Messiter</Key>
-      <Text>,. D. A</Text>
+      <Text>. D. A</Text>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Text>, M: J</Text>
+      <Forenames>M</Forenames>
+      <Text>: J</Text>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mewha</Key>
-      <Text>,A. M</Text>
+      <Text>A. M</Text>
       <PageNumber>5448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyer</Key>
-      <Text>. D. L. R</Text>
+      <Forenames>D. L. R.</Forenames>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +315,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>, D: W. .„</Text>
+      <Forenames>D</Forenames>
+      <Text>: W. .„</Text>
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +547,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1263,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,14 +1298,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milnes</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1610,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1950,7 +1953,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monks</Key>
-      <Text>. B. D</Text>
+      <Forenames>B. D.</Forenames>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2233,7 +2236,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(136953)</Text>
+      <Title>(136953)</Title>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2315,7 +2318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morelli</Key>
-      <Text>, A! J</Text>
+      <Forenames>A</Forenames>
+      <Text>! J</Text>
       <PageNumber>4920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2409,7 +2413,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>E,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>5682</PageNumber>
     </MainItem>
   </ItemGroup>

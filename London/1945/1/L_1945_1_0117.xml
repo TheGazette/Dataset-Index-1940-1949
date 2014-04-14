@@ -74,7 +74,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea-Cox</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,14 +232,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Leahy</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1434</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leak</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggett</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W cSi Leivers, R. A. ... i</Text>
+      <Forenames>W</Forenames>
+      <Text>cSi Leivers, R. A. ... i</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +633,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lester</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lett</Key>
-      <Text>A. R. C</Text>
+      <Forenames>A. R. C.</Forenames>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +715,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +733,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +803,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liggins</Key>
-      <Text>S, T</Text>
+      <Forenames>S</Forenames>
+      <Text>, T</Text>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>A, C</Text>
+      <Forenames>A</Forenames>
+      <Text>, C</Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Llewellen-Palmer</Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1381,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt. (W. Gds)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lodge</Key>
-      <Text>E. W. A</Text>
+      <Forenames>E. W. A.</Forenames>
       <PageNumber>1192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lomax</Key>
-      <Text>F. A</Text>
+      <Forenames>F. A</Forenames>
       <PageNumber>1247</PageNumber>
       <PageNumber>1247</PageNumber>
     </MainItem>
@@ -2009,8 +2015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loyd</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2304,7 +2309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McAllister</Key>
-      <Text>R. (Movement Control S.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Movement Control S.)</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2513,7 +2519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCorkell</Key>
-      <Text>B. H. i</Text>
+      <Forenames>B. H.</Forenames>
+      <Text>i</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

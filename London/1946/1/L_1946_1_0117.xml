@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schmidt</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scrase</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle-Crossley</Key>
-      <Forenames>J. X.</Forenames>
-      <Text>de V. M</Text>
+      <Forenames>J. X. de V</Forenames>
+      <Text>. M</Text>
       <PageNumber>1007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Service</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shannon</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheridan</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1001,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shields</Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>97</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shurer</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1328,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1535,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,7 +1595,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,7 +1868,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2012,7 +2013,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2087,7 +2088,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>239</PageNumber>
     </MainItem>
   </ItemGroup>

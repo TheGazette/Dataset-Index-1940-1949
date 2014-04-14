@@ -27,7 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lofty</Key>
-      <Text>A, D</Text>
+      <Forenames>A</Forenames>
+      <Text>, D</Text>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCleary</Key>
-      <Text>R. S</Text>
+      <Forenames>R. S.</Forenames>
       <PageNumber>3383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,14 +1158,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McCluskie</Key>
-      <Text>W. B</Text>
+      <Forenames>W. B.</Forenames>
       <PageNumber>3172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McColl</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1181,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1362,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,7 +1811,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1833,14 +1836,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1862,7 +1865,9 @@
     <MainItem>
       <Key>Mackay</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1877,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.V.C.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,7 +2151,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>

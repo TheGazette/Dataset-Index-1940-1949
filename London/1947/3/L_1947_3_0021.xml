@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Iman</Key>
-      <Forenames>Din</Forenames>
+      <Title>Din .</Title>
       <PageNumber>4514</PageNumber>
       <PageNumber>4516</PageNumber>
     </MainItem>
@@ -385,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahbub</Key>
-      <Forenames>Alam</Forenames>
+      <Title>Alam .</Title>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,14 +431,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mehtab</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mian</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,8 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Forenames>Aslam</Forenames>
-      <Text>... Mohd Hussain (Hav.)</Text>
+      <Title>Aslam .</Title>
+      <Text>.. Mohd Hussain (Hav.)</Text>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Forenames>Sarwar</Forenames>
+      <Title>Sarwar .</Title>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noor</Key>
-      <Forenames>Hussain</Forenames>
+      <Title>Hussain .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,15 +655,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnel, T. F</Text>
+      <Key>O'Donnel</Key>
+      <Forenames>T. F.</Forenames>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E., Corr</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pehlwan</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranjit</Key>
-      <Forenames>Ram</Forenames>
+      <Title>Ram .</Title>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayan</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rehmat</Key>
-      <Forenames>Ullah</Forenames>
+      <Title>Ullah .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +880,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roden</Key>
-      <Text>C, Corr</Text>
+      <Forenames>C</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sahib</Key>
-      <Forenames>Zad</Forenames>
+      <Title>Zad .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,14 +946,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarwar</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saw</Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shakoor</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,21 +1157,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Sultan</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sunar</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Suparish</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walayat</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wattan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,6 +1427,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>A. F.</Forenames>
+      <PageNumber>3679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>F. S. W.</Forenames>
+      <PageNumber>3679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Mansergh</Key>
       <Forenames>C. A. L.</Forenames>
       <PageNumber>3680</PageNumber>
@@ -1524,7 +1540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,14 +1618,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleton</Key>
-      <Text>B. G</Text>
+      <Forenames>B. G.</Forenames>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arblaster</Key>
-      <Text>P. G</Text>
+      <Forenames>P. G.</Forenames>
       <PageNumber>4422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,8 +1723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Assinder</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. R. St. C</Forenames>
       <PageNumber>4423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2260,7 +2275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolwell</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3137</PageNumber>
     </MainItem>
   </ItemGroup>

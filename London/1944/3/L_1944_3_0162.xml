@@ -34,7 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Forenames>London Brick Co</Forenames>
+      <Forenames>London Brick</Forenames>
+      <Text>Co</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +95,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willett</Key>
-      <Forenames>Works</Forenames>
+      <Title>Works .</Title>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winfield</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. . (Bourne End)</Text>
+      <Title>Bros.</Title>
+      <Text>. (Bourne End)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winters</Key>
-      <Forenames>Chemists</Forenames>
+      <Title>Chemists .</Title>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolleys</Key>
-      <Text>(Nottingham)</Text>
+      <Title>(Nottingham)</Title>
       <PageNumber>4024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +178,6 @@
       <Key>Wrightson</Key>
       <Text>&amp; Poole</Text>
       <PageNumber>3480</PageNumber>
-      <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -230,8 +230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Forenames>Chas</Forenames>
-      <Text>. and A. Buckley</Text>
+      <Title>Chas.</Title>
+      <Text>and A. Buckley</Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,14 +341,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Caudwell</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Central</Key>
-      <Forenames>Cinema</Forenames>
+      <Title>Cinema .</Title>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,165 +441,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Dehany</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Dicker, Pollak, Tench &amp; Meyer ..</SubCategoryTitle>
-  <SubCategoryTitle>English Sugar Beet Seed Company ..</SubCategoryTitle>
-  <SubCategoryTitle>Everymans Electrical Radio Stores ..</SubCategoryTitle>
-  <SubCategoryTitle>Forsyth, John ..</SubCategoryTitle>
-  <SubCategoryTitle>Fox &amp; Figg Gatenby, R. S. and H</SubCategoryTitle>
-  <SubCategoryTitle>George &amp; Stephens ..</SubCategoryTitle>
-  <SubCategoryTitle>Gildersleve &amp; Ford..</SubCategoryTitle>
-  <SubCategoryTitle>Ginn. Geo. C. &amp; Co...</SubCategoryTitle>
-  <SubCategoryTitle>Gray &amp; Hodgson ..</SubCategoryTitle>
-  <SubCategoryTitle>Green, C. H. and B</SubCategoryTitle>
-  <SubCategoryTitle>Greenwood, William..</SubCategoryTitle>
-  <SubCategoryTitle>Grimshaw &amp; Stark ..</SubCategoryTitle>
-  <SubCategoryTitle>Hall Brothers ..</SubCategoryTitle>
-  <SubCategoryTitle>Hall-Davis and McGhee Harris &amp; Company ..</SubCategoryTitle>
-  <SubCategoryTitle>Hill, Vellacott &amp; Bailey Hill, Vellacott &amp; Co</SubCategoryTitle>
-  <SubCategoryTitle>Hodgson and Rayner Holland &amp; Co</SubCategoryTitle>
-  <SubCategoryTitle>Howarth &amp; Wood ..</SubCategoryTitle>
-  <SubCategoryTitle>Huntley, F. Gordon..</SubCategoryTitle>
-  <SubCategoryTitle>Jones, Sam and Davies Kearney &amp; Williams..</SubCategoryTitle>
-  <SubCategoryTitle>Kerridges Knowles &amp; Watson ..</SubCategoryTitle>
-  <SubCategoryTitle>Lansdowne Nursing Home Law &amp; Grimshaw ..</SubCategoryTitle>
-  <SubCategoryTitle>Lumb, J. &amp; D</SubCategoryTitle>
-  <SubCategoryTitle>Matti &amp; Tissot Maude &amp; Tunnicliffe Mooring Aldridge &amp; Haydon Mossop, Henry &amp; Syms Newstead and Wade..</SubCategoryTitle>
-  <SubCategoryTitle>Ormston Brothers Ozendyke House Farm Page, T. A. Son &amp; Bradbury Palmer, A. J. &amp; Co...</SubCategoryTitle>
-  <SubCategoryTitle>Payn, Percy S</SubCategoryTitle>
-  <SubCategoryTitle>Preece, B. and C. H</SubCategoryTitle>
-  <SubCategoryTitle>Reed, J. H. &amp; Sons Rigby &amp; Taylor Rigden &amp; Wood Riverdale Egg Packing Station Roobottom, W. S. and I. Bate Ruston, A. Harold &amp; Son ..</SubCategoryTitle>
-  <SubCategoryTitle>Scurlock, R. and Sons Shaw, W. H</SubCategoryTitle>
-  <SubCategoryTitle>Simister &amp; Chorlton..</SubCategoryTitle>
-  <SubCategoryTitle>Smith Merrett, E. &amp; S. &amp; Son ..</SubCategoryTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>South</Key>
-      <Forenames>Wales Nurses Co-operation</Forenames>
-      <Text>and Institute Spain Brothers Batchelor &amp; Co. Spain Brothers Crew and Co</Text>
-      <PageNumber>___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___</KeyDitto>
-  <SubCategoryTitle>4288 Taylor &amp; Rippengal..</SubCategoryTitle>
-  <SubCategoryTitle>3583 Tranter and Hancox..</SubCategoryTitle>
-  <SubCategoryTitle>Wilson, John H</SubCategoryTitle>
-  <SubCategoryTitle>4288 Worley &amp; Taylor 3352 Wright Woodrow 4186 Aysom Wright &amp; Leask Young and Fawcett..</SubCategoryTitle>
-  <SubCategoryTitle>Abadam, H. C 4087 Abel, J. H</SubCategoryTitle>
-  <SubCategoryTitle>4130 Abrams, J</SubCategoryTitle>
-  <SubCategoryTitle>3204 Acton, J</SubCategoryTitle>
-  <SubCategoryTitle>Adams, H</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ M</SubCategoryTitle>
-  <SubCategoryTitle>3352 ___ ___ S. B. S ___ ___ ___ W. H</SubCategoryTitle>
-  <SubCategoryTitle>3204 Adderley, H. J</SubCategoryTitle>
-  <SubCategoryTitle>3845 Addington, E. J 3583 Ahern, J. J</SubCategoryTitle>
-  <SubCategoryTitle>3302 Airey, W</SubCategoryTitle>
-  <SubCategoryTitle>Alcock, E</SubCategoryTitle>
-  <SubCategoryTitle>4136 ___ V. H</SubCategoryTitle>
-  <SubCategoryTitle>3253 Alderson, A. D</SubCategoryTitle>
-  <SubCategoryTitle>Aldridge, L</SubCategoryTitle>
-  <SubCategoryTitle>3302 Alexander, R A</SubCategoryTitle>
-  <SubCategoryTitle>Allard, G. E</SubCategoryTitle>
-  <SubCategoryTitle>4!30 Allen, B</SubCategoryTitle>
-  <SubCategoryTitle>3352 ___ C. M. S 3583 ___ ___ ___ E</SubCategoryTitle>
-  <SubCategoryTitle>3845 ___ ___ F. M</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ J3845 ___ ___ J. E</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ J. W</SubCategoryTitle>
+  <CategoryTitle>3582 CLAIMS TO BE</CategoryTitle>
+  <SubCategoryTitle>Green 3302 Alexander, R A</SubCategoryTitle>
   <SubCategoryTitle>Allerton, F</SubCategoryTitle>
+  <SubCategoryTitle>Son ..</SubCategoryTitle>
   <SubCategoryTitle>4025 Allfrey, D</SubCategoryTitle>
-  <SubCategoryTitle>3636 ___ ___ . M. E. A</SubCategoryTitle>
-  <SubCategoryTitle>4402 Ames, K. D. ..</SubCategoryTitle>
   <SubCategoryTitle>Anderson, A E</SubCategoryTitle>
-  <SubCategoryTitle>4025 ___ C. E. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ C. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ H. J. ..</SubCategoryTitle>
-  <SubCategoryTitle>3636 ___ ___ ___ M. A. McN 3253 Anderton, J. E</SubCategoryTitle>
-  <SubCategoryTitle>Andrew, A. ..</SubCategoryTitle>
+  <SubCategoryTitle>S. &amp; Son ..</SubCategoryTitle>
   <SubCategoryTitle>Andrews, A</SubCategoryTitle>
-  <SubCategoryTitle>Andrews, A. E</SubCategoryTitle>
-  <SubCategoryTitle>3253 ___ ___ G. B. ..</SubCategoryTitle>
-  <SubCategoryTitle>&amp; ___ ___ ___ ___ W. H. A</SubCategoryTitle>
+  <KeyDitto>___ ___</KeyDitto>
   <SubCategoryTitle>... 3253 Andrewartha, R</SubCategoryTitle>
-  <SubCategoryTitle>McNab Anker, A. H</SubCategoryTitle>
   <SubCategoryTitle>3254 Anscombe, H</SubCategoryTitle>
-  <SubCategoryTitle>Staite Anstee, G. F</SubCategoryTitle>
-  <SubCategoryTitle>... 4186 Anstey, F. A</SubCategoryTitle>
-  <SubCategoryTitle>Co. Anthony, J. E. (£..) ___ ___ ___ L. M. ..</SubCategoryTitle>
   <SubCategoryTitle>... 3532 Appleyard, E</SubCategoryTitle>
-  <SubCategoryTitle>... 4025 Archer, H. G. F</SubCategoryTitle>
-  <SubCategoryTitle>3532 Armes, A. H. H</SubCategoryTitle>
   <SubCategoryTitle>Armstead, M</SubCategoryTitle>
-  <SubCategoryTitle>RowArnold, A. E</SubCategoryTitle>
-  <SubCategoryTitle>... 4228 Arter, M. S. ..</SubCategoryTitle>
   <SubCategoryTitle>C. Ashe, E</SubCategoryTitle>
-  <SubCategoryTitle>Ashforth, A. T</SubCategoryTitle>
   <SubCategoryTitle>Ashton, E</SubCategoryTitle>
-  <SubCategoryTitle>... 3636 Ashworth, A. C</SubCategoryTitle>
-  <SubCategoryTitle>Askew, M. E. M</SubCategoryTitle>
-  <SubCategoryTitle>Aspinall, S. ..</SubCategoryTitle>
-  <SubCategoryTitle>Aspindle, T. R</SubCategoryTitle>
   <SubCategoryTitle>Atkinson, R</SubCategoryTitle>
-  <SubCategoryTitle>Atty, E. E. ..</SubCategoryTitle>
-  <SubCategoryTitle>Austin, L. C</SubCategoryTitle>
-  <SubCategoryTitle>Avery, W. R. F</SubCategoryTitle>
   <SubCategoryTitle>ComAxon, L</SubCategoryTitle>
-  <SubCategoryTitle>Bach, S. M. (M.) Breeze Bacon, H. L. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bagshawe, S. D</SubCategoryTitle>
-  <SubCategoryTitle>Baguley, D. T</SubCategoryTitle>
-  <SubCategoryTitle>Bain, H. M. ..</SubCategoryTitle>
   <SubCategoryTitle>Bainbridge, R</SubCategoryTitle>
   <SubCategoryTitle>Baines, W</SubCategoryTitle>
-  <SubCategoryTitle>Baker, A. C.</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ F. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 3425 J. W. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 4350 T. R. ..</SubCategoryTitle>
   <SubCategoryTitle>&amp; Bailey, E</SubCategoryTitle>
   <SubCategoryTitle>3351 BalabanofF, B</SubCategoryTitle>
-  <SubCategoryTitle>... 4185 Baldry, W. F 4025 Ball, A. J.</SubCategoryTitle>
-  <SubCategoryTitle>M. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bamford, J. R</SubCategoryTitle>
-  <SubCategoryTitle>MADE Banbury, T. ..</SubCategoryTitle>
-  <SubCategoryTitle>PAID ON Bandey, E. C</SubCategoryTitle>
-  <SubCategoryTitle>Banfield, H. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bangay, J. D</SubCategoryTitle>
-  <SubCategoryTitle>Banister, J. F</SubCategoryTitle>
-  <SubCategoryTitle>Banks, A. G. T</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ ___ F</SubCategoryTitle>
-  <SubCategoryTitle>~— ___ ___ ___ JE. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bannister, F. M</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ ___ W</SubCategoryTitle>
-  <SubCategoryTitle>3494 Banyard, A. E</SubCategoryTitle>
-  <SubCategoryTitle>Barber, H. ..</SubCategoryTitle>
-  <SubCategoryTitle>3595 Barclay, I. M</SubCategoryTitle>
-  <SubCategoryTitle>3165 ___ ___ ___ M. J. ..</SubCategoryTitle>
-  <SubCategoryTitle>3436 ___ ___ ___ T. E. ..</SubCategoryTitle>
-  <SubCategoryTitle>Barham, H. G</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ A. W.</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ G. S. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ J. W. ..</SubCategoryTitle>
-  <SubCategoryTitle>4202 ___ ___ ___ W. H M Barlow, W. ..</SubCategoryTitle>
-  <SubCategoryTitle>Barnard, J. O. Y</SubCategoryTitle>
-  <SubCategoryTitle>Barnardiston, C. L</SubCategoryTitle>
-  <SubCategoryTitle>Barnes, C. E</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ E. U. ..</SubCategoryTitle>
-  <SubCategoryTitle>3739 ___ ___ ___ ___ W. P. ..</SubCategoryTitle>
-  <SubCategoryTitle>3600 Barnett, C. E</SubCategoryTitle>
-  <SubCategoryTitle>3860 Barratt, A. (A. H.) Barrett, E. A</SubCategoryTitle>
-  <SubCategoryTitle>4199 Barriball, A. D. G</SubCategoryTitle>
   <SubCategoryTitle>Barrow, S</SubCategoryTitle>
-  <SubCategoryTitle>Barrowclough, E. A</SubCategoryTitle>
-  <SubCategoryTitle>Bartels, J. ..</SubCategoryTitle>
-  <SubCategoryTitle>Barthel, W. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bartlett, J. A</SubCategoryTitle>
-  <SubCategoryTitle>Barton, C. ..</SubCategoryTitle>
-  <SubCategoryTitle>3435 ___ ___ ___ M. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>McK. Barwell, A. M</SubCategoryTitle>
-  <SubCategoryTitle>3864 Batchelor, F. G</SubCategoryTitle>
-  <SubCategoryTitle>... 3490 Bateman, A. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 4416 ___ ___ ___ ___ G. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 4204 ___ ___ ___ ___ W. H. ..</SubCategoryTitle>
 </Index>
 

@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Town</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,16 +296,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Uytvanck</Forenames>
-      <Text>, H. G</Text>
+      <Key>Van Uytvanck</Key>
+      <Forenames>H. G.</Forenames>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +321,7 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>96</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, T&gt;. L. M....-</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. L. M....-</Text>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +599,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brpcklebank</Key>
-      <Forenames>Thos</Forenames>
-      <Text>. and Jno., notice</Text>
+      <Title>Thos. and Jno.</Title>
+      <Text>, notice</Text>
       <PageNumber>703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Co-Operative</Key>
-      <Text>. Permanent Building Society, notice</Text>
+      <Forenames>Permanent Building Society</Forenames>
+      <Text>, notice</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosses</Key>
-      <Text>.&amp; Winkworth Consolidated Mills, notice . . . -</Text>
+      <Text>&amp; Winkworth Consolidated Mills, notice . . . -</Text>
       <PageNumber>1082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1053,9 @@
     <MainItem>
       <Key>Health</Key>
       <Forenames>Ministry</Forenames>
-      <Text>of, Bye'. .laws,' application for confirmation, St. Austell R.D. ... . ,:. II</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>

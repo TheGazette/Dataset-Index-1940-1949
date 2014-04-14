@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Juckes</Key>
-      <Text>C. N. A. R</Text>
+      <Forenames>C. N. A. R.</Forenames>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +185,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H L</Text>
+      <Forenames>H</Forenames>
+      <Text>L</Text>
       <PageNumber>5145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keel</Key>
-      <Text>C W.,Corr</Text>
+      <Forenames>C</Forenames>
+      <Text>W.,Corr</Text>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +334,8 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, M. '</Text>
+      <Forenames>J</Forenames>
+      <Text>, M. '</Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +409,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. G. St. C</Forenames>
       <PageNumber>4339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +478,7 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +487,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G C</Text>
+      <Forenames>G</Forenames>
+      <Text>C</Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +508,9 @@
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensett</Key>
-      <Text>F» J</Text>
+      <Forenames>F</Forenames>
+      <Text>» J</Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +733,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kersauson</Key>
-      <Text>de Penhen. dreff, R. H. L</Text>
+      <Title>de Penhen.</Title>
+      <Text>dreff, R. H. L</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kevins</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidgell</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kiewe</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>A!</Text>
+      <Forenames>A</Forenames>
+      <Text>!</Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkland</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kite</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1573,7 +1581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitzinger</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1794,7 +1802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Koenig</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1822,7 +1830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kremer</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1850,7 +1858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kurti</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>5629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,8 +1887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacamp</Key>
-      <Forenames>L.</Forenames>
-      <Text>de G</Text>
+      <Forenames>L. de G</Forenames>
       <PageNumber>5094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,7 +1924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lachman</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2060,7 +2067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laking</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5211</PageNumber>
     </MainItem>
   </ItemGroup>

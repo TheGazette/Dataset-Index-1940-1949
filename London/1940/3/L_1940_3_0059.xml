@@ -42,7 +42,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. E.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +74,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. E.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joyce</Key>
-      <Text>. C. S. W</Text>
+      <Forenames>C. S. W.</Forenames>
       <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Judd</Key>
-      <Text>. E. K</Text>
+      <Forenames>E. K .</Forenames>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>TudgerD</Key>
-      <Text>. McP</Text>
+      <Text>McP</Text>
       <PageNumber>5638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +479,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keizer</Key>
-      <Text>.M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>. E. H. ... ,</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>... ,</Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>J.</Forenames>
-      <Text>du M</Text>
+      <Forenames>J. du M</Forenames>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1293,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>

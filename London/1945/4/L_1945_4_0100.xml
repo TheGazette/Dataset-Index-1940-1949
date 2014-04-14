@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Metealf</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meville</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +202,9 @@
       <Key>Meyer</Key>
       <Title>Sir</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +285,7 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Midgley</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millard</Key>
-      <Text>, B)</Text>
+      <Forenames>B</Forenames>
+      <Text>)</Text>
       <PageNumber>5701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milo</Key>
-      <Text>. P. M</Text>
+      <Forenames>P. M.</Forenames>
       <PageNumber>6088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mold</Key>
-      <Text>, -A. V</Text>
+      <Text>-A. V</Text>
       <PageNumber>5639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1103,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moran</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,14 +1312,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Mordecai-Jones</Key>
-      <Text>, L H</Text>
+      <Forenames>L</Forenames>
+      <Text>H</Text>
       <PageNumber>6191</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mordue</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1379,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1415,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1552,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ :</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,7 +1671,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,7 +1794,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
     <SubItem>
@@ -1928,7 +1934,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mowbray</Key>
-      <Text>, -^Segrave &amp; Stourton, Lord</Text>
+      <Text>-^Segrave &amp; Stourton, Lord</Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2023,7 @@
       <PageNumber>5697</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>T</Text>
+      <Text>T.</Text>
       <PageNumber>6012</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2145,8 +2151,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>G. J. de W</Forenames>
       <PageNumber>5635</PageNumber>
     </MainItem>
   </ItemGroup>

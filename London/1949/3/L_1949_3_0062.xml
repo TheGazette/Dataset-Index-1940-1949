@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Electronics</Key>
-      <Text>(Ramsgate)</Text>
+      <Title>(Ramsgate)</Title>
       <PageNumber>3983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elton</Key>
-      <Text>(Peterborough) Housing Society, cancelling of registry</Text>
+      <Title>(Peterborough)</Title>
+      <Forenames>Housing Society</Forenames>
+      <Text>, cancelling of registry</Text>
       <PageNumber>4204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>. C, inquiry</Text>
+      <Forenames>C</Forenames>
+      <Text>, inquiry</Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
     <SubItem>

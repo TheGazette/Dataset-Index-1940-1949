@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramage</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +112,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reijf</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +337,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Hector</Forenames>
+      <Title>Hector .</Title>
       <PageNumber>1605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +346,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Maur, R. W. M</Text>
+      <Forenames>Maur</Forenames>
+      <Text>, R. W. M</Text>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +548,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sant</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkup</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Large</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
     <SubItem>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,15 +442,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewsey</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lidiard</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. J. Cane</Text>
+      <Forenames>H. D. St. J</Forenames>
+      <Text>. Cane</Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilley</Key>
-      <Text>P. W</Text>
+      <Forenames>P. W.</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +619,7 @@
       <PageNumber>4809</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. J. W</Text>
+      <Text>W. J. W.</Text>
       <PageNumber>4445</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -934,7 +934,7 @@
       <PageNumber>5331</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D</Text>
+      <Text>D.</Text>
       <PageNumber>5485</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -974,7 +974,7 @@
       <PageNumber>4857</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>G. J., Corr</Text>
+      <Text>G. J., Corr.</Text>
       <PageNumber>5654</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1112,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melesi</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1346,7 @@
       <PageNumber>5654</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. C. G</Text>
+      <Text>R. C. G.</Text>
       <PageNumber>5236</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1396,7 +1396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5332</PageNumber>
     </MainItem>
     <SubItem>
@@ -1847,8 +1847,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. W. -</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>-</Text>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,8 +1883,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefie, J. E. _</Text>
+      <Key>O'Keefie</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>_</Text>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,8 +1911,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. F</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>5332</PageNumber>
     </MainItem>
     <SubItem>
@@ -1950,8 +1952,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. C. Oxley-Parker, C. W</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. C. Oxley-Parker</Forenames>
+      <Text>, C. W</Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>

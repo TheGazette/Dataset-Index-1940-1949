@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milborn</Key>
-      <Text>. W. F</Text>
+      <Forenames>W. F.</Forenames>
       <PageNumber>405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +202,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milledge</Key>
-      <Text>, J: O</Text>
+      <Forenames>J</Forenames>
+      <Text>: O</Text>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +354,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>D: .R. (105158)</Text>
+      <Forenames>D</Forenames>
+      <Text>: .R. (105158)</Text>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millett</Key>
-      <Text>.R. F. Millhouse, P</Text>
+      <Forenames>R. F. Millhouse</Forenames>
+      <Text>, P</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +679,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>H, P</Text>
+      <Forenames>H</Forenames>
+      <Text>, P</Text>
       <PageNumber>214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +756,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +912,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>,' A. J. . i</Text>
+      <Text>' A. J. . i</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Minett</Key>
-      <Text>, T B</Text>
+      <Forenames>T</Forenames>
+      <Text>B</Text>
       <PageNumber>1277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Text>,, A</Text>
+      <Text>, A</Text>
       <PageNumber>1322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>,. A. H</Text>
+      <Text>. A. H</Text>
       <PageNumber>580</PageNumber>
     </MainItem>
     <SubItem>
@@ -1337,14 +1343,15 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>S, D. B</Text>
+      <Forenames>S</Forenames>
+      <Text>, D. B</Text>
       <PageNumber>1325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moodie</Key>
-      <Text>, AT</Text>
+      <Text>AT</Text>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1512,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>63</PageNumber>
     </MainItem>
     <SubItem>
@@ -1570,7 +1577,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1654,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,8 +1663,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>E. C. de M</Forenames>
       <PageNumber>418</PageNumber>
     </MainItem>
   </ItemGroup>

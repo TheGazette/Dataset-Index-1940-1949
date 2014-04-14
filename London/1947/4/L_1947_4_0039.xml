@@ -434,8 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thwaites</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. O</Text>
+      <Forenames>A. St. O</Forenames>
       <PageNumber>5291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tidey</Key>
-      <Text>E, J., Sub. not</Text>
+      <Forenames>E</Forenames>
+      <Text>, J., Sub. not</Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trigona</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1080,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>J not</Text>
+      <Forenames>J</Forenames>
+      <Text>not</Text>
       <PageNumber>4871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1270,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1434,9 @@
       <Key>Usher</Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Utidjian</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vahey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,8 +2277,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de W</Text>
+      <Forenames>D. de W</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>

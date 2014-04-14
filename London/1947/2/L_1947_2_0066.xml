@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastard</Key>
-      <Text>, L G. A</Text>
+      <Forenames>L</Forenames>
+      <Text>G. A</Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayliss</Key>
-      <Text>, -G. A</Text>
+      <Text>-G. A</Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +826,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>,. A. B</Text>
+      <Text>. A. B</Text>
       <PageNumber>2487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1931,7 +1932,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J B. J</Text>
+      <Forenames>J</Forenames>
+      <Text>B. J</Text>
       <PageNumber>2618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,14 +1954,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Boler</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bolland</Key>
-      <Text>, C: J. E</Text>
+      <Forenames>C</Forenames>
+      <Text>: J. E</Text>
       <PageNumber>2718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2073,7 +2076,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2155,7 +2158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boorman</Key>
-      <Text>, ' R. G</Text>
+      <Text>' R. G</Text>
       <PageNumber>1584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,7 +2176,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2256,7 +2259,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,14 +2323,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bovill</Key>
-      <Text>. C. B</Text>
+      <Forenames>C. B.</Forenames>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>1771</PageNumber>
       <PageNumber>2398</PageNumber>
     </MainItem>
@@ -2335,7 +2338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowditch</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>

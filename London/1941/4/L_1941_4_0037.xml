@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Mullins</Key>
       <Forenames>H. C</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,9 @@
     <MainItem>
       <Key>Munn</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +40,9 @@
     <MainItem>
       <Key>Munshi</Key>
       <Forenames>Ram</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +50,9 @@
     <MainItem>
       <Key>Muriel</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +60,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>J. J.</Forenames>
-      <Text>, D.S.O., Bar</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +72,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. Hi-R. E.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +82,9 @@
     <MainItem>
       <Key>Napier</Key>
       <Forenames>A. H. G.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +92,9 @@
     <MainItem>
       <Key>Nesbitt-Dufort</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +102,9 @@
     <MainItem>
       <Key>Newby</Key>
       <Forenames>G. F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +112,9 @@
     <MainItem>
       <Key>Nicolay</Key>
       <Forenames>E. C. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,14 +122,17 @@
     <MainItem>
       <Key>Nichols</Key>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noon</Key>
-      <Text>Sir, Firoz Khan, K.C.S.I</Text>
+      <Title>Sir</Title>
+      <Text>, Firoz Khan, K.C.S.I</Text>
       <PageNumber>5855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +166,9 @@
     <MainItem>
       <Key>Oak-Rhind</Key>
       <Forenames>R. L.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,14 +176,19 @@
     <MainItem>
       <Key>Oates</Key>
       <Forenames>W. J. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. W. A., D.S.O</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. W. A.</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +204,9 @@
     <MainItem>
       <Key>Oldfield</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +214,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>G. N.</Forenames>
-      <Text>, D.S.O Olsen, H. A., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,14 +224,19 @@
     <MainItem>
       <Key>Orenstein</Key>
       <Forenames>A. J.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. D., M.B.E</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. D.</Forenames>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +244,9 @@
     <MainItem>
       <Key>Overton</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +254,9 @@
     <MainItem>
       <Key>Oxley-Boyle</Key>
       <Forenames>R. F. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +264,9 @@
     <MainItem>
       <Key>Packwood</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +282,9 @@
     <MainItem>
       <Key>Pain</Key>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +292,9 @@
     <MainItem>
       <Key>Paine</Key>
       <Forenames>D. D.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +302,9 @@
     <MainItem>
       <Key>Pandurang</Key>
       <Forenames>Powar</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +312,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>M. R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +330,9 @@
     <MainItem>
       <Key>Patterson</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +372,9 @@
     <MainItem>
       <Key>Benney</Key>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +405,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>A. J. L., D.S.O</Text>
+      <Forenames>A. J. L.</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +424,9 @@
     <MainItem>
       <Key>Pinchbeck</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +434,9 @@
     <MainItem>
       <Key>Plumley</Key>
       <Forenames>A. T</Forenames>
-      <Text>„ M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +444,9 @@
     <MainItem>
       <Key>Pollock</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,14 +464,17 @@
     <MainItem>
       <Key>Pool</Key>
       <Forenames>F. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6353</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Popham</Key>
-      <Text>C, O.B.E</Text>
+      <Forenames>C</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>7527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +490,9 @@
     <MainItem>
       <Key>Potts</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +500,9 @@
     <MainItem>
       <Key>Pountney</Key>
       <Forenames>G. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +510,9 @@
     <MainItem>
       <Key>Powell-Jones</Key>
       <Forenames>D. L.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +528,9 @@
     <MainItem>
       <Key>Prichard</Key>
       <Forenames>D. L.</Forenames>
-      <Text>, D.S.O. Correction</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +538,9 @@
     <MainItem>
       <Key>Pritchard</Key>
       <Forenames>T. A. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +548,9 @@
     <MainItem>
       <Key>Pronger</Key>
       <Forenames>W. G.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +558,9 @@
     <MainItem>
       <Key>Pryse</Key>
       <Forenames>T.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,14 +568,17 @@
     <MainItem>
       <Key>Puttick</Key>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O. Bar</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pyke</Key>
-      <Text>C, O.B.E</Text>
+      <Forenames>C</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +586,9 @@
     <MainItem>
       <Key>Rahmat</Key>
       <Forenames>Khan</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +604,9 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Sing Bisht</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +614,9 @@
     <MainItem>
       <Key>Range</Key>
       <Forenames>D. M.</Forenames>
-      <Text>, .O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +632,9 @@
     <MainItem>
       <Key>Rascher</Key>
       <Forenames>O. W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +650,9 @@
     <MainItem>
       <Key>Reddish</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +692,9 @@
     <MainItem>
       <Key>Richards</Key>
       <Forenames>C. E. M.</Forenames>
-      <Text>, D.S.O. Bar</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +722,9 @@
     <MainItem>
       <Key>Rickard</Key>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +732,9 @@
     <MainItem>
       <Key>Rigby</Key>
       <Forenames>E. P.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +742,9 @@
     <MainItem>
       <Key>Rimington</Key>
       <Forenames>M. G.</Forenames>
-      <Text>, Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +752,9 @@
     <MainItem>
       <Key>Ringrose</Key>
       <Forenames>B. J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +762,9 @@
     <MainItem>
       <Key>Roach</Key>
       <Forenames>F. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +772,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>O. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +782,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>A. C</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +794,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. P. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +804,9 @@
     <MainItem>
       <Key>Robson</Key>
       <Forenames>O. L.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +822,9 @@
     <MainItem>
       <Key>Rogers-Coltman</Key>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +840,9 @@
     <MainItem>
       <Key>Rosenthal</Key>
       <Forenames>A. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +850,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>S.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +870,9 @@
     <MainItem>
       <Key>Rudd</Key>
       <Forenames>L. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +888,9 @@
     <MainItem>
       <Key>Rusbridge</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +908,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +944,9 @@
     <MainItem>
       <Key>Sakharan</Key>
       <Forenames>Shinde</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +962,9 @@
     <MainItem>
       <Key>Saxby</Key>
       <Forenames>N. H. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +972,9 @@
     <MainItem>
       <Key>Scarlett</Key>
       <Forenames>B. F.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +982,9 @@
     <MainItem>
       <Key>Scobie</Key>
       <Forenames>R.</Forenames>
-      <Text>MacK., C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +1000,9 @@
     <MainItem>
       <Key>Secombe</Key>
       <Forenames>V. C</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +1010,9 @@
     <MainItem>
       <Key>Senescall</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +1028,9 @@
     <MainItem>
       <Key>Shannon</Key>
       <Forenames>S. B.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +1038,9 @@
     <MainItem>
       <Key>Sephton</Key>
       <Forenames>A. E.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>6889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +1048,9 @@
     <MainItem>
       <Key>Shardlow</Key>
       <Forenames>M. S. C</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +1083,10 @@
       <Key>Shiffner</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt., O.B.E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +1094,9 @@
     <MainItem>
       <Key>Short</Key>
       <Forenames>C. G.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +1105,9 @@
     <MainItem>
       <Key>Shotton</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +1115,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +1128,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. H. O.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +1146,9 @@
     <MainItem>
       <Key>Smallwood</Key>
       <Forenames>G. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1177,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. N.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1188,9 @@
       <Key>Somerville</Key>
       <Title>Sir</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, K.C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1206,9 @@
     <MainItem>
       <Key>Sowton</Key>
       <Forenames>B. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1216,9 @@
     <MainItem>
       <Key>Speirs</Key>
       <Forenames>N. L</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1228,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1238,9 @@
     <MainItem>
       <Key>Spencer</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1256,9 @@
     <MainItem>
       <Key>Sproule</Key>
       <Forenames>J. C</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,14 +1266,19 @@
     <MainItem>
       <Key>Stapleton</Key>
       <Forenames>F. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6887</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stather</Key>
-      <Text>C, O.B.E</Text>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1286,9 @@
     <MainItem>
       <Key>Stayner</Key>
       <Forenames>G. F. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1296,9 @@
     <MainItem>
       <Key>Steele</Key>
       <Forenames>C. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1306,9 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>G. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1318,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. F. B.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1328,9 @@
     <MainItem>
       <Key>Stevens</Key>
       <Forenames>J. E. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1350,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. G. T.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1360,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Forenames>J. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1379,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>D, O.B.E</Text>
+      <Forenames>D</Forenames>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,9 +1412,11 @@
       <Key>Steyn</Key>
       <Forenames>L. S</Forenames>
       <Text>M.B.E</Text>
-      <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>7331</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
@@ -1233,13 +1430,16 @@
       <Key>Strachan</Key>
       <Forenames>D. B.</Forenames>
       <Text>, O.B.E</Text>
-      <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>7328</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>V. W O.B.E</Text>
+      <Forenames>V. W</Forenames>
+      <Text>O.B.E</Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1447,9 @@
     <MainItem>
       <Key>Stringer</Key>
       <Forenames>G. N. P.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1457,9 @@
     <MainItem>
       <Key>Strutt</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,9 +1468,11 @@
       <Key>Stuart</Key>
       <Forenames>N. L.</Forenames>
       <Text>, M.B.E</Text>
-      <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>7331</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Studley</Key>
@@ -1279,7 +1485,9 @@
     <MainItem>
       <Key>Sturge</Key>
       <Forenames>C. H. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,9 +1496,11 @@
       <Key>Styles</Key>
       <Forenames>H. M.</Forenames>
       <Text>, D.S.O</Text>
-      <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>6703</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Subbarayan</Key>
@@ -1303,7 +1513,9 @@
     <MainItem>
       <Key>Sugden</Key>
       <Forenames>H. H. C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1523,9 @@
     <MainItem>
       <Key>Sundius-Smith</Key>
       <Forenames>B. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1533,9 @@
     <MainItem>
       <Key>Surtees</Key>
       <Forenames>G.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1543,9 @@
     <MainItem>
       <Key>Sutton</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1555,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S. G.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1565,9 @@
     <MainItem>
       <Key>Swain</Key>
       <Forenames>R. C</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1582,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sydenham</Key>
-      <Text>Clarke, M.F.S., M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1592,9 @@
     <MainItem>
       <Key>Syfret</Key>
       <Forenames>E. N.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1602,9 @@
     <MainItem>
       <Key>Talbot</Key>
       <Forenames>E. E. A. C</Forenames>
-      <Text>, M.B.E. Correction</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1614,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,7 +1632,9 @@
     <MainItem>
       <Key>Thesiger</Key>
       <Forenames>W. P.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1642,9 @@
     <MainItem>
       <Key>Thomson</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1654,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. F.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1664,9 @@
     <MainItem>
       <Key>Thorburn</Key>
       <Forenames>D. G.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1682,9 @@
     <MainItem>
       <Key>Thorp</Key>
       <Forenames>R. A. F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1692,9 @@
     <MainItem>
       <Key>Toirikinson</Key>
       <Forenames>E. P.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6889</PageNumber>
     </MainItem>
     <SubItem>
@@ -1464,7 +1706,9 @@
     <MainItem>
       <Key>Toovey</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1716,9 @@
     <MainItem>
       <Key>Torrens-Spence</Key>
       <Forenames>F.</Forenames>
-      <Text>. M. A., tSgo D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1734,9 @@
     <MainItem>
       <Key>Tovell</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, D.S.O. Bar</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1745,9 @@
       <Key>Tovey</Key>
       <Title>Sir</Title>
       <Forenames>J. C</Forenames>
-      <Text>, K.C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1755,9 @@
     <MainItem>
       <Key>Towsey</Key>
       <Forenames>E. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,7 +1768,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. W. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1785,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Twhigg</Key>
-      <Text>' J. M., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1795,9 @@
     <MainItem>
       <Key>Underwood</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1805,9 @@
     <MainItem>
       <Key>Upham</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>5935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1815,9 @@
     <MainItem>
       <Key>Vasey</Key>
       <Forenames>G. A.</Forenames>
-      <Text>, Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1841,9 @@
     <MainItem>
       <Key>Vian</Key>
       <Forenames>P. L.</Forenames>
-      <Text>, Second Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1866,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Von</Key>
-      <Text>der Heyde, J. L., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1876,9 @@
     <MainItem>
       <Key>Wagholikar</Key>
       <Forenames>L. R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,7 +1886,9 @@
     <MainItem>
       <Key>Wake-Walker</Key>
       <Forenames>W. F.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>5945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1896,9 @@
     <MainItem>
       <Key>Walch</Key>
       <Forenames>L. J.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,7 +1906,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>F. M.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1916,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>F. K.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,7 +1928,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. S.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1938,9 @@
     <MainItem>
       <Key>Waller</Key>
       <Forenames>R. P.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1948,9 @@
     <MainItem>
       <Key>Wallis</Key>
       <Forenames>A. J. W.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1960,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. R.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1970,9 @@
     <MainItem>
       <Key>Wanklyn</Key>
       <Forenames>M. D.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>7103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1980,9 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,7 +2000,9 @@
     <MainItem>
       <Key>Ward-Smith</Key>
       <Forenames>H. D.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,7 +2010,9 @@
     <MainItem>
       <Key>Warren</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,7 +2020,9 @@
     <MainItem>
       <Key>Watkins</Key>
       <Forenames>C. E. L.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>

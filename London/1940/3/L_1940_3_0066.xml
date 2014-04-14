@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W .</Forenames>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +970,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,8 +1457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moysey</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. M. St. G</Forenames>
       <PageNumber>5211</PageNumber>
     </MainItem>
     <SubItem>

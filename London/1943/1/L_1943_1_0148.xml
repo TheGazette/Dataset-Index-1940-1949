@@ -839,7 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>753</PageNumber>
     </MainItem>
     <SubItem>
@@ -996,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>818</PageNumber>
       <PageNumber>1420</PageNumber>
     </MainItem>
@@ -1538,7 +1538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiltshire</Key>
-      <Text>, K: F</Text>
+      <Forenames>K</Forenames>
+      <Text>: F</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1548,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>N, J</Text>
+      <Forenames>N</Forenames>
+      <Text>, J</Text>
       <PageNumber>754</PageNumber>
     </MainItem>
   </ItemGroup>

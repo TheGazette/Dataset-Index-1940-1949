@@ -3,14 +3,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Steeles</Key>
-      <Text>(Glass Merchants)</Text>
+      <Title>(Glass Merchants)</Title>
       <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stelthorpe</Key>
-      <Forenames>Company</Forenames>
+      <Title>Company.</Title>
       <PageNumber>2450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,14 +31,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Forenames>Walter</Forenames>
+      <Title>Walter .</Title>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Forenames>Rose</Forenames>
+      <Title>Rose .</Title>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tangential</Key>
-      <Forenames>Dryers</Forenames>
+      <Title>Dryers .</Title>
       <PageNumber>1736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +188,6 @@
       <Key>Tovarishestvo</Key>
       <Forenames>Manufactur Liudvig Rabenek</Forenames>
       <PageNumber>1849</PageNumber>
-      <PageNumber>2952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -202,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trans-Hire</Key>
-      <Text>(Bournemouth)</Text>
+      <Title>(Bournemouth)</Title>
       <PageNumber>1734</PageNumber>
       <PageNumber>2830</PageNumber>
     </MainItem>
@@ -246,8 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twenty-four</Key>
-      <Title>St.</Title>
-      <Forenames>John Street</Forenames>
+      <Forenames>St. John Street</Forenames>
       <PageNumber>1901</PageNumber>
       <PageNumber>1902</PageNumber>
     </MainItem>
@@ -316,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Universal</Key>
-      <Forenames>Contacts</Forenames>
+      <Title>Contacts .</Title>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +329,9 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>G.M. Holdings</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>2512</PageNumber>
       <PageNumber>2901</PageNumber>
     </MainItem>
@@ -347,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicarage</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicky</Key>
-      <Forenames>Publications</Forenames>
+      <Title>Publications .</Title>
       <PageNumber>2448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,14 +451,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Weald</Key>
-      <Forenames>Homesteads</Forenames>
+      <Title>Homesteads .</Title>
       <PageNumber>2308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Welis</Key>
-      <Forenames>Securities</Forenames>
+      <Title>Securities .</Title>
       <PageNumber>1903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +549,6 @@
       <Forenames>Hematite Iron</Forenames>
       <Text>and Steel Company</Text>
       <PageNumber>2249</PageNumber>
-      <PageNumber>2249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -570,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiston</Key>
-      <Text>(Staffs.) Silica Sand Company</Text>
+      <Title>(Staffs.)</Title>
+      <Forenames>Silica Sand Company</Forenames>
       <PageNumber>2248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +618,6 @@
       <Forenames>W. G.</Forenames>
       <Text>&amp; T. R</Text>
       <PageNumber>1734</PageNumber>
-      <PageNumber>1735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -685,7 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>X</Key>
-      <Text>G.L. Syndicate</Text>
+      <Forenames>G.L. Syndicate</Forenames>
       <PageNumber>2459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bangham</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadway</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors .</Title>
       <PageNumber>2368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishponds</Key>
-      <Forenames>Farm</Forenames>
+      <Title>Farm .</Title>
       <PageNumber>2546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,8 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Forenames>Thos</Forenames>
-      <Text>. &amp; E. Orton</Text>
+      <Title>Thos.</Title>
+      <Text>&amp; E. Orton</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Wm.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Douglas</Forenames>
+      <Title>Douglas .</Title>
       <PageNumber>3109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mugford</Key>
-      <Forenames>Stanley</Forenames>
+      <Title>Stanley .</Title>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkes</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickles</Key>
-      <Forenames>Amos</Forenames>
+      <Title>Amos .</Title>
       <PageNumber>3051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>Wine &amp; Son</Text>
+      <Forenames>Wine</Forenames>
+      <Text>&amp; Son</Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,7 +1405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schottlander</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,14 +1488,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Standen</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Still</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1646,7 +1646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zeffert</Key>
-      <Text>L. &amp; Co</Text>
+      <Forenames>L.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbey</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,21 +1717,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackers</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acock</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2384</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1794,7 +1795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adler</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1973</PageNumber>
     </MainItem>
   </ItemGroup>

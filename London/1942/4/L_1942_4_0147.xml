@@ -95,8 +95,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaizey</Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>5271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vale</Key>
-      <Text>A. A</Text>
+      <Forenames>A. A.</Forenames>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,16 +236,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, P. E..H</Text>
+      <Key>Van Baerle</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>.H</Text>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, C. J</Text>
       <PageNumber>5398</PageNumber>
     </MainItem>
@@ -282,49 +281,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hoegaerden</Forenames>
-      <Text>, J. P. M. L. F</Text>
+      <Key>Van Hoegaerden</Key>
+      <Forenames>J. P. M. L. F</Forenames>
       <PageNumber>5278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Loock</Forenames>
-      <Text>, G. E</Text>
+      <Key>Van Loock</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5270</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Meeteren</Forenames>
-      <Text>, F. A</Text>
+      <Key>Van Meeteren</Key>
+      <Forenames>F. A.</Forenames>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Title>Nievelt.</Title>
+      <Key>Van Nievelt</Key>
       <Forenames>C. J. W. H.</Forenames>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praag</Forenames>
-      <Text>, L</Text>
+      <Key>Van Praag</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praagh</Forenames>
-      <Text>, F. W</Text>
+      <Key>Van Praagh</Key>
+      <Forenames>F. W.</Forenames>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,33 +332,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Toen</Forenames>
-      <Text>, R. :</Text>
+      <Key>Van Toen</Key>
+      <Forenames>R.</Forenames>
+      <Text>:</Text>
       <PageNumber>5268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wyck</Forenames>
-      <Text>, W. C</Text>
+      <Key>Van Wyck</Key>
+      <Forenames>W. C.</Forenames>
       <PageNumber>4596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zeller</Forenames>
-      <Text>, C. P</Text>
+      <Key>Van Zeller</Key>
+      <Forenames>C. P</Forenames>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zwanenberg</Forenames>
-      <Text>, B! A</Text>
+      <Key>Van Zwanenberg</Key>
+      <Forenames>B</Forenames>
+      <Text>! A</Text>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veitch</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +654,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney-Cave</Key>
-      <Text>Hon. J-</Text>
+      <Title>Hon.</Title>
+      <Text>J-</Text>
       <PageNumber>4276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,8 +894,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigne</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>F. St. B</Forenames>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1420,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walden</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wale</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,7 +1656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1893,7 +1884,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, H</Text>
+      <Forenames>J</Forenames>
+      <Text>, H</Text>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1930,7 +1922,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L\ A</Text>
+      <Forenames>L</Forenames>
+      <Text>\ A</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2156,7 +2149,7 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>

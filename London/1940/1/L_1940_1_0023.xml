@@ -245,8 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackerman</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L.</Forenames>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aers</Key>
-      <Text>I. B. J</Text>
+      <Forenames>I. B. J.</Forenames>
       <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,8 +813,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. R. St. L</Forenames>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1179,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1423,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,7 +1694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angell</Key>
-      <Text>F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>709</PageNumber>
     </MainItem>
   </ItemGroup>

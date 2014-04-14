@@ -70,7 +70,9 @@
     <MainItem>
       <Key>Green</Key>
       <Forenames>W. W .</Forenames>
-      <Text>.. Halsted, J. G ... Hay, A. K ... Heywood, T. G. G. ... ... Hobart, P. C. S. ... Hogg, D. McA. ... Holden, W. C ... Hudson, C. E ... Irwin, N. M. S. ... Kyle, S. W ... Lawson, Hon. E. F. ... ... Leese, Sir O., Bt. ... Lewin, E. O. . Liardet, C. F ... Lorie, R. H ... Loyd, H. C ... McCreery, R. L. ... Mackesy, P. J. ... ... McSheehy, O. W. ... Maitland-Dougall, W. E. . Manifold, J. A. ... Marshall-Cornwall, Sir J. H.... Money, R. C</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>M. H. .. F. .. E. .. L. .. G. S. H. .. R. .. R... B. .. M. L G. H. A. G. .. W. .. A. K. F. W. C. H. W. J. A. S. G. ... D. E. M. J. ... E. ... V. P. notice G. ... F. S. A. A. M. C... A. C. .. E. .. F. A.</Text>
+      <Forenames>M. H.</Forenames>
+      <Text>.. F. .. E. .. L. .. G. S. H. .. R. .. R... B. .. M. L G. H. A. G. .. W. .. A. K. F. W. C. H. W. J. A. S. G. ... D. E. M. J. ... E. ... V. P. notice G. ... F. S. A. A. M. C... A. C. .. E. .. F. A.</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

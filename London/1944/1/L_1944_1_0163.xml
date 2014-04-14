@@ -412,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timpson</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tittle</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tongue</Key>
-      <Text>, I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>1110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toon</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tootell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1025,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,14 +1060,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Torbet</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tordoff</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tout</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Text>. B. A. K</Text>
+      <Forenames>B. A. K.</Forenames>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tricks</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1841,7 +1841,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J; A</Text>
+      <Forenames>J</Forenames>
+      <Text>; A</Text>
       <PageNumber>1324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2324,8 +2325,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2373,7 +2373,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V R. (157678)</Text>
+      <Forenames>V</Forenames>
+      <Text>R. (157678)</Text>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>

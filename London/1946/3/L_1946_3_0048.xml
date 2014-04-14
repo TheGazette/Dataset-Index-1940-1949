@@ -614,7 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greer-Spencer</Key>
-      <Text>J, G</Text>
+      <Forenames>J</Forenames>
+      <Text>, G</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallam</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1011,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1035,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1130,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de La M</Text>
+      <Forenames>P. de La M.</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,8 +1591,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. P. St</Forenames>
-      <Text>. K</Text>
+      <Forenames>A. P. St. K</Forenames>
       <PageNumber>3841</PageNumber>
     </MainItem>
   </ItemGroup>

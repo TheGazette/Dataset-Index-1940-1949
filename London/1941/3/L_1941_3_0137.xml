@@ -815,8 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnes</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny,</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>,</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>

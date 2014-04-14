@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Names</Key>
-      <Text>, change of (cont.): James, D. A. R</Text>
+      <Text>change of (cont.): James, D. A. R</Text>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Names</Key>
-      <Text>, change of' (con/;)/ Leary, K</Text>
+      <Text>change of' (con/;)/ Leary, K</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mole</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,14 +229,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Names</Key>
-      <Text>, change of (cont.): iMoss, L. ... ' .;</Text>
+      <Text>change of (cont.): iMoss, L. ... ' .;</Text>
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Names</Key>
-      <Text>, change of (con/:) :Riddick, L: -</Text>
+      <Text>change of (con/:) :Riddick, L: -</Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>

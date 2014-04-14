@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appelby</Key>
-      <Text>, M\</Text>
+      <Forenames>M</Forenames>
+      <Text>\</Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barikoff</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>1359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bate</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisdee</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,14 +639,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brereton</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brierley</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryant</Key>
-      <Text>. J. M. C</Text>
+      <Forenames>J. M. C.</Forenames>
       <PageNumber>1359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
     <SubItem>
@@ -915,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantlayr-ErJ</Key>
-      <Text>.-</Text>
+      <Text>-</Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crooks</Key>
-      <Text>, E, C</Text>
+      <Forenames>E</Forenames>
+      <Text>, C</Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Culver-Evans</Key>
-      <Text>, C M. M</Text>
+      <Forenames>C</Forenames>
+      <Text>M. M</Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curry</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalzell</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,6 +1559,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>C. V. E.</Forenames>
+      <PageNumber>328</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moyse-Bucknall</Key>
+      <Forenames>F. S.</Forenames>
+      <PageNumber>1358</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>D. M.</Forenames>
       <PageNumber>160</PageNumber>
@@ -1611,7 +1628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dogherty</Key>
-      <Text>, A—</Text>
+      <Text>A—</Text>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doyle</Key>
-      <Text>. A. G. M, ... J6i P. G. R</Text>
+      <Forenames>A. G. M</Forenames>
+      <Text>, ... J6i P. G. R</Text>
       <PageNumber>161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,7 +1841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fail</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Text>,' A. ... '</Text>
+      <Text>' A. ... '</Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feely</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -373,8 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
-      <Forenames>R. J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>R. J. St. A</Forenames>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +552,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2893</PageNumber>
     </MainItem>
   </ItemGroup>

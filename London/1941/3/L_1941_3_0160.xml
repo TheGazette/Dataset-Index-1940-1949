@@ -630,7 +630,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mantel</Key>
-      <Text>!, A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,8 +748,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>

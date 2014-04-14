@@ -250,7 +250,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurle</Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +649,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H G</Text>
+      <Forenames>H</Forenames>
+      <Text>G</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1994,7 +1997,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(165724)</Text>
+      <Title>(165724)</Title>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2003,7 +2006,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(169292)</Text>
+      <Title>(169292)</Title>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,9 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Esbeck</Forenames>
-      <Text>, C. M. -</Text>
+      <Key>Van Esbeck</Key>
+      <Forenames>C. M.</Forenames>
+      <Text>-</Text>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,6 +108,13 @@
       <Forenames>V. E</Forenames>
       <Text>,</Text>
       <PageNumber>3027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Lewinski</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -751,14 +758,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willcox</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +888,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. E. de L</Forenames>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackroyd</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W.</Forenames>
       <PageNumber>2882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1122,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H :::</Text>
+      <Forenames>H</Forenames>
+      <Text>:::</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
@@ -1259,14 +1266,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battye</Key>
-      <Text>R. D</Text>
+      <Forenames>R. D.</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benn</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T</Forenames>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berko</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,21 +1713,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevan-Jones</Key>
-      <Text>B. R</Text>
+      <Forenames>B. R.</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bickers</Key>
-      <Text>H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>1623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bicket</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1864,7 +1871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boocock</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2012,7 +2019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brauer</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2041,7 +2048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bristow</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,7 +2180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckle</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2246,7 +2253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2271,7 +2278,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>2882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2285,7 +2292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2319,7 +2326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cannon</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3105</PageNumber>
     </MainItem>
   </ItemGroup>

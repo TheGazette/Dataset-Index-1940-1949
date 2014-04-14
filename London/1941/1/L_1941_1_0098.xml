@@ -836,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C .</Forenames>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,8 +1817,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. G. St. G</Forenames>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1870,7 +1869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollok</Key>
-      <Text>W. G</Text>
+      <Forenames>W. G .</Forenames>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pontifex</Key>
-      <Text>C. E. C</Text>
+      <Forenames>C. E. C.</Forenames>
       <PageNumber>1297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2078,7 +2077,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. E.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>

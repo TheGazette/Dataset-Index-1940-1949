@@ -237,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speedy</Key>
-      <Text>R, F</Text>
+      <Forenames>R</Forenames>
+      <Text>, F</Text>
       <PageNumber>2772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spilsbury</Key>
-      <Text>F: A</Text>
+      <Forenames>F</Forenames>
+      <Text>: A</Text>
       <PageNumber>1860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sproulle</Key>
-      <Text>T. H.'</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>'</Text>
       <PageNumber>2618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Squires</Key>
-      <Text>C '</Text>
+      <Forenames>C</Forenames>
+      <Text>'</Text>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +945,9 @@
       <PageNumber>1943</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>2682</PageNumber>
     </SubItem>
   </ItemGroup>

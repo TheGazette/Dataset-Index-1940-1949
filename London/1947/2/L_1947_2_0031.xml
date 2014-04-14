@@ -474,7 +474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannister</Key>
-      <Text>, V E. B</Text>
+      <Forenames>V</Forenames>
+      <Text>E. B</Text>
       <PageNumber>2931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +579,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D M. F</Text>
+      <Forenames>D</Forenames>
+      <Text>M. F</Text>
       <PageNumber>2427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +625,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J G</Text>
+      <Forenames>J</Forenames>
+      <Text>G</Text>
       <PageNumber>2172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Text>,' S. R</Text>
+      <Text>' S. R</Text>
       <PageNumber>2177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1018,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir W</Text>
+      <Title>Sir</Title>
+      <Forenames>W</Forenames>
       <PageNumber>1591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartolo</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1932,7 +1936,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C G. W., Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>G. W., Sub. not</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2167,7 +2172,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. G.</Forenames>
-      <Text>(K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>1816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2413,7 +2420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2431,7 +2438,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>

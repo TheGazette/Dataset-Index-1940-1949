@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowes</Key>
-      <Text>, \P. D</Text>
+      <Text>\P. D</Text>
       <PageNumber>3451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Text>,. S</Text>
+      <Text>. S</Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>,' J. F. L</Text>
+      <Text>' J. F. L</Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +942,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor-Robertson</Key>
-      <Text>, ,G. S</Text>
+      <Text>,G. S</Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1184,9 @@
     <MainItem>
       <Key>Mackie</Key>
       <Forenames>W.</Forenames>
-      <Text>f. (R;A.M.C.) . ' ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1391,9 @@
       <Key>Maclure</Key>
       <Title>Sir</Title>
       <Forenames>J. W. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,21 +1456,22 @@
   <ItemGroup>
     <MainItem>
       <Key>McMurtrie</Key>
-      <Text>, . W. P</Text>
+      <Text>. W. P</Text>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MclNab</Key>
-      <Text>, D: L</Text>
+      <Forenames>D</Forenames>
+      <Text>: L</Text>
       <PageNumber>4604</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macnab</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeil</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McRoberts</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McWilliam</Key>
-      <Text>, J, F</Text>
+      <Forenames>J</Forenames>
+      <Text>, F</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manbir</Key>
-      <Forenames>Tamang</Forenames>
+      <Title>Tamang .</Title>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mangnall</Key>
-      <Text>, J/R</Text>
+      <Forenames>J</Forenames>
+      <Text>/R</Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>. A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1957,7 +1964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marney</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>, «. W. D</Text>
+      <Text>«. W. D</Text>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>

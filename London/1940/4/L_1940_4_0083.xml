@@ -767,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Text>. F. J</Text>
+      <Forenames>F. J.</Forenames>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,8 +1706,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. B. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>R. B. O'H</Forenames>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,7 +1880,9 @@
     <MainItem>
       <Key>Weir</Key>
       <Forenames>G. D</Forenames>
-      <Text>Welby, Sir O. C. E., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>

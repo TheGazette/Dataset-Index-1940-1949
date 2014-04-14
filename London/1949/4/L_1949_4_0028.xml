@@ -343,7 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kempton</Key>
-      <Text>, J A</Text>
+      <Forenames>J</Forenames>
+      <Text>A</Text>
       <PageNumber>4726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,14 +415,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensington</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4726</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>. .E. H</Text>
+      <Text>.E. H</Text>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>. Sir H. R</Text>
+      <Title>Sir</Title>
+      <Forenames>H. R.</Forenames>
       <PageNumber>4852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kersey</Key>
-      <Text>, .H. J. G</Text>
+      <Text>.H. J. G</Text>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knill</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,14 +995,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kubirsing</Key>
-      <Text>.Rai</Text>
+      <Title>Rai .</Title>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kubirsing</Key>
-      <Forenames>Thapa</Forenames>
+      <Title>Thapa .</Title>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lalbahadur</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung.</Title>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawie</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1663,7 +1665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leech</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2119,7 +2121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2163,7 +2165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2186,7 +2188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lippett</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2202,8 +2204,7 @@
       <Key>
         <KeyDitto>___ ___ ,</KeyDitto>
       </Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2359,7 +2360,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2410,7 +2411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loder</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2431,8 +2432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>4852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2524,7 +2524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longden</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2559,7 +2559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lonsdale</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4790</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Text>, . D</Text>
+      <Text>. D</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broderick</Key>
-      <Text>, W:</Text>
+      <Forenames>W</Forenames>
+      <Text>:</Text>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broomfield</Key>
-      <Text>,. C. 'F</Text>
+      <Text>. C. 'F</Text>
       <PageNumber>2530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +307,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I&gt;A. P. .:</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;A. P. .:</Text>
       <PageNumber>2614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +546,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>R; L. A</Text>
+      <Forenames>R</Forenames>
+      <Text>; L. A</Text>
       <PageNumber>2667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +597,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bnice</Key>
-      <Text>,. Sir H. J. W. Bt. :&gt;</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,8 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Forenames>G. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. H. St. J</Forenames>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BurMcl</Key>
-      <Text>,, J. A</Text>
+      <Text>, J. A</Text>
       <PageNumber>2174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnard</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +839,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>of l«ys. Sir J. L. G-, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burridge</Key>
-      <Text>, J;-E</Text>
+      <Forenames>J</Forenames>
+      <Text>;-E</Text>
       <PageNumber>1712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +966,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bufry</Key>
-      <Text>,R:L: ;.. :</Text>
+      <Forenames>R</Forenames>
+      <Text>:L: ;.. :</Text>
       <PageNumber>1530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1002,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J, R</Text>
+      <Forenames>J</Forenames>
+      <Text>, R</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buttle</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaghan</Key>
-      <Text>. J. J. .'</Text>
+      <Forenames>J. J.</Forenames>
+      <Text>.'</Text>
       <PageNumber>1594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callarman</Key>
-      <Text>,? G.' ,r . ... i4«</Text>
+      <Text>? G.' ,r . ... i4«</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>,' F. W. v -</Text>
+      <Text>' F. W. v -</Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1649,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D, W</Text>
+      <Forenames>D</Forenames>
+      <Text>, W</Text>
       <PageNumber>2667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell-Crawford</Key>
-      <Text>,' A..,;i8i</Text>
+      <Text>' A..,;i8i</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,7 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Candish</Key>
-      <Text>,C. G-., Candlish, I. j: E:'</Text>
+      <Text>C. G-., Candlish, I. j: E:'</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carley-Pocock</Key>
-      <Text>, R: S..i95o Carlyoh.R. ... '„</Text>
+      <Forenames>R</Forenames>
+      <Text>: S..i95o Carlyoh.R. ... '„</Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>

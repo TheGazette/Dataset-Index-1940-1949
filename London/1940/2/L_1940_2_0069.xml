@@ -272,7 +272,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,9 +308,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zeller</Forenames>
-      <Text>, A. H</Text>
+      <Key>van Rooyen</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>2228</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Zeller</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>3264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +901,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +1781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H.</Forenames>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>

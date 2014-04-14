@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfield</Key>
-      <Text>F. C</Text>
+      <Forenames>F. C.</Forenames>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, H</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, H</Text>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +447,9 @@
       <Key>Chance</Key>
       <Title>Sir</Title>
       <Forenames>R. J. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>

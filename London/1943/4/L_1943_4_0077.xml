@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brough</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4912</PageNumber>
     </MainItem>
     <SubItem>
@@ -217,7 +217,7 @@
       <PageNumber>5332</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. T. A</Text>
+      <Text>R. T. A.</Text>
       <PageNumber>4912</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -504,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clancy</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conlan</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,11 +864,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulter</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5429</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M. O</Text>
+      <Text>M. O.</Text>
       <PageNumber>4670</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cramp</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cray</Key>
-      <Text>J. W</Text>
+      <Forenames>J. W</Forenames>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>4856</PageNumber>
     </MainItem>
     <SubItem>
@@ -1314,9 +1314,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grey</Forenames>
-      <Text>, F</Text>
+      <Key>De Grey</Key>
+      <Forenames>F</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dinnage</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
     <SubItem>
@@ -1464,7 +1463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
     <SubItem>
@@ -1662,7 +1661,7 @@
       <PageNumber>5654</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>C. T., Sub. not</Text>
+      <Text>C. T., Sub. not.</Text>
       <PageNumber>4401</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1676,7 +1675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edge</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,7 +1749,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>C E., Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>E., Sub. not</Text>
       <PageNumber>4446</PageNumber>
     </MainItem>
     <SubItem>
@@ -1860,7 +1860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewins</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P .</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,7 +1918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrar</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
   </ItemGroup>

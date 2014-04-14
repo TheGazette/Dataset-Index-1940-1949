@@ -161,7 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>L —</Text>
+      <Forenames>L</Forenames>
+      <Text>—</Text>
       <PageNumber>3174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penman</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peyton</Key>
-      <Text>J. W</Text>
+      <Forenames>J. W.</Forenames>
       <PageNumber>2470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1896,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pow</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,7 +2021,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>L,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>2611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2107,7 +2109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pozner</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2282,7 +2284,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2391,7 +2395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>F,. H</Text>
+      <Forenames>F</Forenames>
+      <Text>,. H</Text>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2407,7 +2412,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2442,7 +2447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prosser</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2504,7 +2509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryor</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2518,7 +2523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puccini</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2534,7 +2539,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2559,21 +2564,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullan</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pulleyn</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pulzer</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>

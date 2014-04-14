@@ -328,14 +328,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawcliffe</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1937</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rawlings</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redman</Key>
-      <Text>, ;B. C</Text>
+      <Text>;B. C</Text>
       <PageNumber>2668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +583,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,14 +798,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Revis</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2547</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1060,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rimmer</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1354,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1479,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C T., Corr</Text>
+      <Forenames>C</Forenames>
+      <Text>T., Corr</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2027,7 +2028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruane</Key>
-      <Text>. R. A. Ruck-Keene, W. E</Text>
+      <Forenames>R. A. Ruck-Keene</Forenames>
+      <Text>, W. E</Text>
       <PageNumber>3040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2147,8 +2149,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Sobell, J. O</Text>
+      <Key>St. Clair-Sobell</Key>
+      <Forenames>J. O .</Forenames>
       <PageNumber>1938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2390,7 +2392,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Corrs</Forenames>
+      <Title>Corrs.</Title>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2616,7 +2618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seldon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>

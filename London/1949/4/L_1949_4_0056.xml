@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. Pal (Toys), notice</Text>
+      <Forenames>Pal</Forenames>
+      <Text>(Toys), notice</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halifax</Key>
-      <Text>, redemption of Halifax New Market Consolidated Stock, notice</Text>
+      <Text>redemption of Halifax New Market Consolidated Stock, notice</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +127,9 @@
       <PageNumber>5787</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wharfedale R.D.</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>6178</PageNumber>
     </SubItem>
     <SubItem>
@@ -375,14 +378,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Liabilities</Key>
-      <Text>(War-time lAdjustment) Act Orders: Beach, A</Text>
+      <Title>(War-time lAdjustment)</Title>
+      <Forenames>Act Orders</Forenames>
+      <Text>: Beach, A</Text>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Liabilities</Key>
-      <Text>(War-time Adjustment) Act Orders icont.): Curryer, H. F</Text>
+      <Title>(War-time Adjustment)</Title>
+      <Forenames>Act Orders</Forenames>
+      <Text>icont.): Curryer, H. F</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Litealloys</Key>
-      <Text>(Northern Ireland), notice</Text>
+      <Title>(Northern Ireland)</Title>
+      <Text>, notice</Text>
       <PageNumber>5993</PageNumber>
     </MainItem>
   </ItemGroup>

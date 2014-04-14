@@ -9,8 +9,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, M. J</Text>
+      <Key>O'Toole</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,8 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,7 +1666,9 @@
       <Key>Pringle</Key>
       <Title>Sir</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1938,8 +1939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainier</Key>
-      <Forenames>P. H. O</Forenames>
-      <Text>'C. . ... H</Text>
+      <Forenames>P. H. O'C</Forenames>
+      <Text>. . ... H</Text>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>

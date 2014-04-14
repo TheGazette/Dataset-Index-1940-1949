@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Presland</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raleigh</Key>
-      <Forenames>S. De R.</Forenames>
+      <Forenames>S. De R</Forenames>
       <PageNumber>5089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsey</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawbone</Key>
-      <Text>A, R</Text>
+      <Forenames>A</Forenames>
+      <Text>, R</Text>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de P</Text>
+      <Forenames>J. H. de P</Forenames>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1071,7 @@
       <Key>
         <KeyDitto>___ ___ ——</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridge</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,14 +1250,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridvard</Key>
-      <Text>T. ... ...-</Text>
+      <Forenames>T.</Forenames>
+      <Text>... ...-</Text>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,7 +1406,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. L. De V.</Forenames>
+      <Forenames>J. L. De V</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodan</Key>
-      <Text>R. W</Text>
+      <Forenames>R. W.</Forenames>
       <PageNumber>4368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1883,7 +1884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowling</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2078,7 +2079,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>Smith, H. F</Text>
+      <Forenames>Smith</Forenames>
+      <Text>, H. F</Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2099,7 +2101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutter</Key>
-      <Text>C. J</Text>
+      <Forenames>C. J.</Forenames>
       <PageNumber>4987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2157,15 +2159,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Morford, A. C</Text>
+      <Key>St. Clair-Morford</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Tesdall, F. R</Text>
+      <Key>St. Clair-Tesdall</Key>
+      <Forenames>F. R.</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2212,7 +2214,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2234,7 +2236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,7 +2322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Santon</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2397,15 +2399,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B</Text>
+      <Forenames>W. de B</Forenames>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saunt</Key>
-      <Text>T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2428,7 +2429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sawrey-Cookson</Key>
-      <Text>G; A. G-</Text>
+      <Forenames>G</Forenames>
+      <Text>; A. G-</Text>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2463,7 +2465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scales</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -597,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +660,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V; J</Text>
+      <Forenames>V</Forenames>
+      <Text>; J</Text>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,8 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>E. B. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. B. O'B</Forenames>
       <PageNumber>4526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2044,14 +2044,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jahan</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jaipal</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2213,14 +2213,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3718</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Janes</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2238,7 +2238,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2288,7 +2290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeans</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>

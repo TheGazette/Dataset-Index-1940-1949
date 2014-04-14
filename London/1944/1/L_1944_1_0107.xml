@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwen</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLaren</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>84</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,14 +294,15 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLennan</Key>
-      <Text>, T; R</Text>
+      <Forenames>T</Forenames>
+      <Text>; R</Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McNair</Key>
-      <Text>, D Macpherson, G. I</Text>
+      <Forenames>D</Forenames>
+      <Text>Macpherson, G. I</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McVay</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,14 +368,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mailley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>992</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,21 +610,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Melia</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>992</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mellows</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C,</Text>
+      <Forenames>C</Forenames>
+      <Text>,</Text>
       <PageNumber>1658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +557,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>2752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bette</Key>
-      <Text>. S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2215,7 +2216,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>1751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2224,7 +2225,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2233,7 +2234,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>2651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2251,7 +2252,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Frances</Forenames>
+      <Title>Frances .</Title>
       <PageNumber>2275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2260,7 +2261,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Frank</Forenames>
+      <Title>Frank .</Title>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>

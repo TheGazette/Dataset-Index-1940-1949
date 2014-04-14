@@ -112,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatch</Key>
-      <Text>D A</Text>
+      <Forenames>D</Forenames>
+      <Text>A</Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holding</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +884,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +893,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,21 +1083,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Horn</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hornbuckle</Key>
-      <Forenames>Jf</Forenames>
+      <Title>Jf.</Title>
       <PageNumber>5719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1120,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1248,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>5425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1291,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Harold</Forenames>
+      <Title>Harold .</Title>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>

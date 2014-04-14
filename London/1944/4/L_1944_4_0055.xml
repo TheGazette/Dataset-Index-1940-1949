@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robin</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roe</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosser</Key>
-      <Text>, €. H</Text>
+      <Text>€. H</Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>. I. T. E</Text>
+      <Forenames>I. T. E.</Forenames>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Royce</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushbrooke</Key>
-      <Text>, P, J</Text>
+      <Forenames>P</Forenames>
+      <Text>, J</Text>
       <PageNumber>4930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,15 +712,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clare-Tregilgas, N,</Text>
+      <Key>St. Clare-Tregilgas</Key>
+      <Forenames>N</Forenames>
+      <Text>,</Text>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Johnston, A</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>5396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>, TC</Text>
+      <Text>TC</Text>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>

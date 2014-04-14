@@ -230,7 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crook</Key>
-      <Text>,. J. C. ... .. In</Text>
+      <Text>. J. C. ... .. In</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,14 +320,15 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>R. K. P. N</Text>
+      <Text>R. K. P. N.</Text>
       <PageNumber>4891</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cross-Brown</Key>
-      <Text>, W H</Text>
+      <Forenames>W</Forenames>
+      <Text>H</Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crow</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>5357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>, G E. V</Text>
+      <Forenames>G</Forenames>
+      <Text>E. V</Text>
       <PageNumber>4893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,14 +582,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumella</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cumming</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>5474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daggitt</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,14 +855,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dake</Key>
-      <Text>, .]. G</Text>
+      <Text>.]. G</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>, j. A</Text>
+      <Text>j. A</Text>
       <PageNumber>5718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dan</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,34 +1592,94 @@
   <KeyDitto>___ ___ ...</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chasteigner</Forenames>
-      <Text>, R. P</Text>
+      <Key>de Besombes</Key>
+      <Forenames>H. W. P. R.</Forenames>
+      <PageNumber>5072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carle</Key>
+      <Forenames>D. D.</Forenames>
+      <PageNumber>6110</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Chasteigner</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chastelain</Forenames>
-      <Text>, A. G. G</Text>
+      <Key>De Chastelain</Key>
+      <Forenames>A. G. G.</Forenames>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gersigny</Forenames>
-      <Text>, D. C. B</Text>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>G. B.</Forenames>
+      <PageNumber>6236</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>S. B.</Forenames>
+      <PageNumber>6010</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gaye</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>6065</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gersigny</Key>
+      <Forenames>D. C. B.</Forenames>
       <PageNumber>5718</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lavergne</Forenames>
-      <Text>, F. R. A</Text>
+      <Key>de Gobeo</Key>
+      <Forenames>R. P. L.</Forenames>
+      <Text>, Cane</Text>
+      <PageNumber>5399</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Haas</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>5196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hutton</Key>
+      <Forenames>J. H. T.</Forenames>
+      <PageNumber>6317</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lavergne</Key>
+      <Forenames>F. R. A.</Forenames>
       <PageNumber>5475</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Marigny</Key>
+      <Forenames>J. M. G. D.</Forenames>
+      <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1626,6 +1688,70 @@
       <Forenames>Roose</Forenames>
       <Text>, M. J. G. '</Text>
       <PageNumber>6064</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ritter</Key>
+      <Forenames>R. B.</Forenames>
+      <PageNumber>4892</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rome</Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>5668</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Senneville</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>5256</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Speville</Key>
+      <Forenames>L. C.</Forenames>
+      <Text>j. D</Text>
+      <PageNumber>6068</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>L.</Forenames>
+      <PageNumber>5298</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Week</Key>
+      <Forenames>F. G.</Forenames>
+      <PageNumber>5356</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wesselow</Key>
+      <Forenames>R. C.</Forenames>
+      <PageNumber>4893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Text>CM</Text>
+      <PageNumber>4895</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolff</Key>
+      <Forenames>F.</Forenames>
+      <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1653,7 +1779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DeanelH</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Den-Tex</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,7 +2103,7 @@
     </MainItem>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>J. F. C</Text>
+      <Text>J. F. C.</Text>
       <PageNumber>6065</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2072,7 +2198,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2107,7 +2233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dilena</Key>
-      <Text>. E. W</Text>
+      <Forenames>E. W.</Forenames>
       <PageNumber>6065</PageNumber>
     </MainItem>
   </ItemGroup>

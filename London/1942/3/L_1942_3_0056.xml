@@ -162,7 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raspin</Key>
-      <Text>K: W</Text>
+      <Forenames>K</Forenames>
+      <Text>: W</Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +559,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J_J p</Text>
+      <Forenames>J</Forenames>
+      <Text>_J p</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +589,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. A. de V</Forenames>
       <PageNumber>3406</PageNumber>
     </MainItem>
     <SubItem>
@@ -607,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhead</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1376,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1424,9 @@
     <MainItem>
       <Key>Robothan</Key>
       <Forenames>J. A. G.</Forenames>
-      <Text>... Robson, A. (R.A.M.C. )</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romanis</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronald</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>

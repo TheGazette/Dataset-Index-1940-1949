@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,8 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoogewerf</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. John, Sub. not</Text>
+      <Forenames>E. St. John</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +724,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H C</Text>
+      <Forenames>H</Forenames>
+      <Text>C</Text>
       <PageNumber>577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilgallon</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2358,7 +2359,9 @@
       <Key>McFarland</Key>
       <Title>Sir</Title>
       <Forenames>B. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>

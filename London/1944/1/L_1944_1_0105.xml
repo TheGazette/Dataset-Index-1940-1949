@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackett</Key>
-      <Text>, N;</Text>
+      <Forenames>N</Forenames>
+      <Text>;</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boast</Key>
-      <Text>,C. E</Text>
+      <Text>C. E</Text>
       <PageNumber>574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borland</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>94</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,14 +222,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>, AE. P</Text>
+      <Text>AE. P</Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockley</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckle</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,8 @@
       <Key>
         <KeyDitto>___ —-</KeyDitto>
       </Key>
-      <Text>T7___ A, R</Text>
+      <Forenames>T</Forenames>
+      <Text>7___ A, R</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>H, F. i7i</Text>
+      <Forenames>H</Forenames>
+      <Text>, F. i7i</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +30,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,8 +39,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. L.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L.</Forenames>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C M</Text>
+      <Forenames>C</Forenames>
+      <Text>M</Text>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +674,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slack</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slatem</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +826,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1050,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1115,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1176,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,7 +1836,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spragg</Key>
-      <Text>J J</Text>
+      <Forenames>J</Forenames>
+      <Text>J</Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1947,7 +1954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacpoole</Key>
-      <Forenames>R. W. De V.</Forenames>
+      <Forenames>R. W. De V</Forenames>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1998,7 +2005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Standen</Key>
-      <Text>W, J</Text>
+      <Forenames>W</Forenames>
+      <Text>, J</Text>
       <PageNumber>622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2238,7 +2246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stebbing</Key>
-      <Text>A: H. R</Text>
+      <Forenames>A</Forenames>
+      <Text>: H. R</Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,7 +2345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stemp</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1114</PageNumber>
       <PageNumber>1309</PageNumber>
     </MainItem>

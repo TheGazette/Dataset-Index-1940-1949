@@ -195,7 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubbert</Key>
-      <Text>D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +714,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +723,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Button</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. de S</Forenames>
       <PageNumber>741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>B. M</Text>
+      <Forenames>B. M .</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibbetson</Key>
-      <Text>C W. R</Text>
+      <Forenames>C</Forenames>
+      <Text>W. R</Text>
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ince</Key>
-      <Text>G. V. A. A</Text>
+      <Forenames>G. V. A. A.</Forenames>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1037,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland-Jones</Key>
-      <Text>G, P,</Text>
+      <Forenames>G</Forenames>
+      <Text>, P,</Text>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Isard</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,7 +1876,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A, H. (S Lane. R)</Text>
+      <Forenames>A</Forenames>
+      <Text>, H. (S Lane. R)</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>

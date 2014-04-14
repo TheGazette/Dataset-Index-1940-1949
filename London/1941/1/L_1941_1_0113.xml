@@ -45,7 +45,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>A. R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,8 +100,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. W. St</Forenames>
-      <Text>. G. ... ..; ?</Text>
+      <Forenames>R. W. St. G</Forenames>
+      <Text>. ... ..; ?</Text>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,17 +387,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Abbe</Forenames>
-      <Text>, D. M. '</Text>
+      <Key>Van Abbe</Key>
+      <Forenames>D. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beek</Forenames>
-      <Text>, T. R. ..!. ,</Text>
+      <Key>Van Beek</Key>
+      <Forenames>T. R.</Forenames>
+      <Text>..!. ,</Text>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,9 +419,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hoegaerden</Forenames>
-      <Text>, J. M. L. F</Text>
+      <Key>Van Hoegaerden</Key>
+      <Forenames>J. M. L. F.</Forenames>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +562,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>V. St. G</Forenames>
       <PageNumber>1295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veale</Key>
-      <Forenames>G. De P.</Forenames>
+      <Forenames>G. De P</Forenames>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vogt</Key>
-      <Text>J. S</Text>
+      <Forenames>J. S .</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,9 +1085,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Goldstein</Forenames>
-      <Text>, F. A</Text>
+      <Key>Von Goldstein</Key>
+      <Forenames>F. A.</Forenames>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,8 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vredenburgh</Key>
-      <Forenames>V. F.</Forenames>
-      <Text>de W.. substituted notice</Text>
+      <Forenames>V. F. de W</Forenames>
+      <Text>.. substituted notice</Text>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>

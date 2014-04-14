@@ -283,7 +283,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T: H. .. ___</Text>
+      <Forenames>T</Forenames>
+      <Text>: H. .. ___</Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +305,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. H.</Forenames>
-      <Text>.. Matthews-Williams, R.D. .. ;.. .;</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayers</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +766,8 @@
       <Key>
         <KeyDitto>___ ___ __</KeyDitto>
       </Key>
-      <Text>U, :.: v</Text>
+      <Forenames>U</Forenames>
+      <Text>, :.: v</Text>
       <PageNumber>1998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meridham</Key>
-      <Text>A; W</Text>
+      <Forenames>A</Forenames>
+      <Text>; W</Text>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Michell</Key>
-      <Text>A: S:C</Text>
+      <Forenames>A</Forenames>
+      <Text>: S:C</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>A: R</Text>
+      <Forenames>A</Forenames>
+      <Text>: R</Text>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1385,7 @@
       <Key>
         <KeyDitto>___ ___ ...</KeyDitto>
       </Key>
-      <Text>X</Text>
+      <Forenames>X</Forenames>
       <PageNumber>763</PageNumber>
     </MainItem>
     <SubItem>
@@ -1394,7 +1401,7 @@
       <Key>
         <KeyDitto>___ ___ ...</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>612</PageNumber>
     </MainItem>
     <SubItem>
@@ -1443,8 +1450,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Prov</Forenames>
-      <Text>. ,</Text>
+      <Title>Prov.</Title>
+      <Text>,</Text>
       <PageNumber>2807</PageNumber>
     </MainItem>
   </ItemGroup>

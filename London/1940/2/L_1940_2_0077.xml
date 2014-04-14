@@ -1070,7 +1070,9 @@
       <Key>Sinclair-Lockhart</Key>
       <Title>Sir</Title>
       <Forenames>G. D. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,8 +1100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Forenames>G.</Forenames>
-      <Text>de M</Text>
+      <Forenames>G. de M</Forenames>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,8 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staveley-Hill</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>2055</PageNumber>
       <PageNumber>2311</PageNumber>
     </MainItem>

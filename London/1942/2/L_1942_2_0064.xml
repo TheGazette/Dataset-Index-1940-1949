@@ -141,7 +141,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quick</Key>
-      <Text>A. T. O</Text>
+      <Forenames>A. T. O.</Forenames>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +560,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P:</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>X&gt;. E. '</Text>
+      <Forenames>X</Forenames>
+      <Text>&gt;. E. '</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +665,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P, V. -A</Text>
+      <Forenames>P</Forenames>
+      <Text>, V. -A</Text>
       <PageNumber>1598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,14 +788,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Renney</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rennie</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>G: E. A</Text>
+      <Forenames>G</Forenames>
+      <Text>: E. A</Text>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +996,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>D:</Text>
+      <Forenames>D</Forenames>
+      <Text>:</Text>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddell</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2116</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -1230,7 +1236,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H '</Text>
+      <Forenames>H</Forenames>
+      <Text>'</Text>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,21 +1246,23 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R: M</Text>
+      <Forenames>R</Forenames>
+      <Text>: M</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>A Rigley, D. C</Text>
+      <Forenames>A</Forenames>
+      <Text>Rigley, D. C</Text>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riseley</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F.</Forenames>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,14 +1382,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rix</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roan</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1438,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1554,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>

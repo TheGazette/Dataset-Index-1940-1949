@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>, LA. ..:</Text>
+      <Text>LA. ..:</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luker</Key>
-      <Text>. R. H. V</Text>
+      <Forenames>R. H. V</Forenames>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>, R; V</Text>
+      <Forenames>R</Forenames>
+      <Text>; V</Text>
       <PageNumber>814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +595,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGreehin</Key>
-      <Text>, LP</Text>
+      <Text>LP</Text>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macintyre</Key>
-      <Text>, J: R</Text>
+      <Forenames>J</Forenames>
+      <Text>: R</Text>
       <PageNumber>751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +894,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLean</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McManus</Key>
-      <Text>, M.'</Text>
+      <Text>M.'</Text>
       <PageNumber>202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNab</Key>
-      <Text>,-W.;W;</Text>
+      <Text>-W.;W;</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Magoon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1370,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mattey</Key>
-      <Text>,: J. W</Text>
+      <Text>: J. W</Text>
       <PageNumber>572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1653,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E, J.'</Text>
+      <Forenames>E</Forenames>
+      <Text>, J.'</Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1898,7 +1901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>,, A. M</Text>
+      <Text>, A. M</Text>
       <PageNumber>1451</PageNumber>
       <PageNumber>1451</PageNumber>
     </MainItem>
@@ -1922,14 +1925,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Milroy</Key>
-      <Text>,K. J</Text>
+      <Text>K. J</Text>
       <PageNumber>1064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milsom</Key>
-      <Text>, W R</Text>
+      <Forenames>W</Forenames>
+      <Text>R</Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitcheli-Busch</Key>
-      <Text>, 0. H</Text>
+      <Text>0. H</Text>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2050,8 +2054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>St.</Title>
-      <Forenames>Aubyn</Forenames>
+      <Forenames>St. Aubyn</Forenames>
       <Text>, J. A</Text>
       <PageNumber>1064</PageNumber>
     </MainItem>
@@ -2094,7 +2097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montague</Key>
-      <Text>, t. R</Text>
+      <Text>t. R</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2123,7 +2126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, ,C. E. T</Text>
+      <Text>,C. E. T</Text>
       <PageNumber>634</PageNumber>
     </MainItem>
   </ItemGroup>

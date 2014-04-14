@@ -12,7 +12,8 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>S '</Text>
+      <Forenames>S</Forenames>
+      <Text>'</Text>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyde</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +485,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>3054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christison</Key>
-      <Text>A^ F. P. —</Text>
+      <Forenames>A</Forenames>
+      <Text>^ F. P. —</Text>
       <PageNumber>3155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Text>P: C</Text>
+      <Forenames>P</Forenames>
+      <Text>: C</Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1020,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>C, T</Text>
+      <Forenames>C</Forenames>
+      <Text>, T</Text>
       <PageNumber>3054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,10 +1036,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E. E., Cane</Text>
+      <Key>De Brath</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>3259</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jong</Key>
+      <Forenames>D. F. de J</Forenames>
+      <Text>., Corr</Text>
+      <PageNumber>3870</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>S. N.</Forenames>
+      <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1078,7 +1096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devraj</Key>
-      <Forenames>Suri</Forenames>
+      <Title>Suri .</Title>
       <PageNumber>3054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,8 +1432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanaken</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>3259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrebee</Key>
-      <Text>E ;</Text>
+      <Forenames>E</Forenames>
+      <Text>;</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1557,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flude</Key>
-      <Text>B. ..:</Text>
+      <Forenames>B.</Forenames>
+      <Text>..:</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1961,7 +1980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2581,7 +2601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Homburg</Key>
-      <Text>W. .Jf.r</Text>
+      <Forenames>W.</Forenames>
+      <Text>.Jf.r</Text>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>

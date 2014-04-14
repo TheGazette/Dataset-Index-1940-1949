@@ -92,6 +92,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>5773</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>J.</Forenames>
       <PageNumber>5618</PageNumber>
@@ -244,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgcombe-Palmer</Key>
-      <Text>, G Cane</Text>
+      <Forenames>G</Forenames>
+      <Text>Cane</Text>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>

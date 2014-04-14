@@ -432,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haves</Key>
-      <Text>. T. E</Text>
+      <Forenames>T. E .</Forenames>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +478,9 @@
       <Key>Hazlerigg</Key>
       <Title>Sir</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,8 +1623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. V. St. C</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,7 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>. A. N</Text>
+      <Forenames>A. N.</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>

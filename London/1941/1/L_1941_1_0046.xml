@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Villiers</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,9 @@
     <MainItem>
       <Key>Vivian</Key>
       <Forenames>J. G. P.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
     <MainItem>
       <Key>Wackett</Key>
       <Forenames>E. C</Forenames>
-      <Text>, Officer, Order of the British Empire ... n Wakeley, C. P. G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +113,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>C. J.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +135,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R</Forenames>
-      <Text>J., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +268,9 @@
     <MainItem>
       <Key>Warren</Key>
       <Forenames>C. R.</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +338,9 @@
     <MainItem>
       <Key>Watt</Key>
       <Forenames>R. A. W.</Forenames>
-      <Text>, Companion, Order of the Bath /</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>A. H., Knight</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1152</PageNumber>
     </MainItem>

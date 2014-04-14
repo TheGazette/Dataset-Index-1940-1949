@@ -106,8 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Forenames>Geo</Forenames>
-      <Text>. W</Text>
+      <Title>Geo.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>2501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>... ,</Text>
+      <Text>.. ,</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houseman</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ideal</Key>
-      <Forenames>Laundry</Forenames>
+      <Title>Laundry .</Title>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsall</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levens</Key>
-      <Text>,. W. &amp; Son</Text>
+      <Text>. W. &amp; Son</Text>
       <PageNumber>3643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melthorne</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>2748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millgate</Key>
-      <Forenames>Warehouse Co</Forenames>
+      <Forenames>Warehouse</Forenames>
+      <Text>Co</Text>
       <PageNumber>3888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Netherwood</Key>
-      <Forenames>Edwin</Forenames>
+      <Title>Edwin .</Title>
       <PageNumber>3798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>. and P. Transport Company</Text>
+      <Text>and P. Transport Company</Text>
       <PageNumber>1940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pontefract</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reliable</Key>
-      <Forenames>Renovators</Forenames>
+      <Title>Renovators .</Title>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. &amp; S. Engineering Co</Text>
+      <Text>&amp; S. Engineering Co</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,8 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Straker</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. &amp; Wareham</Text>
+      <Title>Bros.</Title>
+      <Text>&amp; Wareham</Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
-      <Forenames>Hannah</Forenames>
+      <Title>Hannah .</Title>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1718,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>2919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1745,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>2583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,7 +1794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amer</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>3139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,7 +1819,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,7 +1846,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>3657</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -310,7 +310,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C: G</Text>
+      <Forenames>C</Forenames>
+      <Text>: G</Text>
       <PageNumber>3032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LillisrR</Key>
-      <Text>C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +494,7 @@
       <PageNumber>3034</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>1613</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -590,7 +591,9 @@
       <Key>Lister-Kaye</Key>
       <Title>Sir</Title>
       <Forenames>K. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesey</Key>
-      <Text>M:</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +939,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>T, B</Text>
+      <Forenames>T</Forenames>
+      <Text>, B</Text>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2104,7 +2109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludgrove</Key>
-      <Text>J: V</Text>
+      <Forenames>J</Forenames>
+      <Text>: V</Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -435,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chetwynd-Palfner</Key>
-      <Text>, R JV</Text>
+      <Forenames>R</Forenames>
+      <Text>JV</Text>
       <PageNumber>5882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cradock-Watson</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,6 +981,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rome</Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>4703</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>G. P. T.</Forenames>
       <Text>, Cane</Text>
@@ -1176,9 +1184,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, C. L. E</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>C. L. E.</Forenames>
       <PageNumber>5882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>5294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firmston-Williams</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>D. De M. S</Forenames>
+      <Forenames>D. De M</Forenames>
+      <Text>. S</Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1719,7 +1727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gledhill</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gobbett</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,7 +1838,7 @@
       <Key>
         <KeyDitto>-— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goudie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5294</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -263,7 +263,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +359,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E&gt;. G</Text>
+      <Forenames>E</Forenames>
+      <Text>&gt;. G</Text>
       <PageNumber>4336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milch</Key>
-      <Text>I. S</Text>
+      <Forenames>I. S.</Forenames>
       <PageNumber>5213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +731,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R.A.M.C.) 5°</Text>
+      <Title>(R.A.M.C.)</Title>
+      <Text>5°</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>C. A. .v</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>.v</Text>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milnes</Key>
-      <Text>K.J</Text>
+      <Forenames>K.</Forenames>
+      <Text>J</Text>
       <PageNumber>5093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morehouse</Key>
-      <Text>G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Misa</Key>
-      <Text>S. V</Text>
+      <Forenames>S. V.</Forenames>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1279,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1548,8 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,14 +1708,13 @@
       <PageNumber>5332</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P</Text>
+      <Text>P.</Text>
       <PageNumber>4748</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Montague-Evans</Key>
-      <Text>,</Text>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1908,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I :::</Text>
+      <Forenames>I</Forenames>
+      <Text>:::</Text>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,7 +2075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>L\ E</Text>
+      <Forenames>L</Forenames>
+      <Text>\ E</Text>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2097,7 +2105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrey</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2287,7 +2295,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J D. (R.A.O.C.)</Text>
+      <Forenames>J</Forenames>
+      <Text>D. (R.A.O.C.)</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>

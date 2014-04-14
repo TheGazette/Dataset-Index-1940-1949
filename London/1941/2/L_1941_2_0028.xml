@@ -94,7 +94,9 @@
     <MainItem>
       <Key>Chandulal</Key>
       <Forenames>Madhavlal Trivedi</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +113,9 @@
       <Key>Charles</Key>
       <Title>Sir</Title>
       <Forenames>N. H. H.</Forenames>
-      <Text>, Bt., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +141,9 @@
     <MainItem>
       <Key>Chaytor</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +167,9 @@
     <MainItem>
       <Key>Chilton</Key>
       <Forenames>F. O.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +218,9 @@
     <MainItem>
       <Key>Clarke</Key>
       <Forenames>T. C. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +280,9 @@
     <MainItem>
       <Key>Coates</Key>
       <Forenames>E. T.</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,11 +384,15 @@
     <MainItem>
       <Key>Combe</Key>
       <Forenames>J. F. B.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1868</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -408,7 +424,9 @@
     <MainItem>
       <Key>Cooper</Key>
       <Forenames>F.</Forenames>
-      <Text>DA., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +521,9 @@
     <MainItem>
       <Key>Cotton</Key>
       <Forenames>J. T.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +630,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +666,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2445</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +77,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +238,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R K</Text>
+      <Forenames>R</Forenames>
+      <Text>K</Text>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +430,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L: J. A</Text>
+      <Forenames>L</Forenames>
+      <Text>: J. A</Text>
       <PageNumber>5409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tipper</Key>
-      <Text>, (E. A. G</Text>
+      <Text>(E. A. G</Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torbet</Key>
-      <Text>, iH</Text>
+      <Text>iH</Text>
       <PageNumber>6246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travis</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trodd</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,24 +1833,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cuylenburg</Forenames>
-      <Text>, R. O'B., Corrs. -5677, 5677</Text>
+      <Key>Van Cuylenburg</Key>
+      <Forenames>R. O'B</Forenames>
+      <Text>., Corrs. -5677, 5677</Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Schaick</Forenames>
-      <Text>, H</Text>
+      <Key>Van Schaick</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Toen</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>5200</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Varley</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1862,7 +1870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Varty</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2067,8 +2075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vintras</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de T</Text>
+      <Forenames>R. E. de T</Forenames>
       <PageNumber>5406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2107,7 +2114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddell</Key>
-      <Text>. J. D</Text>
+      <Forenames>J. D.</Forenames>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>

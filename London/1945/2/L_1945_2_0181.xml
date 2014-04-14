@@ -14,7 +14,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walley</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walpole</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1843</PageNumber>
     </MainItem>
     <SubItem>
@@ -138,7 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2707</PageNumber>
     </MainItem>
     <SubItem>
@@ -261,14 +261,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardlaw</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wardle</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3401</PageNumber>
     </MainItem>
     <SubItem>
@@ -286,7 +286,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardley-Smith</Key>
-      <Text>,</Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +344,7 @@
       <PageNumber>1843</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. J.</Text>
+      <Text>W. J</Text>
       <PageNumber>2290</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -566,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkin</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>2708</PageNumber>
     </MainItem>
     <SubItem>
@@ -805,7 +804,7 @@
       <PageNumber>2348</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. H.</Text>
+      <Text>W. H</Text>
       <PageNumber>2295</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -886,7 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wavell</Key>
-      <Text>C W. F., Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>W. F., Sub. not</Text>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weaver</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>2097</PageNumber>
     </MainItem>
     <SubItem>
@@ -951,7 +951,7 @@
       <PageNumber>2568</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. H.</Text>
+      <Text>W. H</Text>
       <PageNumber>2345</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -980,7 +980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>A: J</Text>
+      <Forenames>A</Forenames>
+      <Text>: J</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
     <SubItem>
@@ -1045,8 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weekes</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welbourn</Key>
-      <Text>H: L:</Text>
+      <Forenames>H</Forenames>
+      <Text>: L:</Text>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>

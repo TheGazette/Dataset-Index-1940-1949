@@ -224,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>. E. P</Text>
+      <Forenames>E. P.</Forenames>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,9 @@
         <KeyDitto>-.— ___ ___</KeyDitto>
       </Key>
       <Forenames>D. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,8 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylde</Key>
-      <Forenames>W. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. P. O'C</Forenames>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +923,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,8 +981,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>5403</PageNumber>
     </MainItem>
   </ItemGroup>

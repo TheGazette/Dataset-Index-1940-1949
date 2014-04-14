@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fendick</Key>
-      <Text>. E. R. S</Text>
+      <Forenames>E. R. S.</Forenames>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filleul</Key>
-      <Text>. P. R. S</Text>
+      <Forenames>P. R. S.</Forenames>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1895,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. W. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>

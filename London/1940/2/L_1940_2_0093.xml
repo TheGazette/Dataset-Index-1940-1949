@@ -72,7 +72,9 @@
       <Key>Furness</Key>
       <Title>Sir</Title>
       <Forenames>C.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,8 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godet</Key>
-      <Forenames>T. M.</Forenames>
-      <Text>du B</Text>
+      <Forenames>T. M. du B</Forenames>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>G. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. H. St. G</Forenames>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,15 +819,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Harmsworth</Key>
-      <Title>St.</Title>
-      <Forenames>J. B. V.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B. V.</Forenames>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>C. B. D</Text>
+      <Forenames>C. B. D.</Forenames>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,8 +1187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herring</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C. R. P. M. .' r9i</Text>
+      <Forenames>G. St. C</Forenames>
+      <Text>. R. P. M. .' r9i</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Text>G. N</Text>
+      <Forenames>G. N .</Forenames>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>

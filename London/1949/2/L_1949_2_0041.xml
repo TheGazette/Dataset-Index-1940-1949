@@ -89,14 +89,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tacchi</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1973</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tainsh</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Templeton</Key>
-      <Text>, &lt;D. S</Text>
+      <Text>&lt;D. S</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +649,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +755,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +955,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: D. B</Text>
+      <Forenames>J</Forenames>
+      <Text>: D. B</Text>
       <PageNumber>2462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Threlfall</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilley</Key>
-      <Text>,' P. R. J</Text>
+      <Text>' P. R. J</Text>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1083,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Timmins</Key>
-      <Text>. J.' C</Text>
+      <Forenames>J.</Forenames>
+      <Text>' C</Text>
       <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1128,7 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Topham</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Forenames>R. F. Du B.</Forenames>
+      <Forenames>R. F. Du B</Forenames>
       <PageNumber>3177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,14 +1468,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Treloar</Key>
-      <Text>, TV H</Text>
+      <Text>TV H</Text>
       <PageNumber>1971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trenerry</Key>
-      <Text>, M, W</Text>
+      <Forenames>M</Forenames>
+      <Text>, W</Text>
       <PageNumber>2293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trushell</Key>
-      <Text>, W: S</Text>
+      <Forenames>W</Forenames>
+      <Text>: S</Text>
       <PageNumber>2612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,8 +1668,7 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. D. St. G</Forenames>
       <PageNumber>2880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,8 +1776,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. De L.</Forenames>
-      <Text>, Sub. not</Text>
+      <Forenames>C. De L</Forenames>
+      <Text>., Sub. not</Text>
       <PageNumber>2404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,7 +1988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Uprichard</Key>
-      <Text>, IR. F. R</Text>
+      <Text>IR. F. R</Text>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2042,9 +2045,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, A. R. H</Text>
+      <Key>Van Baerle</Key>
+      <Forenames>A. R. H.</Forenames>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2065,7 +2067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>, 1. H</Text>
+      <Text>1. H</Text>
       <PageNumber>1764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2074,8 +2076,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>V. St. G</Forenames>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2125,7 +2126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vergette</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2150,7 +2151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vero</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,7 +2174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vevers</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,7 +2337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddingtori</Key>
-      <Text>,I. F</Text>
+      <Text>I. F</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2359,7 +2360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Text>.Evans, D. J. A</Text>
+      <Forenames>Evans</Forenames>
+      <Text>, D. J. A</Text>
       <PageNumber>2879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2382,7 +2384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waid</Key>
-      <Text>,..J. S</Text>
+      <Text>..J. S</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -118,7 +118,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>SirE. J., Bt. .:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +233,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -—</KeyDitto>
       </Key>
-      <Text>W; H</Text>
+      <Forenames>W</Forenames>
+      <Text>; H</Text>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +532,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>B. H</Text>
+      <Forenames>B. H.</Forenames>
       <PageNumber>5092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>F. A. W</Text>
+      <Forenames>F. A. W.</Forenames>
       <PageNumber>4748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coburn</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1419,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1773,9 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>

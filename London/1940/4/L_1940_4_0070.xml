@@ -490,15 +490,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibbdrn</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>6918</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sidders</Key>
-      <Text>. S. H</Text>
+      <Forenames>S. H.</Forenames>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smeeton</Key>
-      <Text>. P A</Text>
+      <Forenames>P</Forenames>
+      <Text>A</Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1571,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,7 +1597,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,7 +1791,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>

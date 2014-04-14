@@ -505,8 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1437,9 @@
       <Key>Magnay</Key>
       <Title>Sir</Title>
       <Forenames>C. B. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahon</Key>
-      <Text>A. J. R</Text>
+      <Forenames>A. J. R.</Forenames>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,8 +1785,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. L .</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L .</Forenames>
       <PageNumber>1235</PageNumber>
     </MainItem>
   </ItemGroup>

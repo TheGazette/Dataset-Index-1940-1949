@@ -57,10 +57,12 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(</Text>
-      <PageNumber>110941</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>110941</PageNumber>
+  </Title>
+  <Forenames>W. F.</Forenames>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -205,7 +207,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton-Bassett</Key>
-      <Text>,</Text>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tizard</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
+      <Title>St. J.</Title>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toby</Key>
-      <Text>M: J</Text>
+      <Forenames>M</Forenames>
+      <Text>: J</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,8 +539,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>V. M. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>V. M. H. St. J</Forenames>
       <PageNumber>1018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2322,7 +2322,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>

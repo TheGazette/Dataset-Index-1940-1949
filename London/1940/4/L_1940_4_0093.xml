@@ -433,9 +433,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geffen</Forenames>
-      <Text>, A. D. A</Text>
+      <Key>Van Geffen</Key>
+      <Forenames>A. D. A.</Forenames>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Antrim</Key>
-      <Text>. Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Text>. C. H. T. L</Text>
+      <Forenames>C. H. T. L.</Forenames>
       <PageNumber>6936</PageNumber>
       <PageNumber>6936</PageNumber>
       <PageNumber>6936</PageNumber>
@@ -1121,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auckland</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>6392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baddelev</Key>
-      <Text>. W. D</Text>
+      <Forenames>W. D.</Forenames>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baird</Key>
-      <Text>. E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>6133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,8 +1370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>6391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1756,9 @@
       <Key>Blomefield</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5788</PageNumber>
     </MainItem>
   </ItemGroup>

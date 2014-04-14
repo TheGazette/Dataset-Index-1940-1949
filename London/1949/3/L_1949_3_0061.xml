@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>, LB</Text>
+      <Text>LB</Text>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,14 +26,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hearn</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heijbroek</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hynes</Key>
-      <Text>,' V. S., Sub. nots</Text>
+      <Text>' V. S., Sub. nots</Text>
       <PageNumber>4391</PageNumber>
       <PageNumber>4396</PageNumber>
     </MainItem>
@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Text>,.I. J</Text>
+      <Text>.I. J</Text>
       <PageNumber>4391</PageNumber>
       <PageNumber>4396</PageNumber>
     </MainItem>
@@ -205,7 +205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keelan</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, . A. K. M., Sub. -nots</Text>
+      <Text>. A. K. M., Sub. -nots</Text>
       <PageNumber>4488</PageNumber>
       <PageNumber>4494</PageNumber>
     </MainItem>
@@ -440,7 +440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manley</Key>
-      <Text>, O; G</Text>
+      <Forenames>O</Forenames>
+      <Text>; G</Text>
       <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Text>, 'R</Text>
+      <Text>'R</Text>
       <PageNumber>3858</PageNumber>
       <PageNumber>3859</PageNumber>
     </MainItem>
@@ -650,7 +651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northover</Key>
-      <Text>,-C. J</Text>
+      <Text>-C. J</Text>
       <PageNumber>3524</PageNumber>
       <PageNumber>3529</PageNumber>
     </MainItem>
@@ -888,7 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,14 +933,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Pyle</Key>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>. E. I</Text>
+      <Forenames>E. I.</Forenames>
       <PageNumber>4175</PageNumber>
       <PageNumber>4180</PageNumber>
     </MainItem>
@@ -1002,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tough</Key>
-      <Text>, M; R</Text>
+      <Forenames>M</Forenames>
+      <Text>; R</Text>
       <PageNumber>3525</PageNumber>
       <PageNumber>3529</PageNumber>
     </MainItem>
@@ -1390,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Town</Key>
-      <Text>, IB</Text>
+      <Text>IB</Text>
       <PageNumber>3754</PageNumber>
       <PageNumber>3755</PageNumber>
     </MainItem>
@@ -1459,7 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>.pfieldHGreeh,M. E</Text>
+      <Text>pfieldHGreeh,M. E</Text>
       <PageNumber>4295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,6 +1473,14 @@
       <Key>Vicker</Key>
       <Text>'s, P. M</Text>
       <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Donop</Key>
+      <Forenames>D. B.</Forenames>
+      <PageNumber>3961</PageNumber>
+      <PageNumber>3963</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1558,7 +1571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitall</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1745,7 +1758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>British</Key>
-      <Text>. Legion Club . (Folkestone), dissolution</Text>
+      <Forenames>Legion Club</Forenames>
+      <Text>. (Folkestone), dissolution</Text>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1777,7 +1791,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camberwell</Key>
-      <Text>, nuisance by wireless, loudspeakers, etc., notice</Text>
+      <Text>nuisance by wireless, loudspeakers, etc., notice</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>

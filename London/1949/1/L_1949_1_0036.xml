@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Text>,A</Text>
+      <Text>A</Text>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewhurst</Key>
-      <Text>, H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,28 +105,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Dhaniparsad</Key>
-      <Forenames>Limbu</Forenames>
+      <Title>Limbu .</Title>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dhanraj</Key>
-      <Forenames>Rai</Forenames>
+      <Title>Rai .</Title>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>DhaviparsadRai</Key>
-      <Text>. Corr</Text>
+      <Title>Corr.</Title>
       <PageNumber>378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dhojbir</Key>
-      <Text>. Limbu</Text>
+      <Forenames>Limbu</Forenames>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dilbalhadur</Key>
-      <Forenames>Limbu</Forenames>
+      <Title>Limbu .</Title>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ditrnas</Key>
-      <Text>,.! M</Text>
+      <Text>.! M</Text>
       <PageNumber>1449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>. A. E. R</Text>
+      <Forenames>A. E. R .</Forenames>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,14 +459,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodwell</Key>
-      <Text>. W. K</Text>
+      <Forenames>W. K.</Forenames>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodworth</Key>
-      <Text>. R. G</Text>
+      <Forenames>R. G .</Forenames>
       <PageNumber>1445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donovan</Key>
-      <Text>, j; p H</Text>
+      <Text>j; p H</Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doiiglas-Menzies</Key>
-      <Text>, J N</Text>
+      <Forenames>J</Forenames>
+      <Text>N</Text>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowling</Key>
-      <Text>. A. C. J</Text>
+      <Forenames>A. C. J.</Forenames>
       <PageNumber>1594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +811,9 @@
       <Key>Doyle</Key>
       <Title>Sir</Title>
       <Forenames>J. F. R. W. H.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +894,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Druce</Key>
-      <Text>. H. C. ... ... '</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>... ... '</Text>
       <PageNumber>196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,10 +938,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, S. D</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>S. D.</Forenames>
       <PageNumber>55</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Vivier</Key>
+      <Forenames>P. E.</Forenames>
+      <PageNumber>564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -972,7 +983,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffield</Key>
-      <Text>, H D. H</Text>
+      <Forenames>H</Forenames>
+      <Text>D. H</Text>
       <PageNumber>937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1035,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duman</Key>
-      <Text>. C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>, A (R.R.A.)</Text>
+      <Forenames>A</Forenames>
+      <Text>(R.R.A.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Text>, G,</Text>
+      <Forenames>G</Forenames>
+      <Text>,</Text>
       <PageNumber>860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Earl</Key>
-      <Text>, E: J</Text>
+      <Forenames>E</Forenames>
+      <Text>: J</Text>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>, C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>1445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ekstrom</Key>
-      <Text>,J. E.--</Text>
+      <Text>J. E.--</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,7 +2064,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, R</Text>
+      <Forenames>J</Forenames>
+      <Text>, R</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2288,7 +2305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Enever</Key>
-      <Text>, C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2323,7 +2341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>. E. M., Sub. not</Text>
+      <Forenames>E. M.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>246</PageNumber>
     </MainItem>
   </ItemGroup>

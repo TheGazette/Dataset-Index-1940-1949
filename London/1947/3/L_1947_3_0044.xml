@@ -97,7 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>A: S</Text>
+      <Forenames>A</Forenames>
+      <Text>: S</Text>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +168,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, v.;</Text>
+      <Forenames>R</Forenames>
+      <Text>, v.;</Text>
       <PageNumber>3934</PageNumber>
       <PageNumber>4526</PageNumber>
     </MainItem>
@@ -258,7 +260,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>T^— D. B</Text>
+      <Forenames>T</Forenames>
+      <Text>^— D. B</Text>
       <PageNumber>3202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V</Text>
+      <Forenames>C. de V</Forenames>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetternj</Key>
-      <Text>P: H. S ^</Text>
+      <Forenames>P</Forenames>
+      <Text>: H. S ^</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +874,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>P. H. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehouse</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiting</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1195,7 @@
       <Key>
         <KeyDitto>___ —-</KeyDitto>
       </Key>
-      <Forenames>Geoffrey</Forenames>
+      <Title>Geoffrey .</Title>
       <PageNumber>3529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1374,8 @@
       <Key>
         <KeyDitto>___ -—___ ___</KeyDitto>
       </Key>
-      <Text>S: H., Corr</Text>
+      <Forenames>S</Forenames>
+      <Text>: H., Corr</Text>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calwell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +58,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cannell</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbntt</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +667,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlyle</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caro</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +898,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1176,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1321,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1377,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,8 +1432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carver</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1783,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2143,7 +2142,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,7 +2172,7 @@
       <Key>
         <KeyDitto>___ ___ __. _.</KeyDitto>
       </Key>
-      <Text>(157869)</Text>
+      <Title>(157869)</Title>
       <PageNumber>1108</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorrie</Key>
-      <Text>.w. -G!TC</Text>
+      <Text>w. -G!TC</Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goulborn</Key>
-      <Text>, ,C. .. -</Text>
+      <Text>,C. .. -</Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graton</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +971,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenall</Key>
-      <Text>, P; D</Text>
+      <Forenames>P</Forenames>
+      <Text>; D</Text>
       <PageNumber>410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greengrass</Key>
-      <Text>,, S. W</Text>
+      <Text>, S. W</Text>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenleaf</Key>
-      <Text>. E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenstock</Key>
-      <Text>,-J. W</Text>
+      <Text>-J. W</Text>
       <PageNumber>586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1429,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J; R. S</Text>
+      <Forenames>J</Forenames>
+      <Text>; R. S</Text>
       <PageNumber>586</PageNumber>
       <PageNumber>948</PageNumber>
     </MainItem>

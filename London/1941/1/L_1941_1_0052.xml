@@ -500,8 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkbeck</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,7 +1666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birks</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,8 +1751,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. W.</Forenames>
-      <Text>de J</Text>
+      <Forenames>C. W. de J</Forenames>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,7 +1874,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bissett</Key>
-      <Text>W. D. (P. Corps)</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(P. Corps)</Text>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>

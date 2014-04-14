@@ -151,6 +151,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>J. F. H.</Forenames>
+      <PageNumber>3322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duart</Key>
       <Forenames>J. H</Forenames>
       <PageNumber>1963</PageNumber>
@@ -814,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duval</Key>
-      <Text>. H. P</Text>
+      <Forenames>H. P</Forenames>
       <PageNumber>2371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,9 +2093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elstub</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
-      <Text>de H</Text>
+      <Title>St. J.</Title>
+      <Forenames>C. de H</Forenames>
       <PageNumber>2216</PageNumber>
     </MainItem>
   </ItemGroup>

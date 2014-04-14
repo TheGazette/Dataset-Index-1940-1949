@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patrick</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>1584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paxton</Key>
-      <Text>F. C. H</Text>
+      <Forenames>F. C. H.</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>D. A</Text>
+      <Forenames>D. A.</Forenames>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pellv</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1877,9 @@
       <Key>Peyton</Key>
       <Title>Sir</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>

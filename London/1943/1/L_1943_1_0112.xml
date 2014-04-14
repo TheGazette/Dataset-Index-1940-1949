@@ -155,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooling</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,21 +187,21 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>. G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>. L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornewall-Walker</Key>
-      <Text>, T J. R-</Text>
+      <Forenames>T</Forenames>
+      <Text>J. R-</Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,14 +853,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowl</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cowley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>977</PageNumber>
     </MainItem>
     <SubItem>
@@ -874,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowling</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>817</PageNumber>
     </MainItem>
     <SubItem>
@@ -943,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>389</PageNumber>
     </MainItem>
     <SubItem>
@@ -1009,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coyle</Key>
-      <Text>. J. J</Text>
+      <Forenames>J. J.</Forenames>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, A-.---</Text>
+      <Text>A-.---</Text>
       <PageNumber>1313</PageNumber>
     </MainItem>
     <SubItem>
@@ -1256,14 +1257,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Creamer</Key>
-      <Text>, LVG:</Text>
+      <Text>LVG:</Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Creasey</Key>
-      <Text>, E:</Text>
+      <Forenames>E</Forenames>
+      <Text>:</Text>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>

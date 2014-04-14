@@ -818,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broughton-Adderley</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +898,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1581,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,7 +1922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunt</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>

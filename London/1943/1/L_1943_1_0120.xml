@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graig</Key>
-      <Text>, . T</Text>
+      <Text>. T</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenfield</Key>
-      <Text>, J, B</Text>
+      <Forenames>J</Forenames>
+      <Text>, B</Text>
       <PageNumber>336</PageNumber>
     </MainItem>
     <SubItem>
@@ -856,7 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenhalgh</Key>
-      <Text>. D. C</Text>
+      <Forenames>D. C.</Forenames>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +906,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenough</Key>
-      <Text>, R:</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregor</Key>
-      <Text>, J: B</Text>
+      <Forenames>J</Forenames>
+      <Text>: B</Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell-Hicks</Key>
-      <Text>,J. B</Text>
+      <Text>J. B</Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1473</PageNumber>
     </MainItem>
     <SubItem>
@@ -1404,7 +1407,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>W H</Text>
+      <Forenames>W</Forenames>
+      <Text>H</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
     <SubItem>
@@ -1895,7 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
-      <Text>, C. McL. C</Text>
+      <Text>C. McL. C</Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>

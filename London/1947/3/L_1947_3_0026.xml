@@ -126,7 +126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstey</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +135,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aries</Key>
-      <Text>G: S</Text>
+      <Forenames>G</Forenames>
+      <Text>: S</Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>A:</Text>
+      <Forenames>A</Forenames>
+      <Text>:</Text>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,7 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +371,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>K:, Corr</Text>
+      <Forenames>K</Forenames>
+      <Text>:, Corr</Text>
       <PageNumber>4081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +422,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Asbwell</Key>
-      <Text>M, E</Text>
+      <Forenames>M</Forenames>
+      <Text>, E</Text>
       <PageNumber>3775</PageNumber>
       <PageNumber>4530</PageNumber>
     </MainItem>
@@ -499,7 +503,9 @@
       <Key>
         <KeyDitto>___ —:— ___ '</KeyDitto>
       </Key>
-      <Text>G.M. G</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>4186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baissac</Key>
-      <Forenames>C. M. De B.</Forenames>
+      <Forenames>C. M. De B</Forenames>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +980,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C F</Text>
+      <Forenames>C</Forenames>
+      <Text>F</Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1164,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J,, Sub. not</Text>
+      <Forenames>J</Forenames>
+      <Text>,, Sub. not</Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1434,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ].</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1443,7 @@
       <Key>
         <KeyDitto>___ ___ ).</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1480,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1526,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes-Cooke</Key>
-      <Text>T B., Corr</Text>
+      <Forenames>T</Forenames>
+      <Text>B., Corr</Text>
       <PageNumber>4187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,8 +1774,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. G. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. G. St. P</Forenames>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,8 +1808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartelot</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. G</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. G</Text>
       <PageNumber>4082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1876,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BartolorParnis</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,7 +2328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bearup</Key>
-      <Text>C N., Corr</Text>
+      <Forenames>C</Forenames>
+      <Text>N., Corr</Text>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2341,7 +2350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2553,7 +2562,7 @@
       <Key>
         <KeyDitto>___ ___ ].</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>

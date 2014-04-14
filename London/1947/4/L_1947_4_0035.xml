@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>A. R. G</Text>
+      <Forenames>A. R. G.</Forenames>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,9 @@
       <Key>Pechell</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peckham</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +402,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Percy</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petit</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +818,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigot</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +965,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4789</PageNumber>
     </MainItem>
     <SubItem>
@@ -981,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilpel</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1261,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porchester</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5289</PageNumber>
       <PageNumber>5360</PageNumber>
     </MainItem>
@@ -1439,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,7 +1511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poyer</Key>
-      <Text>C 549i Pozner, H</Text>
+      <Forenames>C</Forenames>
+      <Text>549i Pozner, H</Text>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1579,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritam</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2026,7 +2029,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2091,7 +2094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radford</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>

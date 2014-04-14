@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Z</Key>
-      <Text>J. F. (Holdings)</Text>
+      <Forenames>J. F.</Forenames>
+      <Text>(Holdings)</Text>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ajax</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors .</Title>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentley</Key>
-      <Forenames>Edwin</Forenames>
+      <Title>Edwin .</Title>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>4553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Central</Key>
-      <Forenames>Cartage Co</Forenames>
+      <Forenames>Cartage</Forenames>
+      <Text>Co</Text>
       <PageNumber>3914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chez</Key>
-      <Forenames>Gaston</Forenames>
+      <Title>Gaston .</Title>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>3149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,14 +395,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawfords</Key>
-      <Forenames>Stores</Forenames>
+      <Title>Stores .</Title>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crown</Key>
-      <Forenames>Productions</Forenames>
+      <Title>Productions .</Title>
       <PageNumber>4301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Garages</Forenames>
+      <Title>Garages .</Title>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,14 +543,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthew</Key>
-      <Forenames>Southall</Forenames>
+      <Title>Southall .</Title>
       <PageNumber>4492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mayfair</Key>
-      <Forenames>Garages</Forenames>
+      <Title>Garages .</Title>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Modern</Key>
-      <Forenames>Press Co</Forenames>
+      <Forenames>Press</Forenames>
+      <Text>Co</Text>
       <PageNumber>3024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newey</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,8 +848,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Helier Publicity</Text>
+      <Key>St. Helier</Key>
+      <Title>Publicity .</Title>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Forenames>Hotel</Forenames>
+      <Title>Hotel .</Title>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,8 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Frank</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Frank.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>4492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Star</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Forenames>Smith</Forenames>
+      <Title>Smith .</Title>
       <PageNumber>3748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1063,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>Engineering Co</Forenames>
+      <Forenames>Engineering</Forenames>
+      <Text>Co</Text>
       <PageNumber>4553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Union</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>4207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>Neil, P &amp; M Ices</Text>
+      <Forenames>Neil</Forenames>
+      <Text>, P &amp; M Ices</Text>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westclifle</Key>
-      <Forenames>Stores</Forenames>
+      <Title>Stores .</Title>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainsworth</Key>
-      <Text>G, M</Text>
+      <Forenames>G</Forenames>
+      <Text>, M</Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>

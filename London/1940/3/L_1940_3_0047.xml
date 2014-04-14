@@ -498,17 +498,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cros</Forenames>
-      <Text>, A. R. P</Text>
+      <Key>Du Cros</Key>
+      <Forenames>A. R. P.</Forenames>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Croz</Forenames>
-      <Text>, J. P</Text>
+      <Key>Du Croz</Key>
+      <Forenames>J. P .</Forenames>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,8 +821,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>C. O'M</Forenames>
       <PageNumber>4732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn-Yarker</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durbridge</Key>
-      <Text>. H. A. G</Text>
+      <Forenames>H. A. G.</Forenames>
       <PageNumber>4158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durrell</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B.</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.achus, N</Text>
+      <Text>achus, N</Text>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1430,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. C.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1603,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>A.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1615,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>

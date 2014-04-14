@@ -131,7 +131,9 @@
       <Key>Fraser</Key>
       <Title>Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frostick</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W.</Forenames>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gage</Key>
-      <Text>V. F</Text>
+      <Forenames>V. F.</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>D. H. O</Text>
+      <Forenames>D. H. O.</Forenames>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillies</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +452,9 @@
       <Key>Goldsmid</Key>
       <Title>Sir</Title>
       <Forenames>H. J.</Forenames>
-      <Text>dA., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goring</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greener</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
     <SubItem>
@@ -838,7 +842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamby</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1014,7 @@
       <PageNumber>5238</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R., Corr</Text>
+      <Text>R., Corr.</Text>
       <PageNumber>5054</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1181,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herd</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1203,7 @@
       <PageNumber>5237</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M. C. P</Text>
+      <Text>M. C. P.</Text>
       <PageNumber>4912</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1213,7 +1217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibbert</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1341,7 @@
       <PageNumber>4446</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. J., Sub. not</Text>
+      <Text>R. J., Sub. not.</Text>
       <PageNumber>4446</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1398,7 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1413,7 @@
       <PageNumber>5072</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P. E. S</Text>
+      <Text>P. E. S.</Text>
       <PageNumber>5485</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1445,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>H. C. L</Text>
+      <Forenames>H. C. L.</Forenames>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1543,7 @@
       <PageNumber>5654</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. G. P</Text>
+      <Text>J. G. P.</Text>
       <PageNumber>4857</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1756,7 +1760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson-Ferguson</Key>
-      <Text>N E.. Sub. not</Text>
+      <Forenames>N</Forenames>
+      <Text>E.. Sub. not</Text>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>

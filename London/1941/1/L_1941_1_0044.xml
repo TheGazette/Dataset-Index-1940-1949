@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Rucker</Key>
       <Forenames>A. N.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. E.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +140,9 @@
     <MainItem>
       <Key>Saul</Key>
       <Forenames>R. E.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savell</Key>
-      <Text>M. M., Member, Order of the British Empire</Text>
+      <Forenames>M. M.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +232,9 @@
       <Key>Scarlett</Key>
       <Title>Hon.</Title>
       <Forenames>P. G.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +285,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. W. L.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +331,9 @@
     <MainItem>
       <Key>Seeker</Key>
       <Forenames>D. H.</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +357,9 @@
     <MainItem>
       <Key>Selway</Key>
       <Forenames>C. J.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +483,9 @@
     <MainItem>
       <Key>Sheepshanks</Key>
       <Forenames>T. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinauer</Key>
-      <Text>E. M., Officer, Order of the British Empire</Text>
+      <Forenames>E. M.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>

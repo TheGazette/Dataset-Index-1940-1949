@@ -70,7 +70,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grierson</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4496</PageNumber>
     </MainItem>
     <SubItem>
@@ -90,7 +90,9 @@
       <PageNumber>4963</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>W. P. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5326</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -274,8 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>P.</Forenames>
-      <Text>de C, Sub. not</Text>
+      <Forenames>P. de C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>5229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gudgeon</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>T&gt;. R</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. R</Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
     <SubItem>
@@ -365,7 +368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunning</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haber</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haggard</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
     <SubItem>
@@ -604,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5232</PageNumber>
     </MainItem>
     <SubItem>
@@ -722,7 +725,7 @@
       <PageNumber>5528</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. J. R</Text>
+      <Text>W. J. R.</Text>
       <PageNumber>5653</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -770,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamburger</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardv</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W.</Forenames>
       <PageNumber>5582</PageNumber>
     </MainItem>
     <SubItem>
@@ -1081,7 +1084,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harfield</Key>
-      <Text>E, L</Text>
+      <Forenames>E</Forenames>
+      <Text>, L</Text>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1262,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrod</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5230</PageNumber>
     </MainItem>
     <SubItem>

@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwilliam</Key>
-      <Text>. P. W</Text>
+      <Forenames>P. W.</Forenames>
       <PageNumber>5633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanssen</Key>
-      <Text>. E. F</Text>
+      <Forenames>E. F.</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1916,7 +1916,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, Bt. ... v.:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,7 +23,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +44,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddoch</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +568,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1132,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,14 +1408,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowden</Key>
-      <Text>C W. A</Text>
+      <Forenames>C</Forenames>
+      <Text>W. A</Text>
       <PageNumber>4638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1445,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1457,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.V.C.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>5213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1468,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>

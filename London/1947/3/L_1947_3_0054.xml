@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: O</Text>
+      <Forenames>J</Forenames>
+      <Text>: O</Text>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +100,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H ,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +707,7 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>J. F. M</Text>
+      <Forenames>J. F. M.</Forenames>
       <PageNumber>4327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +784,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>J;</Text>
+      <Forenames>J</Forenames>
+      <Text>;</Text>
       <PageNumber>3115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staples</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoker</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoloff</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturges</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Symington</Key>
-      <Text>K: W</Text>
+      <Forenames>K</Forenames>
+      <Text>: W</Text>
       <PageNumber>3657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3534</PageNumber>
       <PageNumber>3534</PageNumber>
     </MainItem>
@@ -2146,7 +2150,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson-Walker</Key>
-      <Text>,</Text>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>

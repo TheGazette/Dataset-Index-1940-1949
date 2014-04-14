@@ -124,14 +124,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Western</Key>
-      <Forenames>Trawlers</Forenames>
+      <Title>Trawlers .</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Westford</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,15 +255,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Thos</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Thos.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Novatex</Forenames>
+      <Title>Novatex .</Title>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Moohesney</Forenames>
+      <Title>Moohesney .</Title>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winmore</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Witney</Key>
-      <Forenames>Aerodrome</Forenames>
+      <Title>Aerodrome .</Title>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolds</Key>
-      <Forenames>Fisheries</Forenames>
+      <Title>Fisheries .</Title>
       <PageNumber>2010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynyard</Key>
-      <Forenames>Martyn</Forenames>
+      <Title>Martyn .</Title>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>Holdings</Forenames>
+      <Title>Holdings .</Title>
       <PageNumber>1675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Forenames>Hotels</Forenames>
+      <Title>Hotels .</Title>
       <PageNumber>2244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aln</Key>
-      <Forenames>Boatyard</Forenames>
+      <Title>Boatyard .</Title>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>. &amp; R. Enterprises</Text>
+      <Text>&amp; R. Enterprises</Text>
       <PageNumber>2011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,14 +859,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>, DArcy A</Text>
+      <Text>DArcy A</Text>
       <PageNumber>1908</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brompton</Key>
-      <Forenames>Grill</Forenames>
+      <Title>Grill .</Title>
       <PageNumber>2582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corinthian</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>3013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crown</Key>
-      <Forenames>Crisps</Forenames>
+      <Title>Crisps .</Title>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastman</Key>
-      <Forenames>Partners</Forenames>
+      <Title>Partners .</Title>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,14 +1122,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Electrical</Key>
-      <Forenames>Supplies</Forenames>
+      <Title>Supplies .</Title>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>(nee Armitage), E. and G. Vaughan</Text>
+      <Title>(nee Armitage)</Title>
+      <Text>, E. and G. Vaughan</Text>
       <PageNumber>1735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>. F. M. J. and R. F. Bowlby</Text>
+      <Forenames>F. M. J.</Forenames>
+      <Text>and R. F. Bowlby</Text>
       <PageNumber>2514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrod</Key>
-      <Forenames>May</Forenames>
+      <Title>May .</Title>
       <PageNumber>1735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. &amp;' H. Deliveries ..:</Text>
+      <Text>&amp;' H. Deliveries ..:</Text>
       <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holidays</Key>
-      <Forenames>Afloat</Forenames>
+      <Title>Afloat .</Title>
       <PageNumber>2199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,21 +1501,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Ings</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>2962</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>1909</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jason</Key>
-      <Forenames>Studios</Forenames>
+      <Title>Studios .</Title>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1564,7 +1566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsley</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>2011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,7 +1651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>King &amp; Co</Text>
+      <Title>King</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>2515</PageNumber>
     </MainItem>
   </ItemGroup>

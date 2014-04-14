@@ -200,7 +200,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. R</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +232,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewan</Key>
-      <Text>J: S. McG</Text>
+      <Forenames>J</Forenames>
+      <Text>: S. McG</Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyre</Key>
-      <Text>P: A</Text>
+      <Forenames>P</Forenames>
+      <Text>: A</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fearnside</Key>
-      <Text>Speed, D. G. W. W</Text>
+      <Forenames>Speed</Forenames>
+      <Text>, D. G. W. W</Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,8 +1288,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>K. Du B.</Forenames>
-      <Text>, Corr</Text>
+      <Forenames>K. Du B</Forenames>
+      <Text>., Corr</Text>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,7 +1637,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L: W</Text>
+      <Forenames>L</Forenames>
+      <Text>: W</Text>
       <PageNumber>4922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1734,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>I, C</Text>
+      <Forenames>I</Forenames>
+      <Text>, C</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,7 +1878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgibbon</Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1892,7 +1902,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C: E</Text>
+      <Forenames>C</Forenames>
+      <Text>: E</Text>
       <PageNumber>5207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2433,7 +2444,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>U j$</Text>
+      <Forenames>U</Forenames>
+      <Text>j$</Text>
       <PageNumber>4640</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -302,7 +302,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +329,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5159</PageNumber>
     </MainItem>
     <SubItem>
@@ -641,7 +641,9 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>=— SirR. T., Bt;</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennox</Key>
-      <Text>G ' '</Text>
+      <Forenames>G</Forenames>
+      <Text>' '</Text>
       <PageNumber>5269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,8 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie-Carter</Key>
-      <Forenames>G. L.</Forenames>
-      <Text>de A</Text>
+      <Forenames>G. L. de A</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levene</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1168,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C A. (74168)</Text>
+      <Forenames>C</Forenames>
+      <Text>A. (74168)</Text>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1245,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E W. B</Text>
+      <Forenames>E</Forenames>
+      <Text>W. B</Text>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2132,7 +2136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Linnell</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2240,7 +2244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lissner</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,7 +2278,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M: D</Text>
+      <Forenames>M</Forenames>
+      <Text>: D</Text>
       <PageNumber>5164</PageNumber>
     </MainItem>
   </ItemGroup>

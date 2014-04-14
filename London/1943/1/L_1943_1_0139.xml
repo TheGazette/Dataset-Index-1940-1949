@@ -736,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>96</PageNumber>
     </MainItem>
     <SubItem>
@@ -761,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Royds</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,14 +853,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudin</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>336</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rudland</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutter</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1111,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>J: c :::</Text>
+      <Forenames>J</Forenames>
+      <Text>: c :::</Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
     <SubItem>
@@ -1174,7 +1175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sacker</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,15 +1231,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George-Taylor, E</Text>
+      <Key>St. George-Taylor</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, E</Text>
+      <Key>St. John</Key>
+      <Forenames>E</Forenames>
       <PageNumber>934</PageNumber>
     </MainItem>
     <SubItem>
@@ -1256,21 +1257,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Sale</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salisbury-Rowswell</Key>
-      <Text>, M P</Text>
+      <Forenames>M</Forenames>
+      <Text>P</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salkeld</Key>
-      <Text>, R 93i Sallis, L. R</Text>
+      <Forenames>R</Forenames>
+      <Text>93i Sallis, L. R</Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>

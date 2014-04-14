@@ -68,8 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Forenames>B. R.</Forenames>
-      <Text>de F</Text>
+      <Forenames>B. R. de F</Forenames>
       <PageNumber>5182</PageNumber>
     </MainItem>
     <SubItem>
@@ -373,28 +372,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Sunley</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sunter</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surtees</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sutcliffe</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,21 +471,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Swales</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5232</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swallow</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +611,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4552</PageNumber>
     </MainItem>
     <SubItem>
@@ -660,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Szor</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tadros</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tannent</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4553</PageNumber>
     </MainItem>
     <SubItem>
@@ -1005,7 +1004,7 @@
       <PageNumber>5127</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Corr</Text>
+      <Text>Corr.</Text>
       <PageNumber>5329</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1071,7 +1070,9 @@
       <PageNumber>4965</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.) „ V. A. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4399</PageNumber>
     </SubItem>
     <SubItem>
@@ -1103,6 +1104,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>4761</PageNumber>
       </Text>
       <PageNumber>5129</PageNumber>

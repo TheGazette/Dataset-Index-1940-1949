@@ -22,7 +22,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckler</Key>
-      <Text>, }. W</Text>
+      <Text>}. W</Text>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R: J-</Text>
+      <Forenames>R</Forenames>
+      <Text>: J-</Text>
       <PageNumber>581</PageNumber>
     </MainItem>
     <SubItem>
@@ -248,7 +249,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +444,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunting</Key>
-      <Text>, R;</Text>
+      <Forenames>R</Forenames>
+      <Text>;</Text>
       <PageNumber>425</PageNumber>
     </MainItem>
   </ItemGroup>

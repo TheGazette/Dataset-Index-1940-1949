@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lymer</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacColl</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +633,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F 4*</Text>
+      <Forenames>F</Forenames>
+      <Text>4*</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +799,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,14 +989,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McMahon</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McMillan</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNally</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1072,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McPhail</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1228,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. V.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mali</Key>
-      <Forenames>Ram</Forenames>
+      <Title>Ram .</Title>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marain</Key>
-      <Forenames>Dutt</Forenames>
+      <Title>Dutt .</Title>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marruf</Key>
-      <Forenames>Ansari</Forenames>
+      <Title>Ansari .</Title>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>. A. G. O. M</Text>
+      <Forenames>A. G. O. M.</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1871,7 +1874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meer</Key>
-      <Text>. G. K. J</Text>
+      <Forenames>G. K. J.</Forenames>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,7 +2023,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2314,14 +2317,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Forenames>Din</Forenames>
+      <Title>Din .</Title>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Forenames>Feroze</Forenames>
+      <Title>Feroze .</Title>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2350,14 +2353,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Forenames>Suleman</Forenames>
+      <Title>Suleman .</Title>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mokram</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2499,7 +2502,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2567,7 +2572,9 @@
       <Key>Mordaunt</Key>
       <Title>Sir</Title>
       <Forenames>N. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2609,7 +2616,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4074</PageNumber>
     </MainItem>
   </ItemGroup>

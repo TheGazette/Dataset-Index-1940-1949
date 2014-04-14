@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickford-Smith</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>6437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,8 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,8 +418,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. P. C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. P. C</Forenames>
       <PageNumber>6018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,6 +473,13 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Emergency List</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mauny</Key>
+      <Forenames>V. A. C. H.</Forenames>
+      <PageNumber>6934</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
@@ -1379,8 +1385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teayes</Key>
-      <Forenames>P. B.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. B. de B</Forenames>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,15 +1498,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare. D. A</Text>
+      <Key>O'Hare</Key>
+      <Forenames>D. A</Forenames>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, J. M</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>6695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair Ford, V. J</Text>
+      <Forenames>Clair Ford</Forenames>
+      <Text>, V. J</Text>
       <PageNumber>6390</PageNumber>
     </MainItem>
   </ItemGroup>

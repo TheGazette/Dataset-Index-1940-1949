@@ -279,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewhurst</Key>
-      <Text>F. J. P</Text>
+      <Forenames>F. J. P.</Forenames>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dix</Key>
-      <Text>R. S. P</Text>
+      <Forenames>R. S. P.</Forenames>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dook</Key>
-      <Text>H. D</Text>
+      <Forenames>H. D.</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1399,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1411,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drury</Key>
-      <Text>C. R</Text>
+      <Forenames>C. R.</Forenames>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,8 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>E.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. de C</Forenames>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -316,7 +316,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +325,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +404,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +568,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +623,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,8 +750,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,26 +887,96 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chazal</Forenames>
-      <Text>, A. E., Sub. not</Text>
+      <Key>de Bertodano</Key>
+      <Forenames>G. F. C.</Forenames>
+      <PageNumber>596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>R. J. H.</Forenames>
+      <PageNumber>546</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>C.</Forenames>
+      <Text>(A</Text>
+      <PageNumber>1207</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carte</Key>
+      <Forenames>H. O.</Forenames>
+      <PageNumber>1203</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Chazal</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Costanzo</Forenames>
-      <Text>, W</Text>
+      <Key>de Chazel</Key>
+      <Forenames>L. E. M.</Forenames>
+      <PageNumber>1328</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Costanzo</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Leon</Forenames>
-      <Text>, A</Text>
+      <Key>de Ferranti</Key>
+      <Forenames>S. B.</Forenames>
+      <PageNumber>266</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonibtanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>750</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Garston</Key>
+      <Forenames>E. E.</Forenames>
+      <PageNumber>504</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Title>Sir</Title>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>653</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Leon</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>11200</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mey</Key>
+      <Forenames>J. P. F. R.</Forenames>
+      <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -919,9 +988,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sa</Forenames>
-      <Text>, P. G</Text>
+      <Key>de Pury</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>1252</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>J. H. E.</Forenames>
+      <PageNumber>1391</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robillard</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sa</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,6 +1021,21 @@
       </Key>
       <Forenames>S. J</Forenames>
       <PageNumber>1253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Weld</Key>
+      <Forenames>Salmon</Forenames>
+      <Text>, F. J. V</Text>
+      <PageNumber>592</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiart</Key>
+      <Forenames>Sk A. C.</Forenames>
+      <PageNumber>959</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -986,7 +1090,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donath</Key>
-      <Text>F. ... i</Text>
+      <Forenames>F.</Forenames>
+      <Text>... i</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2244,7 +2349,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>595</PageNumber>
     </MainItem>
   </ItemGroup>

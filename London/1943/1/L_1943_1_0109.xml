@@ -69,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryden</Key>
-      <Text>, . J. A</Text>
+      <Text>. J. A</Text>
       <PageNumber>275</PageNumber>
     </MainItem>
     <SubItem>
@@ -170,7 +170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>, C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>, E&gt;. T</Text>
+      <Forenames>E</Forenames>
+      <Text>&gt;. T</Text>
       <PageNumber>1315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +357,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>J, L</Text>
+      <Forenames>J</Forenames>
+      <Text>, L</Text>
       <PageNumber>1077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,8 +511,7 @@
       <Key>
         <KeyDitto>—.-.</KeyDitto>
       </Key>
-      <Forenames>L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. de V</Forenames>
       <PageNumber>1474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burley</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnell</Key>
-      <Text>. C. J</Text>
+      <Forenames>C. J.</Forenames>
       <PageNumber>599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +716,7 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burroughes</Key>
-      <Text>, GP-</Text>
+      <Text>GP-</Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton-Fanning</Key>
-      <Text>, ' R</Text>
+      <Text>' R</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
     <SubItem>
@@ -1530,7 +1532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambden</Key>
-      <Text>, J E. C</Text>
+      <Forenames>J</Forenames>
+      <Text>E. C</Text>
       <PageNumber>654</PageNumber>
     </MainItem>
   </ItemGroup>

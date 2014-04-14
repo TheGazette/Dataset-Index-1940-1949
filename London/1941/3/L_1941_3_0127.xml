@@ -77,8 +77,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. D. St</Forenames>
-      <Text>. G. K</Text>
+      <Forenames>E. D. St. G</Forenames>
+      <Text>. K</Text>
       <PageNumber>5658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>J. St. M</Forenames>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,14 +436,16 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5155</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>. H. St. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Revett</Key>
-      <Text>. S. L</Text>
+      <Forenames>S. L</Forenames>
       <PageNumber>5656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rickinson</Key>
-      <Text>. D. W</Text>
+      <Forenames>D. W</Forenames>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rignall</Key>
-      <Text>. J. N. A</Text>
+      <Forenames>J. N. A</Forenames>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>. J. W</Text>
+      <Forenames>J. W</Forenames>
       <PageNumber>4274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scholfield</Key>
-      <Text>. L. F</Text>
+      <Forenames>L. F</Forenames>
       <PageNumber>4568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,14 +1230,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Scollin</Key>
-      <Text>. A. T</Text>
+      <Forenames>A. T</Forenames>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>5155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smail</Key>
-      <Text>. TR</Text>
+      <Text>TR</Text>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>

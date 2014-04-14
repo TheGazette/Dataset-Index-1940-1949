@@ -76,7 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stelfox</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strange</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2372</PageNumber>
     </MainItem>
     <SubItem>
@@ -352,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
     <SubItem>
@@ -412,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Titford</Key>
-      <Text>M,</Text>
+      <Forenames>M</Forenames>
+      <Text>,</Text>
       <PageNumber>2372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotman</Key>
-      <Text>M Tuck, M. J</Text>
+      <Forenames>M</Forenames>
+      <Text>Tuck, M. J</Text>
       <PageNumber>2371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>B. E</Text>
+      <Forenames>B. E.</Forenames>
       <PageNumber>1581</PageNumber>
     </MainItem>
     <SubItem>
@@ -1043,7 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, notices</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notices</Text>
       <PageNumber>2289</PageNumber>
       <PageNumber>2747</PageNumber>
     </MainItem>

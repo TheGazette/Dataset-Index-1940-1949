@@ -64,7 +64,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +322,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +380,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sub</Forenames>
-      <Text>. not</Text>
+      <Title>Sub.</Title>
+      <Text>not</Text>
       <PageNumber>4087</PageNumber>
     </MainItem>
     <SubItem>
@@ -480,14 +480,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadara</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sadhu</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,22 +555,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, C. A. R. L., Cane</Text>
+      <Key>St. John</Key>
+      <Forenames>C. A. R. L.</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Johnston, C. R</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. R.</Forenames>
       <PageNumber>4327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur, R. F</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R. F.</Forenames>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,8 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>4088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sampson</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Samund</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarsa</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scragg</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scruton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1359,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sergeant</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1628,7 +1628,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1725,7 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheard</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,7 +1806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheonarain</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,7 +1858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sher</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,7 +1881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sher</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2359,7 +2359,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>H F</Text>
+      <Forenames>H</Forenames>
+      <Text>F</Text>
       <PageNumber>3246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2382,8 +2383,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>F. St. D</Forenames>
       <PageNumber>4326</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -385,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tombe</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,14 +452,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trainer</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wey</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T .</Forenames>
       <PageNumber>4422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1178,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1260,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C, I. M</Text>
+      <Forenames>C</Forenames>
+      <Text>, I. M</Text>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,14 +1462,15 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Margaret</Key>
-      <Text>H.R.H. Princess</Text>
+      <Title>H.R.H. Princess</Title>
       <PageNumber>3933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Hakim</Forenames>
+      <Title>Hakim .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,8 +1615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>K. St. B</Forenames>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainsley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,7 +1807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Akbar</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,7 +2058,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2133,7 +2134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Althorpe</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2147,7 +2148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amar</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,14 +3,14 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>. &amp; B. B. (Sales)</Text>
+      <Text>&amp; B. B. (Sales)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>.V.B. Syndicate</Text>
+      <Forenames>V.B. Syndicate</Forenames>
       <PageNumber>3010</PageNumber>
       <PageNumber>3149</PageNumber>
     </MainItem>
@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Text>. Sussex Contractors</Text>
+      <Forenames>Sussex Contractors</Forenames>
       <PageNumber>2248</PageNumber>
       <PageNumber>2250</PageNumber>
     </MainItem>
@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastcliff</Key>
-      <Forenames>Club</Forenames>
+      <Title>Club .</Title>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,14 +147,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>(Cinemas)</Text>
+      <Title>(Cinemas)</Title>
       <PageNumber>2206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. T. R</Text>
+      <Forenames>T. R.</Forenames>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Em-Vee</Key>
-      <Text>(Productions)</Text>
+      <Title>(Productions)</Title>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Forenames>Charcoal</Forenames>
-      <Text>.,</Text>
+      <Title>Charcoal .</Title>
+      <Text>,</Text>
       <PageNumber>2758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Erac</Key>
-      <Text>(1946) Camera Company</Text>
+      <Title>(1946)</Title>
+      <Forenames>Camera Com-</Forenames>
+      <Text>pany</Text>
       <PageNumber>2120</PageNumber>
       <PageNumber>2375</PageNumber>
       <PageNumber>2715</PageNumber>
@@ -354,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erlco</Key>
-      <Text>(Electrical Services)</Text>
+      <Title>(Electrical Services)</Title>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,14 +423,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyretori</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.C.W. Cabinet Company</Text>
+      <Forenames>C.W. Cabinet Company</Forenames>
       <PageNumber>2125</PageNumber>
       <PageNumber>2759</PageNumber>
     </MainItem>
@@ -436,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.G.R</Text>
+      <Forenames>G.R.</Forenames>
       <PageNumber>3007</PageNumber>
       <PageNumber>3009</PageNumber>
       <PageNumber>3191</PageNumber>
@@ -489,14 +491,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Farm</Key>
-      <Forenames>Implements</Forenames>
+      <Title>Implements .</Title>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fashion</Key>
-      <Forenames>Puffs</Forenames>
+      <Title>Puffs .</Title>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fibestos</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finsbury</Key>
-      <Forenames>Offices</Forenames>
+      <Title>Offices .</Title>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,8 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishguard</Key>
-      <Forenames>Harbour</Forenames>
-      <Text>.. Improvement Company</Text>
+      <Title>Harbour .</Title>
+      <Text>. Improvement Company</Text>
       <PageNumber>1801</PageNumber>
       <PageNumber>2079</PageNumber>
     </MainItem>
@@ -669,14 +671,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzhardinge</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>, -Fletcher &amp; Go</Text>
+      <Text>-Fletcher &amp; Go</Text>
       <PageNumber>2246</PageNumber>
       <PageNumber>2248</PageNumber>
     </MainItem>
@@ -720,7 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsell</Key>
-      <Text>. T., &amp; Son (Investments)</Text>
+      <Forenames>T.</Forenames>
+      <Text>, &amp; Son (Investments)</Text>
       <PageNumber>1785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Forenames>Prouctions</Forenames>
+      <Title>Prouctions .</Title>
       <PageNumber>3010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Freehold</Key>
-      <Forenames>Syndicate</Forenames>
+      <Title>Syndicate .</Title>
       <PageNumber>3010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,14 +814,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Freemar</Key>
-      <Text>,' J. M. &amp; Co*</Text>
+      <Text>' J. M. &amp; Co*</Text>
       <PageNumber>1726</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freezer</Key>
-      <Forenames>Supplies</Forenames>
+      <Title>Supplies .</Title>
       <PageNumber>1676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,14 +876,15 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. A. (Condiments)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Condiments)</Text>
       <PageNumber>2193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. B. Appliances Company</Text>
+      <Forenames>B. Appliances Company</Forenames>
       <PageNumber>2065</PageNumber>
       <PageNumber>2504</PageNumber>
       <PageNumber>2576</PageNumber>
@@ -889,21 +893,21 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. &amp; F. Engineering Products</Text>
+      <Text>&amp; F. Engineering Products</Text>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. &amp; F. Plating Company :</Text>
+      <Text>&amp; F. Plating Company :</Text>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. &amp; G. Electrical Engineers</Text>
+      <Text>&amp; G. Electrical Engineers</Text>
       <PageNumber>1872</PageNumber>
       <PageNumber>2774</PageNumber>
     </MainItem>
@@ -911,21 +915,23 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>.H. W. Syndicate</Text>
+      <Forenames>H. W. Syndicate</Forenames>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. M. &amp; DA. (1902)</Text>
+      <Forenames>M.</Forenames>
+      <Text>&amp; DA. (1902)</Text>
       <PageNumber>1729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. S. (Management) . '</Text>
+      <Forenames>S.</Forenames>
+      <Text>(Management) . '</Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>(Weston)</Text>
+      <Title>(Weston)</Title>
       <PageNumber>2433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>General</Key>
-      <Forenames>Inventions</Forenames>
+      <Title>Inventions .</Title>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glyn</Key>
-      <Forenames>Barry</Forenames>
+      <Title>Barry .</Title>
       <PageNumber>2626</PageNumber>
       <PageNumber>3158</PageNumber>
     </MainItem>
@@ -1185,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goadby</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,14 +1319,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Douglas</Forenames>
+      <Title>Douglas .</Title>
       <PageNumber>2774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grassington</Key>
-      <Text>. Waterworks Company</Text>
+      <Forenames>Waterworks Company</Forenames>
       <PageNumber>3144</PageNumber>
       <PageNumber>3193</PageNumber>
     </MainItem>
@@ -1398,28 +1404,30 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.B. Compounds</Text>
+      <Forenames>B. Compounds</Forenames>
       <PageNumber>2955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. F. C. (Gateshead)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(Gateshead)</Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. J. &amp; S. Products</Text>
+      <Forenames>J.</Forenames>
+      <Text>&amp; S. Products</Text>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. L. S. Transport Pool</Text>
+      <Forenames>L. S. Transport Pool</Forenames>
       <PageNumber>2503</PageNumber>
       <PageNumber>2506</PageNumber>
       <PageNumber>2509</PageNumber>
@@ -1436,7 +1444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddeluxe</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadley</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust.</Title>
       <PageNumber>1675</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -522,9 +522,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rood</Forenames>
-      <Text>, A</Text>
+      <Key>van As</Key>
+      <Text>; P. T., Coxr</Text>
+      <PageNumber>445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Eden</Key>
+      <Forenames>J.</Forenames>
+      <Text>,.Corr</Text>
+      <PageNumber>444</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Rood</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>F. K</Text>
+      <Forenames>F. K.</Forenames>
       <PageNumber>11097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>11092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,8 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V. ... :109a Westlumd, C. R</Text>
+      <Forenames>G. de V</Forenames>
+      <Text>. ... :109a Westlumd, C. R</Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1221,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R woi Wilis, A</Text>
+      <Forenames>R</Forenames>
+      <Text>woi Wilis, A</Text>
       <PageNumber>1097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wischusen</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1816,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G,</Text>
+      <Forenames>G</Forenames>
+      <Text>,</Text>
       <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -385,8 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roissier</Key>
-      <Forenames>D. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. P. St. C</Forenames>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roper-Caldbeck</Key>
-      <Text>W N</Text>
+      <Forenames>W</Forenames>
+      <Text>N</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,8 +539,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>H. L. St. V</Forenames>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +653,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W. R. M.</Text>
+      <Text>W. R. M</Text>
       <PageNumber>4582</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -729,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan</Key>
-      <Text>F D. Rowan-Hamilton, A</Text>
+      <Forenames>F</Forenames>
+      <Text>D. Rowan-Hamilton, A</Text>
       <PageNumber>3378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +761,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +844,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T T? Rowett, J. P. Cj</Text>
+      <Forenames>T</Forenames>
+      <Text>T? Rowett, J. P. Cj</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +870,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +936,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +945,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russ</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>A. O'H</Forenames>
       <PageNumber>3729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,8 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell-Jones</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>3380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rusznak</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1293,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryles</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadek</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,15 +1434,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, T. E</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>T. E.</Forenames>
       <PageNumber>4462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, J. L</Text>
+      <Key>St. Clair</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>3379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,8 +1455,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John. E. R. G</Text>
+      <Key>St. John</Key>
+      <Forenames>E. R. G.</Forenames>
       <PageNumber>3365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,22 +1471,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Tohn-Brooks, J. G. deR</Text>
+      <Key>St. Tohn-Brooks</Key>
+      <Forenames>J. G.</Forenames>
+      <Text>deR</Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, H. L</Text>
+      <Key>St. Leger</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>3383</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Lewis, H. W. T</Text>
+      <Key>St. Lewis</Key>
+      <Forenames>H. W. T.</Forenames>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,7 +1913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>C, Cane</Text>
+      <Forenames>C</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>

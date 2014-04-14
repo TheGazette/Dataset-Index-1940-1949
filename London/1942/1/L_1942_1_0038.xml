@@ -277,7 +277,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philip</Key>
-      <Text>H.R.H. Prince, of Greece and Denmark</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>, of Greece and Denmark</Text>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +763,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prideaux</Key>
-      <Forenames>C. S. De C.</Forenames>
+      <Forenames>C. S. De C</Forenames>
       <PageNumber>1458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,8 +1039,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawle</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>P. St. B</Forenames>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1214,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. L. M. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson-Fqrtay</Key>
-      <Text>C P. M</Text>
+      <Forenames>C</Forenames>
+      <Text>P. M</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1788,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>T! C</Text>
+      <Forenames>T</Forenames>
+      <Text>! C</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2245,15 +2249,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, G. P</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Tisdall, F. R</Text>
+      <Key>St. Clair-Tisdall</Key>
+      <Forenames>F. R.</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>

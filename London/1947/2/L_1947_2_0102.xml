@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>Shop</Forenames>
+      <Title>Shop .</Title>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leventhal</Key>
-      <Forenames>Sydney</Forenames>
+      <Title>Sydney .</Title>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Forenames>Tidings</Forenames>
+      <Title>Tidings .</Title>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,14 +123,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Forenames>Donald</Forenames>
+      <Title>Donald .</Title>
       <PageNumber>2968</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maison</Key>
-      <Forenames>Taylor</Forenames>
+      <Title>Taylor .</Title>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minerva</Key>
-      <Forenames>Garages</Forenames>
+      <Title>Garages .</Title>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Modernlite</Key>
-      <Text>(Portsmouth)</Text>
+      <Title>(Portsmouth)</Title>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northern</Key>
-      <Forenames>Art Tiling Co</Forenames>
+      <Forenames>Art Tiling</Forenames>
+      <Text>Co</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,14 +379,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parrick</Key>
-      <Text>, C, &amp; Son</Text>
+      <Forenames>C</Forenames>
+      <Text>, &amp; Son</Text>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pedley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>1558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainforth</Key>
-      <Forenames>Hodgson</Forenames>
+      <Title>Hodgson .</Title>
       <PageNumber>1558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Relton</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>2088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roding</Key>
-      <Forenames>Fisheries</Forenames>
+      <Title>Fisheries .</Title>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Leonards Hotel Bridlington</Text>
+      <Forenames>Leonards Hotel Brid-</Forenames>
+      <Text>lington</Text>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaview</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors .</Title>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +699,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Tom</Forenames>
+      <Title>Tom .</Title>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,14 +734,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Forenames>Disposals</Forenames>
+      <Title>Disposals .</Title>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Forenames>Fisheries</Forenames>
+      <Title>Fisheries .</Title>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Forenames>Studios</Forenames>
+      <Title>Studios .</Title>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +807,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Surplus</Key>
-      <Forenames>Trading Co</Forenames>
+      <Forenames>Trading</Forenames>
+      <Text>Co</Text>
       <PageNumber>2266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +822,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tattersall</Key>
-      <Text>, C, &amp; Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, &amp; Co</Text>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurston</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>2408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,14 +913,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Vichy</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant .</Title>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>Galleries</Forenames>
+      <Title>Galleries .</Title>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westbourne</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>1974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolff</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abba</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adcock</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1207,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alcock</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allott</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allum</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alston</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1509,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,7 +1527,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1561,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1570,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbis</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arditi</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,7 +1990,9 @@
     <MainItem>
       <Key>Babington</Key>
       <Forenames>M. A. T.</Forenames>
-      <Text>, Bt. Bach, J. R. ... Backhouse, Sir E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>

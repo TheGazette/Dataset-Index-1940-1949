@@ -474,7 +474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>L W. -L</Text>
+      <Forenames>L</Forenames>
+      <Text>W. -L</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baiss</Key>
-      <Text>J. L. R</Text>
+      <Forenames>J. L. R.</Forenames>
       <PageNumber>2055</PageNumber>
       <PageNumber>3024</PageNumber>
     </MainItem>
@@ -984,7 +985,9 @@
       <Key>Blake</Key>
       <Title>Sir</Title>
       <Forenames>F. E. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>

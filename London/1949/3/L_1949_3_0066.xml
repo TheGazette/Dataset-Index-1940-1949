@@ -3,11 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Names</Key>
-      <Text>, change of {cont.): , Smith, D. JJ</Text>
+      <Text>change of {cont.): , Smith, D. JJ</Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wojtkowiak, B. P.</Text>
+      <Text>Wojtkowiak, B. P</Text>
       <PageNumber>3609</PageNumber>
     </SubItem>
     <SubItem>
@@ -51,7 +51,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newboroueh</Key>
-      <Text>. Matmakers Association, cancelling, of registry ... -</Text>
+      <Forenames>Matmakers Association</Forenames>
+      <Text>, cancelling, of registry ... -</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North-Eastern</Key>
-      <Text>.. Section Cooperative ... Education Committees' Association, dissolution</Text>
+      <Text>. Section Cooperative ... Education Committees' Association, dissolution</Text>
       <PageNumber>4204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osbaldstone</Key>
-      <Text>, .J., appointment of Liquidator</Text>
+      <Text>.J., appointment of Liquidator</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patents</Key>
-      <Text>. &amp;. Designs, Extension of time applications: Combined Optical Industries, Ltd., Petition not presented</Text>
+      <Text>&amp;. Designs, Extension of time applications: Combined Optical Industries, Ltd., Petition not presented</Text>
       <PageNumber>4150</PageNumber>
     </MainItem>
     <SubItem>
@@ -220,7 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolliver</Key>
-      <Text>. Society, exemption frbm Moneylenders Acts '</Text>
+      <Forenames>Society</Forenames>
+      <Text>, exemption frbm Moneylenders Acts '</Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,14 +270,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Michael's Friendly Society, dissolution</Text>
+      <Forenames>Michael</Forenames>
+      <Text>'s Friendly Society, dissolution</Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin Lodge No</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>Lodge No</Forenames>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>

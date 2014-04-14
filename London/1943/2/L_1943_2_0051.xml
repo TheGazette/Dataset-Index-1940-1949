@@ -142,8 +142,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,9 +305,15 @@
   <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wael</Forenames>
-      <Text>, A. N</Text>
+      <Key>de Spon</Key>
+      <Forenames>M. F. L.</Forenames>
+      <PageNumber>1873</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wael</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>2578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Text>A. N</Text>
+      <Forenames>A. N.</Forenames>
       <PageNumber>1756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +865,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumfries</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>S. C</Text>
+      <Forenames>S. C.</Forenames>
       <PageNumber>2390</PageNumber>
     </MainItem>
   </ItemGroup>

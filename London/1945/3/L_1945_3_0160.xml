@@ -127,8 +127,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarsfield-Sampson</Key>
-      <Text>,</Text>
       <PageNumber>4019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,8 +602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkden</Key>
-      <Text>,. G. M</Text>
+      <Text>. G. M</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,8 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yule</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleyard</Key>
-      <Text>, C, notice to relatives</Text>
+      <Forenames>C</Forenames>
+      <Text>, notice to relatives</Text>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>

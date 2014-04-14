@@ -70,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Text>. A. DO. E</Text>
+      <Forenames>A.</Forenames>
+      <Text>DO. E</Text>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +161,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,6 +341,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Jong</Key>
+      <Forenames>A. V.</Forenames>
+      <PageNumber>5471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ite</Key>
       <Forenames>Rjtter</Forenames>
       <Text>, G. S</Text>
@@ -377,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denby</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +453,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,14 +513,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dillow</Key>
-      <Text>, D\A. H</Text>
+      <Forenames>D</Forenames>
+      <Text>\A. H</Text>
       <PageNumber>5934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,9 +900,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, TM</Text>
+      <Key>Du Buisson</Key>
+      <Text>TM</Text>
       <PageNumber>5935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dynan</Key>
-      <Text>J Eales, T. K</Text>
+      <Forenames>J</Forenames>
+      <Text>Eales, T. K</Text>
       <PageNumber>5277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellenborougih</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1345,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,7 +1373,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ——</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1510,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1556,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.veritt, F</Text>
+      <Text>veritt, F</Text>
       <PageNumber>5382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,7 +1636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.vill, A. R</Text>
+      <Text>vill, A. R</Text>
       <PageNumber>5643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fabb</Key>
-      <Text>. J. W. E</Text>
+      <Forenames>J. W. E.</Forenames>
       <PageNumber>5933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,14 +1721,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Farr</Key>
-      <Text>. D. S</Text>
+      <Forenames>D. S</Forenames>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fattorini</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5270</PageNumber>
     </MainItem>
   </ItemGroup>

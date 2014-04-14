@@ -83,15 +83,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, A. J. P</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>A. J. P.</Forenames>
       <PageNumber>5777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, S. C. Osman, H. B</Text>
+      <Key>O'Shea</Key>
+      <Forenames>S. C. Osman</Forenames>
+      <Text>, H. B</Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Text>. W. A. H</Text>
+      <Forenames>W. A. H.</Forenames>
       <PageNumber>6805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, L. E. D</Text>
+      <Key>O'Toole</Key>
+      <Forenames>L. E. D.</Forenames>
       <PageNumber>7104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ouseley</Key>
-      <Text>., W. H. Outram, D</Text>
+      <Text>, W. H. Outram, D</Text>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Panting</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F.</Forenames>
       <PageNumber>7284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,8 +1075,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. de V</Forenames>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pedley</Key>
-      <Text>. G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>6012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,8 +1800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>

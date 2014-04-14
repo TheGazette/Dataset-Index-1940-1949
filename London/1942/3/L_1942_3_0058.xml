@@ -87,7 +87,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J: A. :::</Text>
+      <Forenames>J</Forenames>
+      <Text>: A. :::</Text>
       <PageNumber>3704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>A:</Text>
+      <Forenames>A</Forenames>
+      <Text>:</Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +819,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. H.</Forenames>
-      <Text>(R.A.V.C.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +923,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, W. LI</Text>
+      <Forenames>H</Forenames>
+      <Text>, W. LI</Text>
       <PageNumber>4161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +944,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +964,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>j. F. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1154,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S. G.</Forenames>
-      <Text>(R.A.M.C. .)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth-Osbourne</Key>
-      <Text>R W</Text>
+      <Forenames>R</Forenames>
+      <Text>W</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sproule</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,14 +1785,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Staddon</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1891,7 +1903,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2054,7 +2066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steele-Perkins</Key>
-      <Text>G S</Text>
+      <Forenames>G</Forenames>
+      <Text>S</Text>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>

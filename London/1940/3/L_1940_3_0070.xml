@@ -585,7 +585,9 @@
       <Key>Pigott-Brown</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,8 +740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinto</Key>
-      <Forenames>L.</Forenames>
-      <Text>de S</Text>
+      <Forenames>L. de S</Forenames>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipemo</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,8 +1328,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. P. O'H</Forenames>
       <PageNumber>4080</PageNumber>
       <PageNumber>4590</PageNumber>
     </MainItem>
@@ -1958,8 +1958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powley</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>5569</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -213,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baume</Key>
-      <Text>L,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +651,7 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibby</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird-Wilson</Key>
-      <Text>H A. C</Text>
+      <Forenames>H</Forenames>
+      <Text>A. C</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,7 +1563,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1897,8 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blum</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. E. de M</Forenames>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2239,8 +2240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boult</Key>
-      <Forenames>N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>N. de W</Forenames>
       <PageNumber>969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2372,7 +2372,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,7 +21,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L ,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>4682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +87,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Derwent</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewhurst</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +320,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,14 +334,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dex</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dexter</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>, D R. H</Text>
+      <Forenames>D</Forenames>
+      <Text>R. H</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dier</Key>
-      <Text>, K, S</Text>
+      <Forenames>K</Forenames>
+      <Text>, S</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +827,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,7 +1980,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, W</Text>
+      <Forenames>J</Forenames>
+      <Text>, W</Text>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2046,7 +2050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracup</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2103,7 +2107,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,7 +2192,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2256,7 +2260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dring</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2265,7 +2269,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2291,7 +2295,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2314,7 +2318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2364,7 +2368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drown</Key>
-      <Text>, 1R. W</Text>
+      <Text>1R. W</Text>
       <PageNumber>5508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2417,25 +2421,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, R. W. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>R. W. H.</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, W. J</Text>
+      <Key>Du Feu</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, L. C</Text>
+      <Key>Du Pre</Key>
+      <Forenames>L. C.</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2544,7 +2545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>, H K</Text>
+      <Forenames>H</Forenames>
+      <Text>K</Text>
       <PageNumber>4682</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawty</Key>
-      <Text>. H. A</Text>
+      <Forenames>H. A.</Forenames>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +60,9 @@
     <MainItem>
       <Key>Layland-Barratt</Key>
       <Forenames>Si</Forenames>
-      <Text>: F. H. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +419,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J A</Text>
+      <Forenames>J</Forenames>
+      <Text>A</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,8 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>F. St. D</Forenames>
       <PageNumber>5715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +527,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lett</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewes</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +899,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis-Barclay</Key>
-      <Text>, H Lexen, R. H. F</Text>
+      <Forenames>H</Forenames>
+      <Text>Lexen, R. H. F</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Libby</Key>
-      <Text>, T W</Text>
+      <Forenames>T</Forenames>
+      <Text>W</Text>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilley</Key>
-      <Text>, J M</Text>
+      <Forenames>J</Forenames>
+      <Text>M</Text>
       <PageNumber>6011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1220,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Littleworth</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>5716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lobley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lodwick</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longhurst</Key>
-      <Text>,, S. O</Text>
+      <Text>, S. O</Text>
       <PageNumber>6010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,7 +1793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>. J. G. M</Text>
+      <Forenames>J. G. M.</Forenames>
       <PageNumber>6238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,7 +1955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumsden</Key>
-      <Text>, J M. A</Text>
+      <Forenames>J</Forenames>
+      <Text>M. A</Text>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2132,14 +2139,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Macallister</Key>
-      <Text>, ]. A. S</Text>
+      <Text>]. A. S</Text>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAlpine</Key>
-      <Text>, C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>

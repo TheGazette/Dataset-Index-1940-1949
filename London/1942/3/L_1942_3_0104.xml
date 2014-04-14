@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutehall</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swayne</Key>
-      <Text>R, C</Text>
+      <Forenames>R</Forenames>
+      <Text>, C</Text>
       <PageNumber>2931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweetman</Key>
-      <Text>J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>3306</PageNumber>
       <PageNumber>3908</PageNumber>
     </MainItem>
@@ -1073,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H.</Forenames>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,8 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>E. O'C</Forenames>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1354,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tankerville</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1527,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>I, E</Text>
+      <Forenames>I</Forenames>
+      <Text>, E</Text>
       <PageNumber>4063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teare</Key>
-      <Text>J. J</Text>
+      <Forenames>J. J</Forenames>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1912,7 +1915,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>3452</PageNumber>
     </MainItem>
   </ItemGroup>

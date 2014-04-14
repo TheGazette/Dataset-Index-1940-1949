@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrard</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,8 +19,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>352</PageNumber>
       <PageNumber>672</PageNumber>
     </MainItem>
@@ -47,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garside</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillen</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1122</PageNumber>
       <PageNumber>1466</PageNumber>
     </MainItem>
@@ -1225,14 +1225,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ginsbury</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Giradet</Key>
-      <Text>G: B</Text>
+      <Forenames>G</Forenames>
+      <Text>: B</Text>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2327,7 +2328,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S: P</Text>
+      <Forenames>S</Forenames>
+      <Text>: P</Text>
       <PageNumber>1391</PageNumber>
     </MainItem>
   </ItemGroup>

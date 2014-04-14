@@ -140,7 +140,9 @@
     <MainItem>
       <Key>McMurtrie</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +215,9 @@
     <MainItem>
       <Key>Majendie</Key>
       <Forenames>V. H. B.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +225,9 @@
     <MainItem>
       <Key>Maiden</Key>
       <Forenames>E. C</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +251,9 @@
     <MainItem>
       <Key>Maltby</Key>
       <Forenames>P. C</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +277,9 @@
     <MainItem>
       <Key>Mansell</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, Officer, Order of the British Empire Mansergh, M. J., Commander, Order of the British Empire Mansfield, P. T., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Text>G. F., Officer, Order of the British Empire</Text>
+      <Forenames>G. F.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +390,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. T.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>J., Knight</Text>
+      <Forenames>J.</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1152</PageNumber>
     </MainItem>
@@ -500,7 +514,9 @@
     <MainItem>
       <Key>Middleton</Key>
       <Forenames>G. P.</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +706,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E. L.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +780,9 @@
       <Key>Mountbatten</Key>
       <Title>Lord</Title>
       <Forenames>L. F. A. V. N.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +798,9 @@
     <MainItem>
       <Key>Mudie</Key>
       <Forenames>R. F.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

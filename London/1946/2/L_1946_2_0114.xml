@@ -231,7 +231,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T, R</Text>
+      <Forenames>T</Forenames>
+      <Text>, R</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +269,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P H</Text>
+      <Forenames>P</Forenames>
+      <Text>H</Text>
       <PageNumber>1915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croxton</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +540,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P J</Text>
+      <Forenames>P</Forenames>
+      <Text>J</Text>
       <PageNumber>3290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +783,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalkeith</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +889,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>T, E</Text>
+      <Forenames>T</Forenames>
+      <Text>, E</Text>
       <PageNumber>1915</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
@@ -1021,7 +1026,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1035,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,17 +1250,50 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh-Thomas</Forenames>
-      <Text>, R. F. A</Text>
+      <Key>de Bere</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>1748</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bounbon</Key>
+      <Forenames>M. A. H. R.</Forenames>
+      <PageNumber>1975</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh-Thomas</Key>
+      <Forenames>R. F. A</Forenames>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Whalley</Forenames>
-      <Text>, G. C</Text>
+      <Key>de Courcey</Key>
+      <Forenames>D. L. P.</Forenames>
+      <PageNumber>1914</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>1744</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vail</Key>
+      <Forenames>J. E.</Forenames>
+      <PageNumber>2177</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Whalley</Key>
+      <Forenames>G. C.</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,14 +1831,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodge</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2161,7 +2199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dufall</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2177</PageNumber>
     </MainItem>
   </ItemGroup>

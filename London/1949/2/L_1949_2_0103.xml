@@ -3,10 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>2258</PageNumber>
       <PageNumber>2711</PageNumber>
-      <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -63,7 +62,6 @@
       <Key>Wolverton</Key>
       <Forenames>M. S.</Forenames>
       <PageNumber>2908</PageNumber>
-      <PageNumber>2966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -98,8 +96,6 @@
       <Key>Wood</Key>
       <Text>&amp; Newton</Text>
       <PageNumber>2770</PageNumber>
-      <PageNumber>2771</PageNumber>
-      <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -113,7 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worland</Key>
-      <Text>, fW</Text>
+      <Text>fW</Text>
       <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, A:</Text>
+      <Forenames>A</Forenames>
+      <Text>:</Text>
       <PageNumber>2646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Y</Key>
-      <Text>. J. Lovell &amp; Son</Text>
+      <Forenames>J. Lovell</Forenames>
+      <Text>&amp; Son</Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +279,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H S</Text>
+      <Forenames>H</Forenames>
+      <Text>S</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,10 +304,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Zargel</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2261</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>SCOTTISH BANKRUPTS</CategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>

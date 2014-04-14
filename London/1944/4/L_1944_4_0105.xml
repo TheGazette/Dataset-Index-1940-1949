@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunning</Key>
-      <Text>, *F. B,</Text>
+      <Text>*F. B,</Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +765,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>, C, Corr</Text>
+      <Forenames>C</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +975,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T&gt; Cane</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt; Cane</Text>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1077,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1180,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H F</Text>
+      <Forenames>H</Forenames>
+      <Text>F</Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1238,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1247,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>4685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,14 +1458,15 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eglinton</Key>
-      <Text>, A,. E. T. .:</Text>
+      <Forenames>A</Forenames>
+      <Text>,. E. T. .:</Text>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmes</Key>
-      <Text>, J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>5386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Else</Key>
-      <Text>,. W</Text>
+      <Text>. W</Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Embley</Key>
-      <Text>.W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1857,7 +1862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmerson</Key>
-      <Text>, b. S</Text>
+      <Text>b. S</Text>
       <PageNumber>5951</PageNumber>
     </MainItem>
   </ItemGroup>

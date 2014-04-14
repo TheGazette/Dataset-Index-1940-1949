@@ -647,7 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traubv-A</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trew</Key>
-      <Text>H. F</Text>
+      <Forenames>H. F .</Forenames>
       <PageNumber>555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trusler</Key>
-      <Text>E. S</Text>
+      <Forenames>E. S .</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1713,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>j. S. (R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>125</PageNumber>
     </MainItem>
   </ItemGroup>

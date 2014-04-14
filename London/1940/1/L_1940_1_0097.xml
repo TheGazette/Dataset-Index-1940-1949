@@ -6,7 +6,9 @@
     <MainItem>
       <Key>Chester</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Geoffrey Egerton Warburton, D.S.O., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,7 +17,9 @@
       <Key>Merioneth</Key>
       <Title>Major</Title>
       <Forenames>Henry Meredyth Richards</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,14 +28,18 @@
       <Key>Surrey</Key>
       <Title>the Hon.</Title>
       <Forenames>Roland Calvert Cubitt</Forenames>
-      <Text>, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>; James Winstanley Cropper, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>1847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>! Pott, Capt. W. T., M.C., resignation</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>463</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +68,10 @@
     <MainItem>
       <Key>Kingston-upon-Hull</Key>
       <Title>Lt.</Title>
-      <Text>-Col James Walker, C.B.E., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,15 +99,20 @@
     <MainItem>
       <Key>Southampton</Key>
       <Title>Lt.-Col.</Title>
-      <Forenames>Albert</Forenames>
-      <Text>de Lande Long, D.S.O</Text>
+      <Forenames>Albert de Lande Long</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Borwick, Lieut. Colonel G. O., D.S.O., T.D., resignation</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>164</PageNumber>
     </MainItem>
     <SubItem>

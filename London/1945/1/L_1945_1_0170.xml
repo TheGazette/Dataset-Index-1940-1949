@@ -151,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merrill</Key>
-      <Text>P. W</Text>
+      <Forenames>P. W.</Forenames>
       <PageNumber>869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merry</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meynell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W\</Text>
+      <Forenames>W</Forenames>
+      <Text>\</Text>
       <PageNumber>1725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +519,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Milbanlte</Key>
-      <Text>Sir' J.C. P., Bt</Text>
+      <Title>Sir</Title>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>410</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -770,7 +774,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +969,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1063,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millson</Key>
-      <Text>V Millward, j; (167073)</Text>
+      <Forenames>V</Forenames>
+      <Text>Millward, j; (167073)</Text>
       <PageNumber>403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milstead</Key>
-      <Text>V, R. C</Text>
+      <Forenames>V</Forenames>
+      <Text>, R. C</Text>
       <PageNumber>1587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moneypennv</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F.</Forenames>
       <PageNumber>814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>G, R</Text>
+      <Forenames>G</Forenames>
+      <Text>, R</Text>
       <PageNumber>508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,14 +1452,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mootl</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1725</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moodie</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1605,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>X. A. C</Text>
+      <Text>X. A. C.</Text>
       <PageNumber>400</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1612,7 +1619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moors</Key>
-      <Text>T&gt;. C. .W</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. C. .W</Text>
       <PageNumber>1125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1719,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>D;. w.;</Text>
+      <Forenames>D</Forenames>
+      <Text>;. w.;</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>

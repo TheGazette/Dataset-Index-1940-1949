@@ -100,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>de Saone, J. F. R</Text>
+      <Forenames>de Saone</Forenames>
+      <Text>, J. F. R</Text>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puckey</Key>
-      <Text>. C. S. F</Text>
+      <Forenames>C. S. F.</Forenames>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purnell</Key>
-      <Text>. W. A</Text>
+      <Forenames>W. A .</Forenames>
       <PageNumber>5996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,14 +434,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pye</Key>
-      <Text>. H. J</Text>
+      <Forenames>H. J .</Forenames>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pyke</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C .</Forenames>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,14 +457,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pym</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F .</Forenames>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pyman</Key>
-      <Text>. C. D</Text>
+      <Forenames>C. D.</Forenames>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinlan</Key>
-      <Text>. D. W. A. . Quinn, I. O'L</Text>
+      <Forenames>D. W. A.</Forenames>
+      <Text>. Quinn, I. O'L</Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rapozo</Key>
-      <Forenames>A. P. S. De P.</Forenames>
+      <Forenames>A. P. S. De P</Forenames>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reading</Key>
-      <Text>. S. F</Text>
+      <Forenames>S. F .</Forenames>
       <PageNumber>7284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>. A. S</Text>
+      <Forenames>A. S</Forenames>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,7 +1909,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6748</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -673,7 +673,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>Hon. R C J 1386, r</Text>
+      <Title>Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>C J 1386, r</Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +924,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L ; gsi, i87. x</Text>
+      <Forenames>L</Forenames>
+      <Text>; gsi, i87. x</Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1362,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1957,7 +1960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merrill</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2093,7 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milburn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2128,7 +2131,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,7 +2191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2269,7 +2272,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>977</PageNumber>
     </MainItem>
     <SubItem>
@@ -2282,8 +2285,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sub</Forenames>
-      <Text>. not</Text>
+      <Title>Sub.</Title>
+      <Text>not</Text>
       <PageNumber>1159</PageNumber>
     </MainItem>
     <SubItem>
@@ -2320,7 +2323,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>1384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2417,7 +2420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minnis</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1038</PageNumber>
     </MainItem>
   </ItemGroup>

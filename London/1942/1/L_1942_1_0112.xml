@@ -71,7 +71,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +81,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, C</Text>
+      <Forenames>J</Forenames>
+      <Text>, C</Text>
       <PageNumber>1395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R K</Text>
+      <Forenames>R</Forenames>
+      <Text>K</Text>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Royce</Key>
-      <Text>W B</Text>
+      <Forenames>W</Forenames>
+      <Text>B</Text>
       <PageNumber>1396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>A: F</Text>
+      <Forenames>A</Forenames>
+      <Text>: F</Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,15 +1204,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, E. F</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>1396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, T. A</Text>
+      <Key>St. John</Key>
+      <Forenames>T. A.</Forenames>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1481,8 +1486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. A. de B</Forenames>
       <PageNumber>1338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1872,7 @@
       <PageNumber>350</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>145.</Text>
+      <Text>145</Text>
       <PageNumber>455</PageNumber>
     </SubItem>
   </ItemGroup>

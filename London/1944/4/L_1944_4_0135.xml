@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twells</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,24 +386,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Broek</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Broek</Forenames>
       <Text>, L. R</Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Helstraete</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Helstraete</Forenames>
       <Text>, M . L</Text>
       <PageNumber>5199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Title>Eesbeck.</Title>
+      <Key>Van Eesbeck</Key>
       <Forenames>P.</Forenames>
       <Text>T----</Text>
       <PageNumber>5912</PageNumber>
@@ -411,25 +410,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Guylenburg</Forenames>
-      <Text>, R. O'B</Text>
+      <Key>Van Guylenburg</Key>
+      <Forenames>R. O'B</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Stockum</Forenames>
-      <Text>, J. E. M. '</Text>
+      <Key>Van Stockum</Key>
+      <Forenames>J. E. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>4528</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wadenoijen</Forenames>
-      <Text>, H. C</Text>
+      <Key>Van Wadenoijen</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>, F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>4914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verschoyle</Key>
-      <Text>,; M. J S</Text>
+      <Text>; M. J S</Text>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1588,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. M. Du S.</Forenames>
+      <Forenames>M. M. Du S</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,7 +1880,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,7 +2046,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T*t___ ___ J-</Text>
+      <Forenames>T</Forenames>
+      <Text>*t___ ___ J-</Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2095,8 +2094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmisley</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2226,7 +2224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2295,7 +2293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>. ___ ___ JL</Text>
+      <Text>___ ___ JL</Text>
       <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>

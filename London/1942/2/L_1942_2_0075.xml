@@ -435,36 +435,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Boyle, M. A</Text>
+      <Key>O'Boyle</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>2372</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Hitching, G. H</Text>
+      <Key>O'Brien-Hitching</Key>
+      <Forenames>G. H.</Forenames>
       <PageNumber>2280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, R. -</Text>
+      <Key>O'Connell</Key>
+      <Forenames>R.</Forenames>
+      <Text>-</Text>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>1911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,22 +487,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, A. S</Text>
+      <Key>O'Dell</Key>
+      <Forenames>A. S.</Forenames>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, A. W</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>A. W.</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,15 +515,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, E. E</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>E. E.</Forenames>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quin</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendall</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorney</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,7 +1763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staves</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,7 +1784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,7 +1832,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stickle</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2150,8 +2151,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. S. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>E. S. O'G</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>

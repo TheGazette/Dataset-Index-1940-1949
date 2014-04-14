@@ -220,16 +220,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Meulen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Meulen</Forenames>
       <Text>, C</Text>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Veen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Veen</Forenames>
       <Text>, C. W</Text>
       <PageNumber>2684</PageNumber>
     </MainItem>
@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vanner</Key>
-      <Text>W. H. T</Text>
+      <Forenames>W. H. T.</Forenames>
       <PageNumber>1910</PageNumber>
       <PageNumber>2370</PageNumber>
     </MainItem>
@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veal</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vercelli</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1861</PageNumber>
     </MainItem>
     <SubItem>
@@ -570,15 +570,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Vinson</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vintras</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de T</Text>
+      <Forenames>R. E. de T</Forenames>
       <PageNumber>1744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddell</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wadsworth</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2825</PageNumber>
     </MainItem>
     <SubItem>
@@ -775,7 +774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waghorn</Key>
-      <Text>T&gt;. J</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. J</Text>
       <PageNumber>1744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waite</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2053</PageNumber>
     </MainItem>
     <SubItem>

@@ -124,8 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawthorn</Key>
-      <Forenames>W. L. St</Forenames>
-      <Text>. G W</Text>
+      <Forenames>W. L. St. G W.</Forenames>
       <PageNumber>1912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>B. J_</Text>
+      <Forenames>B. J</Forenames>
+      <Text>_</Text>
       <PageNumber>3621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,6 +1100,35 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fleury</Key>
+      <Title>Visct.</Title>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>3783</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kitcat</Key>
+      <Forenames>C. W.</Forenames>
+      <PageNumber>2630</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>2471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Veulle</Key>
+      <Forenames>F. J. D.</Forenames>
+      <PageNumber>2472</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>J. D</Forenames>
       <PageNumber>2473</PageNumber>
@@ -1175,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dimitri</Key>
-      <Text>H.H. Prince</Text>
+      <Title>H.H. Prince</Title>
       <PageNumber>2471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,9 +1319,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, R. A</Text>
+      <Key>Du Val</Key>
+      <Forenames>R. A .</Forenames>
       <PageNumber>2631</PageNumber>
     </MainItem>
   </ItemGroup>

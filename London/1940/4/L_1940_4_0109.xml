@@ -20,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>5350</PageNumber>
       <PageNumber>6263</PageNumber>
     </MainItem>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drury</Key>
-      <Text>. E. S. D</Text>
+      <Forenames>E. S. D.</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eldon</Key>
-      <Text>. Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6872</PageNumber>
       <PageNumber>6873</PageNumber>
     </MainItem>
@@ -1179,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eldred</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>6144</PageNumber>
     </MainItem>
   </ItemGroup>

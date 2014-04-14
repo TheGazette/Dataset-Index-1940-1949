@@ -162,7 +162,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>DL.-Bayly-Jones, P.' Baynharn, B. H. G. M. Beal, G, E.. S. B. St^G*</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>G. R</Text>
+      <Forenames>G. R.</Forenames>
       <PageNumber>4714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowker</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1461,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4828</PageNumber>
     </MainItem>
     <SubItem>
@@ -1506,7 +1508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramley</Key>
-      <Text>E, A</Text>
+      <Forenames>E</Forenames>
+      <Text>, A</Text>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1541,7 +1544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brearley</Key>
-      <Text>G: D</Text>
+      <Forenames>G</Forenames>
+      <Text>: D</Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,8 +1681,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jrw</Forenames>
-      <Text>.s</Text>
+      <Title>Jrw.</Title>
+      <Text>s</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,7 +1752,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromidge</Key>
-      <Text>H: T</Text>
+      <Forenames>H</Forenames>
+      <Text>: T</Text>
       <PageNumber>5174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1899,7 +1904,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A (R.N.V.R.)</Text>
+      <Forenames>A</Forenames>
+      <Text>(R.N.V.R.)</Text>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2119,8 +2125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan</Key>
-      <Title>St.</Title>
-      <Forenames>J. M. V.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>M. V.</Forenames>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2141,7 +2147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2226,7 +2232,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>

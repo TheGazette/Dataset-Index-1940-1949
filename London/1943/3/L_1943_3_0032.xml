@@ -244,7 +244,7 @@
       <Key>
         <KeyDitto>___ ___ ...</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
     <SubItem>
@@ -298,8 +298,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Roy L.</Forenames>
+      <Key>Van Roy</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>4224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vihing</Key>
-      <Text>, L°. J. H</Text>
+      <Forenames>L</Forenames>
+      <Text>°. J. H</Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddell</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +476,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +581,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W. J</Forenames>
-      <Text>Bt. ___ ___ S. J</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4225</PageNumber>
     </MainItem>
     <SubItem>
@@ -1133,7 +1136,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>

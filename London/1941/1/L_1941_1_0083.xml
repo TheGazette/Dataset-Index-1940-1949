@@ -126,7 +126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendrick</Key>
-      <Text>T. W</Text>
+      <Forenames>T. W.</Forenames>
       <PageNumber>1294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenworthy</Key>
-      <Text>C. R. Dl. Kenyon, CD</Text>
+      <Forenames>C. R. Dl</Forenames>
+      <Text>. Kenyon, CD</Text>
       <PageNumber>1725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kew</Key>
-      <Text>R. W</Text>
+      <Forenames>R. W .</Forenames>
       <PageNumber>1275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,8 +1080,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. V. St</Forenames>
-      <Text>. J. ... o Kilner, E. S Kimber, A. V</Text>
+      <Forenames>P. V. St. J</Forenames>
+      <Text>. ... o Kilner, E. S Kimber, A. V</Text>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,8 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. M. St. G</Forenames>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>

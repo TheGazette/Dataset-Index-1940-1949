@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +641,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1024,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1254,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2926</PageNumber>
       <PageNumber>3357</PageNumber>
     </MainItem>
@@ -1352,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,7 +1730,9 @@
       <Key>Cory</Key>
       <Title>Sir</Title>
       <Forenames>C. J. D.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2122,7 +2124,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S: V</Text>
+      <Forenames>S</Forenames>
+      <Text>: V</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>

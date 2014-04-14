@@ -284,10 +284,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laney</Forenames>
-      <Text>, A. P</Text>
+      <Key>de Aveyro</Key>
+      <Forenames>L. C.</Forenames>
+      <Text>y M. J</Text>
+      <PageNumber>4557</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boecklins</Key>
+      <Forenames>P. P. B.</Forenames>
+      <PageNumber>4050</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Laney</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>5040</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, A. J</Text>
+      <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1201,8 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnham</Key>
-      <Forenames>H. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>H. J. St. M</Forenames>
       <PageNumber>4326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1392,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,8 +1816,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,7 +1837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gabriel</Key>
-      <Text>W. M</Text>
+      <Forenames>W. M.</Forenames>
       <PageNumber>4048</PageNumber>
     </MainItem>
   </ItemGroup>

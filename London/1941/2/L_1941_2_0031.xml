@@ -516,7 +516,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>B. O.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +604,8 @@
     <MainItem>
       <Key>Jackson</Key>
       <Title>Sir</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. J., Knight Commander, Order of the British Empire</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +675,9 @@
     <MainItem>
       <Key>Jayne</Key>
       <Forenames>R. F. G.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +709,9 @@
     <MainItem>
       <Key>Jerram</Key>
       <Forenames>R. M.</Forenames>
-      <Text>, Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +809,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. E.</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +881,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Louis</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +981,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kane</Key>
-      <Text>. R. E., Officer, Order of the British Empire</Text>
+      <Forenames>R. E.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>1866</PageNumber>
     </MainItem>
   </ItemGroup>

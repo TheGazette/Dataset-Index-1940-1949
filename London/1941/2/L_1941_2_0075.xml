@@ -278,7 +278,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>G. R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G .</Forenames>
       <PageNumber>3657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1339,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>W. C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,8 +1453,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -173,7 +173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakeford</Key>
-      <Text>P7 F: T</Text>
+      <Forenames>P</Forenames>
+      <Text>7 F: T</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>R: V</Text>
+      <Forenames>R</Forenames>
+      <Text>: V</Text>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkden</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>2058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +345,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A;. W. ..; 1539,,</Text>
+      <Forenames>A</Forenames>
+      <Text>;. W. ..; 1539,,</Text>
       <PageNumber>2058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +717,7 @@
       <Key>
         <KeyDitto>___ ___ ...;</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +994,7 @@
       <Key>
         <KeyDitto>___ ___ .:</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1090,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>1666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1147,8 @@
       <Key>
         <KeyDitto>___ ___ —,</KeyDitto>
       </Key>
-      <Text>W, C</Text>
+      <Forenames>W</Forenames>
+      <Text>, C</Text>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,8 +1532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wafhufst</Key>
-      <Forenames>Wlf</Forenames>
-      <Text>. ...:i</Text>
+      <Title>Wlf .</Title>
+      <Text>...:i</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1950,7 +1955,7 @@
       <Key>
         <KeyDitto>___ -— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2039,7 +2044,8 @@
       <Key>
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>A, 7L. ...:.'</Text>
+      <Forenames>A</Forenames>
+      <Text>, 7L. ...:.'</Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>

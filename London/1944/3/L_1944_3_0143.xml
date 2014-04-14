@@ -236,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zimmermann</Key>
-      <Text>A 4«</Text>
+      <Forenames>A</Forenames>
+      <Text>4«</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billyeald</Key>
-      <Text>P. F</Text>
+      <Forenames>P. F.</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldbeck</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1031,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W „ Fitzwilliams, I. B</Text>
+      <Forenames>W</Forenames>
+      <Text>„ Fitzwilliams, I. B</Text>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,9 +1040,9 @@
   <KeyDitto>___ — ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fonblanque</Forenames>
-      <Text>, S. B. M. Galsworthy. E. H</Text>
+      <Key>De Fonblanque</Key>
+      <Forenames>S. B. M. Galsworthy</Forenames>
+      <Text>. E. H</Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
     <SubItem>

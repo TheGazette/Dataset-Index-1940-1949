@@ -374,8 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. P. O'C</Forenames>
       <PageNumber>928</PageNumber>
       <PageNumber>1711</PageNumber>
     </MainItem>
@@ -936,15 +935,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. W.</Forenames>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. P</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,8 +1099,8 @@
   <SectionTitle>Commands and Staff</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T</Forenames>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>C. E</Text>
+      <Forenames>C. E .</Forenames>
       <PageNumber>1712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,8 +1596,7 @@
     <MainItem>
       <Key>Brock</Key>
       <Title>Sir</Title>
-      <Forenames>O.</Forenames>
-      <Text>de B</Text>
+      <Forenames>O. de B</Forenames>
       <PageNumber>1394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1611,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyes</Key>
-      <Text>SirR. J. B., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,7 +1630,9 @@
       <Key>Tyrwhitt</Key>
       <Title>Sir</Title>
       <Forenames>R. Y.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1394</PageNumber>
     </MainItem>
   </ItemGroup>

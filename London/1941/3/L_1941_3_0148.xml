@@ -570,8 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gratte</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>5167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2064,7 +2063,9 @@
       <Key>Guinness</Key>
       <Title>Sir</Title>
       <Forenames>A. A. St</Forenames>
-      <Text>. L. L. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5438</PageNumber>
     </MainItem>
   </ItemGroup>

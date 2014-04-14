@@ -630,7 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piltey</Key>
-      <Text>. C. A. L</Text>
+      <Forenames>C. A. L .</Forenames>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinner</Key>
-      <Text>.*. B. W, L</Text>
+      <Text>*. B. W, L</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
     <SubItem>
@@ -830,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pite</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R</Forenames>
       <PageNumber>4363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1128,9 @@
       <Key>Pollen</Key>
       <Title>Sir</Title>
       <Forenames>J. L. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,8 +1756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. O'B</Forenames>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,7 +1883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prebble</Key>
-      <Text>. E. S</Text>
+      <Forenames>E. S.</Forenames>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>

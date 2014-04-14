@@ -466,7 +466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winfield</Key>
-      <Text>D.K. -</Text>
+      <Forenames>D.K.</Forenames>
+      <Text>-</Text>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winkley</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>3126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +581,7 @@
       <PageNumber>2349</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>JH.</Text>
+      <Text>JH</Text>
       <PageNumber>3268</PageNumber>
     </SubItem>
     <SubItem>
@@ -591,14 +592,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Text>F; W</Text>
+      <Forenames>F</Forenames>
+      <Text>; W</Text>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Winterbottom</Key>
-      <Text>H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +953,7 @@
       <PageNumber>2347</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>C. A. ... VV.</Text>
+      <Text>C. A. ... VV</Text>
       <PageNumber>1842</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1006,7 +1009,9 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>MM G. (167069)'</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>3126</PageNumber>
     </MainItem>
     <SubItem>

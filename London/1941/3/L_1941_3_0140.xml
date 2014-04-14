@@ -702,8 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cramp</Key>
-      <Forenames>C. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. C. St. J</Forenames>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,8 +1631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culpin</Key>
-      <Forenames>F.</Forenames>
-      <Text>de M</Text>
+      <Forenames>F. de M</Forenames>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,8 +1798,10 @@
     <MainItem>
       <Key>Cunynghame</Key>
       <Title>Sir</Title>
-      <Forenames>H. D. St</Forenames>
-      <Text>. L. B. S., Bt</Text>
+      <Forenames>H. D. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>

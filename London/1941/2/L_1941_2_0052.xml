@@ -361,48 +361,50 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bary</Forenames>
-      <Text>, G. H</Text>
+      <Key>De Bary</Key>
+      <Forenames>G. H</Forenames>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bertodano</Forenames>
-      <Text>, A</Text>
+      <Key>De Bertodano</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>1889</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blaby</Forenames>
-      <Text>, R. E</Text>
+      <Key>De Blaby</Key>
+      <Forenames>R. E</Forenames>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bustros</Forenames>
-      <Text>, S. P</Text>
+      <Key>De Bustros</Key>
+      <Forenames>S. P</Forenames>
       <PageNumber>3015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Camps</Forenames>
-      <Text>, F</Text>
+      <Key>De Camps</Key>
+      <Forenames>F</Forenames>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rue</Forenames>
+      <Key>de Courcy-Baldwin</Key>
+      <Forenames>W. L.</Forenames>
+      <PageNumber>2494</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Rue</Forenames>
       <Text>, E. V</Text>
       <PageNumber>301</PageNumber>
     </MainItem>
@@ -417,42 +419,59 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Larrinaga</Forenames>
-      <Text>, R</Text>
+      <Key>De Larrinaga</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mestre</Forenames>
-      <Text>, D. J</Text>
+      <Key>de Mello</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mestre</Key>
+      <Forenames>D. J</Forenames>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Piro</Forenames>
-      <Text>, M. R. A</Text>
+      <Key>De Piro</Key>
+      <Forenames>M. R. A</Forenames>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pokorny</Forenames>
-      <Text>, L. L. M</Text>
+      <Key>De Pokorny</Key>
+      <Forenames>L. L. M</Forenames>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Quidt</Forenames>
-      <Text>, J. E. M</Text>
+      <Key>De Quidt</Key>
+      <Forenames>J. E. M</Forenames>
       <PageNumber>3503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rome</Key>
+      <Forenames>L. A</Forenames>
+      <PageNumber>3079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roquefeuil-Noel</Key>
+      <Forenames>V. A.</Forenames>
+      <PageNumber>2029</PageNumber>
+      <PageNumber>2573</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Substituted notice</Text>
@@ -461,17 +480,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Taranto</Forenames>
-      <Text>, V. D</Text>
+      <Key>de Segesser</Key>
+      <Forenames>J</Forenames>
+      <PageNumber>3007</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>R. E</Forenames>
+      <PageNumber>3079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Taranto</Key>
+      <Forenames>V. D</Forenames>
       <PageNumber>2356</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Terey</Forenames>
-      <Text>, L. P. S</Text>
+      <Key>De Terey</Key>
+      <Forenames>L. P. S</Forenames>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,7 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickman</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>3506</PageNumber>
     </MainItem>
   </ItemGroup>

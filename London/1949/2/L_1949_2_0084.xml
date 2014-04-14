@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maison</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mawtus</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mire</Key>
-      <Text>. &amp; Meakin</Text>
+      <Text>&amp; Meakin</Text>
       <PageNumber>2904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +139,7 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>Company</Forenames>
+      <Title>Company .</Title>
       <PageNumber>2254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkin</Key>
-      <Forenames>Frank</Forenames>
+      <Title>Frank .</Title>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>. &amp; S. Services</Text>
+      <Text>&amp; S. Services</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendezvous</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>2253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +426,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Helier Press</Text>
+      <Key>St. Helier</Key>
+      <Forenames>Press</Forenames>
       <PageNumber>2904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Forenames>Transport</Forenames>
+      <Title>Transport .</Title>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snowflake</Key>
-      <Forenames>Laundry</Forenames>
+      <Title>Laundry.</Title>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teale</Key>
-      <Text>, J„ Wholesale Agent</Text>
+      <Forenames>J</Forenames>
+      <Text>„ Wholesale Agent</Text>
       <PageNumber>2132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adcock</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1029,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainge</Key>
-      <Text>, A, M</Text>
+      <Forenames>A</Forenames>
+      <Text>, M</Text>
       <PageNumber>2973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2927</PageNumber>
     </MainItem>
     <SubItem>
@@ -1117,7 +1119,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2087</PageNumber>
     </MainItem>
     <SubItem>
@@ -1128,14 +1130,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Allcard</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2539</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>. A. A. (B)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>(B)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
     <SubItem>
@@ -1193,14 +1196,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Allrhan</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allott</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alvey</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,15 +1303,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrade</Key>
-      <Forenames>S. V.</Forenames>
-      <Text>de C</Text>
+      <Forenames>S. V. de C</Forenames>
       <PageNumber>1876</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Andresen</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angel</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anslow</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,14 +1389,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Archard</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1874</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archbold</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2023</PageNumber>
     </MainItem>
     <SubItem>
@@ -1474,7 +1476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arundel</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>2658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashworth</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2779</PageNumber>
     </MainItem>
     <SubItem>
@@ -1629,7 +1631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Axford</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Badrock</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

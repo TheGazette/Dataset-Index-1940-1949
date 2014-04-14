@@ -57,7 +57,9 @@
       <Key>Hallings-Pott</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>John Robert</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +67,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>John Forrest</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,10 @@
       <Key>Hamond</Key>
       <Title>Comdr. Charles .</Title>
       <Forenames>Edward</Forenames>
-      <Text>,. D.S.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +125,10 @@
       <Key>Harding</Key>
       <Title>Sir</Title>
       <Forenames>Edward John</Forenames>
-      <Text>, G.C.M.G., K.C.B., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,15 +172,20 @@
     <MainItem>
       <Key>Harvey</Key>
       <Forenames>Oliver Charles</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary attached to H.M. Embassy in Paris</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harwood</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Henry Harwood, O.B.E., Knight Commander, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Henry Harwood</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +240,10 @@
       </Key>
       <Title>Comdr.</Title>
       <Forenames>Oscar</Forenames>
-      <Text>, C.V.O., C.B.E., Officer (Brother), Order of St. John of Jerusalem;</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +252,9 @@
       <Key>Hensman</Key>
       <Title>Mrs.</Title>
       <Forenames>Mona</Forenames>
-      <Text>, M.B.E., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +270,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Forenames>Archibald Vivian</Forenames>
-      <Text>, O.B.E., F.R.S., Sc.D., Member of Parliament for Cambridge University</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +291,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Adams</Forenames>
-      <Text>, C.M.G., Governor and Commander-in-Chief, British Honduras ... ... Innes, Miss Edith Annie, Serving Sister, Order of St. John of Jerusalem ... Irving, David Jarvis Mill, H.M. Vice-Consul at Rabat</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +306,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Edwin</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... Kelly, David Victor, C.M.G., M.C., H.M Envoy Extraordinary and Minister Plenipotentiary at Berne Kelly, Elizabeth Hariott, C.B.E., Member, Royal 18 Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>155</PageNumber>
     </MainItem>
     <SubItem>

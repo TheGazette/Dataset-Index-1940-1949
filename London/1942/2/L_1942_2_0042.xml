@@ -116,7 +116,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, H. ... .;</Text>
+      <Forenames>J</Forenames>
+      <Text>, H. ... .;</Text>
       <PageNumber>1812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +157,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, J</Text>
+      <Forenames>J</Forenames>
+      <Text>, J</Text>
       <PageNumber>2245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potts</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +320,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pugh</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redfem</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,8 +957,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1100,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1677,7 @@
       <Key>
         <KeyDitto>—___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1869,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Text>J; E</Text>
+      <Forenames>J</Forenames>
+      <Text>; E</Text>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,7 +1985,8 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>J I75I Rossiter, F. B</Text>
+      <Forenames>J</Forenames>
+      <Text>I75I Rossiter, F. B</Text>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2103,7 +2106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudd</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2204,8 +2207,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, J..R</Text>
+      <Key>St. John</Key>
+      <Forenames>J.</Forenames>
+      <Text>.R</Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2228,7 +2232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2312,7 +2316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sahdford</Key>
-      <Text>E; G</Text>
+      <Forenames>E</Forenames>
+      <Text>; G</Text>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2356,7 +2361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>D: A</Text>
+      <Forenames>D</Forenames>
+      <Text>: A</Text>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2465,7 +2471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scillitoe</Key>
-      <Text>L; F</Text>
+      <Forenames>L</Forenames>
+      <Text>; F</Text>
       <PageNumber>1747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2598,7 +2605,9 @@
     <MainItem>
       <Key>Sears</Key>
       <Forenames>J.</Forenames>
-      <Text>R.D. , r8ri Seath, G. H</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>

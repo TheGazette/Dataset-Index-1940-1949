@@ -490,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Text>D. G</Text>
+      <Forenames>D. G .</Forenames>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1002,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1140,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. W</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1857,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>

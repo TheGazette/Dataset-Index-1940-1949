@@ -478,7 +478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>. J. S</Text>
+      <Forenames>J. S.</Forenames>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>D. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>D. C. de F</Forenames>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crockatt</Key>
-      <Text>. G. D</Text>
+      <Forenames>G. D.</Forenames>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosby</Key>
-      <Text>. R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,16 +1340,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bedwicke</Forenames>
-      <Text>, L. A. H</Text>
+      <Key>De Bedwicke</Key>
+      <Forenames>L. A. H.</Forenames>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Saint Pourcain</Forenames>
+      <Key>de Burgh</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>4011</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Saint</Key>
+      <Forenames>Pourcain</Forenames>
       <Text>, F. M. A. De Trairup, E. L</Text>
       <PageNumber>5599</PageNumber>
     </MainItem>
@@ -1724,7 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eldridee</Key>
-      <Text>. M. W</Text>
+      <Forenames>M. W.</Forenames>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>

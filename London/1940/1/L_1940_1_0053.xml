@@ -243,8 +243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. Q. G</Text>
+      <Forenames>B. St. Q</Forenames>
+      <Text>. G</Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,8 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prynne</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,8 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulley</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>1464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1461,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>

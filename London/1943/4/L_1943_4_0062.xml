@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4911</PageNumber>
     </MainItem>
     <SubItem>
@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4966</PageNumber>
     </MainItem>
     <SubItem>
@@ -154,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leake</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leates</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ledger</Key>
-      <Text>H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>5525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +296,7 @@
       <PageNumber>4353</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>H. C. R</Text>
+      <Text>H. C. R.</Text>
       <PageNumber>5071</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -324,7 +324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggat</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leil</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lenfestey</Key>
-      <Forenames>R.</Forenames>
-      <Text>de T. ..,</Text>
+      <Forenames>R. de T</Forenames>
+      <Text>. ..,</Text>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennan</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5127</PageNumber>
     </MainItem>
     <SubItem>
@@ -486,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lester</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4965</PageNumber>
     </MainItem>
     <SubItem>
@@ -602,7 +602,9 @@
       <Key>Lewthwaite</Key>
       <Title>Sir</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lichtig</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,18 +1041,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Logie</Key>
-      <Text>G. T. H</Text>
+      <Forenames>G. T. H.</Forenames>
       <PageNumber>5427</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W</Text>
+      <Text>W.</Text>
       <PageNumber>5280</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lole</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longmore</Key>
-      <Text>T A. H</Text>
+      <Forenames>T</Forenames>
+      <Text>A. H</Text>
       <PageNumber>4962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowden</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckins</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luff</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lunn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4353</PageNumber>
     </MainItem>
     <SubItem>
@@ -1567,7 +1570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynes</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1745,7 +1748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lythgoe</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,7 +1866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macbeth</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>

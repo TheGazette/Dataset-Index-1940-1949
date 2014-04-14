@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kohn</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>F H</Text>
+      <Forenames>F</Forenames>
+      <Text>H</Text>
       <PageNumber>3119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +132,7 @@
       <Key>
         <KeyDitto>___ ___ ].</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ladley</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Landale</Key>
-      <Text>K:</Text>
+      <Forenames>K</Forenames>
+      <Text>:</Text>
       <PageNumber>2472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,14 +589,16 @@
       <Key>Laurie</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lavin</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -519,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longden</Key>
-      <Text>. W. H. , 6T</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>, 6T</Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lonnon</Key>
-      <Text>., McA. P</Text>
+      <Text>, McA. P</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovegrove</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mabson</Key>
-      <Text>. H. R. V</Text>
+      <Forenames>H. R. V.</Forenames>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBretney</Key>
-      <Text>. E. P</Text>
+      <Forenames>E. P</Forenames>
       <PageNumber>6023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBryde</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>6555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,14 +1380,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McClellan</Key>
-      <Text>. S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McColl</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W .</Forenames>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,7 +1508,9 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Forenames>A.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1530,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>

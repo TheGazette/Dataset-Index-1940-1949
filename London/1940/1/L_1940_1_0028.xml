@@ -412,8 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknall</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. L</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. L</Text>
       <PageNumber>521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1872,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>J. S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>

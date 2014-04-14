@@ -348,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleson</Key>
-      <Text>. P. J</Text>
+      <Forenames>P. J.</Forenames>
       <PageNumber>5422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corkill</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>5025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,7 +1535,9 @@
       <Key>Cory</Key>
       <Title>Sir</Title>
       <Forenames>C. J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4285</PageNumber>
       <PageNumber>5166</PageNumber>
     </MainItem>

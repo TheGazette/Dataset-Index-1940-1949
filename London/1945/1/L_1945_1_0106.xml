@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blundell</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blyth</Key>
-      <Text>C. C</Text>
+      <Forenames>C. C .</Forenames>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +521,9 @@
       <Key>Bonham</Key>
       <Title>Sir</Title>
       <Forenames>A. L. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +881,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Text>P. O'F</Text>
+      <Forenames>P. O'F</Forenames>
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1112,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: C. H. .'</Text>
+      <Forenames>J</Forenames>
+      <Text>: C. H. .'</Text>
       <PageNumber>739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bragg</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,8 +1848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. '</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. '</Text>
       <PageNumber>977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2081,7 +2084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broughton</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2097,8 +2100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brounlie</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. A. de B</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>

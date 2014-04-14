@@ -737,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clift</Key>
-      <Text>. J. W</Text>
+      <Forenames>J. W.</Forenames>
       <PageNumber>891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1481,21 +1481,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornelius-Wheeler</Key>
-      <Text>, S C</Text>
+      <Forenames>S</Forenames>
+      <Text>C</Text>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornell</Key>
-      <Text>. W. S</Text>
+      <Forenames>W. S.</Forenames>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Comer</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,7 +1559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Costobadie</Key>
-      <Text>. A. N</Text>
+      <Forenames>A. N.</Forenames>
       <PageNumber>170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1732,7 +1733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craddock</Key>
-      <Text>. S. B</Text>
+      <Forenames>S. B.</Forenames>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Text>. W. D</Text>
+      <Forenames>W. D.</Forenames>
       <PageNumber>448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1855,14 +1856,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crole-Rees</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>891</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crompton-Smith</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,7 +2058,9 @@
       <Key>Cunningham</Key>
       <Title>Sir</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2642,6 +2645,20 @@
       </Key>
       <Forenames>W. E.</Forenames>
       <PageNumber>663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Broughton</Key>
+      <Forenames>J. A. D.</Forenames>
+      <PageNumber>447</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Malpas-Finlay</Key>
+      <Forenames>G. P.</Forenames>
+      <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

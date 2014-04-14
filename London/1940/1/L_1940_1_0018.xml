@@ -23,7 +23,10 @@
       <PageNumber>1101</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.M. Envoy Extraordinary and Minister Plenipotentiary, Donald St: Clair Gainer, C.M.G., O.B.E</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -39,7 +42,9 @@
     <MainItem>
       <Key>War</Key>
       <Forenames>Secretary</Forenames>
-      <Text>of State for, Rt. Hon. Oliver Frederick George Stanley, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +78,9 @@
       <PageNumber>788</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Governor and Commanderin-Chief, Sir Henry Bradshaw Popham, K.C.M.G., M.B.E</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>19</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -81,7 +88,10 @@
     <MainItem>
       <Key>Yugoslavia</Key>
       <Forenames>H.M.</Forenames>
-      <Text>the King of, H.M. Envoy Extraordinary and Minister Plenipotentiary, Ronald Ian Campbell, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>1100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +107,9 @@
     <MainItem>
       <Key>Zagreb</Key>
       <Forenames>H.M. Cohsul-General</Forenames>
-      <Text>, Thomas Cecil Rapp, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +127,10 @@
       <Key>Chavasse</Key>
       <Title>the Rev.</Title>
       <Forenames>Christopher Maude</Forenames>
-      <Text>, O.B.E., M.C., M.A., recommended for election as Bishop of Rochester</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +148,9 @@
       <Key>Partridge</Key>
       <Title>the Rev.</Title>
       <Forenames>Augustus George</Forenames>
-      <Text>, M.B.E., presented to the Vicarage of Holy Trinity, Forest of Dean</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +211,9 @@
       <Key>Anderson</Key>
       <Title>Sir</Title>
       <Forenames>Alan</Forenames>
-      <Text>, G.B.E., Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +249,9 @@
     <MainItem>
       <Key>Baird</Key>
       <Forenames>Francis Alexander Seth</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... Barrie, Sir Charles, K.B.E., Steward and Bailiff of the Three Hundreds of Chiltern Barrow, Paymr. Capt. Hubert Lloyd, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +269,9 @@
       <Key>Bell</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick Seeker</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,8 +303,8 @@
     <MainItem>
       <Key>Bilderbeck</Key>
       <Title>Lt.-Col.</Title>
-      <Forenames>Alured Charles Lowther O</Forenames>
-      <Text>'Shee, M.R.C.S., L.R.C.P., D.P.H., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Forenames>Alured Charles Lowther O'Shee</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., D.P.H., Officer (Brother), Order of St. John of Jerusalem</Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +313,9 @@
       <Key>Birchall</Key>
       <Title>Sir</Title>
       <Forenames>John Dearman</Forenames>
-      <Text>, T.D., Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +341,9 @@
       <Key>Boswell</Key>
       <Title>Comdr.</Title>
       <Forenames>Lennox Albert Knox</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

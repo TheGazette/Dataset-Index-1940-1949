@@ -148,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hohnson</Key>
-      <Text>H. P. H</Text>
+      <Forenames>H. P. H.</Forenames>
       <PageNumber>1367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,8 +465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollis</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. J:</Text>
+      <Forenames>D. A. St. J</Forenames>
+      <Text>:</Text>
       <PageNumber>71</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +800,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>356</PageNumber>
       <PageNumber>520</PageNumber>
     </MainItem>
@@ -1313,8 +1315,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>R. T. O'B</Forenames>
       <PageNumber>1152</PageNumber>
     </MainItem>
   </ItemGroup>

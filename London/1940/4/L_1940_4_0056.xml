@@ -392,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E .</Forenames>
       <PageNumber>6002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsley</Key>
-      <Text>. TT</Text>
+      <Text>TT</Text>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hosack</Key>
-      <Forenames>P. M. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>P. M. O'F</Forenames>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1136,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. B.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulburd</Key>
-      <Text>. I. M</Text>
+      <Forenames>I. M</Forenames>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>

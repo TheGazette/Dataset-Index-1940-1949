@@ -246,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bussey</Key>
-      <Text>, IE. F. G</Text>
+      <Text>IE. F. G</Text>
       <PageNumber>5717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell-Niohols</Key>
-      <Text>, M A</Text>
+      <Forenames>M</Forenames>
+      <Text>A</Text>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,8 +728,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>B. O'C</Forenames>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,14 +828,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Caneri</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cannon</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,8 +886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. D. St. G</Forenames>
       <PageNumber>5350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,8 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>5349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1055,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lord ,</Text>
+      <Title>Lord</Title>
+      <Text>,</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawkwell</Key>
-      <Text>, G -</Text>
+      <Forenames>G</Forenames>
+      <Text>-</Text>
       <PageNumber>5356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ceytlin</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,7 +1746,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1931,7 +1931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevalier-Hothersall</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawley</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +440,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>I D</Text>
+      <Forenames>I</Forenames>
+      <Text>D</Text>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,9 +556,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E. E</Text>
+      <Key>De Brath</Key>
+      <Forenames>E. E.</Forenames>
       <PageNumber>403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devlin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dix</Key>
-      <Text>D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbourn</Key>
-      <Text>A: N</Text>
+      <Forenames>A</Forenames>
+      <Text>: N</Text>
       <PageNumber>717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnett</Key>
-      <Text>T, H. H</Text>
+      <Forenames>T</Forenames>
+      <Text>, H. H</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1794,14 +1796,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gladwin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>

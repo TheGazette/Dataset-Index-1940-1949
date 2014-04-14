@@ -428,7 +428,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +441,9 @@
         <KeyDitto>___ ___ ___ ___ :</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>C. L</Text>
+      <Forenames>C. L .</Forenames>
       <PageNumber>286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>A. P. H</Text>
+      <Forenames>A. P. H.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>

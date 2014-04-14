@@ -184,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>. B. V</Text>
+      <Forenames>B. V .</Forenames>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +315,7 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Sir</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1106,9 @@
       <Key>Lampson</Key>
       <Title>Sir</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,7 +1935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lazenby</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>

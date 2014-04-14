@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boath</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +356,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brandon</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>1568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +633,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,14 +829,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bugg</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrell</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1294,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnell</Key>
-      <Text>F,</Text>
+      <Forenames>F</Forenames>
+      <Text>,</Text>
       <PageNumber>2314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cayley</Key>
-      <Text>Sir K. H. E</Text>
+      <Title>Sir</Title>
+      <Forenames>K. H. E</Forenames>
       <PageNumber>2944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1589,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1598,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1607,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>

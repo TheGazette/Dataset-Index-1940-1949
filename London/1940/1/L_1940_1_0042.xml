@@ -805,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde-Sander</Key>
-      <Text>R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>1828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1431,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>

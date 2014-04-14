@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>. S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,6 +243,13 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Chaplains</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Text>CP</Text>
+      <PageNumber>5655</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keen</Key>
@@ -647,7 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigg</Key>
-      <Text>. E. J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>4269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>4721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,8 +1273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyne</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>

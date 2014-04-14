@@ -191,7 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benningham</Key>
-      <Text>.C. C. O:</Text>
+      <Forenames>C. C. O</Forenames>
+      <Text>:</Text>
       <PageNumber>6502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibb</Key>
-      <Text>. A. E -</Text>
+      <Forenames>A. E</Forenames>
+      <Text>-</Text>
       <PageNumber>6757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bind</Key>
-      <Text>. K. M</Text>
+      <Forenames>K. M.</Forenames>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,8 +1714,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>7120</PageNumber>
     </MainItem>
   </ItemGroup>

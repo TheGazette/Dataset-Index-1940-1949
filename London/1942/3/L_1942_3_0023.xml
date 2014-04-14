@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorns</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,17 +308,16 @@
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zyl</Forenames>
-      <Text>, J. P</Text>
+      <Key>Van Zyl</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>3952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vane-Hunt</Key>
-      <Forenames>I. D. O</Forenames>
-      <Text>'C., Corr</Text>
+      <Forenames>I. D. O'C</Forenames>
+      <Text>., Corr</Text>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +565,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zahra</Key>
-      <Text>J. ___ ___ ___ R. M. J</Text>
+      <Forenames>J.</Forenames>
+      <Text>___ ___ ___ R. M. J</Text>
       <PageNumber>4025</PageNumber>
     </MainItem>
     <SubItem>
@@ -811,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Asphar</Key>
-      <Text>J,. M</Text>
+      <Forenames>J</Forenames>
+      <Text>,. M</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +985,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>

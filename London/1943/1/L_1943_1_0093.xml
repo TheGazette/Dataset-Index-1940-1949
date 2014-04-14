@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howarth</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>327</PageNumber>
     </MainItem>
     <SubItem>
@@ -112,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubble</Key>
-      <Text>. B</Text>
+      <Forenames>B.</Forenames>
       <PageNumber>649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,14 +126,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudlass</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>265</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Idle</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>882</PageNumber>
     </MainItem>
     <SubItem>
@@ -658,8 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. V. St. C</Forenames>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lander</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +799,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layfield</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>, C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
     <SubItem>
@@ -1193,7 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macardle</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClay</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miles</Key>
-      <Text>,.A. E</Text>
+      <Text>.A. E</Text>
       <PageNumber>810</PageNumber>
     </MainItem>
     <SubItem>

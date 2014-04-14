@@ -410,7 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simkin</Key>
-      <Text>W,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>5934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W '</Text>
+      <Forenames>W</Forenames>
+      <Text>'</Text>
       <PageNumber>5931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1256,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,7 +1687,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>N, F ^</Text>
+      <Forenames>N</Forenames>
+      <Text>, F ^</Text>
       <PageNumber>5306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,7 +1707,8 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>P :</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,7 +1754,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T E</Text>
+      <Forenames>T</Forenames>
+      <Text>E</Text>
       <PageNumber>5814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1880,7 +1887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snaith</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1993,7 +2000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Soobiah</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2022,7 +2029,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sorel-Cameron</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5433</PageNumber>
     </MainItem>
   </ItemGroup>

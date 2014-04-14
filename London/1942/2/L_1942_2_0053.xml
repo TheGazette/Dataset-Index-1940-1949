@@ -533,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewins</Key>
-      <Text>L J,</Text>
+      <Forenames>L</Forenames>
+      <Text>J,</Text>
       <PageNumber>2023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,8 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnworth</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>N. St. A</Forenames>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrow</Key>
-      <Text>E. L</Text>
+      <Forenames>E. L.</Forenames>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>C J. M</Text>
+      <Forenames>C</Forenames>
+      <Text>J. M</Text>
       <PageNumber>1964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1733,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fligelstone</Key>
-      <Text>T: H</Text>
+      <Forenames>T</Forenames>
+      <Text>: H</Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1856,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2339,7 +2343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franckeiss</Key>
-      <Text>F: J</Text>
+      <Forenames>F</Forenames>
+      <Text>: J</Text>
       <PageNumber>1742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2465,7 +2470,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Hon. Master of Saltoun</Text>
+      <Title>Hon. Master</Title>
+      <Text>of Saltoun</Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>

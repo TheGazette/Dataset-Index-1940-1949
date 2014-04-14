@@ -419,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayres</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>5274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Backhouse</Key>
-      <Text>. H. J</Text>
+      <Forenames>H. J</Forenames>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,14 +468,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, W</Text>
+      <Forenames>J</Forenames>
+      <Text>, W</Text>
       <PageNumber>5145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Text>,, G. N</Text>
+      <Text>, G. N</Text>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,14 +653,16 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>. G. N. C. ... G. G. G. G. L. J. D. .. H. D. J. W. D</Text>
+      <Forenames>G. N. C.</Forenames>
+      <Text>... G. G. G. G. L. J. D. .. H. D. J. W. D</Text>
       <PageNumber>4858</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>. D. .. ... .. J. ... W. H.... R</Text>
+      <Forenames>D.</Forenames>
+      <Text>.. ... .. J. ... W. H.... R</Text>
       <PageNumber>5384</PageNumber>
     </MainItem>
   </ItemGroup>

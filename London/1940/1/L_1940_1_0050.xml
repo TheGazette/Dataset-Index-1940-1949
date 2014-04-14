@@ -601,7 +601,9 @@
       <Key>Musgrave</Key>
       <Title>Sir</Title>
       <Forenames>C. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neil</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>1821</PageNumber>
     </MainItem>
   </ItemGroup>

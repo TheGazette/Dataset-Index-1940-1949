@@ -120,7 +120,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A. C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purver</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H .</Forenames>
       <PageNumber>5407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quennell</Key>
-      <Text>. W. E. H</Text>
+      <Forenames>W. E. H.</Forenames>
       <PageNumber>4426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1395,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5351</PageNumber>
     </MainItem>
   </ItemGroup>

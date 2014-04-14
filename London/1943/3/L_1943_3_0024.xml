@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowlishaw</Key>
-      <Text>, ]. W</Text>
+      <Text>]. W</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>, J Dalingwater, H. J</Text>
+      <Forenames>J</Forenames>
+      <Text>Dalingwater, H. J</Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +465,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +593,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>K C</Text>
+      <Forenames>K</Forenames>
+      <Text>C</Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,10 +756,51 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Broe-Ferguson</Forenames>
-      <Text>, A</Text>
+      <Key>De Broe-Ferguson</Key>
+      <Forenames>A</Forenames>
       <PageNumber>4226</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bruijne</Key>
+      <Forenames>J. E.</Forenames>
+      <PageNumber>3091</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>3524</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>4121</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>R. E. F.</Forenames>
+      <PageNumber>4075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Quehen</Key>
+      <Forenames>B. M.</Forenames>
+      <PageNumber>3526</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Forenames>C. M.</Forenames>
+      <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -861,7 +904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Derrick</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dharum</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>. G. V</Text>
+      <Forenames>G. V.</Forenames>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgshon</Key>
-      <Text>, S; P</Text>
+      <Forenames>S</Forenames>
+      <Text>; P</Text>
       <PageNumber>3033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyall</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,14 +1852,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E A J</Text>
+      <Forenames>E</Forenames>
+      <Text>A J</Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. B. B</Text>
+      <Forenames>B. B.</Forenames>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,7 +1952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eilbeck</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2018,7 +2063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmhirst</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2032,7 +2077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elston</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2067,7 +2112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennor</Key>
-      <Text>. J. V</Text>
+      <Forenames>J. V.</Forenames>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2109,7 +2154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ethering</Key>
-      <Text>.ton, J. H</Text>
+      <Text>ton, J. H</Text>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2455,15 +2500,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Fatah</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... „</Text>
+      <Title>Singh .</Title>
+      <Text>.. „</Text>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fateh</Key>
-      <Forenames>Mohammed</Forenames>
+      <Title>Mohammed .</Title>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>

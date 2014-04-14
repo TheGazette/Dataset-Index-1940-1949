@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,9 @@
       <Key>Hutchison</Key>
       <Title>Sir</Title>
       <Forenames>E. A. O.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Applegate</Key>
-      <Forenames>W. J.</Forenames>
-      <Text>de P</Text>
+      <Forenames>W. J. de P</Forenames>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowlby</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F</Forenames>
       <PageNumber>4359</PageNumber>
     </MainItem>
   </ItemGroup>

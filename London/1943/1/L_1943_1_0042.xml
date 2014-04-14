@@ -2,18 +2,30 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="042" pageID="https://www.thegazette.co.uk/id/London/index/year/1943/volume/1/page/042" pagePDF="https://www.thegazette.co.uk/London/index/year/1943/volume/1/page/042" pageRDF="https://www.thegazette.co.uk/London/index/year/1943/volume/1/page/042?view=linked-data" type="index" volume="1" year="1943">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Quincey</Forenames>
-      <Text>, W. B</Text>
+      <Key>De Quincey</Key>
+      <Forenames>W. B.</Forenames>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouffignac</Forenames>
-      <Text>, G. W</Text>
+      <Key>De Rouffignac</Key>
+      <Forenames>G. W.</Forenames>
       <PageNumber>1375</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Spon</Key>
+      <Forenames>M. F. L.</Forenames>
+      <PageNumber>1375</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiele</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -183,14 +195,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewe</Key>
-      <Text>,-W. M.E</Text>
+      <Text>-W. M.E</Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dexter</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>, . R</Text>
+      <Text>. R</Text>
       <PageNumber>447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +486,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dow</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dubber</Key>
-      <Text>, RE</Text>
+      <Text>RE</Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edds</Key>
-      <Text>. W. F</Text>
+      <Forenames>W. F.</Forenames>
       <PageNumber>890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1194,8 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Text>R, M</Text>
+      <Forenames>R</Forenames>
+      <Text>, M</Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1382,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,7 +1525,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H Fabian, W. G. H</Text>
+      <Forenames>H</Forenames>
+      <Text>Fabian, W. G. H</Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquar-Thomson</Key>
-      <Text>, R G</Text>
+      <Forenames>R</Forenames>
+      <Text>G</Text>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fennell</Key>
-      <Text>, J, E</Text>
+      <Forenames>J</Forenames>
+      <Text>, E</Text>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,7 +1820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finan</Key>
-      <Text>, 'j. J</Text>
+      <Text>'j. J</Text>
       <PageNumber>890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1850,7 +1866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,7 +1898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fison</Key>
-      <Text>, JE</Text>
+      <Text>JE</Text>
       <PageNumber>558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,7 +2154,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2339,7 +2355,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>L E. ... i</Text>
+      <Forenames>L</Forenames>
+      <Text>E. ... i</Text>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2423,7 +2440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>. D. A</Text>
+      <Forenames>D. A.</Forenames>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -36,7 +36,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,8 +95,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunsford</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J., Visct</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>., Visct</Text>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>H. St. C</Forenames>
       <PageNumber>69</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +713,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1189,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>C. H.</Forenames>
-      <Text>(R.A..P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>294</PageNumber>
     </MainItem>
   </ItemGroup>

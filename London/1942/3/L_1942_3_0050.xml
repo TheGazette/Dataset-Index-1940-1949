@@ -39,7 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennett</Key>
-      <Text>B: B</Text>
+      <Forenames>B</Forenames>
+      <Text>: B</Text>
       <PageNumber>3493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +423,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinloch</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kleinfield</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +753,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kuh</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ladlay</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1113,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H -</Text>
+      <Forenames>H</Forenames>
+      <Text>-</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2182,8 +2184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeming</Key>
-      <Forenames>G. P.</Forenames>
-      <Text>de P</Text>
+      <Forenames>G. P. de P</Forenames>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2199,7 +2200,9 @@
       <Key>Leese</Key>
       <Title>Sir</Title>
       <Forenames>O. W. H</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4055</PageNumber>
     </MainItem>
   </ItemGroup>

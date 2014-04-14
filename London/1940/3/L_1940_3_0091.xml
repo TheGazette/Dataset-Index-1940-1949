@@ -839,8 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walford</Key>
-      <Forenames>D. De G. Walker</Forenames>
-      <Text>, A. H</Text>
+      <Forenames>D. De G</Forenames>
+      <Text>. Walker, A. H</Text>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,8 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley-Wesley</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. N</Text>
+      <Forenames>M. St. N</Forenames>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. H. E</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,8 +1149,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. P.</Forenames>
-      <Text>de M</Text>
+      <Forenames>T. P. de M</Forenames>
       <PageNumber>4089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>.lles, D. W</Text>
+      <Text>lles, D. W</Text>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -236,7 +236,9 @@
     <MainItem>
       <Key>King-Harman</Key>
       <Forenames>R. D.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +509,9 @@
     <MainItem>
       <Key>LeMesurier</Key>
       <Forenames>E. C</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +554,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. W. D.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +572,9 @@
     <MainItem>
       <Key>Lett</Key>
       <Forenames>H.</Forenames>
-      <Text>, Baronet ... ]</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +583,9 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>R. V. H.</Forenames>
-      <Text>, Bt., Member, Order of the British Empire ... :</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +687,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>L. A.</Forenames>
-      <Text>, Knight z Linnell, F. J., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +704,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Littlewood</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J., Officer, Order of the British Empire</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>., Officer, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>

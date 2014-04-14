@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copple</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornick</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,8 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotter</Key>
-      <Text>,. B</Text>
+      <Text>. B</Text>
       <PageNumber>1971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cousins</Key>
-      <Text>, . W. F</Text>
+      <Text>. W. F</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +626,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>,.D. C. C</Text>
+      <Text>.D. C. C</Text>
       <PageNumber>1972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,14 +689,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cripps</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crisp</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +715,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cfonin</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbertson</Key>
-      <Text>, J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>2879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DAlby</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,8 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1553,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. L. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1587,9 @@
     <MainItem>
       <Key>Dawson</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,31 +1622,131 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vial</Forenames>
-      <Text>, R. D. '</Text>
+      <Key>de Abela-Borg</Key>
+      <Forenames>L. C.</Forenames>
+      <PageNumber>1887</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costanzo</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>1947</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>Meade</Forenames>
+      <Text>, J. P</Text>
+      <PageNumber>2685</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courpalay</Key>
+      <Forenames>C. R. H.</Forenames>
+      <Text>,</Text>
+      <PageNumber>2227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>B. R.</Forenames>
+      <PageNumber>1645</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gooreynd</Key>
+      <Forenames>T</Forenames>
+      <Text>: K</Text>
+      <PageNumber>2736</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Keyser</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>1973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B.</Forenames>
+      <PageNumber>2169</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Morpurgo</Key>
+      <Forenames>J. L. S.</Forenames>
+      <PageNumber>2467</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>A. J</Forenames>
+      <PageNumber>1827</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rennick</Key>
+      <Forenames>R</Forenames>
+      <PageNumber>2608</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ritter</Key>
+      <Forenames>R. B.</Forenames>
+      <PageNumber>2044</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>2228</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sylva</Key>
+      <Forenames>R</Forenames>
+      <PageNumber>1888</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vial</Key>
+      <Forenames>R. D.</Forenames>
+      <Text>'</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, J. H</Text>
+      <Key>De Wolf</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deacon</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1756,7 +1859,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dempster</Key>
-      <Text>, A! J. H. :</Text>
+      <Forenames>A</Forenames>
+      <Text>! J. H. :</Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,7 +2017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devine</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +2046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dib</Key>
-      <Text>.ben, P</Text>
+      <Text>ben, P</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2016,7 +2120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2058,7 +2162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dirhent</Key>
-      <Text>. J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>2681</PageNumber>
     </MainItem>
   </ItemGroup>

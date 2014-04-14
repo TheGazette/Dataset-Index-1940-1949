@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1254</PageNumber>
     </MainItem>
     <SubItem>
@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1316</PageNumber>
     </MainItem>
     <SubItem>
@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1133</PageNumber>
     </MainItem>
     <SubItem>
@@ -460,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lord</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCay</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKean</Key>
-      <Text>, E n</Text>
+      <Forenames>E</Forenames>
+      <Text>n</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacNab</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayall</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayou</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moresby-White</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,15 +1569,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, K. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>K. A.</Forenames>
       <PageNumber>94</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, E. M</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>94</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,8 +1601,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, G</Text>
+      <Key>O'Leary</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,7 +1864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pegg</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,7 +1882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penfold</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2099,7 +2100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1134</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -73,7 +73,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E;, Sub. not</Text>
+      <Forenames>E</Forenames>
+      <Text>;, Sub. not</Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +127,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W, T</Text>
+      <Forenames>W</Forenames>
+      <Text>, T</Text>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +174,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leghorn</Key>
-      <Text>D/ S. '</Text>
+      <Forenames>D</Forenames>
+      <Text>/ S. '</Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +229,9 @@
       <Key>Leicester</Key>
       <Title>Sir</Title>
       <Forenames>C. B. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +331,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M, R. ... ..; 333o. Lestrange, F. O</Text>
+      <Forenames>M</Forenames>
+      <Text>, R. ... ..; 333o. Lestrange, F. O</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewendon</Key>
-      <Text>R J</Text>
+      <Forenames>R</Forenames>
+      <Text>J</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>413</PageNumber>
       <PageNumber>3</PageNumber>
     </MainItem>
@@ -1497,7 +1505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macbean</Key>
-      <Text>I: A., Sub not</Text>
+      <Forenames>I</Forenames>
+      <Text>: A., Sub not</Text>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1724,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>G E. J</Text>
+      <Forenames>G</Forenames>
+      <Text>E. J</Text>
       <PageNumber>3111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,7 +1812,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Text>M: H</Text>
+      <Forenames>M</Forenames>
+      <Text>: H</Text>
       <PageNumber>4234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Text>R Sub. not</Text>
+      <Forenames>R</Forenames>
+      <Text>Sub. not</Text>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,7 +2069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McHugh</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2154,7 +2166,7 @@
       <Key>
         <KeyDitto>___ ___ ___ }.</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,7 +2290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackie-Campbell</Key>
-      <Text>P L</Text>
+      <Forenames>P</Forenames>
+      <Text>L</Text>
       <PageNumber>3200</PageNumber>
     </MainItem>
   </ItemGroup>

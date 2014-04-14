@@ -40,15 +40,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>1940</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1640</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saville</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1578</PageNumber>
     </MainItem>
     <SubItem>
@@ -469,7 +468,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>J i75o J. A. C</Text>
+      <Forenames>J</Forenames>
+      <Text>i75o J. A. C</Text>
       <PageNumber>1941</PageNumber>
     </MainItem>
     <SubItem>
@@ -719,8 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seelly</Key>
-      <Forenames>M. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. G. St. J</Forenames>
       <PageNumber>2776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selvey</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Senior</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1862</PageNumber>
     </MainItem>
     <SubItem>
@@ -859,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sennitt</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Service</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherriff</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shield</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipway-Fowler</Key>
-      <Text>K G. D</Text>
+      <Forenames>K</Forenames>
+      <Text>G. D</Text>
       <PageNumber>2619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2256</PageNumber>
     </MainItem>
     <SubItem>

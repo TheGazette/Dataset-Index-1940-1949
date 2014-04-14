@@ -5,7 +5,9 @@
       <Key>Boulton</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,14 +32,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Boundy</Key>
-      <Text>. Boundy. J. J. R R</Text>
+      <Title>Boundy.</Title>
+      <Forenames>J. J. R</Forenames>
+      <Text>R</Text>
       <PageNumber>6760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bourdtllon</Key>
-      <Text>. Bourdtllon. J. J. F. F</Text>
+      <Title>Bourdtllon.</Title>
+      <Forenames>J. J. F. F.</Forenames>
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,8 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brayton</Key>
-      <Forenames>W. A. O</Forenames>
-      <Text>'M. s. Z</Text>
+      <Forenames>W. A. O'M</Forenames>
+      <Text>. s. Z</Text>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2042,8 +2047,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. A</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>5906</PageNumber>
       <PageNumber>5908</PageNumber>
     </MainItem>

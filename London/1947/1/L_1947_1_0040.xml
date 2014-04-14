@@ -1218,7 +1218,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,7 +1509,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>13124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,7 +1583,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1592,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, J. J</Text>
+      <Forenames>H</Forenames>
+      <Text>, J. J</Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,7 +1621,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1688,7 +1689,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M, J. H</Text>
+      <Forenames>M</Forenames>
+      <Text>, J. H</Text>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,7 +1764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghaundy</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,7 +1792,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chemiack</Key>
-      <Text>DL</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>1330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1945,7 +1949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohoy</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2299,8 +2303,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>

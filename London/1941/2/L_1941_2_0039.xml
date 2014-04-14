@@ -1015,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allin</Key>
-      <Text>. B. W. LI</Text>
+      <Forenames>B. W.</Forenames>
+      <Text>LI</Text>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alsop</Key>
-      <Text>. F. H</Text>
+      <Forenames>F. H</Forenames>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1436,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,7 +1448,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2353</PageNumber>
     </MainItem>
   </ItemGroup>

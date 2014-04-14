@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henchy</Key>
-      <Text>E, M. A</Text>
+      <Forenames>E</Forenames>
+      <Text>, M. A</Text>
       <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hofton</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>House</Key>
-      <Text>E&gt;. L. M</Text>
+      <Forenames>E</Forenames>
+      <Text>&gt;. L. M</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +346,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, M</Text>
+      <Forenames>J</Forenames>
+      <Text>, M</Text>
       <PageNumber>3200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>L. E. M</Text>
+      <Forenames>L. E. M.</Forenames>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowrie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNab</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,7 +1628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mather</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1965,7 +1968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mowat</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,7 +2147,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2221,15 +2224,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Hon. F. H. L. M</Text>
+      <Key>O'Brien</Key>
+      <Title>Hon.</Title>
+      <Forenames>F. H. L. M.</Forenames>
       <PageNumber>3245</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, P. M</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2243,14 +2247,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>G. D. H</Text>
+      <Forenames>G. D. H.</Forenames>
       <PageNumber>3309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olley</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2263,8 +2267,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, V. P. M</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>V. P. M.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2292,8 +2296,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>

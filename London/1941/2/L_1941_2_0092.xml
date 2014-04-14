@@ -671,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turff</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +872,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. F.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,7 +1508,9 @@
     <MainItem>
       <Key>Urquhart</Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,9 +1682,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ammel</Forenames>
-      <Text>, H. A</Text>
+      <Key>Van Ammel</Key>
+      <Forenames>H. A</Forenames>
       <PageNumber>2427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,25 +1696,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Houten</Forenames>
-      <Text>, R. F</Text>
+      <Key>van Diggelen</Key>
+      <Forenames>L. E.</Forenames>
+      <PageNumber>35</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Houten</Key>
+      <Forenames>R. F</Forenames>
       <PageNumber>2797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Langenberg</Forenames>
-      <Text>, J. F</Text>
+      <Key>Van Langenberg</Key>
+      <Forenames>J. F</Forenames>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Loock</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Loock</Key>
+      <Forenames>C. E</Forenames>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>

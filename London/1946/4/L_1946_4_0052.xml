@@ -116,14 +116,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rock</Key>
-      <Text>de Besombes, H. W. P</Text>
+      <Forenames>de Besombes</Forenames>
+      <Text>, H. W. P</Text>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roddis</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roebuck</Key>
-      <Text>, TV</Text>
+      <Text>TV</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +442,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,14 +494,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rossay</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rosset</Key>
-      <Text>, iR. H</Text>
+      <Text>iR. H</Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlerson</Key>
-      <Text>, G, R</Text>
+      <Forenames>G</Forenames>
+      <Text>, R</Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>

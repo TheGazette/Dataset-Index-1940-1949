@@ -32,8 +32,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendricks</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A., Member, Order of the British Empire</Text>
+      <Forenames>W. St. A</Forenames>
+      <Text>., Member, Order of the British Empire</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,9 @@
     <MainItem>
       <Key>Hickes</Key>
       <Forenames>L. D.</Forenames>
-      <Text>, ^Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>E. D., Member, Order of the British Empire</Text>
+      <Forenames>E. D.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +301,9 @@
     <MainItem>
       <Key>Holloway</Key>
       <Forenames>E.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +423,9 @@
     <MainItem>
       <Key>Horwood</Key>
       <Forenames>K.</Forenames>
-      <Text>, Distinguished Service Order, correction</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>H. S., Member, Order of the British Empire</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +563,9 @@
     <MainItem>
       <Key>Hunton</Key>
       <Forenames>T. L.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurn</Key>
-      <Text>W., Member, Order of the British Empire</Text>
+      <Forenames>W.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +620,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. J.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +654,9 @@
     <MainItem>
       <Key>Ince</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +836,9 @@
     <MainItem>
       <Key>Jenkins</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +858,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. G.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +884,9 @@
     <MainItem>
       <Key>Jerram</Key>
       <Forenames>R. M.</Forenames>
-      <Text>, Distinguished Service Order, correction</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>

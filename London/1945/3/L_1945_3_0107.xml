@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodfin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WooHe</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +297,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +348,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wye</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyles</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yallup</Key>
-      <Text>. G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>3914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>. C. M</Text>
+      <Forenames>C. M.</Forenames>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1140,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1260,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2127,7 +2129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beas</Key>
-      <Text>.ey, E. H</Text>
+      <Text>ey, E. H</Text>
       <PageNumber>4568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2164,7 +2166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mylroie</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,14 +114,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nathan</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,8 +177,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de M</Text>
+      <Forenames>K. de M</Forenames>
       <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J L</Text>
+      <Forenames>J</Forenames>
+      <Text>L</Text>
       <PageNumber>1718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neame</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iNelson</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +337,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +587,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, P</Text>
+      <Forenames>J</Forenames>
+      <Text>, P</Text>
       <PageNumber>214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Niblock</Key>
-      <Text>H -</Text>
+      <Forenames>H</Forenames>
+      <Text>-</Text>
       <PageNumber>436</PageNumber>
     </MainItem>
   </ItemGroup>

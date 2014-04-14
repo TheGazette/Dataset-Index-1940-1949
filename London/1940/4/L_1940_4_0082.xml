@@ -113,15 +113,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. H</Forenames>
       <PageNumber>5888</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T. U. L. S. ... ,</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T. U. L. S.</Forenames>
+      <Text>... ,</Text>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,15 +210,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Hobson, R. A. B</Text>
+      <Key>O'Neill-Hobson</Key>
+      <Forenames>R. A. B.</Forenames>
       <PageNumber>5955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, L. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>L. J .</Forenames>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,8 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Railing</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>6682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1042,9 @@
       <Key>Ramsay</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,8 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>5955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>. G. S</Text>
+      <Forenames>G. S.</Forenames>
       <PageNumber>5887</PageNumber>
     </MainItem>
   </ItemGroup>

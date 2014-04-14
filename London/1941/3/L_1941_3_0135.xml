@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brass</Key>
-      <Text>. H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W.</Forenames>
       <PageNumber>4003</PageNumber>
       <PageNumber>4878</PageNumber>
     </MainItem>
@@ -83,8 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brayton</Key>
-      <Forenames>W. A. O</Forenames>
-      <Text>'M. S</Text>
+      <Forenames>W. A. O'M</Forenames>
+      <Text>. S</Text>
       <PageNumber>5306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,6 +179,7 @@
     <SubItem>
       <Text>
         <PageNumber>5032</PageNumber>
+        <Honour>Bt</Honour>
         <PageNumber>5447</PageNumber>
         <PageNumber>3828</PageNumber>
         <PageNumber>4873</PageNumber>
@@ -201,6 +202,7 @@
     <SubItem>
       <Text>
         <PageNumber>4733</PageNumber>
+        <Honour>L.G.</Honour>
         <PageNumber>5168</PageNumber>
         <PageNumber>4007</PageNumber>
       </Text>

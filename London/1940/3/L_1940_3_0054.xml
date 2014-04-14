@@ -1008,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haughton</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1266,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heane</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F .</Forenames>
       <PageNumber>5390</PageNumber>
     </MainItem>
   </ItemGroup>

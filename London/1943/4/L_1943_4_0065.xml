@@ -10,7 +10,7 @@
       <PageNumber>5525</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H. W. J. G</Text>
+      <Text>H. W. J. G.</Text>
       <PageNumber>5279</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moller</Key>
-      <Text>J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
     <SubItem>
@@ -328,6 +330,7 @@
     <SubItem>
       <Text>
         <PageNumber>4854</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>476</PageNumber>
         <PageNumber>5016</PageNumber>
       </Text>
@@ -488,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mottershead</Key>
-      <Text>R F</Text>
+      <Forenames>R</Forenames>
+      <Text>F</Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +810,7 @@
       <PageNumber>5527</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>F</Text>
+      <Text>F.</Text>
       <PageNumber>5180</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -880,7 +884,7 @@
       <PageNumber>4351</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>T. T. T</Text>
+      <Text>T. T. T.</Text>
       <PageNumber>4714</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1117,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ney</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichol</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5482</PageNumber>
     </MainItem>
     <SubItem>
@@ -1153,7 +1157,7 @@
       <PageNumber>5070</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>E. S. C</Text>
+      <Text>E. S. C.</Text>
       <PageNumber>4442</PageNumber>
     </SubItem>
   </ItemGroup>

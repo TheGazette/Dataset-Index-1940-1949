@@ -445,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Text>. M. F. J</Text>
+      <Forenames>M. F. J .</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luke</Key>
-      <Text>. N. T . «8,I</Text>
+      <Forenames>N. T .</Forenames>
+      <Text>«8,I</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>G. C.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. C. de V</Forenames>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,37 +1037,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beney, T. H</Text>
+      <Key>O'Beney</Key>
+      <Forenames>T. H.</Forenames>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bree, CP</Text>
+      <Key>O'Bree</Key>
+      <Text>CP</Text>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. E.</Forenames>
       <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Title>St.</Title>
-      <Forenames>J. L.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L.</Forenames>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, E. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>E. B.</Forenames>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,8 +1189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pells</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. ... ... ^</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. ... ... ^</Text>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John-Ives, C</Text>
+      <Forenames>John-Ives</Forenames>
+      <Text>, C</Text>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>

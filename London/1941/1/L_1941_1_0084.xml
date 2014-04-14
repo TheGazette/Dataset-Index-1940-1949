@@ -135,7 +135,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>J. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knollys</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L</Forenames>
       <PageNumber>120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,8 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowland</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>H. St. M</Forenames>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kydd</Key>
-      <Text>W. G</Text>
+      <Forenames>W. G.</Forenames>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>

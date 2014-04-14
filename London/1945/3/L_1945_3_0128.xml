@@ -125,7 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Culverhouse</Key>
-      <Text>, G: P</Text>
+      <Forenames>G</Forenames>
+      <Text>: P</Text>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbertson</Key>
-      <Text>, J, r. McP</Text>
+      <Forenames>J</Forenames>
+      <Text>, r. McP</Text>
       <PageNumber>4625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,14 +637,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dacey</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4428</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dack</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +757,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1343,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1506,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(179727)</Text>
+      <Title>(179727)</Title>
       <PageNumber>4810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1515,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(198250)</Text>
+      <Title>(198250)</Title>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,8 +1621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawe</Key>
-      <Forenames>J. E. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. E. St. L</Forenames>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,49 +1914,58 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, H^G</Text>
+      <Key>de Berniers-Smart</Key>
+      <Forenames>K.</Forenames>
+      <PageNumber>4629</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Forest</Key>
+      <Forenames>H</Forenames>
+      <Text>^G</Text>
       <PageNumber>3549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freitas</Forenames>
-      <Text>, R. E</Text>
+      <Key>De Freitas</Key>
+      <Forenames>R. E.</Forenames>
       <PageNumber>3447</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lagrange</Forenames>
-      <Text>, R. M. Fabre</Text>
+      <Key>de Hoop</Key>
+      <Text>j. F. A</Text>
+      <PageNumber>4177</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lagrange</Key>
+      <Forenames>R. M. Fabre</Forenames>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laurier</Forenames>
-      <Text>, D. R. P</Text>
+      <Key>De Laurier</Key>
+      <Forenames>D. R. P.</Forenames>
       <PageNumber>4388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ledesma</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Ledesma</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Longa</Forenames>
-      <Text>, F</Text>
+      <Key>De Longa</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>3509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1970,7 +1980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>. Pinna, L. D</Text>
+      <Forenames>Pinna</Forenames>
+      <Text>, L. D</Text>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1984,16 +1995,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, J. M. V</Text>
+      <Key>de Sarigny</Key>
+      <Forenames>M. C. B.</Forenames>
+      <PageNumber>4807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vine</Key>
+      <Forenames>J. M. V.</Forenames>
       <PageNumber>4284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Worms</Key>
+      <Forenames>G. P. G.</Forenames>
+      <PageNumber>4337</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
-      <Text>. Yarburgh-Bateson,. R. A/</Text>
+      <Forenames>Yarburgh-Bateson</Forenames>
+      <Text>,. R. A/</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2041,7 +2066,8 @@
       <Key>
         <KeyDitto>___ ___ —-,</KeyDitto>
       </Key>
-      <Text>R -</Text>
+      <Forenames>R</Forenames>
+      <Text>-</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2082,7 +2108,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2164,7 +2191,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4333</PageNumber>
     </MainItem>
   </ItemGroup>

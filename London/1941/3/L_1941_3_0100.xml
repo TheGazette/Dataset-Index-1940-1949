@@ -22,7 +22,9 @@
       <Key>Berney</Key>
       <Title>Sir</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarance</Key>
-      <Text>., V. S</Text>
+      <Text>, V. S</Text>
       <PageNumber>5648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1203,9 @@
       <Key>Doughty-Tichborne</Key>
       <Title>Sir</Title>
       <Forenames>A. J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,9 +1226,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, R. A. C</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>R. A. C.</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -123,7 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>B. P., Officer, Order of the British Empire</Text>
+      <Forenames>B. P.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +285,9 @@
     <MainItem>
       <Key>Astley</Key>
       <Forenames>D. G.</Forenames>
-      <Text>LE., Companion, Order of the Bath Atcherley, R. LI. R., Officer, Order of the British Empire Atkey, J. W. H., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
     <SubItem>
@@ -313,7 +316,9 @@
     <MainItem>
       <Key>Azizul</Key>
       <Forenames>Haque</Forenames>
-      <Text>, Khan Bahadur Maulvi, Knight, Babington, P., Companion, Order of the Bath Backhurst, W., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +384,9 @@
     <MainItem>
       <Key>Baikie</Key>
       <Forenames>A.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +484,9 @@
     <MainItem>
       <Key>Bashir</Key>
       <Forenames>Hasain Zaldi</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... Baskett, P. E., Member, Order of the British Empire ... Battershill, W. D., Knight Commander, Order of St. Michael and St: George ... Battine, N., Officer, Order of the British Empire Batty, G. H., Officer, Order of the British Empire Baudh Raja Narayan Prasad Deo, Rajah of, Commander, Order of the British Empire Baxter, C. W.,, Counsellor of Embassy in H.M. Diplomatic Service ... ... E. C, Member, Order of ___ ___ ___ the British Empire ... Beale. G. H., Officer, Order of the British Empire Beard, S. C, Serving Brother, Order of St. John of Jerusalem Beam, F. A., Distinguished Service Order, Bar correction</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

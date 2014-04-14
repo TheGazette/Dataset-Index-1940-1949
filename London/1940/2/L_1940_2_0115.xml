@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilling</Key>
-      <Text>E. A</Text>
+      <Forenames>E. A.</Forenames>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tristram</Key>
-      <Text>H. F. G</Text>
+      <Forenames>H. F. G.</Forenames>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,8 +614,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaizey</Key>
-      <Forenames>J. C. De H.</Forenames>
+      <Forenames>J. C. De H</Forenames>
       <PageNumber>2250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,6 +817,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Blokland</Key>
+      <Forenames>J. C. E. B.</Forenames>
+      <PageNumber>3036</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vandamm</Key>
       <Forenames>D. H.</Forenames>
       <PageNumber>3038</PageNumber>
@@ -828,6 +834,13 @@
       <Key>Vanderfelt</Key>
       <Forenames>A. E. C.</Forenames>
       <PageNumber>2478</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Mentz</Key>
+      <Forenames>B.</Forenames>
+      <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

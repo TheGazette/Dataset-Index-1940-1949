@@ -132,7 +132,9 @@
     <MainItem>
       <Key>Quirk</Key>
       <Forenames>K. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,9 @@
     <MainItem>
       <Key>Renton</Key>
       <Forenames>J. M. L.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +619,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. M.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryde</Key>
-      <Text>. J. E. W., Officer (Sister), Order of St. John of Jerusalem</Text>
+      <Forenames>J. E. W.</Forenames>
+      <Text>, Officer (Sister), Order of St. John of Jerusalem</Text>
       <PageNumber>3674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +808,9 @@
     <MainItem>
       <Key>Sawrey-Cookson</Key>
       <Forenames>R.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +907,9 @@
     <MainItem>
       <Key>Seal</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>

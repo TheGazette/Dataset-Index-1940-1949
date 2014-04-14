@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairfield</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +104,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faithful</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farah</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,8 +207,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,8 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farn-Gate</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>N. St. A</Forenames>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +477,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>M. E. G</Text>
+      <Text>M. E. G.</Text>
       <PageNumber>5719</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -529,7 +526,7 @@
       <PageNumber>8</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. J. K</Text>
+      <Text>R. J. K.</Text>
       <PageNumber>5771</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1025,8 +1022,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sub</Forenames>
-      <Text>. not. (R.R.A.)</Text>
+      <Title>Sub.</Title>
+      <Text>not. (R.R.A.)</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1599,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5251</PageNumber>
     </MainItem>
   </ItemGroup>

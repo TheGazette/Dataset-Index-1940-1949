@@ -106,7 +106,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roles</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +398,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roth</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rubin</Key>
-      <Forenames>H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>H. de V</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +815,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +935,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruttle</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,8 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadler</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,15 +1120,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, J. R. A. G. n</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>J. R. A. G.</Forenames>
+      <Text>n</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, P. I</Text>
+      <Key>St. George</Key>
+      <Forenames>P. I.</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saul</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savery</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scanlon</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schieber</Key>
-      <Text>C, Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,14 +1718,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Schnabel</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1896,7 +1900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2380,8 +2384,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Forenames>R.</Forenames>
-      <Text>de V., Bt</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1485</PageNumber>
     </MainItem>
   </ItemGroup>

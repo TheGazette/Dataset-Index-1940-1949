@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyell</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGinity</Key>
-      <Text>, MP</Text>
+      <Text>MP</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKellar</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macphail</Key>
-      <Text>, j. MacL</Text>
+      <Text>j. MacL</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,22 +930,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. M</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, B. E</Text>
+      <Key>O'Hara</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,8 +960,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, M. A</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,8 +1051,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. P. de L</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rieu</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,7 +1837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,7 +1919,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkden</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,7 +1982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,7 +2003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2078,7 +2077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitney</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2203,7 +2202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ah</Key>
-      <Forenames>Shaung</Forenames>
+      <Title>Shaung .</Title>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2273,7 +2272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2342,7 +2341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bakhshi</Key>
-      <Forenames>Chand</Forenames>
+      <Title>Chand .</Title>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2357,7 +2356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay-Brown</Key>
-      <Text>, R,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2402,14 +2402,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Basu</Key>
-      <Text>. B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Batalia</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3884</PageNumber>
     </MainItem>
   </ItemGroup>

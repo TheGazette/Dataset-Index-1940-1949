@@ -287,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabtree</Key>
-      <Text>, _C</Text>
+      <Text>_C</Text>
       <PageNumber>484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,8 @@
       <Key>
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W, F</Text>
+      <Forenames>W</Forenames>
+      <Text>, F</Text>
       <PageNumber>1120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croad</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +663,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. W. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunliffe</Key>
-      <Text>, . M. F</Text>
+      <Text>. M. F</Text>
       <PageNumber>645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dacey</Key>
-      <Text>, . W. .... ;. -</Text>
+      <Text>. W. .... ;. -</Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1257,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C:-G:</Text>
+      <Forenames>C</Forenames>
+      <Text>:-G:</Text>
       <PageNumber>1357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalzell</Key>
-      <Text>, J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dargavel</Key>
-      <Text>, R: K</Text>
+      <Forenames>R</Forenames>
+      <Text>: K</Text>
       <PageNumber>1019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,7 +1515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Danielle</Key>
-      <Text>. J..R</Text>
+      <Forenames>J.</Forenames>
+      <Text>.R</Text>
       <PageNumber>643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1688,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, (R.A.M.C)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (R.A.M.C)</Text>
       <PageNumber>213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,7 +1799,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>1183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1951,7 +1960,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I&gt; M</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt; M</Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>

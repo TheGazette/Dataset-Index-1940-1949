@@ -46,8 +46,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. E. St. J</Forenames>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +526,9 @@
     <MainItem>
       <Key>Kiikman</Key>
       <Forenames>H. R.</Forenames>
-      <Text>. ... J21S Kirkpatrick, Sir J. A Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1039,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyte</Key>
-      <Text>. E. J. S</Text>
+      <Forenames>E. J. S.</Forenames>
       <PageNumber>5301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lace</Key>
-      <Text>.R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>4002</PageNumber>
       <PageNumber>4877</PageNumber>
     </MainItem>
@@ -1068,7 +1069,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>.A. W,</Text>
+      <Forenames>A. W</Forenames>
+      <Text>,</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanigan</Key>
-      <Text>.G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5431</PageNumber>
     </MainItem>
   </ItemGroup>

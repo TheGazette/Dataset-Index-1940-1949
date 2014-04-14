@@ -196,7 +196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanning</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larmuth</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +333,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Will</Forenames>
+      <Title>Will .</Title>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,8 +342,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Walter</Forenames>
-      <Text>... Lecerf, M. G. J. C. V</Text>
+      <Title>Walter .</Title>
+      <Text>.. Lecerf, M. G. J. C. V</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +677,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G -</Text>
+      <Forenames>G</Forenames>
+      <Text>-</Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>Lady, A. S</Text>
+      <Title>Lady</Title>
+      <Text>, A. S</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,8 +1130,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
-      <Text>... ,</Text>
+      <Title>James .</Title>
+      <Text>.. ,</Text>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maher</Key>
-      <Text>A, M</Text>
+      <Forenames>A</Forenames>
+      <Text>, M</Text>
       <PageNumber>5006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Makant</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malynn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,7 +1655,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>E: I</Text>
+      <Forenames>E</Forenames>
+      <Text>: I</Text>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,7 +1703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mays</Key>
-      <Text>F: W</Text>
+      <Forenames>F</Forenames>
+      <Text>: W</Text>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2280,7 +2285,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jessie</Forenames>
+      <Title>Jessie .</Title>
       <PageNumber>5423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2289,7 +2294,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>

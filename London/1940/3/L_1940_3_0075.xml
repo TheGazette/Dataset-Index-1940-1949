@@ -92,7 +92,9 @@
       <Key>Seton</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,8 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shelverton</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>4161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +984,9 @@
         <KeyDitto>___ ___ :</KeyDitto>
       </Key>
       <Forenames>E. C.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibborn</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1199,9 @@
     <MainItem>
       <Key>Sime</Key>
       <Forenames>T.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,8 +1708,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>

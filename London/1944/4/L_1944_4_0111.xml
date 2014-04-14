@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harkins</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +53,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(135723)</Text>
+      <Title>(135723)</Title>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,7 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J' (175522)</Text>
+      <Forenames>J</Forenames>
+      <Text>' (175522)</Text>
       <PageNumber>4915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +797,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>J, (I7p8ll)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (I7p8ll)</Text>
       <PageNumber>4806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1287,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>D :</Text>
+      <Forenames>D</Forenames>
+      <Text>:</Text>
       <PageNumber>4853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1297,8 @@
       <Key>
         <KeyDitto>___ ___ ___ —___ ___</KeyDitto>
       </Key>
-      <Text>D: S</Text>
+      <Forenames>D</Forenames>
+      <Text>: S</Text>
       <PageNumber>514</PageNumber>
       <PageNumber>4</PageNumber>
     </MainItem>
@@ -1341,7 +1345,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1364,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L ;</Text>
+      <Forenames>L</Forenames>
+      <Text>;</Text>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1374,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartness</Key>
-      <Text>,. B. J. F. —</Text>
+      <Text>. B. J. F. —</Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartwell</Key>
-      <Text>, iD. R</Text>
+      <Text>iD. R</Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>, A (53857)</Text>
+      <Forenames>A</Forenames>
+      <Text>(53857)</Text>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1483,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatfield</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,7 +1783,9 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>r-: ___ ___ KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,7 +1857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatton</Key>
-      <Text>, J, W</Text>
+      <Forenames>J</Forenames>
+      <Text>, W</Text>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2170,7 +2180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hays</Key>
-      <Text>, iL., Corr</Text>
+      <Text>iL., Corr</Text>
       <PageNumber>5799</PageNumber>
     </MainItem>
   </ItemGroup>

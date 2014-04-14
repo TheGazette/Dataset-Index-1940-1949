@@ -166,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
     <SubItem>
@@ -191,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
     <SubItem>
@@ -283,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pegum</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pender</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4717</PageNumber>
     </MainItem>
     <SubItem>
@@ -329,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penketh</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,7 @@
       <PageNumber>4714</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. J. H</Text>
+      <Text>W. J. H.</Text>
       <PageNumber>4762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peters</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4499</PageNumber>
     </MainItem>
     <SubItem>
@@ -616,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peterson</Key>
-      <Text>E A</Text>
+      <Forenames>E</Forenames>
+      <Text>A</Text>
       <PageNumber>4498</PageNumber>
     </MainItem>
     <SubItem>
@@ -634,18 +635,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Petre</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Petrie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W. H. C</Text>
+      <Text>W. H. C.</Text>
       <PageNumber>43</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -752,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickford</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +824,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilling</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinto</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plant</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5329</PageNumber>
     </MainItem>
     <KeyDitto>—</KeyDitto>
@@ -999,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Platts</Key>
-      <Text>R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>G. L. G</Text>
+      <Forenames>G. L. G.</Forenames>
       <PageNumber>5651</PageNumber>
     </MainItem>
     <SubItem>
@@ -1066,14 +1067,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollert</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Polley</Key>
-      <Text>D. W</Text>
+      <Forenames>D. W.</Forenames>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pomfret</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Postle</Key>
-      <Text>K. F</Text>
+      <Forenames>K. F.</Forenames>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,8 +1344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powley</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prenski</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4553</PageNumber>
     </MainItem>
     <SubItem>
@@ -1543,7 +1543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prfrkett</Key>
-      <Text>C. N. Prirfay, W. D. J</Text>
+      <Forenames>C. N. Prirfay</Forenames>
+      <Text>, W. D. J</Text>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>

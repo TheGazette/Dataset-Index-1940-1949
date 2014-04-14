@@ -487,7 +487,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence-Archer</Key>
-      <Text>J,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +721,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P W. H</Text>
+      <Forenames>P</Forenames>
+      <Text>W. H</Text>
       <PageNumber>5453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +837,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(-c.)</Text>
+      <Title>(-c.)</Title>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,6 +1019,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Leguende Lacroix</Key>
+      <Forenames>G. C.</Forenames>
+      <Text>A-</Text>
+      <PageNumber>4749</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -1154,7 +1166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leppard</Key>
-      <Text>M, H</Text>
+      <Forenames>M</Forenames>
+      <Text>, H</Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1208,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, ; ... J</Text>
+      <Forenames>H</Forenames>
+      <Text>, ; ... J</Text>
       <PageNumber>5453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1441,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D: A</Text>
+      <Forenames>D</Forenames>
+      <Text>: A</Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1518,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,7 +1859,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D; S</Text>
+      <Forenames>D</Forenames>
+      <Text>; S</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1906,7 +1924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Linn</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1953,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipton</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1989,7 +2007,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2273,7 +2291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Locke</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2339,7 +2357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4695</PageNumber>
     </MainItem>
   </ItemGroup>

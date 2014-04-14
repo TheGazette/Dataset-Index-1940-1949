@@ -214,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan-Smyth</Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,14 +340,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell-Tovey</Key>
-      <Text>G, A</Text>
+      <Forenames>G</Forenames>
+      <Text>, A</Text>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cannell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,6 +773,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Josselin</Key>
+      <Forenames>de Jong</Forenames>
+      <Text>, D. F</Text>
+      <PageNumber>1334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Launey</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>226</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeMonte</Key>
       <Forenames>A. N.</Forenames>
       <Text>, Cane</Text>
@@ -780,9 +796,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, S. A., Cane</Text>
+      <Key>De Souza</Key>
+      <Forenames>S. A.</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>1335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,14 +828,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Denness</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Devine</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donkin</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Text>J, A. C</Text>
+      <Forenames>J</Forenames>
+      <Text>, A. C</Text>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,8 +1585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendrick</Key>
-      <Forenames>U. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>U. St. J</Forenames>
       <PageNumber>1335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heuer</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiley</Key>
-      <Text>J n</Text>
+      <Forenames>J</Forenames>
+      <Text>n</Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1782,7 +1799,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,7 +1808,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2003,8 +2020,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G. ,</Text>
+      <Forenames>D. de G</Forenames>
+      <Text>. ,</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2224,8 +2241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynsdale</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C. F., Cane</Text>
+      <Forenames>B. St. C</Forenames>
+      <Text>. F., Cane</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>

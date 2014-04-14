@@ -127,7 +127,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +153,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>P: W T___ ___ R. :—___ ___ R. G</Text>
+      <Forenames>P</Forenames>
+      <Text>: W T___ ___ R. :—___ ___ R. G</Text>
       <PageNumber>1488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,65 +459,103 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, JF. M</Text>
+      <Key>De Butts</Key>
+      <Text>JF. M</Text>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Domenico</Forenames>
-      <Text>, J. E. G</Text>
+      <Key>De Domenico</Key>
+      <Forenames>J. E. G.</Forenames>
       <PageNumber>526</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gregory</Forenames>
-      <Text>, V. L</Text>
+      <Key>de Francorueri</Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gregory</Key>
+      <Forenames>V. L.</Forenames>
       <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haaf</Forenames>
-      <Text>, D. M</Text>
+      <Key>de Guingand</Key>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Haaf</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, J. H. Sub. not. ... '</Text>
       <PageNumber>80</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Pasture</Forenames>
+      <Key>De La</Key>
+      <Forenames>Pasture</Forenames>
       <Text>, P. A. G., Corr</Text>
       <PageNumber>572</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sevin</Forenames>
-      <Text>, D. F</Text>
+      <Key>de Lissa</Key>
+      <Forenames>O. E.</Forenames>
+      <Text>^Corr</Text>
+      <PageNumber>79</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Munck</Key>
+      <Forenames>M. R. C.</Forenames>
+      <PageNumber>527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pares</Key>
+      <Forenames>Nl El</Forenames>
+      <Text>'.,</Text>
+      <PageNumber>526</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ridder</Key>
+      <Forenames>L. E.</Forenames>
+      <PageNumber>778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sevin</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>344</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, A. B</Text>
+      <Key>De Vine</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +704,8 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deayton</Key>
-      <Text>.G. T</Text>
+      <Forenames>G. T.</Forenames>
       <PageNumber>1485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickie</Key>
-      <Text>, A; ' :</Text>
+      <Forenames>A</Forenames>
+      <Text>; ' :</Text>
       <PageNumber>887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1196,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R: N</Text>
+      <Forenames>R</Forenames>
+      <Text>: N</Text>
       <PageNumber>1482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1821,7 +1865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Down</Key>
-      <Text>.F. D. Ai</Text>
+      <Forenames>F. D. Ai</Forenames>
       <PageNumber>1316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Text>,. G. H. .„</Text>
+      <Text>. G. H. .„</Text>
       <PageNumber>159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1893,7 +1937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doyle</Key>
-      <Text>. A. G. '</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>'</Text>
       <PageNumber>286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1945,7 +1990,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake-Brockman</Key>
-      <Text>,, F. T. .r</Text>
+      <Text>, F. T. .r</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1999,7 +2044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dtife</Key>
-      <Text>. T J</Text>
+      <Forenames>T</Forenames>
+      <Text>J</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2046,7 +2092,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drysdale</Key>
-      <Text>, D, M..G</Text>
+      <Forenames>D</Forenames>
+      <Text>, M..G</Text>
       <PageNumber>1270</PageNumber>
     </MainItem>
   </ItemGroup>

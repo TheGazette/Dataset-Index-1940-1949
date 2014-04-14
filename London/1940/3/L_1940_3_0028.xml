@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Cleeve</Key>
       <Forenames>F. C. F.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Cleeves</Key>
       <Forenames>Y.</Forenames>
-      <Text>McL., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,8 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C, Commander, Order of the British Empire</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +99,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +117,9 @@
     <MainItem>
       <Key>Comerford</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +127,9 @@
     <MainItem>
       <Key>Conder</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +138,9 @@
       <Key>Congreve</Key>
       <Title>Sir</Title>
       <Forenames>G. C</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +164,9 @@
     <MainItem>
       <Key>Copland-Griffiths</Key>
       <Forenames>F. A. V.</Forenames>
-      <Text>. Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +182,9 @@
     <MainItem>
       <Key>Cordeaux</Key>
       <Forenames>E. C</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +192,9 @@
     <MainItem>
       <Key>Cowell</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +202,9 @@
     <MainItem>
       <Key>Coxwell-Rogers</Key>
       <Forenames>N. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +245,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. Stuart</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +255,9 @@
     <MainItem>
       <Key>Creasy</Key>
       <Forenames>G</Forenames>
-      <Text>; E., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +298,9 @@
     <MainItem>
       <Key>Crossley</Key>
       <Forenames>M. N.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruddas</Key>
-      <Text>. B., Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Forenames>B.</Forenames>
+      <Text>, Steward and Bailiff of the Chiltern Hundreds</Text>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,14 +340,19 @@
     <MainItem>
       <Key>Curteis</Key>
       <Forenames>A. T. B.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>. H. O., Companion, Order of the Bath</Text>
+      <Forenames>H. O.</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +478,9 @@
     <MainItem>
       <Key>Dempsey</Key>
       <Forenames>M. C</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +552,9 @@
     <MainItem>
       <Key>Douglas</Key>
       <Forenames>W. S.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +562,9 @@
     <MainItem>
       <Key>Dowding</Key>
       <Forenames>J</Forenames>
-      <Text>C. K., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +638,9 @@
     <MainItem>
       <Key>Drysdale</Key>
       <Forenames>J. K. M.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +648,9 @@
     <MainItem>
       <Key>Dudley</Key>
       <Forenames>S. F.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +683,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Forenames>S. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +725,9 @@
     <MainItem>
       <Key>Ede</Key>
       <Forenames>L. J. S.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +753,9 @@
     <MainItem>
       <Key>Elliott</Key>
       <Forenames>J.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +763,9 @@
     <MainItem>
       <Key>Ellison</Key>
       <Forenames>H. B.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +773,9 @@
     <MainItem>
       <Key>Ellwood</Key>
       <Forenames>M. O. D.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +783,9 @@
     <MainItem>
       <Key>Embry</Key>
       <Forenames>B. E.</Forenames>
-      <Text>, Second Bar, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +793,9 @@
     <MainItem>
       <Key>English</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +803,9 @@
     <MainItem>
       <Key>Ervine-Andrews</Key>
       <Forenames>H. M.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +821,9 @@
     <MainItem>
       <Key>Evill</Key>
       <Forenames>D. C. S.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +897,9 @@
     <MainItem>
       <Key>Fitzgerald</Key>
       <Forenames>J. U. P.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +923,9 @@
     <MainItem>
       <Key>Floyer-Acland</Key>
       <Forenames>A. N.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +933,9 @@
     <MainItem>
       <Key>Flogg-Elliott</Key>
       <Forenames>M.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +955,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +981,9 @@
     <MainItem>
       <Key>Forster</Key>
       <Forenames>A. L.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +999,9 @@
     <MainItem>
       <Key>Franklyn</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>

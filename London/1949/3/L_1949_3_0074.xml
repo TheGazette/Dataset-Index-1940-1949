@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockport</Key>
-      <Forenames>Garrick</Forenames>
+      <Title>Garrick .</Title>
       <PageNumber>3260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonehall</Key>
-      <Forenames>Industries</Forenames>
+      <Title>Industries .</Title>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storship</Key>
-      <Forenames>Trading</Forenames>
+      <Title>Trading .</Title>
       <PageNumber>3372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,14 +70,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stott</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stow</Key>
-      <Forenames>Properties</Forenames>
+      <Title>Properties .</Title>
       <PageNumber>3418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strange</Key>
-      <Forenames>Enterprises</Forenames>
+      <Title>Enterprises .</Title>
       <PageNumber>4197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Forenames>Tools</Forenames>
+      <Title>Tools .</Title>
       <PageNumber>4204</PageNumber>
       <PageNumber>4252</PageNumber>
     </MainItem>
@@ -177,21 +177,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Supremacy</Key>
-      <Forenames>Tours</Forenames>
+      <Title>Tours .</Title>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surfaces</Key>
-      <Forenames>Contracts</Forenames>
+      <Title>Contracts .</Title>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surgical</Key>
-      <Forenames>Sales</Forenames>
+      <Title>Sales.</Title>
       <PageNumber>3417</PageNumber>
       <PageNumber>3722</PageNumber>
     </MainItem>
@@ -248,21 +248,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Forenames>Enoch</Forenames>
+      <Title>Enoch .</Title>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Systym</Key>
-      <Forenames>Electric</Forenames>
+      <Title>Electric .</Title>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>.E.G. Manufacturing Company</Text>
+      <Forenames>E.G. Manufacturing Com-</Forenames>
+      <Text>pany</Text>
       <PageNumber>3256</PageNumber>
       <PageNumber>3820</PageNumber>
       <PageNumber>3930</PageNumber>
@@ -278,14 +279,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Takau</Key>
-      <Text>(F.M.S.) Rubber Estates</Text>
+      <Title>(F.M.S.)</Title>
+      <Forenames>Rubber Estates</Forenames>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tallent</Key>
-      <Forenames>Productions</Forenames>
+      <Title>Productions .</Title>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teston</Key>
-      <Forenames>Properties</Forenames>
+      <Title>Properties .</Title>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,8 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomasson</Key>
-      <Forenames>Thos</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Thos.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>3823</PageNumber>
       <PageNumber>3928</PageNumber>
     </MainItem>
@@ -427,7 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, R; (London)</Text>
+      <Forenames>R</Forenames>
+      <Text>; (London)</Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiplady</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Text>. Motors :</Text>
+      <Forenames>Motors</Forenames>
+      <Text>:</Text>
       <PageNumber>4157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ushers</Key>
-      <Text>(Builders)</Text>
+      <Title>(Builders)</Title>
       <PageNumber>3435</PageNumber>
       <PageNumber>4260</PageNumber>
     </MainItem>
@@ -745,14 +749,15 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>.D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>.G. Farms. ..,,</Text>
+      <Forenames>G. Farms</Forenames>
+      <Text>. ..,,</Text>
       <PageNumber>4024</PageNumber>
       <PageNumber>4141</PageNumber>
     </MainItem>
@@ -760,7 +765,8 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>.S.E. Construction Com. pany</Text>
+      <Forenames>S.E. Construction Com-</Forenames>
+      <Text>. pany</Text>
       <PageNumber>3271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vadima</Key>
-      <Forenames>Wines</Forenames>
+      <Title>Wines .</Title>
       <PageNumber>4157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vardens</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vi-Block</Key>
-      <Text>(Mitcham)</Text>
+      <Title>(Mitcham)</Title>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Viaduct</Key>
-      <Forenames>Works</Forenames>
+      <Title>Works .</Title>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Viking</Key>
-      <Forenames>Industries</Forenames>
+      <Title>Industries .</Title>
       <PageNumber>4146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>,. Margaret</Text>
+      <Text>. Margaret</Text>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warters</Key>
-      <Forenames>Augusta</Forenames>
+      <Title>Augusta .</Title>
       <PageNumber>3422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welling</Key>
-      <Forenames>Shops</Forenames>
+      <Title>Shops .</Title>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>Spas</Forenames>
+      <Title>Spas .</Title>
       <PageNumber>4407</PageNumber>
       <PageNumber>4518</PageNumber>
     </MainItem>
@@ -1130,7 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Forenames>Tencreek</Forenames>
+      <Title>Tencreek .</Title>
       <PageNumber>3373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westwood</Key>
-      <Forenames>Shops</Forenames>
+      <Title>Shops .</Title>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittingham</Key>
-      <Text>(Senior)</Text>
+      <Title>(Senior)</Title>
       <PageNumber>3308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1359,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Luton)</Text>
+      <Title>(Luton)</Title>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilshaw</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,8 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Title>Bros.</Title>
-      <Forenames>Press</Forenames>
+      <Title>Bros. Press .</Title>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Surrounds</Forenames>
+      <Title>Surrounds .</Title>
       <PageNumber>3825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,8 +1516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Forenames>Alfd</Forenames>
-      <Text>. &amp; Company</Text>
+      <Title>Alfd.</Title>
+      <Text>&amp; Company</Text>
       <PageNumber>4695</PageNumber>
     </MainItem>
   </ItemGroup>

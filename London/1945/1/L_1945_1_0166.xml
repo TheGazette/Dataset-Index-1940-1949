@@ -166,7 +166,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G S</Text>
+      <Forenames>G</Forenames>
+      <Text>S</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +431,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ' ].'</KeyDitto>
       </Key>
-      <Text>(8686r) ~,</Text>
+      <Title>(8686r)</Title>
+      <Text>~,</Text>
       <PageNumber>575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +441,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(165940) ; 75 = ___ ___ ___ 1: A. (136229).-</Text>
+      <Title>(165940)</Title>
+      <Text>; 75 = ___ ___ ___ 1: A. (136229).-</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +781,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +828,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Letchford</Key>
-      <Text>F.E. H</Text>
+      <Forenames>F.E. H.</Forenames>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levy</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1223,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S: M. F</Text>
+      <Forenames>S</Forenames>
+      <Text>: M. F</Text>
       <PageNumber>1200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewes</Key>
-      <Text>D S</Text>
+      <Forenames>D</Forenames>
+      <Text>S</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>I;;A..R. .;</Text>
+      <Forenames>I</Forenames>
+      <Text>;;A..R. .;</Text>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>

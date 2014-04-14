@@ -602,7 +602,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +661,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +768,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E. W.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +916,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. L.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1128,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1140,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jude</Key>
-      <Text>F. H</Text>
+      <Forenames>F. H.</Forenames>
       <PageNumber>596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kara</Key>
-      <Text>L. W</Text>
+      <Forenames>L. W.</Forenames>
       <PageNumber>1092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,8 +1805,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>I.</Forenames>
-      <Text>de La M</Text>
+      <Forenames>I. de La M.</Forenames>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>

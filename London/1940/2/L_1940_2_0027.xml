@@ -5,7 +5,10 @@
       <Key>Tennant</Key>
       <Title>Capt.</Title>
       <Forenames>William George</Forenames>
-      <Text>, M.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +17,11 @@
       <Key>Thomas</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Charles John Howell</Forenames>
-      <Text>, K.C.B., K.C.M.G., T.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,8 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredegar</Key>
-      <Title>Viscount</Title>
-      <Text>, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Viscount, Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +118,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Bradwell Talbot, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +147,9 @@
     <MainItem>
       <Key>Unwin</Key>
       <Forenames>Keith</Forenames>
-      <Text>, O.B.E., Acting Commercial Secretary, Third Grade, attached to H.M. Embassy at Madrid</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +164,9 @@
     <MainItem>
       <Key>Vereker</Key>
       <Forenames>George Gordon Medli-</Forenames>
-      <Text>cott, M.C., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Finland</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +175,9 @@
       <Key>Vian</Key>
       <Title>Capt.</Title>
       <Forenames>Philip Louis</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +196,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Wilfred</Forenames>
-      <Text>, D.S.O., V.D., M.B., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +214,10 @@
     <MainItem>
       <Key>Wake-Walker</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. William Frederick, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +262,9 @@
       <Key>Warburton-Lee</Key>
       <Title>Capt.</Title>
       <Forenames>Bernard Armitage Warburton</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>3501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +325,9 @@
     <MainItem>
       <Key>Westbrook</Key>
       <Forenames>Charles Edward</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +351,9 @@
     <MainItem>
       <Key>Whiteley</Key>
       <Forenames>William</Forenames>
-      <Text>, M.P., Comptroller of H.M. Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +495,9 @@
     <MainItem>
       <Key>Witney</Key>
       <Forenames>John Humphrey</Forenames>
-      <Text>, M.B.E., Secretary, British Museum</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +557,9 @@
       <Key>Wright</Key>
       <Title>Cdr.</Title>
       <Forenames>John Piachaud</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +587,10 @@
     <MainItem>
       <Key>Wyfold</Key>
       <Title>Lt.-Col. Lord</Title>
-      <Text>, D.S.O., M.V.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +617,9 @@
       </Key>
       <Title>H.E. Sir</Title>
       <Forenames>Mark Aitchison</Forenames>
-      <Text>, K.C.M.G., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +630,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carton</Key>
-      <Text>de Wiart, A</Text>
+      <Forenames>de Wiart</Forenames>
+      <Text>, A</Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>2139</PageNumber>
     </MainItem>
   </ItemGroup>

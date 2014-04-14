@@ -576,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronaldshay</Key>
-      <Text>, Earl</Text>
+      <Title>Earl .</Title>
       <PageNumber>5167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +611,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +638,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +722,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowell</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +738,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Royle</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,9 @@
       <Key>Ruggles-Brise</Key>
       <Title>Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rycroft</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,14 +1117,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sayer</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saynor</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schlotel</Key>
-      <Text>. L. C</Text>
+      <Forenames>L. C.</Forenames>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,14 +1173,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Scoble</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibbald</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,7 +1595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sidford</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simm</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1718,7 +1720,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,8 +1775,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Sinclair-St</Key>
-      <Text>. Clair, C. F. L</Text>
+      <Key>Sinclair-St. Clair</Key>
+      <Forenames>C. F. L.</Forenames>
       <PageNumber>5169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,7 +1869,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Cane</Forenames>
+      <Title>Cane.</Title>
       <PageNumber>5383</PageNumber>
     </MainItem>
   </ItemGroup>

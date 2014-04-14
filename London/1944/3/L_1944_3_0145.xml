@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudder</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +79,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. K. B</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>K. B</Forenames>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Forenames>A. De G.</Forenames>
+      <Forenames>A. De G</Forenames>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starter</Key>
-      <Text>P. W</Text>
+      <Forenames>P. W.</Forenames>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Telling</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tillard</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Town</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,14 +814,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotman</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>Z, E</Text>
+      <Forenames>Z</Forenames>
+      <Text>, E</Text>
       <PageNumber>3456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,8 +849,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Water</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Water</Forenames>
       <Text>, M</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
@@ -879,7 +881,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weiss</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteman</Key>
-      <Text>E. A. O</Text>
+      <Forenames>E. A. O.</Forenames>
       <PageNumber>3410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1143,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,14 +1193,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby-Hemans</Key>
-      <Text>. A. D. R</Text>
+      <Forenames>A. D. R.</Forenames>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>B</Text>
+      <Forenames>B.</Forenames>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, notice</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notice</Text>
       <PageNumber>3643</PageNumber>
     </MainItem>
   </ItemGroup>

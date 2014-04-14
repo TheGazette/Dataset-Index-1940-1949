@@ -244,9 +244,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ruyssere</Forenames>
-      <Text>, F. F. V</Text>
+      <Key>de Casseres</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>1650</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Levasseur</Key>
+      <Forenames>Haigh</Forenames>
+      <Text>, E. V</Text>
+      <PageNumber>2466</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>2911</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhodes</Key>
+      <Forenames>R. A.</Forenames>
+      <PageNumber>2038</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Ruyssere</Key>
+      <Forenames>F. F. V .</Forenames>
       <PageNumber>2906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dory</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,8 +869,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Gue Turner</Forenames>
+      <Key>Du Gue</Key>
+      <Forenames>Turner</Forenames>
       <Text>, G</Text>
       <PageNumber>2725</PageNumber>
     </MainItem>
@@ -850,7 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duchars</Key>
-      <Text>W T</Text>
+      <Forenames>W</Forenames>
+      <Text>T</Text>
       <PageNumber>3064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1465,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,7 +1555,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sophia</Forenames>
+      <Title>Sophia .</Title>
       <PageNumber>2211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,7 +1833,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton-Wingate</Key>
-      <Text>M A. S</Text>
+      <Forenames>M</Forenames>
+      <Text>A. S</Text>
       <PageNumber>2103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,7 +1873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrers</Key>
-      <Text>E: B</Text>
+      <Forenames>E</Forenames>
+      <Text>: B</Text>
       <PageNumber>2558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2108,8 +2139,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>2787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2180,7 +2210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>1692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2189,7 +2219,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>2216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2210,7 +2240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Forenames>Ada</Forenames>
+      <Title>Ada .</Title>
       <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2219,7 +2249,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Agnes</Forenames>
+      <Title>Agnes .</Title>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2707,6 +2737,6 @@
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
 </Index>
 

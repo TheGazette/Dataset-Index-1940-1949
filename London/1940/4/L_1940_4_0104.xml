@@ -358,7 +358,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>S. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +601,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bufcns</Key>
-      <Text>KT. F</Text>
+      <Text>
+        <Honour>KT</Honour>
+      </Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butt</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>6871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,8 +1508,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>T. de B</Forenames>
       <PageNumber>6259</PageNumber>
       <PageNumber>6402</PageNumber>
     </MainItem>

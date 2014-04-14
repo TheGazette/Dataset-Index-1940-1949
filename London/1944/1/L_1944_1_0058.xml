@@ -253,7 +253,7 @@
       <Key>
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +286,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +337,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +399,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>75</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunker</Key>
-      <Text>, E°. S. R</Text>
+      <Forenames>E</Forenames>
+      <Text>°. S. R</Text>
       <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldicott</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calton</Key>
-      <Text>,H. C</Text>
+      <Text>H. C</Text>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cathie</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Catlow</Key>
-      <Text>. T-</Text>
+      <Text>T-</Text>
       <PageNumber>1287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,7 +1626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Catterall</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chadwick</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1765,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,14 +1859,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherrie</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cherry</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1936,7 +1937,9 @@
       <Key>Chichester</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1395</PageNumber>
     </MainItem>
   </ItemGroup>

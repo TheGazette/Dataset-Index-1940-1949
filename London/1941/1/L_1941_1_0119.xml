@@ -412,8 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. A. .: .U^___ ___ w. j. P: .//. :</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. .: .U^___ ___ w. j. P: .//. :</Text>
       <PageNumber>538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +872,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>II. S. (R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +956,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de L. .: ;.:</Text>
+      <Forenames>K. de L</Forenames>
+      <Text>. .: ;.:</Text>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1243,7 @@
       <PageNumber>1299</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. .:.</Text>
+      <Text>. .:</Text>
       <PageNumber>668</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1552,7 +1554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bignold</Key>
-      <Text>de Cologan A; T. B</Text>
+      <Forenames>de Cologan A</Forenames>
+      <Text>; T. B</Text>
       <PageNumber>1300</PageNumber>
     </MainItem>
   </ItemGroup>

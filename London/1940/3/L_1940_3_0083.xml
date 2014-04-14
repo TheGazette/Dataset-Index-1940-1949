@@ -32,14 +32,14 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>. H.</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>. C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <SubItem>
@@ -50,28 +50,26 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>.</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>. C. ...</Text>
+      <Forenames>C.</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>.</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>.</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

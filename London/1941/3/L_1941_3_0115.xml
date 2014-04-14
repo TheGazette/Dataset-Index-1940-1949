@@ -439,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,8 +653,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>A .</Forenames>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bone</Key>
-      <Text>. H. F</Text>
+      <Forenames>H. F.</Forenames>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. A. de W</Forenames>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alcock</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A :</Text>
+      <Forenames>G. St. A</Forenames>
+      <Text>:</Text>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,8 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malleson</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>W. St. A</Forenames>
       <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Struben</Key>
-      <Text>. R. F. C</Text>
+      <Forenames>R. F. C</Forenames>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,6 +1129,13 @@
     <MainItem>
       <Key>Clift</Key>
       <Forenames>N. J .</Forenames>
+      <PageNumber>3923</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Forenames>G. C.</Forenames>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. T. W. B</Text>
+      <Forenames>T. W. B</Forenames>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>

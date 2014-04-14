@@ -249,7 +249,9 @@
       <Key>Nugent</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3849</PageNumber>
     </MainItem>
@@ -425,8 +427,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>3685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +461,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. G</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +478,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, B</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,29 +539,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, R. C</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, W. B</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>W. B.</Forenames>
       <PageNumber>2954</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>3421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Okell</Key>
-      <Text>L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,8 +708,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C. D. W</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C. D. W.</Forenames>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,15 +813,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, M. L. V. R. -H</Text>
+      <Key>O'Regan</Key>
+      <Forenames>M. L. V. R.</Forenames>
+      <Text>-H</Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. V</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C. V.</Forenames>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,8 +858,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, G. McK</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>G.</Forenames>
+      <Text>McK</Text>
       <PageNumber>2454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +904,9 @@
       <Key>Orr-Lewis</Key>
       <Title>Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +928,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ryan, I</Text>
+      <Key>O'Ryan</Key>
+      <Forenames>I.</Forenames>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +974,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>

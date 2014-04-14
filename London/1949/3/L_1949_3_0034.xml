@@ -95,7 +95,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3230</PageNumber>
       <PageNumber>3908</PageNumber>
     </MainItem>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weeks</Key>
-      <Text>, &gt;K. F</Text>
+      <Text>&gt;K. F</Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wein</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>, R: ... ... -</Text>
+      <Forenames>R</Forenames>
+      <Text>: ... ... -</Text>
       <PageNumber>4551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +448,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S: A</Text>
+      <Forenames>S</Forenames>
+      <Text>: A</Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J, S</Text>
+      <Forenames>J</Forenames>
+      <Text>, S</Text>
       <PageNumber>3532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,8 +686,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>4603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +695,8 @@
       <Key>
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
-      <Text>W R. T</Text>
+      <Forenames>W</Forenames>
+      <Text>R. T</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitefoord</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +761,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittle</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wight</Key>
-      <Text>, I: L</Text>
+      <Forenames>I</Forenames>
+      <Text>: L</Text>
       <PageNumber>4602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmshurst</Key>
-      <Text>, iB</Text>
+      <Text>iB</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1984,7 +1988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolf</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2109,7 +2113,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2224,7 +2228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodruff</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2651,7 +2655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyfold</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2666,7 +2670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylde</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2680,7 +2684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyre</Key>
-      <Text>,E</Text>
+      <Text>E</Text>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>

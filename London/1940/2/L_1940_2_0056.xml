@@ -417,8 +417,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>R. O'C</Forenames>
       <PageNumber>3178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1175,9 @@
       <Key>Mordaunt</Key>
       <Title>Sir</Title>
       <Forenames>N. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1897</PageNumber>
     </MainItem>
   </ItemGroup>

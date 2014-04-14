@@ -127,8 +127,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,8 +153,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. L. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. L. A.</Forenames>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,8 +167,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Edmund</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Edmund</Forenames>
       <PageNumber>2683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +183,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, M. W</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>M. W.</Forenames>
       <PageNumber>1726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Frank</Forenames>
+      <Title>Frank .</Title>
       <PageNumber>2004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelling</Key>
-      <Text>W :</Text>
+      <Forenames>W</Forenames>
+      <Text>:</Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1255,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ——</KeyDitto>
       </Key>
-      <Text>A: H</Text>
+      <Forenames>A</Forenames>
+      <Text>: H</Text>
       <PageNumber>2731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>R. J. H</Text>
+      <Forenames>R. J. H.</Forenames>
       <PageNumber>2582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1428,7 @@
       <Key>
         <KeyDitto>___ ___ —___ ___</KeyDitto>
       </Key>
-      <Forenames>Wilfred</Forenames>
+      <Title>Wilfred .</Title>
       <PageNumber>2718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1437,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>2050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1534,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>N:</Text>
+      <Forenames>N</Forenames>
+      <Text>:</Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,7 +1879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>2399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1885,7 +1888,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Alister</Forenames>
+      <Title>Alister .</Title>
       <PageNumber>1617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2129,7 +2132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>2312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2334,7 +2337,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Margaret</Forenames>
+      <Title>Margaret .</Title>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2343,7 +2346,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>2215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2498,7 +2501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roscoe</Key>
-      <Text>W:</Text>
+      <Forenames>W</Forenames>
+      <Text>:</Text>
       <PageNumber>2254</PageNumber>
     </MainItem>
   </ItemGroup>

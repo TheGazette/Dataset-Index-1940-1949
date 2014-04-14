@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tooms</Key>
-      <Text>H. D</Text>
+      <Forenames>H. D .</Forenames>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuthill</Key>
-      <Text>E. D</Text>
+      <Forenames>E. D .</Forenames>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,14 +1030,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrell</Key>
-      <Text>F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unsworth</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Upton</Key>
-      <Text>G. R</Text>
+      <Forenames>G. R.</Forenames>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,25 +1271,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, T. W</Text>
+      <Key>van Montagu</Key>
+      <Forenames>A. A.</Forenames>
+      <PageNumber>1461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Oss</Key>
+      <Forenames>T. W.</Forenames>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ryneveld</Forenames>
-      <Text>, C. C</Text>
+      <Key>Van Ryneveld</Key>
+      <Forenames>C. C.</Forenames>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, R. K. A</Text>
+      <Key>van Someren</Key>
+      <Forenames>A. B.</Forenames>
+      <PageNumber>589</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Someren</Key>
+      <Forenames>R. K. A.</Forenames>
       <PageNumber>1624</PageNumber>
     </MainItem>
   </ItemGroup>

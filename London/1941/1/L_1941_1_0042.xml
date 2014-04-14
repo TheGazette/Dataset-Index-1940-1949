@@ -166,7 +166,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. G.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevill</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T., Commander, Order of the British Empire</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>., Commander, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +213,9 @@
     <MainItem>
       <Key>Newman</Key>
       <Forenames>R.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +351,9 @@
     <MainItem>
       <Key>Northcott</Key>
       <Forenames>J.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,22 +393,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T.</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N., Knight Commander, Order of the Bath</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N.</Forenames>
+      <Text>, Knight Commander, Order of the Bath</Text>
       <PageNumber>1303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C, Member, Order of the British Empire</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,14 +419,17 @@
     <MainItem>
       <Key>Ogilvie</Key>
       <Forenames>C. Mad</Forenames>
-      <Text>. G., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, F. W., Officer, Order of the British Empire</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>F. W.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +519,9 @@
     <MainItem>
       <Key>Overbury</Key>
       <Forenames>R. L.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +677,9 @@
     <MainItem>
       <Key>Parry</Key>
       <Forenames>R. G.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +703,9 @@
     <MainItem>
       <Key>Patch</Key>
       <Forenames>O.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>E. J., Member, Order of, the British Empire</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>, Member, Order of, the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +840,9 @@
     <MainItem>
       <Key>Peck</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +934,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

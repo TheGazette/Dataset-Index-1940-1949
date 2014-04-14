@@ -28,7 +28,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Catling</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +497,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chilton</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cove</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1938,14 +1938,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cullum</Key>
-      <Text>M ,</Text>
+      <Forenames>M</Forenames>
+      <Text>,</Text>
       <PageNumber>507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2175,7 +2176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple-Smith</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2293,7 +2294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>David</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2583,6 +2584,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lopham</Key>
+      <Forenames>H. De S</Forenames>
+      <PageNumber>507</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De-Wiele</Key>
       <Forenames>A. E.</Forenames>
       <PageNumber>842</PageNumber>
@@ -2605,7 +2613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deans</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>508</PageNumber>
     </MainItem>
   </ItemGroup>

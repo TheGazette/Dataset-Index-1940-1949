@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>3983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1580,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. S.</Forenames>
-      <Text>(R.A.M.C.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>

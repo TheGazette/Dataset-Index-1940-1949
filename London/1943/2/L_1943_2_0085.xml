@@ -81,8 +81,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>2520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,8 +116,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, K. B</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>K. B.</Forenames>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ousley</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,14 +185,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ouziel</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2259</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Overend</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Packard</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Papir</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parampre</Key>
-      <Text>A, P</Text>
+      <Forenames>A</Forenames>
+      <Text>, P</Text>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1435,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2231,7 +2232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettifer</Key>
-      <Text>T. R</Text>
+      <Forenames>T. R.</Forenames>
       <PageNumber>1809</PageNumber>
     </MainItem>
   </ItemGroup>

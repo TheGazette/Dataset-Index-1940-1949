@@ -308,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Easdown</Key>
-      <Text>, . W. A</Text>
+      <Text>. W. A</Text>
       <PageNumber>4331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>,' A</Text>
+      <Text>' A</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edirigborough</Key>
-      <Text>, K7 J</Text>
+      <Forenames>K</Forenames>
+      <Text>7 J</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,11 +1394,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ely</Key>
-      <Text>, ___ ___ G.A</Text>
+      <Text>___ ___ G.A</Text>
       <PageNumber>4018</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>PM. H.</Text>
+      <Text>PM. H</Text>
       <PageNumber>3616</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1470,7 +1471,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4332</PageNumber>
     </MainItem>
     <SubItem>
@@ -1595,7 +1596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4747</PageNumber>
     </MainItem>
     <SubItem>
@@ -1680,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Etkins</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,7 +1978,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>Y1 '</Text>
+      <Forenames>Y</Forenames>
+      <Text>1 '</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2077,7 +2079,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(196315)</Text>
+      <Title>(196315)</Title>
       <PageNumber>4806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2126,7 +2128,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D; G</Text>
+      <Forenames>D</Forenames>
+      <Text>; G</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2216,7 +2219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewen</Key>
-      <Text>, 'M. E</Text>
+      <Text>'M. E</Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>

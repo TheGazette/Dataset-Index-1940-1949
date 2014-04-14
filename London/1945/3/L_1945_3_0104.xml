@@ -139,7 +139,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +208,9 @@
         <KeyDitto>___ ___ — ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>( R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,8 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>G. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. F. St. C</Forenames>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +420,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, W. E</Text>
+      <Forenames>J</Forenames>
+      <Text>, W. E</Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strain</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Summerfield</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +724,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Summers</Key>
-      <Text>, H S</Text>
+      <Forenames>H</Forenames>
+      <Text>S</Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Targett</Key>
-      <Text>,. B. R; H. .:</Text>
+      <Text>. B. R; H. .:</Text>
       <PageNumber>3912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tasker</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,14 +1426,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tedford</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tedstone</Key>
-      <Text>, TRC</Text>
+      <Text>TRC</Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1995,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2224,7 +2229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Text>. E. B</Text>
+      <Forenames>E. B.</Forenames>
       <PageNumber>4167</PageNumber>
     </MainItem>
   </ItemGroup>

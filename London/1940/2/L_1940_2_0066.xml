@@ -178,7 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprot</Key>
-      <Text>J. EK</Text>
+      <Forenames>J.</Forenames>
+      <Text>EK</Text>
       <PageNumber>2790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>H. F</Text>
+      <Forenames>H. F.</Forenames>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1122,9 @@
       <Key>Stewart-Rankin</Key>
       <Title>Sir</Title>
       <Forenames>H. C. R.</Forenames>
-      <Text>, Bt; ... ... ... —</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1587,9 @@
       <PageNumber>3259</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2303</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1662,7 +1667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubbs</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>2701</PageNumber>
     </MainItem>
   </ItemGroup>

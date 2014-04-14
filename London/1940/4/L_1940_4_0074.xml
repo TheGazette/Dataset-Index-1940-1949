@@ -327,17 +327,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eyken</Forenames>
-      <Text>, A. G. M</Text>
+      <Key>Van Eyken</Key>
+      <Forenames>A. G. M.</Forenames>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Noorden</Forenames>
-      <Text>, E. A. J</Text>
+      <Key>Van Noorden</Key>
+      <Forenames>E. A. J.</Forenames>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +497,9 @@
       <Key>Verner</Key>
       <Title>Sir</Title>
       <Forenames>E. D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,8 +799,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. C. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>W. C. O'D</Forenames>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wagstafie</Key>
-      <Text>. K. P</Text>
+      <Forenames>K. P.</Forenames>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,8 +1666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Aldam</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -39,7 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Royston</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudrum</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +156,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,8 +591,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, E. D</Text>
+      <Key>St. Clair</Key>
+      <Forenames>E. D.</Forenames>
       <PageNumber>4747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scoble</Key>
-      <Text>, _D. L</Text>
+      <Text>_D. L</Text>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1989,7 +1989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scruton</Key>
-      <Text>, £. G</Text>
+      <Text>£. G</Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,14 +2144,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Searston</Key>
-      <Text>, .Wi</Text>
+      <Text>.Wi</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2193,7 +2193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedin</Key>
-      <Text>, R J</Text>
+      <Forenames>R</Forenames>
+      <Text>J</Text>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2207,7 +2208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seed</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2241,7 +2242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sefton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2277,7 +2278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Self</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2307,7 +2308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2331,7 +2332,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2340,7 +2341,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2440,7 +2441,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F, G</Text>
+      <Forenames>F</Forenames>
+      <Text>, G</Text>
       <PageNumber>3976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2666,7 +2668,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H E</Text>
+      <Forenames>H</Forenames>
+      <Text>E</Text>
       <PageNumber>4284</PageNumber>
     </MainItem>
   </ItemGroup>

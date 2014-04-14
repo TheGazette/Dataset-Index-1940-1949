@@ -142,7 +142,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barcroft</Key>
-      <Text>. J. H. P</Text>
+      <Forenames>J. H. P.</Forenames>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,8 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkas</Key>
-      <Forenames>G.</Forenames>
-      <Text>du G</Text>
+      <Forenames>G. du G</Forenames>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1479,9 @@
       <Key>Barrett-Lennard</Key>
       <Title>Sir</Title>
       <Forenames>T. R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,8 +1656,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. G. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. G. St. P</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,8 +1696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartholomew</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>L. St. C</Forenames>
       <PageNumber>5397</PageNumber>
     </MainItem>
   </ItemGroup>

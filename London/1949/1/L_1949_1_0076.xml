@@ -199,7 +199,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson-Jones</Key>
-      <Text>,</Text>
       <PageNumber>681</PageNumber>
       <PageNumber>684</PageNumber>
     </MainItem>
@@ -237,7 +236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, B; G</Text>
+      <Forenames>B</Forenames>
+      <Text>; G</Text>
       <PageNumber>432</PageNumber>
       <PageNumber>435</PageNumber>
     </MainItem>
@@ -388,7 +388,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R: G</Text>
+      <Forenames>R</Forenames>
+      <Text>: G</Text>
       <PageNumber>431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +759,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhead</Key>
-      <Text>,: L</Text>
+      <Text>: L</Text>
       <PageNumber>302</PageNumber>
       <PageNumber>303</PageNumber>
     </MainItem>
@@ -789,7 +790,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +927,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C.B. ... -</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +976,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +995,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>,. J</Text>
+      <Text>. J</Text>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zajac</Key>
-      <Text>, w: J. ..... -</Text>
+      <Text>w: J. ..... -</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,9 +1364,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, C. B</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>C. B.</Forenames>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1502,7 +1506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jopp</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaine</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,15 +1563,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>. H. L</Text>
+      <Forenames>H. L.</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Forenames>L. I. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>L. I. St. L</Forenames>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,14 +1675,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sage</Key>
-      <Text>. K. E</Text>
+      <Forenames>K. E.</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shackleton</Key>
-      <Text>. M. S</Text>
+      <Forenames>M. S.</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,7 +1710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spring</Key>
-      <Text>, LA</Text>
+      <Text>LA</Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,7 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>. M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,7 +1799,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>,B. M</Text>
+      <Text>B. M</Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1810,7 +1813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acorn</Key>
-      <Text>. of the Churnet Valley, dissolution</Text>
+      <Text>of the Churnet Valley, dissolution</Text>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barons</Key>
-      <Text>. Court Pharmacy, notice</Text>
+      <Forenames>Court Pharmacy</Forenames>
+      <Text>, notice</Text>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,7 +1917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonas</Key>
-      <Text>, H-, claimants</Text>
+      <Text>H-, claimants</Text>
       <PageNumber>275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1928,7 +1932,8 @@
   <ItemGroup>
     <MainItem>
       <Key>British</Key>
-      <Text>.Electricity Authority, notice</Text>
+      <Forenames>Electricity Authority</Forenames>
+      <Text>, notice</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodin</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +329,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Text>F; A. E</Text>
+      <Forenames>F</Forenames>
+      <Text>; A. E</Text>
       <PageNumber>2724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +641,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +867,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: R. C</Text>
+      <Forenames>J</Forenames>
+      <Text>: R. C</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>A: V. P</Text>
+      <Forenames>A</Forenames>
+      <Text>: V. P</Text>
       <PageNumber>2312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudings-Ogden</Key>
-      <Text>C Cbrr</Text>
+      <Forenames>C</Forenames>
+      <Text>Cbrr</Text>
       <PageNumber>1692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,14 +1346,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutter</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ryall</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1362,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,15 +1589,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, B. G. E</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>B. G. E.</Forenames>
       <PageNumber>2723</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, M. A</Text>
+      <Key>St. Leger</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>

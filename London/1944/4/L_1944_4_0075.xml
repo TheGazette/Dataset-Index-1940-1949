@@ -1244,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinto</Key>
-      <Forenames>V. De S.</Forenames>
+      <Forenames>V. De S</Forenames>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,14 +1681,17 @@
       <Key>
         <KeyDitto>___ ___ ———</KeyDitto>
       </Key>
-      <Text>F R</Text>
+      <Forenames>F</Forenames>
+      <Text>R</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pullin</Key>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,7 +1952,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>

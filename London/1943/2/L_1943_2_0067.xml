@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corps</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Counihan</Key>
-      <Text>D, J. P</Text>
+      <Forenames>D</Forenames>
+      <Text>, J. P</Text>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +597,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A, V</Text>
+      <Forenames>A</Forenames>
+      <Text>, V</Text>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1094,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton-Stuart</Key>
-      <Text>Lord P ,</Text>
+      <Title>Lord</Title>
+      <Forenames>P</Forenames>
+      <Text>,</Text>
       <PageNumber>1997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>C-TOmb</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1327,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosling</Key>
-      <Text>W Cross, A. A</Text>
+      <Forenames>W</Forenames>
+      <Text>Cross, A. A</Text>
       <PageNumber>1515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1374,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1403,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2722</PageNumber>
     </MainItem>
     <SubItem>
@@ -1520,7 +1525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D.</Forenames>
       <PageNumber>2724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1638,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1647,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1670,7 +1675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culpan</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1973,8 +1978,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>R. St. A</Forenames>
       <PageNumber>2261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2026,7 +2030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cufclifie</Key>
-      <Text>C. M</Text>
+      <Forenames>C. M.</Forenames>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>

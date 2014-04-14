@@ -21,7 +21,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>D. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +174,7 @@
     <KeyDitto>___ ___ ___ ; .</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>(Pioneer C.) J. G.</Text>
+      <Text>(Pioneer C.) J. G</Text>
       <PageNumber>2110</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -625,50 +627,95 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bene</Forenames>
-      <Text>, H. P</Text>
+      <Key>de Ayala</Key>
+      <Forenames>R. L.</Forenames>
+      <PageNumber>2278</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Bene</Key>
+      <Forenames>H. P.</Forenames>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garston</Forenames>
-      <Text>, A. R. A</Text>
+      <Key>de Brouckere</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>2334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Garston</Key>
+      <Forenames>A. R. A.</Forenames>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ghazal</Forenames>
-      <Text>, L. E. M</Text>
+      <Key>De Ghazal</Key>
+      <Forenames>L. E. M.</Forenames>
       <PageNumber>2522</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, K. C. D</Text>
+      <Key>De Gruchy</Key>
+      <Forenames>K. C. D.</Forenames>
       <PageNumber>1991</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haaf</Forenames>
-      <Text>, D. M., Corr</Text>
+      <Key>De Haaf</Key>
+      <Forenames>D. M.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Las Casas</Forenames>
+      <Key>de Jean</Key>
+      <Forenames>A. T.</Forenames>
+      <PageNumber>1935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Las</Key>
+      <Forenames>Casas</Forenames>
       <Text>, D. A</Text>
       <PageNumber>1989</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mulder</Key>
+      <Forenames>A. O. O.</Forenames>
+      <PageNumber>2979</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pret-Roose</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>2796</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>B. L.</Forenames>
+      <PageNumber>3074</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>Count A. D. R.</Forenames>
+      <PageNumber>2684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -682,10 +729,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Smitt</Forenames>
-      <Text>, C. A. S</Text>
+      <Key>De Smitt</Key>
+      <Forenames>C. A. S.</Forenames>
       <PageNumber>2915</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sylva</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>2688</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Volpelieres</Key>
+      <Text>de Escombreras, P. J. N</Text>
+      <PageNumber>2173</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vos</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>1661</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wardt</Key>
+      <Forenames>J. C.</Forenames>
+      <PageNumber>1532</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>G. P. St</Forenames>
+      <Text>. C</Text>
+      <PageNumber>2977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zulueta</Key>
+      <Forenames>P. F.</Forenames>
+      <PageNumber>2688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -764,7 +853,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>J, J. W</Text>
+      <Forenames>J</Forenames>
+      <Text>, J. W</Text>
       <PageNumber>2914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delves</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Divers</Key>
-      <Text>L. S. P</Text>
+      <Forenames>L. S. P.</Forenames>
       <PageNumber>1757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doody</Key>
-      <Text>P. J</Text>
+      <Forenames>P. J.</Forenames>
       <PageNumber>1604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2239,7 +2329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drewitt</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>

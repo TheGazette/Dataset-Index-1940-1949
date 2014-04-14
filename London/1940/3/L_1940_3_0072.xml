@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Rees</Key>
       <Forenames>J. L.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>. C. N</Text>
+      <Forenames>C. N</Forenames>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,8 +1099,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Forenames>R. C. G. St</Forenames>
-      <Text>. L., Bt!</Text>
+      <Forenames>R. C. G. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,8 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rideout</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. .„</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. .„</Text>
       <PageNumber>4662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,7 +1679,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5570</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>R. E</Text>
+      <Forenames>R. E</Forenames>
       <PageNumber>1076</PageNumber>
       <PageNumber>1807</PageNumber>
     </MainItem>
@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blott</Key>
-      <Text>P. D</Text>
+      <Forenames>P. D.</Forenames>
       <PageNumber>410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,14 +386,16 @@
       <Key>Blunden</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>194</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blunt</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brjnsmead</Key>
-      <Text>A. C. ... '</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>... '</Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brobman</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H.</Forenames>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>J. De V .</Forenames>
+      <Forenames>J. De V</Forenames>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,8 +1618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clode</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,7 +1701,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Bt.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1962,7 +1966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corke</Key>
-      <Text>C. L</Text>
+      <Forenames>C. L .</Forenames>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,7 +2017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowburn</Key>
-      <Text>P. D</Text>
+      <Forenames>P. D.</Forenames>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>

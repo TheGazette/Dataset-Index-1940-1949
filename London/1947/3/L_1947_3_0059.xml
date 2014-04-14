@@ -119,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S. Van B.</Forenames>
+      <Forenames>S. Van B</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leffler</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lerwill</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,8 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mani</Key>
-      <Text>C, Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>3984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,14 +692,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Massaud</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Massey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +915,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milman</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moriarty</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mottram</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nailer</Key>
-      <Text>K. T. F</Text>
+      <Forenames>K. T. F.</Forenames>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,15 +1379,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bree, C. P. O'Brien, A. V., Sub. not</Text>
+      <Key>O'Bree</Key>
+      <Forenames>C. P. O'Brien</Forenames>
+      <Text>, A. V., Sub. not</Text>
       <PageNumber>3984</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>3984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,8 +1416,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Lone, R. J</Text>
+      <Key>O'Lone</Key>
+      <Forenames>R. J.</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Partap</Key>
-      <Forenames>Narain</Forenames>
+      <Title>Narain .</Title>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,8 +1577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Passy</Key>
-      <Forenames>W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>W. de L</Forenames>
       <PageNumber>3840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Text>E. C</Text>
+      <Forenames>E. C.</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,7 +2138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redpath</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2213,7 +2213,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>

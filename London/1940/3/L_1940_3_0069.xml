@@ -1224,7 +1224,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Pechell</Key>
-      <Text>^^ir Pechell^^ir P., P., Bt. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,7 +1292,9 @@
     <MainItem>
       <Key>Peel</Key>
       <Forenames>J.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2021,7 +2026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Philips</Key>
-      <Text>. W. E. R</Text>
+      <Forenames>W. E. R.</Forenames>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -53,7 +53,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R C</Text>
+      <Forenames>R</Forenames>
+      <Text>C</Text>
       <PageNumber>4168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +205,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J: A;</Text>
+      <Forenames>J</Forenames>
+      <Text>: A;</Text>
       <PageNumber>3308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +650,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M, H. ;</Text>
+      <Forenames>M</Forenames>
+      <Text>, H. ;</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +661,8 @@
         <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>King, N. F</Text>
+      <Title>King</Title>
+      <Text>, N. F</Text>
       <PageNumber>3243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsford</Key>
-      <Text>R. S</Text>
+      <Forenames>R. S.</Forenames>
       <PageNumber>3965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinsman</Key>
-      <Text>M: H</Text>
+      <Forenames>M</Forenames>
+      <Text>: H</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +971,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1206,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M; W. B. ..-</Text>
+      <Forenames>M</Forenames>
+      <Text>; W. B. ..-</Text>
       <PageNumber>2927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,7 +1372,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R: W</Text>
+      <Forenames>R</Forenames>
+      <Text>: W</Text>
       <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Krohn</Key>
-      <Text>I. R</Text>
+      <Forenames>I. R.</Forenames>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1498,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>M J. P</Text>
+      <Forenames>M</Forenames>
+      <Text>J. P</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,7 +1545,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K, R</Text>
+      <Forenames>K</Forenames>
+      <Text>, R</Text>
       <PageNumber>2932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1673,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>D; I</Text>
+      <Forenames>D</Forenames>
+      <Text>; I</Text>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,7 +1710,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2040,7 +2054,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansdell</Key>
-      <Text>G;</Text>
+      <Forenames>G</Forenames>
+      <Text>;</Text>
       <PageNumber>3094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2400,8 +2415,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2497,7 +2511,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T, R., Corr</Text>
+      <Forenames>T</Forenames>
+      <Text>, R., Corr</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>

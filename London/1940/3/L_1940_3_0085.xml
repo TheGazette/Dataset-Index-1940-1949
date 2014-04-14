@@ -1120,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youell</Key>
-      <Text>.R. A</Text>
+      <Forenames>R. A .</Forenames>
       <PageNumber>5391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1144,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1194,9 @@
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
       <Forenames>C. E.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashbrook</Key>
-      <Text>. Visct</Text>
+      <Title>Visct.</Title>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>

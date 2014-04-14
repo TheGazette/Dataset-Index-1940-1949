@@ -167,7 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>C N</Text>
+      <Forenames>C</Forenames>
+      <Text>N</Text>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>A; S</Text>
+      <Forenames>A</Forenames>
+      <Text>; S</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,17 +389,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bois</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Bois</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>980</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freitas</Forenames>
-      <Text>, A; V. ...'</Text>
+      <Key>de Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
+      <PageNumber>975</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Freitas</Key>
+      <Forenames>A</Forenames>
+      <Text>; V. ...'</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,17 +418,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mornay</Forenames>
-      <Text>, A. P. B:</Text>
+      <Key>De Mornay</Key>
+      <Forenames>A. P. B</Forenames>
+      <Text>:</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pass</Forenames>
-      <Text>, F. G</Text>
+      <Key>De Pass</Key>
+      <Forenames>F. G.</Forenames>
       <PageNumber>1042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,9 +448,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Verteville</Forenames>
-      <Text>,' P</Text>
+      <Key>De Verteville</Key>
+      <Text>' P</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1002,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>I: C</Text>
+      <Forenames>I</Forenames>
+      <Text>: C</Text>
       <PageNumber>085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>A:;</Text>
+      <Forenames>A</Forenames>
+      <Text>:;</Text>
       <PageNumber>604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,15 +1752,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Du</Key>
-      <Text>Boulay, R. W. H.i 1386,-, . ,1</Text>
+      <Forenames>Boulay</Forenames>
+      <Text>, R. W. H.i 1386,-, . ,1</Text>
       <PageNumber>1386</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Rieu</Forenames>
-      <Text>, K. P., Cprr</Text>
+      <Key>Du Rieu</Key>
+      <Forenames>K. P.</Forenames>
+      <Text>, Cprr</Text>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1892,7 +1901,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2252,7 +2261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Earp</Key>
-      <Text>G: H</Text>
+      <Forenames>G</Forenames>
+      <Text>: H</Text>
       <PageNumber>990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2343,7 +2353,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H, c. i9?</Text>
+      <Forenames>H</Forenames>
+      <Text>, c. i9?</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2351,7 +2362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebert</Key>
-      <Text>A. G;.-E. . ii6t j</Text>
+      <Forenames>A. G</Forenames>
+      <Text>;.-E. . ii6t j</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

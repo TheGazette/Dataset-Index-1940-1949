@@ -92,7 +92,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>' (A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2303</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ . ..</KeyDitto>
@@ -489,7 +491,9 @@
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>E. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2703</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -918,8 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayre</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>

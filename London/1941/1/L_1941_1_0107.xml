@@ -455,7 +455,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>667</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
@@ -902,7 +904,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,15 +1127,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Smithe</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. L. St. C</Forenames>
       <PageNumber>116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smithson</Key>
-      <Text>M. S</Text>
+      <Forenames>M. S.</Forenames>
       <PageNumber>1275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snepp</Key>
-      <Forenames>R. S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. S. St. C</Forenames>
       <PageNumber>550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spector</Key>
-      <Text>D. B. B</Text>
+      <Forenames>D. B. B.</Forenames>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>

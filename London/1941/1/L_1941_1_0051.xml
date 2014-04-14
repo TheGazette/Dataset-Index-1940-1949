@@ -12,7 +12,9 @@
       <Key>Bartleft</Key>
       <Title>Sir</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +493,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,8 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
-      <Forenames>P.</Forenames>
-      <Text>de M</Text>
+      <Forenames>P. de M</Forenames>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauchamp</Key>
-      <Text>S. G</Text>
+      <Forenames>S. G.</Forenames>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1742,8 +1745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Begg</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>C. St. A</Forenames>
       <PageNumber>240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1839,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. E.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>38</PageNumber>
     </MainItem>
   </ItemGroup>

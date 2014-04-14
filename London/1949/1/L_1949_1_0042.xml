@@ -135,7 +135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levy</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Locke</Key>
-      <Text>. G. N. W</Text>
+      <Forenames>G. N. W</Forenames>
       <PageNumber>1321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,14 +380,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>. Sir R. M. M</Text>
+      <Title>Sir</Title>
+      <Forenames>R. M. M.</Forenames>
       <PageNumber>1375</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lofting</Key>
-      <Text>. P. S</Text>
+      <Forenames>P. S.</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>rLuck</Key>
-      <Text>.G. C</Text>
+      <Forenames>G. C.</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>, E:</Text>
+      <Forenames>E</Forenames>
+      <Text>:</Text>
       <PageNumber>1187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McComas</Key>
-      <Text>. M. G</Text>
+      <Forenames>M. G.</Forenames>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor-Williams</Key>
-      <Text>, . R. J</Text>
+      <Text>. R. J</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1060,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Text>, LA</Text>
+      <Text>LA</Text>
       <PageNumber>636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKelvie</Key>
-      <Text>, L L. I</Text>
+      <Forenames>L</Forenames>
+      <Text>L. I</Text>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>

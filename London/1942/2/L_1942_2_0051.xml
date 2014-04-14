@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cottier</Key>
-      <Text>C E., Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>E., Sub. not</Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +285,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CrassAA</Key>
-      <Text>G. K</Text>
+      <Forenames>G. K.</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +570,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +605,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crook</Key>
-      <Text>A ,</Text>
+      <Forenames>A</Forenames>
+      <Text>,</Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowther</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1384,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D: H</Text>
+      <Forenames>D</Forenames>
+      <Text>: H</Text>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1551,7 +1554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutting</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dabbs</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,7 +1753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dacker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1805,7 +1808,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>1909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2023,7 +2026,8 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>C. (Recsse</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Recsse</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2070,7 +2074,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>(R.A:P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2089,7 +2095,7 @@
       <Key>
         <KeyDitto>___ ___ ___ '.</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2098,7 +2104,7 @@
       <Key>
         <KeyDitto>___ ___ :</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2134,7 +2140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>2023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2197,7 +2204,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>N:</Text>
+      <Forenames>N</Forenames>
+      <Text>:</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2213,9 +2221,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cas</Key>
+      <Forenames>A. J. G.</Forenames>
+      <PageNumber>1596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Bere, H. C. . .. i55o de la Mare, C. F</Text>
       <PageNumber>1702</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Martyn</Key>
+      <Forenames>D. C.</Forenames>
+      <Text>de Mello, A</Text>
+      <PageNumber>1908</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2228,9 +2251,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, F. R., Cane</Text>
+      <Key>De Pledge</Key>
+      <Forenames>F. R.</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>1641</PageNumber>
     </MainItem>
     <SubItem>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gompels</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>J£ g</Text>
+      <Forenames>J</Forenames>
+      <Text>£ g</Text>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger</Key>
-      <Text>J: W</Text>
+      <Forenames>J</Forenames>
+      <Text>: W</Text>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +381,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>F^' C.;.M. is</Text>
+      <Forenames>F</Forenames>
+      <Text>^' C.;.M. is</Text>
       <PageNumber>509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,8 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1374,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grove-White</Key>
-      <Text>Sir M: F.jj</Text>
+      <Title>Sir</Title>
+      <Forenames>M</Forenames>
+      <Text>: F.jj</Text>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gulden</Key>
-      <Text>M -</Text>
+      <Forenames>M</Forenames>
+      <Text>-</Text>
       <PageNumber>854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1821,8 @@
       <Key>
         <KeyDitto>—-</KeyDitto>
       </Key>
-      <Text>S ___ ___ C. C</Text>
+      <Forenames>S</Forenames>
+      <Text>___ ___ C. C</Text>
       <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2003,7 +2009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>C, Canc</Text>
+      <Forenames>C</Forenames>
+      <Text>, Canc</Text>
       <PageNumber>1475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2045,7 +2052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamsher</Key>
-      <Text>P;</Text>
+      <Forenames>P</Forenames>
+      <Text>;</Text>
       <PageNumber>399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2160,7 +2168,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>702</PageNumber>
     </MainItem>
   </ItemGroup>

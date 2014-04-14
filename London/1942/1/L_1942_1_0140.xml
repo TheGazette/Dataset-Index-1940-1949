@@ -19,14 +19,14 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Millard</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,14 +35,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milieu</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +58,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E: E</Text>
+      <Forenames>E</Forenames>
+      <Text>: E</Text>
       <PageNumber>725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +137,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Horace</Forenames>
+      <Title>Horace .</Title>
       <PageNumber>161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +210,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Louisa</Forenames>
+      <Title>Louisa .</Title>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moister</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +424,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>586</PageNumber>
     </MainItem>
     <SubItem>
@@ -566,11 +567,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Mothersole</Key>
-      <Text>, T T</Text>
+      <Forenames>T</Forenames>
+      <Text>T</Text>
       <PageNumber>419</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.</Text>
+      <Text>M</Text>
       <PageNumber>1140</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -702,8 +704,6 @@
   <KeyDitto>-— ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>___ ___ ___ C. H. ..</SubCategoryTitle>
   <SubCategoryTitle>... 164 Pleydell, C</SubCategoryTitle>
-  <SubCategoryTitle>... 480 Pollard, G. E</SubCategoryTitle>
 </Index>
 

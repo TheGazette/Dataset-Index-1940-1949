@@ -147,7 +147,9 @@
       <Key>Lighton</Key>
       <Title>Sir</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lord</Key>
-      <Text>.E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>5149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macbeth</Key>
-      <Text>. I. R</Text>
+      <Forenames>I. R</Forenames>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mark</Key>
-      <Text>. F. E</Text>
+      <Forenames>F. E</Forenames>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>J.</Forenames>
-      <Text>von K</Text>
+      <Forenames>J. von K</Forenames>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>. M. G</Text>
+      <Forenames>M. G.</Forenames>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1574,7 +1575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>. R. V</Text>
+      <Forenames>R. V</Forenames>
       <PageNumber>4501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,8 +1589,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. C</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,21 +1611,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Onoow-Carev</Key>
-      <Text>. R. IT. O</Text>
+      <Forenames>R.</Forenames>
+      <Text>IT. O</Text>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orchard</Key>
-      <Text>. L. W</Text>
+      <Forenames>L. W</Forenames>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orme</Key>
-      <Text>. D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,21 +1640,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Ormrod</Key>
-      <Text>. P. G</Text>
+      <Forenames>P. G</Forenames>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Osen</Key>
-      <Text>. N. M</Text>
+      <Forenames>N. M</Forenames>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Overton</Key>
-      <Text>. C. L</Text>
+      <Forenames>C. L</Forenames>
       <PageNumber>4796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>

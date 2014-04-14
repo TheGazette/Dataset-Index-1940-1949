@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>.' C. D</Text>
+      <Text>' C. D</Text>
       <PageNumber>3392</PageNumber>
       <PageNumber>3393</PageNumber>
     </MainItem>
@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beveridge</Key>
-      <Text>,' C</Text>
+      <Text>' C</Text>
       <PageNumber>4390</PageNumber>
       <PageNumber>4390</PageNumber>
     </MainItem>
@@ -302,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bieber</Key>
-      <Text>.'S. M</Text>
+      <Text>'S. M</Text>
       <PageNumber>4056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bitton</Key>
-      <Text>, HIW</Text>
+      <Text>HIW</Text>
       <PageNumber>3393</PageNumber>
       <PageNumber>3394</PageNumber>
     </MainItem>
@@ -491,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>, A; J</Text>
+      <Forenames>A</Forenames>
+      <Text>; J</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blount</Key>
-      <Text>. C. C ?</Text>
+      <Forenames>C. C</Forenames>
+      <Text>?</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodle</Key>
-      <Text>.L. A., Corr</Text>
+      <Forenames>L. A.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3289</PageNumber>
       <PageNumber>3290</PageNumber>
     </MainItem>
@@ -881,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Botten</Key>
-      <Text>, &gt;M. . H.'</Text>
+      <Text>&gt;M. . H.'</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +935,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bouttell</Key>
-      <Text>, W/A. S</Text>
+      <Forenames>W</Forenames>
+      <Text>/A. S</Text>
       <PageNumber>3285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bown</Key>
-      <Text>,K. ,</Text>
+      <Text>K. ,</Text>
       <PageNumber>4492</PageNumber>
       <PageNumber>4493</PageNumber>
     </MainItem>
@@ -1300,14 +1304,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brill</Key>
-      <Text>,! A. L</Text>
+      <Text>! A. L</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brindley</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3392</PageNumber>
       <PageNumber>3393</PageNumber>
     </MainItem>
@@ -1373,7 +1377,9 @@
       <Key>Brooke</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, Bt :</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1530,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E: L., Sub. nots</Text>
+      <Forenames>E</Forenames>
+      <Text>: L., Sub. nots</Text>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1569,8 @@
       <Key>
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>4394</PageNumber>
       <PageNumber>4395</PageNumber>
     </MainItem>
@@ -1573,7 +1581,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L: R</Text>
+      <Forenames>L</Forenames>
+      <Text>: R</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,14 +1695,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Brbwnlow</Key>
-      <Text>, B Brownrigg, DA! W.P</Text>
+      <Forenames>B</Forenames>
+      <Text>Brownrigg, DA! W.P</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,14 +1747,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Briinner</Key>
-      <Text>,..G. C:</Text>
+      <Text>..G. C:</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruten</Key>
-      <Text>, ,H. J., Coir.'</Text>
+      <Text>,H. J., Coir.'</Text>
       <PageNumber>4609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1771,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>T4 K. J. . .. ...,</Text>
+      <Forenames>T</Forenames>
+      <Text>4 K. J. . .. ...,</Text>
       <PageNumber>3749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1794,7 +1805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brzeski</Key>
-      <Text>. S;: J. . .' ..:</Text>
+      <Forenames>S</Forenames>
+      <Text>;: J. . .' ..:</Text>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2073,7 +2085,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>, B '</Text>
+      <Forenames>B</Forenames>
+      <Text>'</Text>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2177,7 +2190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>,..A. R-</Text>
+      <Text>..A. R-</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2193,14 +2206,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Butt</Key>
-      <Text>,.A.-.G. M</Text>
+      <Text>.A.-.G. M</Text>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butterworth</Key>
-      <Text>,..F</Text>
+      <Text>..F</Text>
       <PageNumber>3529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2227,7 +2240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Button</Key>
-      <Text>,-. D. H,</Text>
+      <Text>-. D. H,</Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2236,14 +2249,15 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>H^ ___ ___ E.-H. ....... -</Text>
+      <Forenames>H</Forenames>
+      <Text>^ ___ ___ E.-H. ....... -</Text>
       <PageNumber>4055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byne</Key>
-      <Text>,A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,7 +2288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byron</Key>
-      <Text>,. R. J '</Text>
+      <Text>. R. J '</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2304,7 +2318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cahill</Key>
-      <Text>,&gt;Mv-J ..'</Text>
+      <Text>&gt;Mv-J ..'</Text>
       <PageNumber>4489</PageNumber>
     </MainItem>
     <SubItem>
@@ -2389,7 +2403,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>

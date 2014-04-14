@@ -473,7 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>. G. C</Text>
+      <Forenames>G. C .</Forenames>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +991,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. V. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1310,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>E. J. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1663,7 +1667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LightbodvA</Key>
-      <Text>. B. ... -</Text>
+      <Forenames>B.</Forenames>
+      <Text>... -</Text>
       <PageNumber>6854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilley</Key>
-      <Text>. A. R. G</Text>
+      <Forenames>A. R. G.</Forenames>
       <PageNumber>5887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lind</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>6012</PageNumber>
     </MainItem>
   </ItemGroup>

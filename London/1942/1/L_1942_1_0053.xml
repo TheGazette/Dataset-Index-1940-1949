@@ -446,7 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>C, Cane</Text>
+      <Forenames>C</Forenames>
+      <Text>, Cane</Text>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howells</Key>
-      <Text>D. C</Text>
+      <Forenames>D. C.</Forenames>
       <PageNumber>890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,7 +1547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1602,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H; T&gt;</Text>
+      <Forenames>H</Forenames>
+      <Text>; T&gt;</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1640,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1819,7 +1821,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. E.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1940,7 +1944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibbotson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,7 +2148,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2182,7 +2186,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2529,7 +2533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaggard</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>1056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2557,7 +2561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2575,7 +2579,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T&gt;. E</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. E</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>

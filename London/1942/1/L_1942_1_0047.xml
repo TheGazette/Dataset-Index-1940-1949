@@ -544,7 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cryer</Key>
-      <Text>L F</Text>
+      <Forenames>L</Forenames>
+      <Text>F</Text>
       <PageNumber>1113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,8 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullity</Key>
-      <Forenames>R. D. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>R. D. O'C</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalel</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Date</Key>
-      <Text>R. M. ... ... iin Davenall, D. H</Text>
+      <Forenames>R. M.</Forenames>
+      <Text>... ... iin Davenall, D. H</Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dax</Key>
-      <Text>W, J. G</Text>
+      <Forenames>W</Forenames>
+      <Text>, J. G</Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1610,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,6 +1660,35 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bertodano</Key>
+      <Forenames>G. F. C.</Forenames>
+      <PageNumber>958</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bock</Key>
+      <Forenames>Porter</Forenames>
+      <Text>, M. E</Text>
+      <PageNumber>224</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>R. J. H.</Forenames>
+      <PageNumber>547</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bruyne</Key>
+      <Forenames>H. B. A.</Forenames>
+      <PageNumber>1058</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Domenico</Forenames>
       <Text>, G. E</Text>
@@ -1666,18 +1697,87 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grey</Forenames>
-      <Text>, R</Text>
+      <Key>de Dulin</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>834</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>C. V. W.</Forenames>
+      <PageNumber>1000</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gregory</Key>
+      <Forenames>R. M.</Forenames>
+      <PageNumber>1377</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Grey</Key>
+      <Forenames>R</Forenames>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, B. B</Text>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>437</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>224</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laroque</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougemont</Key>
+      <Forenames>R. A. E.</Forenames>
+      <PageNumber>602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, J. F</Text>
+      <PageNumber>888</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>B. B.</Forenames>
       <PageNumber>226</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vella-Clary</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>605</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. P. G.</Forenames>
+      <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1737,7 +1837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Debonnaire</Key>
-      <Text>R, R. W</Text>
+      <Forenames>R</Forenames>
+      <Text>, R. W</Text>
       <PageNumber>1324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deighton</Key>
-      <Text>R!</Text>
+      <Forenames>R</Forenames>
+      <Text>!</Text>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +2012,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>W H. N,</Text>
+      <Forenames>W</Forenames>
+      <Text>H. N,</Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>

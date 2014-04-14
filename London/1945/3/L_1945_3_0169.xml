@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watlington</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,6 @@
       <Key>Western</Key>
       <Forenames>Demolition</Forenames>
       <Text>&amp; Construction Company</Text>
-      <PageNumber>4761</PageNumber>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +120,6 @@
       <Key>Whymans</Key>
       <Forenames>Nurseries</Forenames>
       <PageNumber>4142</PageNumber>
-      <PageNumber>4302</PageNumber>
-      <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -172,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodbine</Key>
-      <Forenames>Laundry</Forenames>
+      <Title>Laundry .</Title>
       <PageNumber>4397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>3890</PageNumber>
       <PageNumber>4715</PageNumber>
     </MainItem>
@@ -241,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zota</Key>
-      <Forenames>Company</Forenames>
+      <Title>Company .</Title>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brittens</Key>
-      <Forenames>Dairies</Forenames>
+      <Title>Dairies .</Title>
       <PageNumber>3641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earlston</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>4598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Golding</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggatt</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +711,6 @@
       <Forenames>Guest House</Forenames>
       <Text>347° Martin, R. P. &amp; Co</Text>
       <PageNumber>4031</PageNumber>
-      <PageNumber>4054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -852,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,14 +884,16 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>P.L. Radio and Electrical Repairs</Text>
+      <Forenames>P.L. Radio</Forenames>
+      <Text>and Electrical Repairs</Text>
       <PageNumber>4540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salter</Key>
-      <Text>J &amp; Sons</Text>
+      <Forenames>J</Forenames>
+      <Text>&amp; Sons</Text>
       <PageNumber>4540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,14 +942,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Snowden</Key>
-      <Forenames>Frank</Forenames>
+      <Title>Frank .</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stocks</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,8 +1531,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C.</Forenames>
-      <Text>de W. Arnold, A</Text>
+      <Forenames>C. de W</Forenames>
+      <Text>. Arnold, A</Text>
       <PageNumber>3654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1819,7 +1817,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>

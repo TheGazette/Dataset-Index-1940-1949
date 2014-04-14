@@ -433,7 +433,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,15 +560,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>5188</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, G. M</Text>
+      <Key>St. Leger</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>Earl</Text>
+      <Title>Earl .</Title>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +859,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C B</Text>
+      <Forenames>C</Forenames>
+      <Text>B</Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +991,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S C_</Text>
+      <Forenames>S</Forenames>
+      <Text>C_</Text>
       <PageNumber>4692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,8 +1348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shortt</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,14 +1398,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sim</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simcock</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skelton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1567,7 +1568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skilling</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,7 +1582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skipper</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2250,7 +2251,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2264,7 +2265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2303,7 +2304,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. C. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2517,7 +2520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studd</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2561,7 +2564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sugden</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6132</PageNumber>
     </MainItem>
   </ItemGroup>

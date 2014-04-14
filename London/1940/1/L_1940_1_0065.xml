@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>L. M. St. G</Forenames>
       <PageNumber>76</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clay</Key>
-      <Text>C. R</Text>
+      <Forenames>C. R .</Forenames>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>1626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,6 +649,13 @@
       <Key>Da</Key>
       <Text>we, W. W. F</Text>
       <PageNumber>1833</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vesian</Key>
+      <Forenames>N. E.</Forenames>
+      <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -748,7 +754,9 @@
       <Key>Doughty-Tichborne</Key>
       <Title>Sir</Title>
       <Forenames>A</Forenames>
-      <Text>JH., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlavson</Key>
-      <Text>M. C. K</Text>
+      <Forenames>M. C. K.</Forenames>
       <PageNumber>524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>L. W</Text>
+      <Forenames>L. W</Forenames>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribble</Key>
-      <Text>T. W</Text>
+      <Forenames>T. W .</Forenames>
       <PageNumber>523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,8 +1721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grigson</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,8 +1826,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallows</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. A. de B</Forenames>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>

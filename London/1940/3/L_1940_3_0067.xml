@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mure</Key>
-      <Text>. D. W. A</Text>
+      <Forenames>D. W. A.</Forenames>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newitt</Key>
-      <Text>. C. N</Text>
+      <Forenames>C. N .</Forenames>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1003,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Text>. E. D</Text>
+      <Forenames>E. D.</Forenames>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisted</Key>
-      <Text>. C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>5643</PageNumber>
     </MainItem>
   </ItemGroup>

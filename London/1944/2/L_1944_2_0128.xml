@@ -307,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deyong</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dibb</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dicken</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgshun</Key>
-      <Text>G&lt; T</Text>
+      <Forenames>G</Forenames>
+      <Text>&lt; T</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,8 +1754,8 @@
       <Key>
         <KeyDitto>___ ___ _</KeyDitto>
       </Key>
-      <Forenames>Ir</Forenames>
-      <Text>. . :</Text>
+      <Title>Ir.</Title>
+      <Text>. :</Text>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1869,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S S</Text>
+      <Forenames>S</Forenames>
+      <Text>S</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2474,7 +2476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2555,7 +2557,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A, H. ;</Text>
+      <Forenames>A</Forenames>
+      <Text>, H. ;</Text>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2578,23 +2581,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Dryland</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Duisson</Forenames>
-      <Text>, W. A</Text>
+      <Key>Du Duisson</Key>
+      <Forenames>W. A.</Forenames>
       <PageNumber>2431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, L. C</Text>
+      <Key>Du Pre</Key>
+      <Forenames>L. C.</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2732,7 +2733,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>

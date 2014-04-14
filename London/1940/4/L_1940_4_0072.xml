@@ -160,8 +160,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. R.</Forenames>
-      <Text>de F</Text>
+      <Forenames>B. R. de F</Forenames>
       <PageNumber>6623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>. E. H. F</Text>
+      <Forenames>E. H. F.</Forenames>
       <PageNumber>6011</PageNumber>
       <PageNumber>6178</PageNumber>
     </MainItem>
@@ -1172,8 +1171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>7206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,14 +1244,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tart</Key>
-      <Text>. G. R</Text>
+      <Forenames>G. R.</Forenames>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tasker</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1495,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>

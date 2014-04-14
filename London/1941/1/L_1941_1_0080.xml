@@ -305,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurst</Key>
-      <Text>G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Huxter</Key>
-      <Text>P. D</Text>
+      <Forenames>P. D.</Forenames>
       <PageNumber>249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Icke</Key>
-      <Text>T. B. Iggulden, J. G</Text>
+      <Forenames>T. B. Iggulden</Forenames>
+      <Text>, J. G</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +823,9 @@
     <MainItem>
       <Key>Imison</Key>
       <Forenames>K. H.</Forenames>
-      <Text>... B., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,7 +1509,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1432</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,8 +1134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Forenames>I. M.</Forenames>
-      <Text>de M. G ;</Text>
+      <Forenames>I. M. de M</Forenames>
+      <Text>. G ;</Text>
       <PageNumber>4034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,8 +1346,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. de L</Forenames>
       <PageNumber>4149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frith</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1699,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kepple</Key>
-      <Text>P:</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>3674</PageNumber>
       <PageNumber>3900</PageNumber>
     </MainItem>
@@ -1905,7 +1905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullen</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,8 +1939,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, K. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>K. A.</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>

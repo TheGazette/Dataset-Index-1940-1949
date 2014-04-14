@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parliament</Key>
-      <Text>, applications to. for leave to introduce Bills: Airways Corporations</Text>
+      <Text>applications to. for leave to introduce Bills: Airways Corporations</Text>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Primrose</Key>
-      <Text>(Builders), notice</Text>
+      <Title>(Builders)</Title>
+      <Text>, notice</Text>
       <PageNumber>1912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,14 +251,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. . Paul's Hospital for Diseases (including Cancer) of the Genitourinary Organs and Skin, .cancelling of registry</Text>
+      <Text>. Paul's Hospital for Diseases (including Cancer) of the Genitourinary Organs and Skin, .cancelling of registry</Text>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sick</Key>
-      <Text>. Man's Friend Society, dissolution</Text>
+      <Forenames>Man</Forenames>
+      <Text>'s Friend Society, dissolution</Text>
       <PageNumber>1726</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -244,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +268,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,14 +472,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Blythe</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boase</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +569,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bomze</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonner</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>. E. ... »</Text>
+      <Forenames>E.</Forenames>
+      <Text>... »</Text>
       <PageNumber>487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Leonard</Forenames>
+      <Title>Leonard .</Title>
       <PageNumber>114</PageNumber>
     </MainItem>
   </ItemGroup>

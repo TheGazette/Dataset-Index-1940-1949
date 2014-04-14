@@ -141,8 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwill</Key>
-      <Forenames>M. R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. R. de B</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibley</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleight</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +664,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J: P. M</Text>
+      <Forenames>J</Forenames>
+      <Text>: P. M</Text>
       <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompkin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,9 +900,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, N. R</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>N. R.</Forenames>
       <PageNumber>1126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1413,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J W</Text>
+      <Forenames>J</Forenames>
+      <Text>W</Text>
       <PageNumber>1125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1715,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cigarettes</Key>
-      <Text>(Home Service) Birmingham, . notice</Text>
+      <Title>(Home Service)</Title>
+      <Forenames>Birmingham</Forenames>
+      <Text>, . notice</Text>
       <PageNumber>943</PageNumber>
     </MainItem>
   </ItemGroup>

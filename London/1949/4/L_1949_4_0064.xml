@@ -32,15 +32,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Erac</Key>
-      <Text>(1946) c Camera Company TH</Text>
+      <Title>(1946)</Title>
+      <Text>c Camera Company TH</Text>
       <PageNumber>4830</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Erder</Key>
-      <Forenames>Richard</Forenames>
-      <Text>.&amp; Company</Text>
+      <Title>Richard .</Title>
+      <Text>&amp; Company</Text>
       <PageNumber>5138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Forenames>Telegraph</Forenames>
+      <Title>Telegraph .</Title>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,14 +143,14 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.P.H. Finance Trust</Text>
+      <Forenames>P.H. Finance Trust</Forenames>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.R. Holdings</Text>
+      <Forenames>R. Holdings</Forenames>
       <PageNumber>5143</PageNumber>
       <PageNumber>5563</PageNumber>
     </MainItem>
@@ -202,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Featherston</Key>
-      <Text>(Engineers)</Text>
+      <Title>(Engineers)</Title>
       <PageNumber>5496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,14 +373,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fontwell</Key>
-      <Forenames>Industries</Forenames>
+      <Title>Industries .</Title>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foot</Key>
-      <Forenames>Clinics</Forenames>
+      <Title>Clinics .</Title>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,14 +509,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Freehold</Key>
-      <Forenames>Syndicate</Forenames>
+      <Title>Syndicate .</Title>
       <PageNumber>5501</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>(Holdings) Company</Text>
+      <Title>(Holdings)</Title>
+      <Forenames>Com-</Forenames>
+      <Text>pany</Text>
       <PageNumber>5378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuel</Key>
-      <Forenames>Journals</Forenames>
+      <Title>Journals .</Title>
       <PageNumber>5501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Furniture</Key>
-      <Text>(Emergency) Import Association</Text>
+      <Title>(Emergency)</Title>
+      <Forenames>Im-</Forenames>
+      <Text>port Association</Text>
       <PageNumber>4808</PageNumber>
       <PageNumber>4813</PageNumber>
       <PageNumber>4815</PageNumber>
@@ -601,7 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. Pal (Toys)</Text>
+      <Forenames>Pal</Forenames>
+      <Text>(Toys)</Text>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garlynde</Key>
-      <Forenames>Company</Forenames>
+      <Title>Company .</Title>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garth</Key>
-      <Forenames>Dale</Forenames>
+      <Title>Dale .</Title>
       <PageNumber>5148</PageNumber>
       <PageNumber>5148</PageNumber>
     </MainItem>
@@ -670,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gas</Key>
-      <Forenames>Defence</Forenames>
+      <Title>Defence .</Title>
       <PageNumber>5030</PageNumber>
       <PageNumber>5032</PageNumber>
     </MainItem>
@@ -728,7 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghyston</Key>
-      <Forenames>Properties</Forenames>
+      <Title>Properties .</Title>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glencoyne</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>5989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goddards</Key>
-      <Text>(Hull)</Text>
+      <Title>(Hull)</Title>
       <PageNumber>5563</PageNumber>
       <PageNumber>5735</PageNumber>
     </MainItem>
@@ -931,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Text>(Builders' Merchants)</Text>
+      <Title>(Builders' Merchants)</Title>
       <PageNumber>4869</PageNumber>
       <PageNumber>4870</PageNumber>
       <PageNumber>5032</PageNumber>
@@ -974,7 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordons</Key>
-      <Text>(Liverpool)</Text>
+      <Title>(Liverpool)</Title>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gourlay</Key>
-      <Forenames>Electrical</Forenames>
+      <Title>Electrical .</Title>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>(Builders and Contractors)</Text>
+      <Title>(Builders and Contractors)</Title>
       <PageNumber>4806</PageNumber>
       <PageNumber>5108</PageNumber>
       <PageNumber>5336</PageNumber>
@@ -1065,7 +1071,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gratex</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>5370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. H. F. &amp; Co</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>(Newport)</Text>
+      <Title>(Newport)</Title>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimes</Key>
-      <Forenames>Cyril</Forenames>
+      <Title>Cyril .</Title>
       <PageNumber>6047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurneys</Key>
-      <Text>(Office Furniture)</Text>
+      <Title>(Office Furniture)</Title>
       <PageNumber>5108</PageNumber>
       <PageNumber>5229</PageNumber>
       <PageNumber>6000</PageNumber>
@@ -1235,42 +1242,42 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.D. Products</Text>
+      <Forenames>D. Products</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.G.R</Text>
+      <Forenames>G.R.</Forenames>
       <PageNumber>5376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.G.S. Properties</Text>
+      <Forenames>G.S. Properties</Forenames>
       <PageNumber>5089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. &amp; G. Engineering</Text>
+      <Text>&amp; G. Engineering</Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.J.D. Processes</Text>
+      <Forenames>J.D. Processes</Forenames>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>. Lawrence Electrical</Text>
+      <Forenames>Lawrence Electrical</Forenames>
       <PageNumber>5090</PageNumber>
       <PageNumber>5092</PageNumber>
       <PageNumber>5092</PageNumber>
@@ -1279,7 +1286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.S.G</Text>
+      <Forenames>S.G.</Forenames>
       <PageNumber>5732</PageNumber>
       <PageNumber>5735</PageNumber>
       <PageNumber>5736</PageNumber>
@@ -1297,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacon</Key>
-      <Forenames>Builders</Forenames>
+      <Title>Builders .</Title>
       <PageNumber>4981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Handley</Key>
-      <Forenames>Publicity</Forenames>
+      <Title>Publicity .</Title>
       <PageNumber>6144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,8 +1414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harness</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Bros.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>6053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayland</Key>
-      <Forenames>Nurseries</Forenames>
+      <Title>Nurseries .</Title>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Forenames>Court</Forenames>
+      <Title>Court .</Title>
       <PageNumber>4914</PageNumber>
       <PageNumber>4917</PageNumber>
     </MainItem>
@@ -1617,7 +1624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Forenames>Company</Forenames>
+      <Title>Company .</Title>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1652,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Highfield</Key>
-      <Text>(Keighley) Estates Co</Text>
+      <Title>(Keighley)</Title>
+      <Forenames>Estates</Forenames>
+      <Text>Co</Text>
       <PageNumber>4811</PageNumber>
       <PageNumber>4814</PageNumber>
       <PageNumber>4815</PageNumber>

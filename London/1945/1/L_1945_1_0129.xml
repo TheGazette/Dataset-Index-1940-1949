@@ -303,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birabongse</Key>
-      <Text>H.H. Prince</Text>
+      <Title>H.H. Prince</Title>
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broad</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buttery</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1071,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1145,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,14 +1212,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Carroll</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1721</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carver</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1350,9 @@
       <Key>Church</Key>
       <Title>Sir</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1541,7 +1542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1646,7 +1647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,7 +1738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,7 +1809,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1875,7 +1876,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Comes</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,7 +1925,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2110,7 +2111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2249,7 +2250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dart</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2279,7 +2280,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2446,8 +2447,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>1194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2463,10 +2463,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>R. J.</Forenames>
+      <PageNumber>1369</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Vine</Forenames>
       <Text>, A. D</Text>
       <PageNumber>569</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Forenames>S. L.</Forenames>
+      <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2500,7 +2514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delves-Broughton</Key>
-      <Text>W E</Text>
+      <Forenames>W</Forenames>
+      <Text>E</Text>
       <PageNumber>1248</PageNumber>
     </MainItem>
   </ItemGroup>

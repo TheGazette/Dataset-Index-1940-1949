@@ -50,14 +50,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Udepal</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Udo</Key>
-      <Text>de Berker, P</Text>
+      <Forenames>de Berker</Forenames>
+      <Text>, P</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Umrao</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valinder</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,25 +229,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gaast</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gaast</Forenames>
       <Text>, T., Corr</Text>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hoegaerden</Forenames>
-      <Text>, J. M. L. F</Text>
+      <Key>Van Hoegaerden</Key>
+      <Forenames>J. M. L. F.</Forenames>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Tinteren</Forenames>
-      <Text>, F. H. W</Text>
+      <Key>Van Tinteren</Key>
+      <Forenames>F. H. W.</Forenames>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +429,9 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Text>Hon. T E. -</Text>
+      <Title>Hon.</Title>
+      <Forenames>T</Forenames>
+      <Text>E. -</Text>
       <PageNumber>2812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veysey</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigor</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. V. J</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. J</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +721,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R,-J. K. A. deV</Text>
+      <Forenames>R</Forenames>
+      <Text>,-J. K. A. deV</Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakefield</Key>
-      <Text>A, E</Text>
+      <Forenames>A</Forenames>
+      <Text>, E</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +914,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D, G. ... ... I</Text>
+      <Forenames>D</Forenames>
+      <Text>, G. ... ... I</Text>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +936,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E: N. (R.A.P.C.)</Text>
+      <Forenames>E</Forenames>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1263,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warden</Key>
-      <Text>A»»</Text>
+      <Forenames>A</Forenames>
+      <Text>»»</Text>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,7 +1490,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1902,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2314,7 +2321,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>G: A</Text>
+      <Forenames>G</Forenames>
+      <Text>: A</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2360,7 +2368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weet</Key>
-      <Text>J. D. F.,</Text>
+      <Forenames>J. D. F.</Forenames>
+      <Text>,</Text>
       <PageNumber>1742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2429,7 +2438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells-Cole</Key>
-      <Text>V:.H:</Text>
+      <Forenames>V</Forenames>
+      <Text>:.H:</Text>
       <PageNumber>1905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2464,7 +2474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wefnyss</Key>
-      <Text>D: M</Text>
+      <Forenames>D</Forenames>
+      <Text>: M</Text>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2526,7 +2537,8 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>J: A</Text>
+      <Forenames>J</Forenames>
+      <Text>: A</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -349,7 +349,9 @@
     <MainItem>
       <Key>Grove-White</Key>
       <Forenames>M. F.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +375,9 @@
     <MainItem>
       <Key>Gurner</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +611,9 @@
     <MainItem>
       <Key>Hare</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, Distinguished Service Order, correction</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>

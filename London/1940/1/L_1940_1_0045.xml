@@ -280,7 +280,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +811,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.V.C;)</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lenfestey</Key>
-      <Forenames>D.</Forenames>
-      <Text>de Q</Text>
+      <Forenames>D. de Q</Forenames>
       <PageNumber>598</PageNumber>
     </MainItem>
   </ItemGroup>

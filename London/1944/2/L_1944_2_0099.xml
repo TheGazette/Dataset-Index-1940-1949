@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starnes</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stead</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +473,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +550,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +559,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, B</Text>
+      <Forenames>J</Forenames>
+      <Text>, B</Text>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoba</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1166,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,7 +1327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sumray</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suter</Key>
-      <Text>C G</Text>
+      <Forenames>C</Forenames>
+      <Text>G</Text>
       <PageNumber>2053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,7 +1907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tannahill</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1947,7 +1949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarbitt</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,14 +1988,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarpley</Key>
-      <Text>M, E</Text>
+      <Forenames>M</Forenames>
+      <Text>, E</Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2173,7 +2176,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2307,7 +2310,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>J. L.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>

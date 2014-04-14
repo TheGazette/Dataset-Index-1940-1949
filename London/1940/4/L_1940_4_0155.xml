@@ -120,9 +120,7 @@
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ...</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>___ ___ ___ ...</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
@@ -432,7 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockton</Key>
-      <Text>Sir E. F</Text>
+      <Title>Sir</Title>
+      <Forenames>E. F.</Forenames>
       <PageNumber>6727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swanson</Key>
-      <Text>C. I</Text>
+      <Forenames>C. I.</Forenames>
       <PageNumber>7002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>6418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Symons</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6956</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -164,7 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bluhm</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodkin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +271,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. R</Forenames>
-      <Text>, Bt. Bonham, Sir A. L. T</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonner</Key>
-      <Text>, C not. Bonniwell, E. B., Sub</Text>
+      <Forenames>C</Forenames>
+      <Text>not. Bonniwell, E. B., Sub</Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bossom</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulby</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +679,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R :</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>3176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +715,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +724,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Branwell</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,15 +1261,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brogan</Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. S</Text>
+      <Forenames>W. G. St. S</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1349,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,8 +1515,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sub</Forenames>
-      <Text>. not</Text>
+      <Title>Sub.</Title>
+      <Text>not</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1713,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2000,7 +2003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burkey</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>

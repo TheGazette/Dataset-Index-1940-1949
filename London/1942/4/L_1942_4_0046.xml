@@ -147,7 +147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>B ' '</Text>
+      <Forenames>B</Forenames>
+      <Text>' '</Text>
       <PageNumber>5144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +603,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W, G</Text>
+      <Forenames>W</Forenames>
+      <Text>, G</Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbridge</Key>
-      <Text>E. W. ',</Text>
+      <Forenames>E. W.</Forenames>
+      <Text>',</Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brokenshire</Key>
-      <Text>E; E L</Text>
+      <Forenames>E</Forenames>
+      <Text>; E L</Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1341,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckle</Key>
-      <Text>D,</Text>
+      <Forenames>D</Forenames>
+      <Text>,</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1953,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>E. S</Text>
+      <Text>E. S.</Text>
       <PageNumber>4589</PageNumber>
     </SubItem>
   </ItemGroup>

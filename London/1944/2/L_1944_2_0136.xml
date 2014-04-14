@@ -213,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V '</Text>
+      <Forenames>V</Forenames>
+      <Text>'</Text>
       <PageNumber>1612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +439,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(174555)</Text>
+      <Title>(174555)</Title>
       <PageNumber>2343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +912,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hase</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1242,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T&gt;. E</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. E</Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1327,7 @@
     <KeyDitto>-—</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. S.</Text>
+      <Text>W. S</Text>
       <PageNumber>1763</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1579,7 +1582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayman</Key>
-      <Text>R; J</Text>
+      <Forenames>R</Forenames>
+      <Text>; J</Text>
       <PageNumber>1890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Text>E,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>1613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1931,7 +1936,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M: G</Text>
+      <Forenames>M</Forenames>
+      <Text>: G</Text>
       <PageNumber>2285</PageNumber>
     </MainItem>
   </ItemGroup>

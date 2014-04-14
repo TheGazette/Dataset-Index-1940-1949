@@ -483,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmott</Key>
-      <Text>. C. E. G. C</Text>
+      <Forenames>C. E. G. C.</Forenames>
       <PageNumber>5165</PageNumber>
       <PageNumber>5444</PageNumber>
     </MainItem>
@@ -600,7 +600,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Enticott</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>5305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,8 +1909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulks</Key>
-      <Forenames>D. K.</Forenames>
-      <Text>de G</Text>
+      <Forenames>D. K. de G</Forenames>
       <PageNumber>4870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,7 +2014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feame</Key>
-      <Text>.J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>

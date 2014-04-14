@@ -160,7 +160,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>H&gt; R</Text>
+      <Forenames>H</Forenames>
+      <Text>&gt; R</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +266,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L_ McK</Text>
+      <Forenames>L</Forenames>
+      <Text>_ McK</Text>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +308,7 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +335,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +382,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smorthwaite</Key>
-      <Text>. D. J. R</Text>
+      <Forenames>D. J. R.</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,14 +622,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Snellgrove</Key>
-      <Text>. W. J. H</Text>
+      <Forenames>W. J. H.</Forenames>
       <PageNumber>4847</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Snelson</Key>
-      <Text>. N. S., Corr</Text>
+      <Forenames>N. S.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +736,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southesk</Key>
-      <Text>, Earl of, c</Text>
+      <Title>Earl</Title>
+      <Text>of, c</Text>
       <PageNumber>5499</PageNumber>
       <PageNumber>5936</PageNumber>
     </MainItem>
@@ -938,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spilberg</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +960,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +995,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprakes</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sory</Key>
-      <Text>. J. R</Text>
+      <Forenames>J. R</Forenames>
       <PageNumber>5678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Standing</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starkey</Key>
-      <Text>. A. R. A</Text>
+      <Forenames>A. R. A.</Forenames>
       <PageNumber>5022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steedman</Key>
-      <Text>, ]. F. D</Text>
+      <Text>]. F. D</Text>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1974,8 +1980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>4573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2180,7 +2185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stydell</Key>
-      <Text>, «. W</Text>
+      <Text>«. W</Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>

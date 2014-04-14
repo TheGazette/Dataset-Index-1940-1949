@@ -224,7 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willard</Key>
-      <Text>C. G. R. ... '</Text>
+      <Forenames>C. G. R.</Forenames>
+      <Text>... '</Text>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiilcocks</Key>
-      <Text>D. V. ... ,</Text>
+      <Forenames>D. V.</Forenames>
+      <Text>... ,</Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +453,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>A— ___ ___ E*. L. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +774,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>

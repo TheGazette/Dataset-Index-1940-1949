@@ -855,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Card</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnes</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>5924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1142,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N,</Text>
+      <Forenames>N</Forenames>
+      <Text>,</Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1997,7 +1997,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherrill</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2288,7 +2288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clafton</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2316,7 +2316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clare-Hunt</Key>
-      <Text>R J-</Text>
+      <Forenames>R</Forenames>
+      <Text>J-</Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>

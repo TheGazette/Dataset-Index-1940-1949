@@ -334,7 +334,9 @@
       </Key>
       <Title>Sirr.</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +765,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitwell</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +958,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>R: W</Text>
+      <Forenames>R</Forenames>
+      <Text>: W</Text>
       <PageNumber>5095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1165,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1940,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J-M. (R.A.M.C.).. .. -A '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,7 +1988,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W ,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2009,7 +2017,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>L. A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -407,7 +407,9 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>~___ ___ T(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sindall</Key>
-      <Text>. K</Text>
+      <Forenames>K.</Forenames>
       <PageNumber>881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeat</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,6 +877,7 @@
         <PageNumber>82</PageNumber>
         <PageNumber>594</PageNumber>
         <PageNumber>159</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>1304</PageNumber>
         <PageNumber>531</PageNumber>
         <PageNumber>261</PageNumber>
@@ -937,7 +940,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +961,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Bermuda)</Text>
+      <Title>(Bermuda)</Title>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +970,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(R.R.A.) -</Text>
+      <Title>(R.R.A.)</Title>
+      <Text>-</Text>
       <PageNumber>1124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +982,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Gen. List)</Text>
+      <Title>(Gen. List)</Title>
       <PageNumber>881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +991,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R.A.S:C.)</Text>
+      <Title>(R.A.S:C.)</Title>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1009,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R: Armd. C.) -</Text>
+      <Title>(R: Armd. C.)</Title>
+      <Text>-</Text>
       <PageNumber>1124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1138,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T&gt;</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>1069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1158,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G; FV</Text>
+      <Forenames>G</Forenames>
+      <Text>; FV</Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1355,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M; N</Text>
+      <Forenames>M</Forenames>
+      <Text>; N</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1538,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>. S. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1580,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1602,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S; (R.E.,-96406):</Text>
+      <Forenames>S</Forenames>
+      <Text>; (R.E.,-96406):</Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1613,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S: G</Text>
+      <Forenames>S</Forenames>
+      <Text>: G</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1642,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S: W. (R.R.A.)</Text>
+      <Forenames>S</Forenames>
+      <Text>: W. (R.R.A.)</Text>
       <PageNumber>1021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1741,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. F.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,14 +2067,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Souness</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Soutar</Key>
-      <Text>.G. F</Text>
+      <Forenames>G. F.</Forenames>
       <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>

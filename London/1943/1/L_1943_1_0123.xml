@@ -20,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Highet</Key>
-      <Text>.J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +493,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hirid</Key>
-      <Text>.L.G. ... Hinde, G. H: D</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hine</Key>
-      <Text>,. A. R</Text>
+      <Text>. A. R</Text>
       <PageNumber>1029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hipwell</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hislop</Key>
-      <Text>, C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +859,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgkihson</Key>
-      <Text>, J-. -</Text>
+      <Text>J-. -</Text>
       <PageNumber>1472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,14 +1148,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollinghurst</Key>
-      <Text>, . L. N:</Text>
+      <Text>. L. N:</Text>
       <PageNumber>490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hollingsworth</Key>
-      <Text>,. S. I</Text>
+      <Text>. S. I</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holloway</Key>
-      <Text>, C/.T; E.: D. . ... ! ....-</Text>
+      <Forenames>C</Forenames>
+      <Text>/.T; E.: D. . ... ! ....-</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1300,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>C F. C. D. F</Text>
+      <Forenames>C</Forenames>
+      <Text>F. C. D. F</Text>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1319,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>E, J</Text>
+      <Forenames>E</Forenames>
+      <Text>, J</Text>
       <PageNumber>600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Text>, T). R</Text>
+      <Forenames>T</Forenames>
+      <Text>). R</Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
     <SubItem>
@@ -1552,7 +1559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooke</Key>
-      <Text>, j. w</Text>
+      <Text>j. w</Text>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopper</Key>
-      <Text>, C -</Text>
+      <Forenames>C</Forenames>
+      <Text>-</Text>
       <PageNumber>599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horden</Key>
-      <Text>.lH. A</Text>
+      <Text>lH. A</Text>
       <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,7 +1831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horn</Key>
-      <Text>.H. W. J</Text>
+      <Forenames>H. W. J</Forenames>
       <PageNumber>275</PageNumber>
     </MainItem>
     <SubItem>
@@ -1888,7 +1896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horrocks</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1253</PageNumber>
     </MainItem>
     <SubItem>
@@ -1946,7 +1954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsman</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>336</PageNumber>
     </MainItem>
     <SubItem>

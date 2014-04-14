@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weightman</Key>
-      <Text>,;A. E</Text>
+      <Text>;A. E</Text>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +397,8 @@
       <Key>
         <KeyDitto>-—</KeyDitto>
       </Key>
-      <Text>R: A Whitehouse, H</Text>
+      <Forenames>R</Forenames>
+      <Text>: A Whitehouse, H</Text>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitford</Key>
-      <Text>,: Q: P:</Text>
+      <Text>: Q: P:</Text>
       <PageNumber>178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittingham</Key>
-      <Text>, L; M</Text>
+      <Forenames>L</Forenames>
+      <Text>; M</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigmore</Key>
-      <Text>,. S. T.'</Text>
+      <Text>. S. T.'</Text>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +678,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>D: A. B</Text>
+      <Forenames>D</Forenames>
+      <Text>: A. B</Text>
       <PageNumber>292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>, n: H. '</Text>
+      <Text>n: H. '</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winstanley</Key>
-      <Text>, j. D</Text>
+      <Text>j. D</Text>
       <PageNumber>447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,21 +1305,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Wotherspoon</Key>
-      <Text>.J. G</Text>
+      <Forenames>J. G.</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wragg</Key>
-      <Text>, -L. :E. .. V2D</Text>
+      <Text>-L. :E. .. V2D</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>,-.C. E</Text>
+      <Text>-.C. E</Text>
       <PageNumber>890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>, 1^1. B. .Barnfield, E. G</Text>
+      <Text>1^1. B. .Barnfield, E. G</Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1965,7 +1968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>,. E. S. B</Text>
+      <Text>. E. S. B</Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2079,7 +2082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, ]. V</Text>
+      <Text>]. V</Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2094,8 +2097,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lacherois</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>776</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deSt</Key>
-      <Text>. Paer, S. H. .:</Text>
+      <Forenames>Paer</Forenames>
+      <Text>, S. H. .:</Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2169,7 +2180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumeresque</Key>
-      <Text>,' BJ .-.*. -:i4o</Text>
+      <Text>' BJ .-.*. -:i4o</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2208,21 +2219,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Edney</Key>
-      <Text>, M: E</Text>
+      <Forenames>M</Forenames>
+      <Text>: E</Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Egan</Key>
-      <Text>.TN. E. B</Text>
+      <Text>TN. E. B</Text>
       <PageNumber>1039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2251,7 +2263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ernest</Key>
-      <Text>,. M. R. L. ... -</Text>
+      <Text>. M. R. L. ... -</Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>

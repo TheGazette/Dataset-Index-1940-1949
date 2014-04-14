@@ -65,8 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenoye</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. B. de L</Forenames>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,8 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chittenden</Key>
-      <Forenames>A. C. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. C. H. de B</Forenames>
       <PageNumber>1979</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -1319,7 +1317,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clay</Key>
-      <Text>C. J. J</Text>
+      <Forenames>C. J. J .</Forenames>
       <PageNumber>1903</PageNumber>
     </MainItem>
   </ItemGroup>

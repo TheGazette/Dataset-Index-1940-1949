@@ -42,7 +42,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,13 @@
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Middlehurst, J. W. F. F</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Middlehurst</Key>
+      <Forenames>J. W. F. F.</Forenames>
+      <PageNumber>5394</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
@@ -420,12 +426,24 @@
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>C. V.</Forenames>
+      <PageNumber>5344</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>4923</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -435,27 +453,51 @@
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>James .</Title>
+      <PageNumber>5014</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Tohn</Forenames>
+      <Title>Tohn .</Title>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>5015</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. L.</Forenames>
+      <PageNumber>6054</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. W.</Forenames>
+      <PageNumber>5060</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milligan</Key>
@@ -472,7 +514,13 @@
       <PageNumber>6282</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Millington, A. C</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Millington</Key>
+      <Forenames>A. C.</Forenames>
+      <PageNumber>5759</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -482,13 +530,31 @@
       <PageNumber>6050</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Mills, A</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mills</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>4975</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>6095</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>5886</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Millward</Key>
@@ -505,7 +571,14 @@
       <PageNumber>6100</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Milner-Fotihergill, A. B. R</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Milner-Fotihergill</Key>
+      <Forenames>A. B. R.</Forenames>
+      <Text>'</Text>
+      <PageNumber>57</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milsom</Key>
@@ -601,13 +674,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mizen</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5066</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Naigle, N. ..</SubCategoryTitle>
-  <SubCategoryTitle>Naylor, M. C</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
@@ -617,10 +688,7 @@
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>H. D 6230 Nesfield, M. L</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
@@ -628,153 +696,54 @@
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ —</KeyDitto>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Morley, D. E. B. ... 6154 ___ J. J. ...</SubCategoryTitle>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Morris, Eben Newnham, A. M</SubCategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <SubCategoryTitle>Nicholson, G</SubCategoryTitle>
-  <SubCategoryTitle>Moseley, C. A</SubCategoryTitle>
-  <SubCategoryTitle>Moss, F. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>. 5239 Nicolls, R. W</SubCategoryTitle>
-  <SubCategoryTitle>Mott, H. E. J</SubCategoryTitle>
-  <SubCategoryTitle>Mouncey, M</SubCategoryTitle>
-  <SubCategoryTitle>Mountain, S</SubCategoryTitle>
-  <SubCategoryTitle>. 5126 ___ ___ C. F Muchez, J. ..</SubCategoryTitle>
-  <SubCategoryTitle>Mudd, M. ..</SubCategoryTitle>
-  <SubCategoryTitle>. 5290 Nisfoet, J. R</SubCategoryTitle>
-  <SubCategoryTitle>Mudford, M. H</SubCategoryTitle>
-  <SubCategoryTitle>Muir, J. C. ..</SubCategoryTitle>
-  <SubCategoryTitle>. 6151 ___ ___ E. L Muland, P. J</SubCategoryTitle>
-  <SubCategoryTitle>Mullen, H. J</SubCategoryTitle>
-  <SubCategoryTitle>Muller, H. A</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ E. H Mullins, S. ..</SubCategoryTitle>
   <SubCategoryTitle>. 5393 Nodding, R</SubCategoryTitle>
-  <SubCategoryTitle>Mulvey, W. T</SubCategoryTitle>
-  <SubCategoryTitle>Munby, J. W</SubCategoryTitle>
-  <SubCategoryTitle>. 5883 Nokes, K Mundy, M. A</SubCategoryTitle>
   <SubCategoryTitle>. 5239 Norbury, L</SubCategoryTitle>
-  <SubCategoryTitle>Mundye, L. ..</SubCategoryTitle>
-  <SubCategoryTitle>Norfolk, B. M</SubCategoryTitle>
-  <SubCategoryTitle>Munro, R. M. C</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ ..</KeyDitto>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>5178 Ockleshaw, W</SubCategoryTitle>
-  <SubCategoryTitle>Odium, E. M</SubCategoryTitle>
-  <SubCategoryTitle>Offenberg, J. H</SubCategoryTitle>
-  <SubCategoryTitle>Ogden, C. R</SubCategoryTitle>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <SubCategoryTitle>___ ___ W</SubCategoryTitle>
   <SubCategoryTitle>Ogle, F</SubCategoryTitle>
   <SubCategoryTitle>O'Gorman, E</SubCategoryTitle>
-  <SubCategoryTitle>O'Hara, F. ..</SubCategoryTitle>
-  <SubCategoryTitle>Ohlson, D. F</SubCategoryTitle>
-  <SubCategoryTitle>O'Keeffe, J. J</SubCategoryTitle>
-  <SubCategoryTitle>Oldershaw, E. E</SubCategoryTitle>
-  <SubCategoryTitle>6228 Oldham, J. J</SubCategoryTitle>
   <SubCategoryTitle>Oliphant, A</SubCategoryTitle>
   <SubCategoryTitle>Oliver, A</SubCategoryTitle>
   <SubCategoryTitle>Olley/b. M</SubCategoryTitle>
-  <SubCategoryTitle>Opie, A. J. ..</SubCategoryTitle>
-  <SubCategoryTitle>Orchard, D. I</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ ___ J. L. ..</SubCategoryTitle>
-  <SubCategoryTitle>Orgel, C. J</SubCategoryTitle>
   <SubCategoryTitle>Orgelist, S</SubCategoryTitle>
-  <SubCategoryTitle>Qrmond, E. B</SubCategoryTitle>
-  <SubCategoryTitle>O'Rourke, K. E</SubCategoryTitle>
-  <SubCategoryTitle>Orr, H. C. M. (H</SubCategoryTitle>
   <SubCategoryTitle>Ortmans, CCA</SubCategoryTitle>
-  <SubCategoryTitle>Osborne, A. A</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ A. E. ..</SubCategoryTitle>
   <SubCategoryTitle>___ ___ L</SubCategoryTitle>
   <SubCategoryTitle>... 6095 ___ M</SubCategoryTitle>
-  <SubCategoryTitle>Osbourn, A. B</SubCategoryTitle>
-  <SubCategoryTitle>Osman, H. G</SubCategoryTitle>
-  <SubCategoryTitle>... 5663 Ostertagg, H. W</SubCategoryTitle>
   <SubCategoryTitle>... 4926 O'Sullivan, J</SubCategoryTitle>
   <SubCategoryTitle>... 5182 Ovenden, A</SubCategoryTitle>
-  <SubCategoryTitle>... 6100 Overy, A. E</SubCategoryTitle>
   <SubCategoryTitle>... 5877 Owen, H</SubCategoryTitle>
   <SubCategoryTitle>... 6274 ___ ___ ___ W</SubCategoryTitle>
-  <SubCategoryTitle>5392 Owens, J. V. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 5341 ^— ___ ___ O. R. ..</SubCategoryTitle>
-  <SubCategoryTitle>5281 ___ ___ W. R. ..</SubCategoryTitle>
-  <SubCategoryTitle>5247 Ozanne, I. M</SubCategoryTitle>
-  <SubCategoryTitle>5241 Packe, Sir E. H</SubCategoryTitle>
-  <SubCategoryTitle>... 5883 Packer, C. J</SubCategoryTitle>
-  <SubCategoryTitle>... 5561 ___ ___ ___ F. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 5503 Packham, S. O</SubCategoryTitle>
-  <SubCategoryTitle>... 5877 Padley, L. ..</SubCategoryTitle>
-  <SubCategoryTitle>P. (H.) Padmore, A. T</SubCategoryTitle>
-  <SubCategoryTitle>5061 Page, A. L. ..</SubCategoryTitle>
-  <SubCategoryTitle>4976 ___ -— ___ ___ A. R. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ B. M. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ E. M. L</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ M. H. ..</SubCategoryTitle>
-  <SubCategoryTitle>Paine, A. M</SubCategoryTitle>
-  <SubCategoryTitle>Pairaudeau, G. R</SubCategoryTitle>
   <SubCategoryTitle>Palmer, A</SubCategoryTitle>
   <SubCategoryTitle>___ ___ C</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ . C. D. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ E. A. G</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ F. E. M</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ H. K. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ L. W. ..</SubCategoryTitle>
-  <SubCategoryTitle>Pamplin, C. W</SubCategoryTitle>
-  <SubCategoryTitle>Panagouli, K. D</SubCategoryTitle>
   <SubCategoryTitle>Panagoulis, K</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ P. D. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 6153 Panaguli, P. D</SubCategoryTitle>
-  <SubCategoryTitle>... 5935 Pannell, A. P</SubCategoryTitle>
   <SubCategoryTitle>5185 Papa, L</SubCategoryTitle>
-  <SubCategoryTitle>... 5015 Parker, A. S</SubCategoryTitle>
   <SubCategoryTitle>... 6105 ___ ___ Ellen ..</SubCategoryTitle>
   <SubCategoryTitle>___ ___ Emily ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ E. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ E: T. ...</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ Frank ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ G. L. ..</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ H</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ H. V. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ]. R. ..</SubCategoryTitle>
   <SubCategoryTitle>___ ___ O</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ W. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ W. E. ..</SubCategoryTitle>
-  <SubCategoryTitle>Parkes, C. ..</SubCategoryTitle>
-  <SubCategoryTitle>Parkin, C. H. M</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ I</SubCategoryTitle>
-  <SubCategoryTitle>Parkinson, J. C</SubCategoryTitle>
   <SubCategoryTitle>___ ___ ___ L</SubCategoryTitle>
-  <SubCategoryTitle>... 5242 Parks, G. ..</SubCategoryTitle>
-  <SubCategoryTitle>... 5999 Parr, G. H. ..</SubCategoryTitle>
   <SubCategoryTitle>5184 ___ ___ J</SubCategoryTitle>
 </Index>
 

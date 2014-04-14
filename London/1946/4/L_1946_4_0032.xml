@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wanklin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waring</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whillis</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitmarsb</Key>
-      <Text>, W: F. P</Text>
+      <Forenames>W</Forenames>
+      <Text>: F. P</Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1029,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1047,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1164,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1243,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1558,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youd</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2009,7 +2010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alanbrooke</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2352,7 +2353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2373,15 +2374,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Text>. Sir C. W</Text>
+      <Title>Sir</Title>
+      <Forenames>C. W.</Forenames>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allin</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>F. St. G</Forenames>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>

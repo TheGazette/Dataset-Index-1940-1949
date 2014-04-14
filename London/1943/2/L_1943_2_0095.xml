@@ -52,7 +52,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westaby</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Western</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +305,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,14 +342,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wharncliffe</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wharton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wharton</Key>
-      <Forenames>S. M.</Forenames>
-      <Text>de H</Text>
+      <Forenames>S. M. de H</Forenames>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>2627</PageNumber>
     </MainItem>
     <KeyDitto>___</KeyDitto>
@@ -581,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitaker-Wilson</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +664,7 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +740,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>L N</Text>
+      <Forenames>L</Forenames>
+      <Text>N</Text>
       <PageNumber>1567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +821,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,8 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wibberley</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>H. O'C</Forenames>
       <PageNumber>2893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1759,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A, S. (K.R.R.C.)</Text>
+      <Forenames>A</Forenames>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1771,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A, S. (R.R.A.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, S. (R.R.A.)</Text>
       <PageNumber>2045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1906,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,7 +2149,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J V</Text>
+      <Forenames>J</Forenames>
+      <Text>V</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>

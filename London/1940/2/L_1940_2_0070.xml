@@ -519,7 +519,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F</Forenames>
-      <Text>; (R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,14 +1193,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Weet</Key>
-      <Text>J.. D. .F</Text>
+      <Forenames>J.</Forenames>
+      <Text>. D. .F</Text>
       <PageNumber>2458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Weight</Key>
-      <Text>E. N</Text>
+      <Forenames>E. N.</Forenames>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Were</Key>
-      <Text>V. N. B ,</Text>
+      <Forenames>V. N. B</Forenames>
+      <Text>,</Text>
       <PageNumber>3178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Text>P. M</Text>
+      <Forenames>P. M.</Forenames>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,7 +1624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherell</Key>
-      <Text>J. R-</Text>
+      <Forenames>J.</Forenames>
+      <Text>R-</Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,7 +1649,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>j; (R.A.P.C.) .;</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>

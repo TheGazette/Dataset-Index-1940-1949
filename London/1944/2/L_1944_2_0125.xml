@@ -397,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cookson</Key>
-      <Text>C. A</Text>
+      <Forenames>C. A.</Forenames>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +512,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D: N. A. :</Text>
+      <Forenames>D</Forenames>
+      <Text>: N. A. :</Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,7 +1628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowans</Key>
-      <Text>S Coward, A</Text>
+      <Forenames>S</Forenames>
+      <Text>Coward, A</Text>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1876,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.C. ,:</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1905,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C: H. W: B. :U</Text>
+      <Forenames>C</Forenames>
+      <Text>: H. W: B. :U</Text>
       <PageNumber>2871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +1915,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D: F</Text>
+      <Forenames>D</Forenames>
+      <Text>: F</Text>
       <PageNumber>2343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1967,7 +1973,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>G: F:</Text>
+      <Forenames>G</Forenames>
+      <Text>: F:</Text>
       <PageNumber>1830</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -617,6 +617,7 @@
     <SubItem>
       <Text>
         <PageNumber>5327</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>5072</PageNumber>
         <PageNumber>4762</PageNumber>
       </Text>
@@ -716,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiam</Key>
-      <Forenames>Kunwar</Forenames>
+      <Title>Kunwar .</Title>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1074,9 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5427</PageNumber>
     </MainItem>
     <SubItem>
@@ -1217,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skilton</Key>
-      <Text>S. W</Text>
+      <Forenames>S. W.</Forenames>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5330</PageNumber>
     </MainItem>
     <SubItem>
@@ -1390,7 +1393,7 @@
       <PageNumber>5071</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D. J</Text>
+      <Text>D. J.</Text>
       <PageNumber>5128</PageNumber>
     </SubItem>
   </ItemGroup>

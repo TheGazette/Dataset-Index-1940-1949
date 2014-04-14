@@ -32,7 +32,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +119,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>,. R. J</Text>
+      <Text>. R. J</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1095,9 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>w. s. ... Grant-Lawson, Sir P. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1166,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1651,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L F</Text>
+      <Forenames>L</Forenames>
+      <Text>F</Text>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,7 +1878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haden</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1997,7 +2002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hakewell-Smith</Key>
-      <Text>, E:</Text>
+      <Forenames>E</Forenames>
+      <Text>:</Text>
       <PageNumber>1255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2243,7 +2249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamill</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

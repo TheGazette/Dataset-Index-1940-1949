@@ -69,8 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keating</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. E. St. J</Forenames>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Liston</Key>
-      <Text>, iM. C</Text>
+      <Text>iM. C</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,14 +329,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Nan</Key>
-      <Text>, ,M. E</Text>
+      <Text>,M. E</Text>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nanson</Key>
-      <Text>, M: E</Text>
+      <Forenames>M</Forenames>
+      <Text>: E</Text>
       <PageNumber>5078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,15 +350,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, A. M</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>6028</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paddock</Key>
-      <Text>, ,M. J</Text>
+      <Text>,M. J</Text>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,8 +468,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George-Yorke, C. C</Text>
+      <Key>St. George-Yorke</Key>
+      <Forenames>C. C.</Forenames>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seton</Key>
-      <Text>, 'Lady A. I</Text>
+      <Text>'Lady A. I</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,24 +587,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Damm</Forenames>
-      <Text>, S</Text>
+      <Key>Van Damm</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, D. B</Text>
+      <Key>Von Donop</Key>
+      <Forenames>D. B.</Forenames>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Text>, &lt;M. M</Text>
+      <Text>&lt;M. M</Text>
       <PageNumber>5075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>, IL. F. E</Text>
+      <Text>IL. F. E</Text>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willacy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>, B :</Text>
+      <Forenames>B</Forenames>
+      <Text>:</Text>
       <PageNumber>6028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wollen</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuddington</Key>
-      <Text>, land on the West side of Salisbury Road, Instrument of Charge</Text>
+      <Text>land on the West side of Salisbury Road, Instrument of Charge</Text>
       <PageNumber>5808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +995,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>, alteration of boundaries of the wards</Text>
+      <Text>alteration of boundaries of the wards</Text>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.D. Products</Text>
+      <Forenames>D. Products</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>

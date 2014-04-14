@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baron</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bauer</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baylis</Key>
-      <Text>K. O</Text>
+      <Forenames>K. O.</Forenames>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,8 +1217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaton</Key>
-      <Forenames>K.</Forenames>
-      <Text>de P</Text>
+      <Forenames>K. de P</Forenames>
       <PageNumber>3381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1355,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>C. R</Text>
+      <Forenames>C. R.</Forenames>
       <PageNumber>3699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1583,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1802,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H» R</Text>
+      <Forenames>H</Forenames>
+      <Text>» R</Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>

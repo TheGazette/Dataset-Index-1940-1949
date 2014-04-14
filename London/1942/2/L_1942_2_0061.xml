@@ -108,7 +108,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mateer</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +288,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +329,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1067,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1313,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,14 +1388,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Misner</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Misrahi</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1411,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1537,9 @@
       <Key>Mitchell-Cotts</Key>
       <Title>Sir</Title>
       <Forenames>W. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1787,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,8 +1904,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. J.</Forenames>
-      <Text>de A</Text>
+      <Forenames>P. J. de A</Forenames>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,7 +1922,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S: P. K</Text>
+      <Forenames>S</Forenames>
+      <Text>: P. K</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1938,7 +1941,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1976,7 +1979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moran</Key>
-      <Text>P, J</Text>
+      <Forenames>P</Forenames>
+      <Text>, J</Text>
       <PageNumber>2543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1998,7 +2002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2052,7 +2056,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E, H. (R.R.A.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, H. (R.R.A.)</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2116,8 +2121,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>H. de R</Forenames>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>

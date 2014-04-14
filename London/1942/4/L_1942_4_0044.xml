@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,8 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkas</Key>
-      <Forenames>G.</Forenames>
-      <Text>de G., Corr</Text>
+      <Forenames>G. de G</Forenames>
+      <Text>., Corr</Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barritt</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +727,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartelot</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. G</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. G</Text>
       <PageNumber>4747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +932,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>J. St. Q</Forenames>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battye</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1262,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W K. ... ...-</Text>
+      <Forenames>W</Forenames>
+      <Text>K. ... ...-</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beasley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becke</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1680,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beggs</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,14 +1848,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Beilby</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beinder</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2405,7 +2405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bent</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2440,7 +2440,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2539,7 +2539,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford-Peirse</Key>
-      <Text>Sir K de\la P</Text>
+      <Title>Sir</Title>
+      <Forenames>K</Forenames>
+      <Text>de\la P</Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>

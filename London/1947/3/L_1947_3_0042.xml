@@ -310,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>D! M-</Text>
+      <Forenames>D</Forenames>
+      <Text>! M-</Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +320,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +588,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spink</Key>
-      <Text>R; J. E</Text>
+      <Forenames>R</Forenames>
+      <Text>; J. E</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,8 +1368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Forenames>M. F.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. F. de C</Forenames>
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,14 +1524,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sultan</Key>
-      <Forenames>Ahmed</Forenames>
+      <Title>Ahmed .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Summcrfield</Key>
-      <Text>S. G</Text>
+      <Forenames>S. G.</Forenames>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swmburn</Key>
-      <Text>H: R.,-</Text>
+      <Forenames>H</Forenames>
+      <Text>: R.,-</Text>
       <PageNumber>3245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,14 +1717,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Symington</Key>
-      <Text>Mr t&gt;::</Text>
+      <Title>Mr</Title>
+      <Text>t&gt;::</Text>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Symonds</Key>
-      <Text>A:; G., Sub.: not</Text>
+      <Forenames>A</Forenames>
+      <Text>:; G., Sub.: not</Text>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tafa</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>38312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2041,7 +2045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teja</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,7 +2090,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennaht</Key>
-      <Text>D: C</Text>
+      <Forenames>D</Forenames>
+      <Text>: C</Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>

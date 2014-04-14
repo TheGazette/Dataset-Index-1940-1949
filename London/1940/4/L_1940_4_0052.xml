@@ -248,14 +248,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillett</Key>
-      <Text>. J. E. F</Text>
+      <Forenames>J. E. F.</Forenames>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gilliat</Key>
-      <Text>. L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,9 @@
     <MainItem>
       <Key>Gilmer</Key>
       <Forenames>H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>7103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosling</Key>
-      <Text>. W. A</Text>
+      <Forenames>W. A .</Forenames>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Text>. E. N</Text>
+      <Forenames>E. N .</Forenames>
       <PageNumber>5998</PageNumber>
     </MainItem>
   </ItemGroup>

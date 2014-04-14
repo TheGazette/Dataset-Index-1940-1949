@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulliris</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +923,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. W. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1749,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. G.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2024,8 +2028,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J .</Forenames>
+      <Title>St. J .</Title>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>

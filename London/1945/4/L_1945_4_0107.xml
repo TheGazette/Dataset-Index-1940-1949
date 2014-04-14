@@ -13,7 +13,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P. J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +43,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Text>. O. V</Text>
+      <Forenames>O. V.</Forenames>
       <PageNumber>5578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tinims</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +619,7 @@
       <Key>
         <KeyDitto>—— ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +791,8 @@
       <Key>
         <KeyDitto>___ ———</KeyDitto>
       </Key>
-      <Text>R R</Text>
+      <Forenames>R</Forenames>
+      <Text>R</Text>
       <PageNumber>4937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tresidder</Key>
-      <Text>,S. L</Text>
+      <Text>S. L</Text>
       <PageNumber>5700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trollope-Bellew</Key>
-      <Text>, F D</Text>
+      <Forenames>F</Forenames>
+      <Text>D</Text>
       <PageNumber>6246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulloch</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tupper</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1688,7 +1692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unsworth</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Uren</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Uzzell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,8 +1801,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. E. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. E. St. C</Forenames>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,48 +1851,57 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dijk</Forenames>
-      <Text>, J. H</Text>
+      <Key>van Cutsem</Key>
+      <Forenames>W. E.</Forenames>
+      <PageNumber>6141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Dijk</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Jagger</Forenames>
-      <Text>, G</Text>
+      <Key>Van Jagger</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>6197</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praag</Forenames>
-      <Text>, B</Text>
+      <Key>Van Praag</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van-Ryssen</Key>
-      <Text>,.S. E</Text>
+      <Text>.S. E</Text>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Trotsenburg</Forenames>
-      <Text>, .C</Text>
+      <Key>van Someron</Key>
+      <Forenames>V. D.</Forenames>
+      <PageNumber>4847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Trotsenburg</Key>
+      <Text>.C</Text>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Walwyk</Forenames>
-      <Text>, E. J</Text>
+      <Key>Van Walwyk</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>5013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1991,7 +2003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vella</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,7 +2196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivadhna</Key>
-      <Forenames>Pombejra</Forenames>
+      <Title>Pombejra .</Title>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2291,8 +2303,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. J. N. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. J. N. A. de V</Forenames>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2461,7 +2472,7 @@
       <PageNumber>5846</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>:</Text>
+      <Text>:.</Text>
       <PageNumber>6093</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -305,8 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,8 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Giffard</Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. R. de L</Forenames>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1095,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilham</Key>
-      <Text>M.C. ..,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5150</PageNumber>
     </MainItem>
   </ItemGroup>

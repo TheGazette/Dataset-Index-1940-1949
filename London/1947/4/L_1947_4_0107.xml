@@ -275,7 +275,9 @@
       <Key>Sutton</Key>
       <Title>Sir</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Forenames>Ada</Forenames>
+      <Title>Ada .</Title>
       <PageNumber>5789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +383,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Allan</Forenames>
+      <Title>Allan .</Title>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Szwedowski</Key>
-      <Text>, 'H</Text>
+      <Text>'H</Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +823,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Eleanor</Forenames>
+      <Title>Eleanor .</Title>
       <PageNumber>5006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +832,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +931,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Rees</Forenames>
+      <Title>Rees .</Title>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +940,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Reginald</Forenames>
+      <Title>Reginald .</Title>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,8 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>F. Y.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. Y. de S</Forenames>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,17 +1807,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Leckwyck</Forenames>
-      <Text>, E J</Text>
+      <Key>Van Leckwyck</Key>
+      <Forenames>E</Forenames>
+      <Text>J</Text>
       <PageNumber>5408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praag</Forenames>
-      <Text>, E</Text>
+      <Key>Van Praag</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigor</Key>
-      <Text>. F. H</Text>
+      <Forenames>F. H.</Forenames>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1911,7 +1911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vinck</Key>
-      <Text>de Winnezeele, R. M. J. J. J. J. H. H. G., G., ] ] Saron de</Text>
+      <Forenames>de Winnezeele</Forenames>
+      <Text>, R. M. J. J. J. J. H. H. G., G., ] ] Saron de</Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1969,7 +1970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Text>. C. M</Text>
+      <Forenames>C. M.</Forenames>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2449,7 +2450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>, TT</Text>
+      <Text>TT</Text>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2703,7 +2704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2731,7 +2732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weaver</Key>
-      <Text>, JT</Text>
+      <Text>JT</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>

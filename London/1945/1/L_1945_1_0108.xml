@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Childs</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +47,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Choules</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>E K</Text>
+      <Forenames>E</Forenames>
+      <Text>K</Text>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,14 +543,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cleaver</Key>
-      <Text>G n</Text>
+      <Forenames>G</Forenames>
+      <Text>n</Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clokie</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clow</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +821,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Congreve</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,14 +1163,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Conoley</Key>
-      <Text>O J. McL</Text>
+      <Forenames>O</Forenames>
+      <Text>J. McL</Text>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Conolly</Key>
-      <Text>J&gt;. F. Q</Text>
+      <Forenames>J</Forenames>
+      <Text>&gt;. F. Q</Text>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,14 +1320,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coote</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,8 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cordery</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>

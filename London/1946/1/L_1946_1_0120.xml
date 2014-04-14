@@ -170,8 +170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallisi</Key>
-      <Forenames>C. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. E. St. J</Forenames>
       <PageNumber>704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +386,9 @@
     <MainItem>
       <Key>Warne</Key>
       <Forenames>C. H. W.</Forenames>
-      <Text>. Bt. &lt; Warner, Sir E. C. T</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterlow</Key>
-      <Text>J, K;</Text>
+      <Forenames>J</Forenames>
+      <Text>, K;</Text>
       <PageNumber>1274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +731,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T77— R. T. M</Text>
+      <Forenames>T</Forenames>
+      <Text>77— R. T. M</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wavell</Key>
-      <Text>H: E. Viscount ' i</Text>
+      <Forenames>H</Forenames>
+      <Text>: E. Viscount ' i</Text>
       <PageNumber>1126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,8 +1484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de R</Text>
+      <Forenames>H. E. de R</Forenames>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheen</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1624,9 @@
       <Key>Whitaker</Key>
       <Title>Sir</Title>
       <Forenames>J. A. C .</Forenames>
-      <Text>.. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,8 +1912,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>G. A.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>A.</Forenames>
       <Text>, Corr</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
@@ -1958,7 +1963,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F; S</Text>
+      <Forenames>F</Forenames>
+      <Text>; S</Text>
       <PageNumber>1126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,7 +2144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigan</Key>
-      <Text>T: H</Text>
+      <Forenames>T</Forenames>
+      <Text>: H</Text>
       <PageNumber>1332</PageNumber>
     </MainItem>
   </ItemGroup>

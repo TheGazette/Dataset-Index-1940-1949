@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pe</Key>
-      <Forenames>Thein</Forenames>
+      <Title>Thein .</Title>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>. A. N. W</Text>
+      <Forenames>A. N. W.</Forenames>
       <PageNumber>346</PageNumber>
     </MainItem>
     <SubItem>
@@ -357,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ram</Key>
-      <Forenames>Prashad</Forenames>
+      <Title>Prashad.</Title>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rock</Key>
-      <Text>, j. G. A. Rodgers, K. C</Text>
+      <Text>j. G. A. Rodgers, K. C</Text>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +634,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, P. G 56i St. John-Brooks, W. H. S., Corr</Text>
+      <Key>St. John</Key>
+      <Forenames>P. G</Forenames>
+      <Text>56i St. John-Brooks, W. H. S., Corr</Text>
       <PageNumber>1086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanger</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sehmer</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,14 +843,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheldon</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,14 +893,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibthorp</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1322</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Silcock</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>892</PageNumber>
     </MainItem>
     <SubItem>
@@ -1011,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thet</Key>
-      <Forenames>Gyi</Forenames>
+      <Title>Gyi .</Title>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Towler</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,7 +1685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tytler</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,17 +1698,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Carrapiett</Forenames>
-      <Text>, H. B</Text>
+      <Key>Van Carrapiett</Key>
+      <Forenames>H. B.</Forenames>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Milligan</Forenames>
-      <Text>, E. F. MacK</Text>
+      <Key>Van Milligan</Key>
+      <Forenames>E. F.</Forenames>
+      <Text>MacK</Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>. J. W</Text>
+      <Forenames>J. W.</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
     <SubItem>
@@ -1838,7 +1838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
     <SubItem>
@@ -1856,7 +1856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2102,7 +2102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>

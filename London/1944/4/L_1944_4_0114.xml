@@ -324,7 +324,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>, X)</Text>
+      <Forenames>X</Forenames>
+      <Text>)</Text>
       <PageNumber>5687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +515,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J_J g</Text>
+      <Forenames>J</Forenames>
+      <Text>_J g</Text>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +847,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>, B W. G</Text>
+      <Forenames>B</Forenames>
+      <Text>W. G</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +866,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irving</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Isherwood</Key>
-      <Text>. R. C</Text>
+      <Forenames>R. C.</Forenames>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1233,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(54327)-</Text>
+      <Title>(54327)</Title>
+      <Text>-</Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1376,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,7 +1702,8 @@
       <Key>
         <KeyDitto>-—</KeyDitto>
       </Key>
-      <Text>K: J</Text>
+      <Forenames>K</Forenames>
+      <Text>: J</Text>
       <PageNumber>5799</PageNumber>
     </MainItem>
   </ItemGroup>

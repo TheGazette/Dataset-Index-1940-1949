@@ -86,7 +86,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hermiston</Key>
-      <Text>. T. M</Text>
+      <Forenames>T. M.</Forenames>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +867,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>5139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,8 +1922,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Forenames>E. O</Forenames>
-      <Text>'B., Bt</Text>
+      <Forenames>E. O'B</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -230,14 +230,19 @@
     <MainItem>
       <Key>Adair</Key>
       <Forenames>A. H.S.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aikenhead</Key>
-      <Text>.D. F., Distinguished Service Order</Text>
+      <Forenames>D. F.</Forenames>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +306,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>J.</Forenames>
-      <Text>DA., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +318,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>K. A. N.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +361,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Annand</Key>
-      <Text>. R. W.. Victoria Cross 513-</Text>
+      <Forenames>R. W.</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

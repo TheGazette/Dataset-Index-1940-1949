@@ -318,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyle</Key>
-      <Text>,.A. B. ..:</Text>
+      <Text>.A. B. ..:</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E;</Text>
+      <Forenames>E</Forenames>
+      <Text>;</Text>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laidlaw</Key>
-      <Text>,-W. E</Text>
+      <Text>-W. E</Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +629,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>V/. S</Text>
+      <Forenames>V</Forenames>
+      <Text>/. S</Text>
       <PageNumber>5227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +921,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G; R</Text>
+      <Forenames>G</Forenames>
+      <Text>; R</Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,8 +993,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Lanigan-O</Key>
-      <Text>'Keefe, F M</Text>
+      <Key>Lanigan-O'Keefe</Key>
+      <Forenames>F</Forenames>
+      <Text>M</Text>
       <PageNumber>4853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laverack</Key>
-      <Text>, J*. O</Text>
+      <Forenames>J</Forenames>
+      <Text>*. O</Text>
       <PageNumber>5274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1570,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson-Tancred</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Le</Key>
-      <Text>. Marchant, M. F</Text>
+      <Forenames>Marchant</Forenames>
+      <Text>, M. F</Text>
       <PageNumber>5022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2122,7 +2130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leedham</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2535,7 +2543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Levene</Key>
-      <Text>, I;</Text>
+      <Forenames>I</Forenames>
+      <Text>;</Text>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>

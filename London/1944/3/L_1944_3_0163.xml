@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="163" pageID="https://www.thegazette.co.uk/id/London/index/year/1944/volume/3/page/163" pagePDF="https://www.thegazette.co.uk/London/index/year/1944/volume/3/page/163" pageRDF="https://www.thegazette.co.uk/London/index/year/1944/volume/3/page/163?view=linked-data" type="index" volume="3" year="1944">
-  <SubCategoryTitle>Bates, E. S 4196 Batho, D 3980 Battershill, P. L. ... 3745 Battiscombe, H. J. ... 4241 Baty, B 3492 Bauwens, A. L. (F. A. L. L</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bates</Key>
+      <Forenames>E. S</Forenames>
+      <PageNumber>4196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Batho</Key>
+      <Forenames>D</Forenames>
+      <PageNumber>3980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Battershill</Key>
+      <Forenames>P. L.</Forenames>
+      <PageNumber>3745</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Battiscombe</Key>
+      <Forenames>H. J.</Forenames>
+      <PageNumber>4241</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baty</Key>
+      <Forenames>B</Forenames>
+      <PageNumber>3492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bauwens</Key>
+      <Forenames>A. L.</Forenames>
+      <Text>(F. A. L. L. or F. A. L.)</Text>
+      <PageNumber>4300</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baxandall</Key>
@@ -29,49 +71,189 @@
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Baylis, E. C</SubCategoryTitle>
-  <SubCategoryTitle>Beacham, H. W</SubCategoryTitle>
-  <SubCategoryTitle>Beadle, E. M</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Beadon, G. O. S</SubCategoryTitle>
-  <SubCategoryTitle>Beamish, A. E</SubCategoryTitle>
-  <SubCategoryTitle>Bearder, C. E</SubCategoryTitle>
-  <SubCategoryTitle>Beattie, C. ..</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Beaumont, E. J</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Beckett, H. E</SubCategoryTitle>
-  <SubCategoryTitle>Beddoes, R. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bedford, L. ..</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Beecher, A. J</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Beeching, E. A</SubCategoryTitle>
-  <SubCategoryTitle>Beedom, M. A</SubCategoryTitle>
-  <SubCategoryTitle>Beer, L. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bell, A</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baylis</Key>
+      <Forenames>E. C.</Forenames>
+      <PageNumber>4365</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beacham</Key>
+      <Forenames>H. W.</Forenames>
+      <PageNumber>3649</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beadle</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>4469</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Forenames>G.</Forenames>
+      <PageNumber>4149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beadon</Key>
+      <Forenames>G. O. S.</Forenames>
+      <PageNumber>3489</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beamish</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>3267</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bearder</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>3982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beattie</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>4105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>4105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beaumont</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>3163</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>G. H.</Forenames>
+      <PageNumber>3307</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beckett</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>-</Text>
+      <PageNumber>3978</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beddoes</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>3219</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bedford</Key>
+      <Forenames>L.</Forenames>
+      <PageNumber>33</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. G.</Forenames>
+      <Text>... —</Text>
+      <PageNumber>33</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beecher</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>3655</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G. A.</Forenames>
+      <PageNumber>4037</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beeching</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>4420</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beedom</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>3215</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beer</Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>3366</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bell</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>3498</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>3493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. C. F.</Forenames>
+      <PageNumber>4510</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>James .</Title>
       <PageNumber>3796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,13 +262,19 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. W.</Forenames>
+      <PageNumber>4034</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -142,9 +330,15 @@
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. C.</Forenames>
+      <PageNumber>3371</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -181,9 +375,15 @@
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Walter .</Title>
+      <PageNumber>3440</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -193,7 +393,6 @@
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bensinger, E. S</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
@@ -284,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berman</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beswick</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +637,13 @@
       <PageNumber>3908</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bird, A. C. .</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bird</Key>
+      <Forenames>A. C.</Forenames>
+      <PageNumber>3691</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -523,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisseker</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +744,9 @@
       <Key>Black</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackett</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +787,28 @@
       <PageNumber>4470</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Blakeley, E. ... ... 3649 Blamires, W 3544 Blanche, P. C. S</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blakeley</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>3649</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blamires</Key>
+      <Forenames>W</Forenames>
+      <PageNumber>3544</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blanche</Key>
+      <Forenames>P. C. S.</Forenames>
+      <PageNumber>3906</PageNumber>
+      <PageNumber>4035</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blight</Key>
@@ -588,7 +816,13 @@
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Block, W. W</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Block</Key>
+      <Forenames>W. W.</Forenames>
+      <PageNumber>3983</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
@@ -605,7 +839,6 @@
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bloxsome, E. W. P</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bocking</Key>
@@ -621,7 +854,13 @@
       <PageNumber>3745</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bodenham, A. R</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bodenham</Key>
+      <Forenames>A. R.</Forenames>
+      <PageNumber>33</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bolitho</Key>
@@ -645,7 +884,13 @@
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Boniface, A. E</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Boniface</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>3047</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bonner</Key>
@@ -653,7 +898,13 @@
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Boot, H</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Boot</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3909</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
@@ -686,7 +937,6 @@
       <PageNumber>4203</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bornstein, E. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bortock</Key>
@@ -694,8 +944,20 @@
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bostock, S. G</SubCategoryTitle>
-  <SubCategoryTitle>Bosustow, W. F</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bostock</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>45</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bosustow</Key>
+      <Forenames>W. F.</Forenames>
+      <PageNumber>3434</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bosworth</Key>
@@ -719,10 +981,22 @@
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Boucher, G. ..</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Boucher</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>4405</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>G. L.</Forenames>
+      <PageNumber>4419</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boulos</Key>
@@ -746,8 +1020,20 @@
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bouth, M. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bowden, A. L</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bouth</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>3651</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bowden</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>4300</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -757,7 +1043,13 @@
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bowie, A. W. H</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bowie</Key>
+      <Forenames>A. W. H.</Forenames>
+      <PageNumber>3655</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
@@ -765,12 +1057,29 @@
       <PageNumber>4105</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bowyer, E. T</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Boxall, C. ..</SubCategoryTitle>
-  <SubCategoryTitle>Boyden, A. E</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bowyer</Key>
+      <Forenames>E. T.</Forenames>
+      <PageNumber>4513</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. W.</Forenames>
+      <PageNumber>3495</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Boxall</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>4465</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brabin</Key>
@@ -850,11 +1159,23 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___</KeyDitto>
-  <SubCategoryTitle>
-    <KeyDitto>___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Bradley-Watson, C. H</SubCategoryTitle>
-  <SubCategoryTitle>Bradshaw, S</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>J. Bradley-Watson</Forenames>
+      <Text>, C. H</Text>
+      <PageNumber>3742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bradshaw</Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>3912</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Branch</Key>
@@ -862,13 +1183,43 @@
       <PageNumber>4366</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brandwood, I</SubCategoryTitle>
-  <SubCategoryTitle>Branford, B. B. P</SubCategoryTitle>
-  <SubCategoryTitle>Brannen, I. ..</SubCategoryTitle>
-  <SubCategoryTitle>Branson, E. C</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brandwood</Key>
+      <Forenames>I.</Forenames>
+      <PageNumber>3441</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Branford</Key>
+      <Forenames>B. B. P.</Forenames>
+      <PageNumber>3744</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brannen</Key>
+      <Forenames>I.</Forenames>
+      <PageNumber>4203</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Branson</Key>
+      <Forenames>E. C.</Forenames>
+      <PageNumber>3862</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>F. H.</Forenames>
+      <PageNumber>3317</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -878,8 +1229,20 @@
       <PageNumber>4098</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bray, H. F. ..</SubCategoryTitle>
-  <SubCategoryTitle>Breacher, M. R</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bray</Key>
+      <Forenames>H. F.</Forenames>
+      <PageNumber>4517</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Breacher</Key>
+      <Forenames>M. R.</Forenames>
+      <PageNumber>4518</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
@@ -887,8 +1250,20 @@
       <PageNumber>3910</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brennan, M. E</SubCategoryTitle>
-  <SubCategoryTitle>Brentnall, A</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brennan</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>3215</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brentnall</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>4516</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brereton</Key>
@@ -896,10 +1271,22 @@
       <PageNumber>4149</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brett, A. M. W</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brett</Key>
+      <Forenames>A. M. W.</Forenames>
+      <PageNumber>3976</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. R.</Forenames>
+      <PageNumber>3977</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brewin</Key>
@@ -907,8 +1294,20 @@
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bridgland, C. W</SubCategoryTitle>
-  <SubCategoryTitle>Brierley, M. H</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bridgland</Key>
+      <Forenames>C. W.</Forenames>
+      <PageNumber>3653</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brierley</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>3862</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
@@ -930,7 +1329,13 @@
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bristowe, A. L</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bristowe</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>3691</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
@@ -1072,9 +1477,7 @@
       <PageNumber>3160</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1157,9 +1560,15 @@
       <PageNumber>4467</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. W.</Forenames>
+      <PageNumber>3975</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1228,18 +1637,61 @@
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brunsdon, H. M. A</SubCategoryTitle>
-  <SubCategoryTitle>Brunyate, Sir W. E</SubCategoryTitle>
-  <SubCategoryTitle>Bryce, D</SubCategoryTitle>
-  <SubCategoryTitle>Bryden, H. G</SubCategoryTitle>
-  <SubCategoryTitle>Buckley, J. B</SubCategoryTitle>
-  <SubCategoryTitle>Budd, N. A. H</SubCategoryTitle>
-  <SubCategoryTitle>Buffin, A. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bugg, A. M. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Bull</Key>
-      <Forenames>Edward</Forenames>
+      <Key>Brunsdon</Key>
+      <Forenames>H. M. A.</Forenames>
+      <PageNumber>3371</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brunyate</Key>
+      <Title>Sir</Title>
+      <Forenames>W. E.</Forenames>
+      <PageNumber>4304</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bryce</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>3744</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bryden</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>4244</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buckley</Key>
+      <Forenames>J. B.</Forenames>
+      <PageNumber>4244</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Budd</Key>
+      <Forenames>N. A. H.</Forenames>
+      <PageNumber>3800</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buffin</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>4468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bugg</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>... Bull, Edward</Text>
       <PageNumber>4147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,11 +1739,10 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bullock-Webster, E</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bullough</Key>
@@ -1306,10 +1757,22 @@
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Burge, A. H</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burge</Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>3435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. E.</Forenames>
+      <PageNumber>4297</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burger</Key>
@@ -1334,9 +1797,15 @@
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>4517</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burland</Key>
@@ -1404,9 +1873,15 @@
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. R.</Forenames>
+      <PageNumber>3977</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Buschman</Key>
@@ -1414,17 +1889,40 @@
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bush, M. E. ..</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Butcher, J. ..</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bush</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>3599</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>4303</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>K. M.</Forenames>
+      <PageNumber>4198</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. M.</Forenames>
+      <PageNumber>3863</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
@@ -1450,9 +1948,15 @@
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. D.</Forenames>
+      <PageNumber>3221</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butt</Key>
@@ -1497,29 +2001,47 @@
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Byrom, E. L. G</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Cade, B. A. ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Byrom</Key>
+      <Forenames>E. L. G.</Forenames>
+      <PageNumber>3650</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. A.</Forenames>
+      <PageNumber>4146</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cade</Key>
-      <Text>, W</Text>
+      <Forenames>B. A.</Forenames>
+      <PageNumber>3489</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cade</Key>
+      <Forenames>W</Forenames>
       <PageNumber>3370</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caffin</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cairns</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,8 +2213,20 @@
       <PageNumber>4197</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Carnie, T. W</SubCategoryTitle>
-  <SubCategoryTitle>Carpani, E. A</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Carnie</Key>
+      <Forenames>T. W.</Forenames>
+      <PageNumber>3914</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Carpani</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>4103</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
@@ -1786,7 +2320,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
     <SubItem>
@@ -1805,7 +2339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cattarns</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,14 +2350,19 @@
       <PageNumber>3741</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Cavey, J</SubCategoryTitle>
-  <SubCategoryTitle>Celestino, Z. ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cavey</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>3266</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,21 +2383,45 @@
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Challinor, W. H</SubCategoryTitle>
-  <SubCategoryTitle>Chalmers, G</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Chaloner, E. ... ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Chamberlin</Key>
-      <Text>. K A</Text>
+      <Key>Challinor</Key>
+      <Forenames>W. H.</Forenames>
+      <PageNumber>3492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chalmers</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>3372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. A.</Forenames>
+      <PageNumber>3438</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chaloner</Key>
+      <Forenames>E.</Forenames>
+      <Text>... ... Chamberlin. K A</Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Chandos-Pole, A.M.... 386* Channing, H. T. S. ... 4TM2 Chapman, C. J</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chandos-Pole</Key>
+      <Forenames>A.M.</Forenames>
+      <PageNumber>386</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1877,22 +2440,59 @@
       <PageNumber>3648</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ .</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Chard, H. F. ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>3802</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>JJ:</Text>
+      <PageNumber>4363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>4102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. U.</Forenames>
+      <PageNumber>4512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>3687</PageNumber>
+      <PageNumber>3804</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chard</Key>
+      <Forenames>H. F.</Forenames>
+      <PageNumber>3865</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1902,12 +2502,63 @@
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Charles, G. F. ..</SubCategoryTitle>
-  <SubCategoryTitle>Charles Charlesworth, A. A.... 4299 Charlton, E. A. L. ... 3216 Chevers, E. A. ... 33°5 Chick, R. A. ... .» 39o8 Cbilderstone, M. M. ... 397&amp; Chilvers, J.H. ... 3498 Chiney, L. J. 3858 Chisholm, W. 3979 Chiswell, H. W Cholmondeley, H. V. U</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charles</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>... Charles Charlesworth, A. A</Text>
+      <PageNumber>4299</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charlton</Key>
+      <Forenames>E. A. L.</Forenames>
+      <PageNumber>3216</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chick</Key>
+      <Forenames>R. A.</Forenames>
+      <Text>... .» 39o</Text>
+      <PageNumber>8</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cbilderstone</Key>
+      <Forenames>M. M.</Forenames>
+      <PageNumber>397</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chilvers</Key>
+      <Forenames>J.H.</Forenames>
+      <PageNumber>3498</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chiney</Key>
+      <Forenames>L. J.</Forenames>
+      <Text>-</Text>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chisholm</Key>
+      <Forenames>W.</Forenames>
+      <Text>-</Text>
+      <PageNumber>3979</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Text>. W. M</Text>
+      <Forenames>W. M.</Forenames>
       <PageNumber>3975</PageNumber>
     </MainItem>
   </ItemGroup>

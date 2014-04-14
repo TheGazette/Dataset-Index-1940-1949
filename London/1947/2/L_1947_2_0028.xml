@@ -112,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mair</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>,. D. J</Text>
+      <Text>. D. J</Text>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>, ]. P</Text>
+      <Text>]. P</Text>
       <PageNumber>2538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merton</Key>
-      <Text>, *S. A</Text>
+      <Text>*S. A</Text>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, :D. J. '</Text>
+      <Text>:D. J. '</Text>
       <PageNumber>1679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ney</Key>
-      <Text>, K: P</Text>
+      <Forenames>K</Forenames>
+      <Text>: P</Text>
       <PageNumber>2725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,15 +1286,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>2949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>1678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,8 +1323,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mara, W. L</Text>
+      <Key>O'Mara</Key>
+      <Forenames>W. L.</Forenames>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1337,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H. C</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H. C.</Forenames>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,15 +1365,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, T. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>2023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallis</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,7 +1625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pender</Key>
-      <Text>, ]. G. G</Text>
+      <Text>]. G. G</Text>
       <PageNumber>2192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pengelly</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,7 +1675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Petrie</Key>
-      <Text>, G D</Text>
+      <Forenames>G</Forenames>
+      <Text>D</Text>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1954,7 +1956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prideaux</Key>
-      <Forenames>C. S. De C.</Forenames>
+      <Forenames>C. S. De C</Forenames>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2167,7 +2169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>

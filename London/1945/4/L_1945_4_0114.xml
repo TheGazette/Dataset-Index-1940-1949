@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,15 +320,16 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoogewerf</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>5701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horton-Smith</Key>
-      <Text>, D A. G</Text>
+      <Forenames>D</Forenames>
+      <Text>A. G</Text>
       <PageNumber>5112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hougham</Key>
-      <Text>, K; R</Text>
+      <Forenames>K</Forenames>
+      <Text>; R</Text>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Text>,' N. G</Text>
+      <Text>' N. G</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,7 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,7 +1694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jubb</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,14 +1859,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenning</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>6252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2146,7 +2149,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5745</PageNumber>
     </MainItem>
   </ItemGroup>

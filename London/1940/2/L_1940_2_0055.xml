@@ -154,8 +154,7 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F.</Forenames>
-      <Text>de R</Text>
+      <Forenames>F. de R</Forenames>
       <PageNumber>2457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mavfield</Key>
-      <Text>C. V</Text>
+      <Forenames>C. V.</Forenames>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayman</Key>
-      <Text>R. L</Text>
+      <Forenames>R. L.</Forenames>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1212,9 @@
     <MainItem>
       <Key>Menzies</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>

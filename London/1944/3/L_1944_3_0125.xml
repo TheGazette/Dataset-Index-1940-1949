@@ -411,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petticrew</Key>
-      <Text>F. I</Text>
+      <Forenames>F. I.</Forenames>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +580,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +646,7 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +673,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +719,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +825,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +906,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1179,9 @@
       <Key>Pigott</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,14 +1287,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pilpel</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1342,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1367,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,14 +1416,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pines</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1510,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1696,7 +1698,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,7 +1974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Polak</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2000,7 +2002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2018,7 +2020,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2051,8 +2053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>4066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2067,7 +2068,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pgnd</Key>
-      <Text>G „</Text>
+      <Forenames>G</Forenames>
+      <Text>„</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2110,7 +2112,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2128,7 +2130,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,7 +2140,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2154,7 +2156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2228,7 +2230,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>

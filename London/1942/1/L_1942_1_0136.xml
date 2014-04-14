@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Breakey</Key>
-      <Text>, L ,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>1240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewer</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brier</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +169,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +295,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M :</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burran</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +821,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, S;</Text>
+      <Forenames>S</Forenames>
+      <Text>;</Text>
       <PageNumber>1143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalk</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1007,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, Sir C. R., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,7 +1590,9 @@
       <Key>Congreve</Key>
       <Title>Sir</Title>
       <Forenames>G. C</Forenames>
-      <Text>, Bt. i35i Connell, E. A. L</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1922,8 +1929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crean</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>E. O'D</Forenames>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1958,7 +1964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cripps</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,7 +1987,9 @@
       <Key>Croft</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2002,7 +2010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crook</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2088,7 +2096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruddas</Key>
-      <Text>, M, J</Text>
+      <Forenames>M</Forenames>
+      <Text>, J</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2316,7 +2325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davall</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2372,7 +2381,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>B, H. S</Text>
+      <Forenames>B</Forenames>
+      <Text>, H. S</Text>
       <PageNumber>731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2561,6 +2571,27 @@
       <Key>Dayson</Key>
       <Forenames>E. H.</Forenames>
       <PageNumber>304</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>A. C. V.</Forenames>
+      <PageNumber>164</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>F. L.</Forenames>
+      <PageNumber>375</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mpleyns</Key>
+      <Forenames>A. R.</Forenames>
+      <PageNumber>520</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

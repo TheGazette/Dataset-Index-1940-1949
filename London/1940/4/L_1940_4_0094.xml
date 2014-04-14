@@ -645,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>. A. G. W</Text>
+      <Forenames>A. G. W.</Forenames>
       <PageNumber>6392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,10 +1568,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Geus</Forenames>
-      <Text>, A</Text>
+      <Key>De Geus</Key>
+      <Forenames>A .</Forenames>
       <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kock</Key>
+      <Forenames>V. P. de C</Forenames>
+      <PageNumber>6019</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Neumann</Key>
+      <Forenames>J. G. A.</Forenames>
+      <PageNumber>6253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1842,7 +1855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Forenames>W. E. M. De S.</Forenames>
+      <Forenames>W. E. M. De S</Forenames>
       <PageNumber>6697</PageNumber>
     </MainItem>
   </ItemGroup>

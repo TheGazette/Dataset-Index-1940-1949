@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>96</PageNumber>
     </MainItem>
     <SubItem>
@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pretzlik</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rattray</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ravn</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>89</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawling</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>884</PageNumber>
     </MainItem>
     <SubItem>
@@ -1450,7 +1450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymond-Barker</Key>
-      <Text>, R M</Text>
+      <Forenames>R</Forenames>
+      <Text>M</Text>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>

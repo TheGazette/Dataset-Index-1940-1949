@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>G. H. C</Text>
+      <Forenames>G. H. C.</Forenames>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,9 @@
       <Key>Nightingale</Key>
       <Title>Sir</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,8 +307,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Hobson, R. A. B</Text>
+      <Key>O'Neill-Hobson</Key>
+      <Forenames>R. A. B.</Forenames>
       <PageNumber>1627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Text>W. T</Text>
+      <Forenames>W. T.</Forenames>
       <PageNumber>295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +874,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1182,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Sebright</Key>
-      <Text>Sir G. E., Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shackleton</Key>
-      <Text>L. A. R</Text>
+      <Forenames>L. A. R.</Forenames>
       <PageNumber>295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>D. A</Text>
+      <Forenames>D. A.</Forenames>
       <PageNumber>75</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1821,7 +1829,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornley</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tingley</Key>
-      <Text>H. W. G</Text>
+      <Forenames>H. W. G.</Forenames>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>

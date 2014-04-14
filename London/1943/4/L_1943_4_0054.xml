@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4443</PageNumber>
     </MainItem>
     <SubItem>
@@ -120,14 +120,14 @@
       <PageNumber>5527</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>S. B</Text>
+      <Text>S. B.</Text>
       <PageNumber>4964</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dyamond</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +148,7 @@
       <PageNumber>5528</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>W. A</Text>
+      <Text>W. A.</Text>
       <PageNumber>4716</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -162,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5235</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4716</PageNumber>
     </MainItem>
     <SubItem>
@@ -543,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emslie</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,11 +571,12 @@
   <ItemGroup>
     <MainItem>
       <Key>England</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4763</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>4961</PageNumber>
         <PageNumber>5018</PageNumber>
         <PageNumber>5326</PageNumber>
@@ -587,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4499</PageNumber>
     </MainItem>
     <SubItem>
@@ -619,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5236</PageNumber>
     </MainItem>
     <SubItem>
@@ -739,7 +740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Essling</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5127</PageNumber>
     </MainItem>
     <SubItem>
@@ -838,7 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyles</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faber</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,14 +1067,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4964</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrugia</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faux</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fearn</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fecitt</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>

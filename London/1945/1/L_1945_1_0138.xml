@@ -319,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,8 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G. W. Sub. not</Text>
+      <Forenames>D. St. G</Forenames>
+      <Text>. W. Sub. not</Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guilbert</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawke</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirwan</Key>
-      <Forenames>E. W. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>E. W. O'G</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeson</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1476,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGuire</Key>
-      <Text>A. S</Text>
+      <Forenames>A. S.</Forenames>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKie</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madhusudan</Key>
-      <Forenames>Nag</Forenames>
+      <Title>Nag .</Title>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,14 +1912,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Medway</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mee</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2022,14 +2021,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mir</Key>
-      <Forenames>Haider</Forenames>
+      <Title>Haider .</Title>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Misri</Key>
-      <Forenames>Chand</Forenames>
+      <Title>Chand .</Title>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2081,7 +2080,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moment</Key>
-      <Text>E G. C</Text>
+      <Forenames>E</Forenames>
+      <Text>G. C</Text>
       <PageNumber>946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2303,7 +2303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbold</Key>
-      <Text>C. F. .!</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>.!</Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2387,7 +2388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nurul</Key>
-      <Forenames>Ahad</Forenames>
+      <Title>Ahad .</Title>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2415,8 +2416,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, C. H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>

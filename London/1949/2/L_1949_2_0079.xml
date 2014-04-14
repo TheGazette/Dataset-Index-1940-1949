@@ -10,15 +10,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Harpers</Key>
-      <Text>(Harrogate)</Text>
+      <Title>(Harrogate)</Title>
       <PageNumber>2314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (Brierley Hill) ,3145;,</Text>
+      <Title>Bros. (Brierley Hill)</Title>
+      <Text>,3145;,</Text>
       <PageNumber>3146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,8 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Forenames>Stock</Forenames>
-      <Text>. ,'</Text>
+      <Title>Stock .</Title>
+      <Text>,'</Text>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hattan</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,21 +108,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Headsim</Key>
-      <Forenames>Agencies</Forenames>
+      <Title>Agencies .</Title>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heale</Key>
-      <Text>,' J. '&amp;' Sons;..;:.; ,</Text>
+      <Text>' J. '&amp;' Sons;..;:.; ,</Text>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Health</Key>
-      <Text>.Foods and' Books '2503,, 25</Text>
+      <Forenames>Foods</Forenames>
+      <Text>and' Books '2503,, 25</Text>
       <PageNumber>06</PageNumber>
       <PageNumber>2631</PageNumber>
     </MainItem>
@@ -130,8 +131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hednesford</Key>
-      <Forenames>Market</Forenames>
-      <Text>. -Hail '.Company ... '</Text>
+      <Title>Market .</Title>
+      <Text>-Hail '.Company ... '</Text>
       <PageNumber>2897</PageNumber>
       <PageNumber>3008</PageNumber>
     </MainItem>
@@ -139,7 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helena</Key>
-      <Text>(Coventry).,</Text>
+      <Title>(Coventry)</Title>
+      <Text>.,</Text>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helsby</Key>
-      <Text>.M.^M:,&amp;. C6: ,</Text>
+      <Forenames>M.</Forenames>
+      <Text>^M:,&amp;. C6: ,</Text>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepworth</Key>
-      <Text>, .,.&amp; Mason-, .(Hotels) '.:: '.'</Text>
+      <Text>.,.&amp; Mason-, .(Hotels) '.:: '.'</Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,9 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemes</Key>
-      <Title>Forging.</Title>
-      <Forenames>Company</Forenames>
-      <Text>. , . ' * .j' '.;, 2oii Herts Welding,. .. :A</Text>
+      <Title>Forging. Company.</Title>
+      <Text>, . ' * .j' '.;, 2oii Herts Welding,. .. :A</Text>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>,' J. . J., ' Refubbefirig Holdings . .. ,</Text>
+      <Text>' J. . J., ' Refubbefirig Holdings . .. ,</Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilver</Key>
-      <Text>. , '</Text>
+      <Text>, '</Text>
       <PageNumber>2310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,14 +317,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Holldway</Key>
-      <Text>. Worth &amp; Company '.. (V</Text>
+      <Forenames>Worth</Forenames>
+      <Text>&amp; Company '.. (V</Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holmedalej</Key>
-      <Text>.Furnishers v, ...I (.&lt;*... '</Text>
+      <Forenames>Furnishers</Forenames>
+      <Text>v, ...I (.&lt;*... '</Text>
       <PageNumber>2501</PageNumber>
       <PageNumber>2773</PageNumber>
       <PageNumber>3022</PageNumber>
@@ -331,7 +335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>, J:. . W.: (Blackpool) ~.,t .' 1784; 1790;</Text>
+      <Forenames>J</Forenames>
+      <Text>:. . W.: (Blackpool) ~.,t .' 1784; 1790;</Text>
       <PageNumber>2435</PageNumber>
       <PageNumber>2435</PageNumber>
     </MainItem>
@@ -339,7 +344,6 @@
   <ItemGroup>
     <MainItem>
       <Key>HopcroftsHolt</Key>
-      <Text>,</Text>
       <PageNumber>2311</PageNumber>
       <PageNumber>2313</PageNumber>
       <PageNumber>2316</PageNumber>
@@ -363,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>,, David-.(Leeds) . , , ;' '</Text>
+      <Text>, David-.(Leeds) . , , ;' '</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,29 +418,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Forenames>Electric</Forenames>
-      <Text>... '</Text>
+      <Title>Electric .</Title>
+      <Text>.. '</Text>
       <PageNumber>3022</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, '-N.. ' ...*. .... '2253c Hunter Products '</Text>
+      <Text>'-N.. ' ...*. .... '2253c Hunter Products '</Text>
       <PageNumber>2582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hufdsfield</Key>
-      <Text>.Allotment As-, ' sociation '.,.;</Text>
+      <Forenames>Allotment As-</Forenames>
+      <Text>, ' sociation '.,.;</Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Huttpn</Key>
-      <Text>,v,J6hri ,Y</Text>
+      <Text>v,J6hri ,Y</Text>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,21 +473,23 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>.C.I.' (Fertilizer, and .Synthetic Products) ' '</Text>
+      <Forenames>C.I.</Forenames>
+      <Text>' (Fertilizer, and .Synthetic Products) ' '</Text>
       <PageNumber>2318</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>.C.I. (Plasties)' ,,.;.:</Text>
+      <Forenames>C.I.</Forenames>
+      <Text>(Plasties)' ,,.;.:</Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>.,' E. M-..Pearson '..Investrrient Trust,:;' ., ..^,</Text>
+      <Text>,' E. M-..Pearson '..Investrrient Trust,:;' ., ..^,</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Incorporated</Key>
-      <Text>. Municipal. . Electrical Association '...*.: . . — '</Text>
+      <Title>Municipal.</Title>
+      <Text>. Electrical Association '...*.: . . — '</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,14 +549,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Institute</Key>
-      <Text>. of . Market and Abattoir 'O'fBcers' ''</Text>
+      <Text>of . Market and Abattoir 'O'fBcers' ''</Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Instrument</Key>
-      <Text>.Engineering Co. ',. '2577,-</Text>
+      <Forenames>Engineering</Forenames>
+      <Text>Co. ',. '2577,-</Text>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>International</Key>
-      <Forenames>Bookshop</Forenames>
-      <Text>. ',»:-' . ' -</Text>
+      <Title>Bookshop.</Title>
+      <Text>',»:-' . ' -</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,28 +596,30 @@
   <ItemGroup>
     <MainItem>
       <Key>L</Key>
-      <Text>. , J. 'Hill Rerubbering Holdings-' -..:</Text>
+      <Text>, J. 'Hill Rerubbering Holdings-' -..:</Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>.-N.K. Trust</Text>
+      <Text>-N.K. Trust</Text>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>,P; Properties ..r-</Text>
+      <Forenames>P</Forenames>
+      <Text>; Properties ..r-</Text>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>.G.M.Warehouse,. Co. . . . M: .. )T%.'</Text>
+      <Forenames>G.M.Warehouse</Forenames>
+      <Text>,. Co. . . . M: .. )T%.'</Text>
       <PageNumber>1872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Text>.Brothers</Text>
+      <Forenames>Brothers</Forenames>
       <PageNumber>2124</PageNumber>
       <PageNumber>2191</PageNumber>
     </MainItem>
@@ -638,7 +649,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Jelipect</Key>
-      <Text>,</Text>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>,, A. W.\iP: 'A-^Co. /(Builders) ..T</Text>
+      <Text>, A. W.\iP: 'A-^Co. /(Builders) ..T</Text>
       <PageNumber>3088</PageNumber>
       <PageNumber>3192</PageNumber>
     </MainItem>
@@ -740,8 +750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>Joseph</Forenames>
-      <Text>.,.;„.,</Text>
+      <Title>Joseph .</Title>
+      <Text>,.;„.,</Text>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renn</Key>
-      <Text>,-.-David.: &amp; Sons</Text>
+      <Text>-.-David.: &amp; Sons</Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennaugh</Key>
-      <Text>,Williarii &amp;' Sons* (Liverpool)</Text>
+      <Text>Williarii &amp;' Sons* (Liverpool)</Text>
       <PageNumber>1782</PageNumber>
       <PageNumber>2249</PageNumber>
     </MainItem>
@@ -815,8 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Forenames>Containers</Forenames>
-      <Text>.'</Text>
+      <Title>Containers .</Title>
+      <Text>'</Text>
       <PageNumber>2591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. &amp; Co. (King's Cross) '</Text>
+      <Title>Bros.</Title>
+      <Text>&amp; Co. (King's Cross) '</Text>
       <PageNumber>2505</PageNumber>
       <PageNumber>2507</PageNumber>
       <PageNumber>2703</PageNumber>
@@ -863,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>,' Burton &amp;Co</Text>
+      <Text>' Burton &amp;Co</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rirkham</Key>
-      <Text>,«Wiri.(Sachet Supplies) ' r3T43/3i</Text>
+      <Text>«Wiri.(Sachet Supplies) ' r3T43/3i</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Klarzone</Key>
-      <Text>...-»?:: -' .-SOlO' Kleno Products</Text>
+      <Text>..-»?:: -' .-SOlO' Kleno Products</Text>
       <PageNumber>2900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>L</Key>
-      <Text>.' &amp;J.Gafrnerifs^/</Text>
+      <Text>' &amp;J.Gafrnerifs^/</Text>
       <PageNumber>5633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laird</Key>
-      <Text>, A:. O-..,.:2003; 2123;, LanibarEstates . l,779;,</Text>
+      <Forenames>A</Forenames>
+      <Text>:. O-..,.:2003; 2123;, LanibarEstates . l,779;,</Text>
       <PageNumber>2606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larhbtex</Key>
-      <Text>. '2359, 2432/</Text>
+      <Text>'2359, 2432/</Text>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landers</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>3190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,15 +1068,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>. and Sons (Out..fitters) ' ,..-; :\h i..;</Text>
+      <Text>and Sons (Out..fitters) ' ,..-; :\h i..;</Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lawrences</Key>
-      <Forenames>College</Forenames>
-      <Text>. '</Text>
+      <Title>College.</Title>
+      <Text>'</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,14 +1124,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lettings</Key>
-      <Text>.,</Text>
+      <Text>,</Text>
       <PageNumber>2252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lever</Key>
-      <Text>, . Herbert ' &amp; Co. (Leeds) i</Text>
+      <Text>. Herbert ' &amp; Co. (Leeds) i</Text>
       <PageNumber>856</PageNumber>
       <PageNumber>2247</PageNumber>
       <PageNumber>2248</PageNumber>
@@ -1171,7 +1182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lignacite</Key>
-      <Text>(Proprietary)</Text>
+      <Title>(Proprietary)</Title>
       <PageNumber>1672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,15 +1222,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Llanharry</Key>
-      <Text>.Wagons</Text>
+      <Title>Wagons .</Title>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (Haulage)</Text>
+      <Title>Bros. (Haulage)</Title>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>..^Tomato * Dis ^ . tributirig .Association</Text>
+      <Text>.^Tomato * Dis ^ . tributirig .Association</Text>
       <PageNumber>1789</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -135,7 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, I *</Text>
+      <Forenames>I</Forenames>
+      <Text>*</Text>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +161,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M, E</Text>
+      <Forenames>M</Forenames>
+      <Text>, E</Text>
       <PageNumber>229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cliff</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,14 +467,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M„ C</Text>
+      <Forenames>M</Forenames>
+      <Text>„ C</Text>
       <PageNumber>229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cookman-Roberts</Key>
-      <Text>, J-</Text>
+      <Text>J-</Text>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>

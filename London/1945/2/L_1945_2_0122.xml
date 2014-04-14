@@ -615,7 +615,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Foresters)</Text>
+      <Title>(Foresters)</Title>
       <PageNumber>2472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Airlie</Key>
-      <Text>Earl of°</Text>
+      <Title>Earl</Title>
+      <Text>of°</Text>
       <PageNumber>1838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1004,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1353,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(34454°)</Text>
+      <Title>(34454°)</Title>
       <PageNumber>1840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2293,7 +2294,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P J</Text>
+      <Forenames>P</Forenames>
+      <Text>J</Text>
       <PageNumber>2475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2311,7 +2313,9 @@
       <Key>Blake</Key>
       <Title>Sir</Title>
       <Forenames>F. E. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2325,7 +2329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blick</Key>
-      <Text>C. R</Text>
+      <Forenames>C. R.</Forenames>
       <PageNumber>2565</PageNumber>
     </MainItem>
   </ItemGroup>

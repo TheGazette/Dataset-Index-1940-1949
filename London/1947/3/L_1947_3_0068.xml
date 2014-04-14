@@ -591,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaflivsr</Key>
-      <Text>D: R. ,</Text>
+      <Forenames>D</Forenames>
+      <Text>: R. ,</Text>
       <PageNumber>3004</PageNumber>
       <PageNumber>3670</PageNumber>
     </MainItem>
@@ -766,7 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>E;</Text>
+      <Forenames>E</Forenames>
+      <Text>;</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillan</Key>
-      <Text>H, B/ ... :</Text>
+      <Forenames>H</Forenames>
+      <Text>, B/ ... :</Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1583,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gleave</Key>
-      <Text>T: P</Text>
+      <Forenames>T</Forenames>
+      <Text>: P</Text>
       <PageNumber>3417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1608,8 @@
       <Key>
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T, C</Text>
+      <Forenames>T</Forenames>
+      <Text>, C</Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldfinch</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>3260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,7 +1941,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .—</KeyDitto>
       </Key>
-      <Text>J s</Text>
+      <Forenames>J</Forenames>
+      <Text>s</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,7 +2028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,8 +2328,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>

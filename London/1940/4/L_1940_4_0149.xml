@@ -70,14 +70,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wycombe</Key>
-      <Text>(Borough) Electric Light and Power Company</Text>
+      <Title>(Borough)</Title>
+      <Forenames>Electric Light</Forenames>
+      <Text>and Power Company</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>X</Key>
-      <Text>G. L. Syndicate</Text>
+      <Forenames>G. L. Syndicate</Forenames>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Acme</Key>
-      <Forenames>Contractors Plant Co</Forenames>
+      <Forenames>Contractors Plant</Forenames>
+      <Text>Co</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +216,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>C N. &amp; Sons</Text>
+      <Forenames>C</Forenames>
+      <Text>N. &amp; Sons</Text>
       <PageNumber>6997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coe</Key>
-      <Forenames>Paul</Forenames>
+      <Title>Paul .</Title>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>6887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>Berrie</Forenames>
+      <Title>Berrie .</Title>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>E. Stott's Exors</Text>
+      <Forenames>E. Stott</Forenames>
+      <Text>'s Exors</Text>
       <PageNumber>5927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,14 +622,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawton</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>7314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Levy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merrin</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osborne</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palace</Key>
-      <Forenames>Sack Co</Forenames>
+      <Forenames>Sack</Forenames>
+      <Text>Co</Text>
       <PageNumber>6454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Agar</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>6088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>J: J</Text>
+      <Forenames>J</Forenames>
+      <Text>: J</Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1365,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>B :</Text>
+      <Forenames>B</Forenames>
+      <Text>:</Text>
       <PageNumber>6324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartlett</Key>
-      <Text>W; H</Text>
+      <Forenames>W</Forenames>
+      <Text>; H</Text>
       <PageNumber>6422</PageNumber>
     </MainItem>
   </ItemGroup>

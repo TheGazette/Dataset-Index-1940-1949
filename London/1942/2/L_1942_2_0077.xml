@@ -304,26 +304,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chazal</Forenames>
-      <Text>, R. L</Text>
+      <Key>De Chazal</Key>
+      <Forenames>R. L.</Forenames>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Little</Forenames>
-      <Text>, F. P</Text>
+      <Key>De Little</Key>
+      <Forenames>F. P.</Forenames>
       <PageNumber>2032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lorme</Forenames>
-      <Text>, J. T</Text>
+      <Key>De Lorme</Key>
+      <Forenames>J. T.</Forenames>
       <PageNumber>2604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>H. J. St. V</Forenames>
+      <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -432,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dow-Sainter</Key>
-      <Text>W A</Text>
+      <Forenames>W</Forenames>
+      <Text>A</Text>
       <PageNumber>2032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgecock</Key>
-      <Text>T;</Text>
+      <Forenames>T</Forenames>
+      <Text>;</Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1061,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>D\ C</Text>
+      <Forenames>D</Forenames>
+      <Text>\ C</Text>
       <PageNumber>2604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godwin</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,8 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Forenames>G. J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. J. de V</Forenames>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goslin</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>M. D</Text>
+      <Forenames>M. D.</Forenames>
       <PageNumber>1707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hajenius</Key>
-      <Text>L7 J. E</Text>
+      <Forenames>L</Forenames>
+      <Text>7 J. E</Text>
       <PageNumber>1604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1875,7 +1882,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>G ;</Text>
+      <Forenames>G</Forenames>
+      <Text>;</Text>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2016,7 +2024,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>A: D. B</Text>
+      <Forenames>A</Forenames>
+      <Text>: D. B</Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2054,7 +2063,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haydpn</Key>
-      <Text>G Hayes, L</Text>
+      <Forenames>G</Forenames>
+      <Text>Hayes, L</Text>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2162,7 +2172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Higginbotham</Key>
-      <Text>G C</Text>
+      <Forenames>G</Forenames>
+      <Text>C</Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2290,8 +2301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holman</Key>
-      <Forenames>H. M. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>H. M. O'M</Forenames>
       <PageNumber>1604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2503,7 +2513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2538,7 +2548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jai</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2032</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craske</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cubitt</Key>
-      <Text>, T B</Text>
+      <Forenames>T</Forenames>
+      <Text>B</Text>
       <PageNumber>5829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curd</Key>
-      <Text>, iR. V. W</Text>
+      <Text>iR. V. W</Text>
       <PageNumber>4787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +450,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +913,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sub</Forenames>
-      <Text>. not</Text>
+      <Title>Sub.</Title>
+      <Text>not</Text>
       <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,8 +950,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,17 +1116,44 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mowbray</Forenames>
-      <Text>, M. S</Text>
+      <Key>de Burgh</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>4947</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Charmoy</Key>
+      <Forenames>M. A. F.</Forenames>
+      <Text>DE</Text>
+      <PageNumber>5067</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>6079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mare</Key>
+      <Text>1. R., Sub. not</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mowbray</Key>
+      <Forenames>M. S.</Forenames>
       <PageNumber>5829</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, B</Text>
+      <Key>De Ville</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>4948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deeley</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deighan</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delme-Radcliffe</Key>
-      <Text>, IP. A., Oorr</Text>
+      <Text>IP. A., Oorr</Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denham</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devine</Key>
-      <Text>, G: M</Text>
+      <Forenames>G</Forenames>
+      <Text>: M</Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>

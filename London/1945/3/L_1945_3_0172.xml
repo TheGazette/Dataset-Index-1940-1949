@@ -169,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firth</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flach</Key>
-      <Text>A Flack; B</Text>
+      <Forenames>A</Forenames>
+      <Text>Flack; B</Text>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flatman</Key>
-      <Text>A. S</Text>
+      <Forenames>A. S.</Forenames>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +450,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M.</Forenames>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +473,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,14 +514,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +548,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grayburn</Key>
-      <Text>J H</Text>
+      <Forenames>J</Forenames>
+      <Text>H</Text>
       <PageNumber>3537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,14 +1656,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallisey</Key>
-      <Text>N</Text>
+      <Forenames>N .</Forenames>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hambley</Key>
-      <Text>M. Hamblin, S. A</Text>
+      <Forenames>M. Hamblin</Forenames>
+      <Text>, S. A</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -99,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Netherlands</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>Queen of, Associate Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The Queen of, Associate Dame Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,14 +315,18 @@
     <MainItem>
       <Key>Ogilvie</Key>
       <Forenames>P. B. B.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, Hon. D. J., Companion, Order of St. Michael and St. George</Text>
+      <Key>O'Keefe</Key>
+      <Title>Hon.</Title>
+      <Forenames>D. J.</Forenames>
+      <Text>, Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +374,9 @@
     <MainItem>
       <Key>Orr</Key>
       <Forenames>A. D. G.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +402,9 @@
     <MainItem>
       <Key>Owles</Key>
       <Forenames>G. H. F.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>. J. B., Member, Order of the British Empire</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,11 +592,15 @@
     <MainItem>
       <Key>Payne-Gallwey</Key>
       <Forenames>P.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1868</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -631,7 +644,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. C. H.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +656,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. W.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prescott</Key>
-      <Text>. R. G. B., Officer, Order of the British Empire</Text>
+      <Forenames>R. G. B.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>

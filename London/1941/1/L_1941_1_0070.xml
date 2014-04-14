@@ -42,7 +42,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. W. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +70,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. B.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +305,9 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>B. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>249</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -524,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frere</Key>
-      <Text>J. G</Text>
+      <Forenames>J. G .</Forenames>
       <PageNumber>539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +940,7 @@
     <KeyDitto>___ ___ ___ .</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>R. D.</Text>
+      <Text>R. D</Text>
       <PageNumber>256</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1307,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gannaway</Key>
-      <Text>L. T</Text>
+      <Forenames>L. T.</Forenames>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,7 +1655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnall</Key>
-      <Text>R. J</Text>
+      <Forenames>R. J</Forenames>
       <PageNumber>888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,7 +1823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garton</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C</Forenames>
       <PageNumber>251</PageNumber>
     </MainItem>
   </ItemGroup>

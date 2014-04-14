@@ -139,7 +139,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayfield</Key>
-      <Text>, D Bayford, R. H</Text>
+      <Forenames>D</Forenames>
+      <Text>Bayford, R. H</Text>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +657,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>B: V</Text>
+      <Forenames>B</Forenames>
+      <Text>: V</Text>
       <PageNumber>643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +670,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.):,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellairs</Key>
-      <Text>,. A. dA</Text>
+      <Text>. A. dA</Text>
       <PageNumber>159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellis</Key>
-      <Text>.G. H. '</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>'</Text>
       <PageNumber>1357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benjafield</Key>
-      <Text>, E, J</Text>
+      <Forenames>E</Forenames>
+      <Text>, J</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benney</Key>
-      <Text>, RJC</Text>
+      <Text>RJC</Text>
       <PageNumber>1017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R.</Forenames>
       <PageNumber>260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bergius</Key>
-      <Text>,, MacD. W. a</Text>
+      <Text>, MacD. W. a</Text>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berners-Lee</Key>
-      <Text>,. C.. M</Text>
+      <Text>. C.. M</Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bett</Key>
-      <Text>, D: T. ... Bettison, R; B:</Text>
+      <Forenames>D</Forenames>
+      <Text>: T. ... Bettison, R; B:</Text>
       <PageNumber>641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beven</Key>
-      <Text>.J. N</Text>
+      <Forenames>J. N.</Forenames>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1564,7 +1571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggam</Key>
-      <Text>, j: :</Text>
+      <Text>j: :</Text>
       <PageNumber>968</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McErvel</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGoun</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +279,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +420,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +572,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4509</PageNumber>
     </MainItem>
     <SubItem>
@@ -1008,7 +1008,9 @@
       <Key>Maclean</Key>
       <Title>Sir</Title>
       <Forenames>C. H. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1128,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLeod</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McMillan</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,7 +1572,9 @@
       <Key>Macready</Key>
       <Title>Sir</Title>
       <Forenames>G. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,8 +1801,10 @@
     <MainItem>
       <Key>Malet</Key>
       <Title>Sir</Title>
-      <Forenames>E. W. St</Forenames>
-      <Text>. L., Bt</Text>
+      <Forenames>E. W. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1814,7 +1820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malin</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,8 +1866,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>A. R. de H</Forenames>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,7 +1914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Man</Key>
-      <Text>P. H</Text>
+      <Forenames>P. H</Forenames>
       <PageNumber>3373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1943,7 +1948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mangles</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P.</Forenames>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1997,7 +2002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mans</Key>
-      <Text>R. S. N</Text>
+      <Forenames>R. S. N.</Forenames>
       <PageNumber>3495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,7 +2073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mare</Key>
-      <Forenames>C. De C.</Forenames>
+      <Forenames>C. De C</Forenames>
       <PageNumber>4398</PageNumber>
     </MainItem>
     <SubItem>
@@ -2124,7 +2129,9 @@
     <MainItem>
       <Key>Markos</Key>
       <Forenames>S.</Forenames>
-      <Text>Bt. Marling, Sir J. S. V.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2185,7 +2192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marrow</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2237,7 +2244,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3374</PageNumber>
     </MainItem>
   </ItemGroup>

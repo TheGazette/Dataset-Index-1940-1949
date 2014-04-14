@@ -221,7 +221,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>568</PageNumber>
       <PageNumber>914</PageNumber>
     </MainItem>
@@ -252,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,8 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Title>St.</Title>
-      <Forenames>F. M.</Forenames>
+      <Title>St. F.</Title>
+      <Forenames>M.</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annand</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +809,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowes</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1020,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruzaiid</Key>
-      <Text>A: W. P</Text>
+      <Forenames>A</Forenames>
+      <Text>: W. P</Text>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1652,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C F</Text>
+      <Forenames>C</Forenames>
+      <Text>F</Text>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,17 +1726,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fraine</Forenames>
-      <Text>, P. M</Text>
+      <Key>De Fraine</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, D. M</Text>
+      <Key>de Putron</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>1399</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sausmarez</Key>
+      <Forenames>D. M</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1864,9 +1871,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Toit</Forenames>
-      <Text>, J. F. ... r34i Dukes, M. ... ... -ri</Text>
+      <Key>Du Toit</Key>
+      <Forenames>J. F.</Forenames>
+      <Text>... r34i Dukes, M. ... ... -ri</Text>
       <PageNumber>26</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2122,7 +2129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fell</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2178,7 +2185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>ForbesrSempill</Key>
-      <Text>Hon. -M</Text>
+      <Title>Hon.</Title>
+      <Text>-M</Text>
       <PageNumber>241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2206,7 +2214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>J Fotheringham, J. P. Foulger, E. B. I</Text>
+      <Forenames>J</Forenames>
+      <Text>Fotheringham, J. P. Foulger, E. B. I</Text>
       <PageNumber>341223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2290,7 +2299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyfe</Key>
-      <Text>E. F</Text>
+      <Forenames>E. F</Forenames>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2392,7 +2401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2434,7 +2443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosden</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>

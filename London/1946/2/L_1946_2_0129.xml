@@ -253,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garter</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +271,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>B„ Cane</Text>
+      <Forenames>B</Forenames>
+      <Text>„ Cane</Text>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +364,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +398,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,7 @@
     </MainItem>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>G., Corr</Text>
+      <Text>G., Corr.</Text>
       <PageNumber>3278</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -669,7 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaplin</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,8 +695,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. F. De P.</Forenames>
-      <Text>, Cane</Text>
+      <Forenames>P. F. De P</Forenames>
+      <Text>., Cane</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christofi</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,8 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchward</Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de S</Text>
+      <Forenames>P. R. de S</Forenames>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,14 +1299,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleckner</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cleeve</Key>
-      <Text>J F...,</Text>
+      <Forenames>J</Forenames>
+      <Text>F...,</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cliff</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,7 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colbeck</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,8 +1799,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. H. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. H. St. C</Forenames>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,8 +1853,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. D.</Forenames>
-      <Text>de F</Text>
+      <Forenames>W. D. de F</Forenames>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conroy</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2031,7 +2030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2125,7 +2124,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2157,7 +2156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooklin</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2428,8 +2427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corder</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>A. St. D</Forenames>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2450,14 +2448,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Corker</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2499,7 +2497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corp</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2548,7 +2546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2557,14 +2555,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2271</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coull</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>

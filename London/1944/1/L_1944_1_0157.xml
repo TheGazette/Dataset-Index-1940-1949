@@ -41,8 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, F. R</Text>
+      <Key>St. John</Key>
+      <Forenames>F. R.</Forenames>
       <PageNumber>735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +623,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F M</Text>
+      <Forenames>F</Forenames>
+      <Text>M</Text>
       <PageNumber>474</PageNumber>
     </MainItem>
   </ItemGroup>

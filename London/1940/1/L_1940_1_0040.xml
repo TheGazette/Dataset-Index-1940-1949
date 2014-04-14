@@ -1125,7 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilditch</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1269,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>

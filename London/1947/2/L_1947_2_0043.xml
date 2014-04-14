@@ -225,7 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey</Key>
-      <Text>de Burgh, U</Text>
+      <Forenames>de Burgh</Forenames>
+      <Text>, U</Text>
       <PageNumber>2001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Impey</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingledew</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>, E ,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>, F ,</Text>
+      <Forenames>F</Forenames>
+      <Text>,</Text>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irish</Key>
-      <Text>, L,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>1616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Isidore</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ivory</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +928,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagger</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1086,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1131,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1267,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jebens</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,8 +1434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,14 +1574,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jessup</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1628,7 +1632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jockel</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,7 +1801,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1841,8 +1845,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1863,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2185,7 +2188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joplin</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2241,7 +2244,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W I54*» Jordon, A. T</Text>
+      <Forenames>W</Forenames>
+      <Text>I54*» Jordon, A. T</Text>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>

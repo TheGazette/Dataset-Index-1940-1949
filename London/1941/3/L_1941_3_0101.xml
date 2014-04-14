@@ -771,9 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duchess of</Text>
+      <Title>H.R.H. The Duchess</Title>
+      <Text>of</Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1654,9 @@
       <Key>Mowat</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4948</PageNumber>
       <PageNumber>5593</PageNumber>
     </MainItem>
@@ -1825,22 +1826,26 @@
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J., Cancellation</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J.</Forenames>
+      <Text>, Cancellation</Text>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, C.H</Text>
+      <Key>O'Donoghue</Key>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, T F., Substituted notice</Text>
+      <Key>O'Grady</Key>
+      <Forenames>T</Forenames>
+      <Text>F., Substituted notice</Text>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -148,7 +148,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. L.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +260,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J (Green Howards)</Text>
+      <Forenames>J</Forenames>
+      <Text>(Green Howards)</Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Munthali</Forenames>
+      <Title>Munthali .</Title>
       <PageNumber>4728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +523,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.) .,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +543,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L H</Text>
+      <Forenames>L</Forenames>
+      <Text>H</Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,8 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yaqub</Key>
-      <Forenames>Khan</Forenames>
-      <Text>... Agabeg, R. C</Text>
+      <Title>Khan .</Title>
+      <Text>.. Agabeg, R. C</Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>

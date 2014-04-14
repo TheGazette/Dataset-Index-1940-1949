@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colgan</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Colman</Key>
-      <Text>,</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +693,9 @@
       <Key>Colt</Key>
       <Title>Sir</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1387,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J= L H</Text>
+      <Forenames>J</Forenames>
+      <Text>= L H</Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1649,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>F*</Text>
+      <Forenames>F</Forenames>
+      <Text>*</Text>
       <PageNumber>4382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,7 +1975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corden</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,7 +1989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cordes</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corfield</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2049,7 +2052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corlett</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2063,7 +2066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2136,7 +2139,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2157,7 +2160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2194,7 +2197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Costello-Bowen</Key>
-      <Text>E. A</Text>
+      <Forenames>E. A.</Forenames>
       <PageNumber>4481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2225,7 +2228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotter</Key>
-      <Text>E. T-</Text>
+      <Forenames>E.</Forenames>
+      <Text>T-</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2264,7 +2268,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2383,7 +2387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulson</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4068</PageNumber>
     </MainItem>
   </ItemGroup>

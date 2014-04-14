@@ -35,7 +35,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>. H. J. G</Text>
+      <Forenames>H. J. G.</Forenames>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>. D. S</Text>
+      <Forenames>D. S .</Forenames>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,8 +594,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H .</Forenames>
       <PageNumber>6183</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brisay</Key>
+      <Forenames>A. C. D.</Forenames>
+      <PageNumber>6486</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -604,11 +618,19 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>de Paula, H. F. M</Text>
+      <Forenames>de Paula</Forenames>
+      <Text>, H. F. M</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>H. P.</Forenames>
+      <PageNumber>6122</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dear</Key>
@@ -917,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Text>. A. W. G</Text>
+      <Forenames>A. W. G.</Forenames>
       <PageNumber>7105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkner</Key>
-      <Text>. M. F. L</Text>
+      <Forenames>M. F. L.</Forenames>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>. J. A. R</Text>
+      <Forenames>J. A. R.</Forenames>
       <PageNumber>6187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fryer</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>6187</PageNumber>
     </MainItem>
   </ItemGroup>

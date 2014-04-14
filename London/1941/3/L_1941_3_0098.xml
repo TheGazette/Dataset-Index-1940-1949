@@ -222,8 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmot</Key>
-      <Forenames>D. G. U.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. G. U. de B</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,8 +241,7 @@
       <Key>
         <KeyDitto>-. ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. H. de B</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +368,9 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Forenames>E</Forenames>
-      <Text>, A. (R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4711</PageNumber>
     </MainItem>
     <SubItem>

@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>S: C</Text>
+      <Forenames>S</Forenames>
+      <Text>: C</Text>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +340,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F, M</Text>
+      <Forenames>F</Forenames>
+      <Text>, M</Text>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolfe-Rogers</Key>
-      <Text>K. E</Text>
+      <Forenames>K. E</Forenames>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury-Jones</Key>
-      <Text>M L</Text>
+      <Forenames>M</Forenames>
+      <Text>L</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sergeant</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sisman</Key>
-      <Text>J I. ..;</Text>
+      <Forenames>J</Forenames>
+      <Text>I. ..;</Text>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smiles</Key>
-      <Text>A D</Text>
+      <Forenames>A</Forenames>
+      <Text>D</Text>
       <PageNumber>1869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stibbs</Key>
-      <Text>K F</Text>
+      <Forenames>K</Forenames>
+      <Text>F</Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>K: M</Text>
+      <Forenames>K</Forenames>
+      <Text>: M</Text>
       <PageNumber>2771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes-Fairbairn</Key>
-      <Text>D,</Text>
+      <Forenames>D</Forenames>
+      <Text>,</Text>
       <PageNumber>2771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,8 +1735,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>N. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>N. M. de L</Forenames>
       <PageNumber>2082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1932,7 +1939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique,, notice</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>,, notice</Text>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>

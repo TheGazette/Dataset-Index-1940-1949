@@ -39,7 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guilding</Key>
-      <Text>M. J</Text>
+      <Forenames>M. J .</Forenames>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houlder</Key>
-      <Forenames>L. E. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>L. E. St. C</Forenames>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Text>D. L</Text>
+      <Forenames>D. L.</Forenames>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,8 +460,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gndy, Hon. K. G</Text>
+      <Key>O'Gndy</Key>
+      <Title>Hon.</Title>
+      <Forenames>K. G.</Forenames>
       <PageNumber>3350</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -13,7 +13,11 @@
       <Key>Butler</Key>
       <Title>Sir</Title>
       <Forenames>Montagu Sherard Dawes</Forenames>
-      <Text>, K.C.S.I., C.B., C.I.E., C.V.O., C.B.E., Member of Governing Body of School of Oriental and African Studies (London Institution)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,9 @@
     <MainItem>
       <Key>Cable</Key>
       <Forenames>Eric Grant</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at Rotterdam</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +43,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Ronald Ian</Forenames>
-      <Text>, C.B., C. M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the King of Yugoslavia</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,14 +70,19 @@
     <MainItem>
       <Key>Carrington</Key>
       <Title>Lieut.</Title>
-      <Text>-General Robert Harold, C.B., D. S.O., Governor of Edinburgh Castle</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cartmel</Key>
-      <Text>Robinson, Harold Francis, O.B.E., Nominated Official Member, Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +99,9 @@
       <Key>Chapman</Key>
       <Title>Maj.</Title>
       <Forenames>James Austin</Forenames>
-      <Text>, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +110,11 @@
       <Key>Charles</Key>
       <Title>Sir</Title>
       <Forenames>Noel Hughes Havelock</Forenames>
-      <Text>, Bt., C.M.G., M.C., H.M. Envoy Extraordinary and Minister Plenipotentiary at H.M. Embassy in Rome</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +139,9 @@
       <Key>Christie</Key>
       <Title>Capt.</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +159,9 @@
       <Key>Clayton</Key>
       <Title>The Rev.</Title>
       <Forenames>Prebendary John Francis</Forenames>
-      <Text>, M.C., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +220,9 @@
       <Key>Colville</Key>
       <Title>Captain</Title>
       <Forenames>Norman Robert</Forenames>
-      <Text>, M.C., Sheriff of County of Cornwall</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +244,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Francis</Forenames>
-      <Text>, O.B.E., K.C., Magistrate of Police Courts of the Metropolis Ebblewhite, Mrs. Lizzie Blanche, Commander (Sister), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +282,10 @@
       <Key>Everett</Key>
       <Title>Capt.</Title>
       <Forenames>Douglas H.</Forenames>
-      <Text>, M.B.E., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +293,11 @@
     <MainItem>
       <Key>Everson</Key>
       <Forenames>Frederick Charles</Forenames>
-      <Text>, H.M. Vice-Consul at Valparaiso ... ... ... noi Exeter, Marquess of, K.G., C.M.G., T.D., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +314,11 @@
       <Key>Fass</Key>
       <Title>Sir</Title>
       <Forenames>Herbert Ernest</Forenames>
-      <Text>, K.C.M.G., C.B., O.B.E., Member, Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +371,9 @@
       <Key>Freyberg</Key>
       <Title>Capt.</Title>
       <Forenames>George Herbert</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +381,9 @@
     <MainItem>
       <Key>Frith</Key>
       <Forenames>Geoffrey Hammond</Forenames>
-      <Text>, O.B.E., Member of Executive and Legislative Councils, Falkland Islands</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +408,9 @@
     <MainItem>
       <Key>Gainer</Key>
       <Forenames>Donald St</Forenames>
-      <Text>. Clair, C. M.G., O.B.E., H.M. Envoy Extraordinary and Minister Plenipotentiary to the United States of Venezuela</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodrick</Key>
-      <Text>George, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +443,9 @@
       <Key>Gore-Brown</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Stewart</Forenames>
-      <Text>, D. S.O., Unofficial Member of Executive Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,14 +462,21 @@
       <Key>Gower</Key>
       <Title>Sir</Title>
       <Forenames>Robert Vaughan</Forenames>
-      <Text>, K.C.V.O., O.B.E., M.P., Commander (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grafftey-Smith</Key>
-      <Text>Laurence Barton, O.B.E.. H.M. ConsulGeneral, at Durazzo</Text>
+      <Forenames>Laurence Bar-</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +485,9 @@
       <Key>Graham</Key>
       <Title>Comdr.</Title>
       <Forenames>Robert R.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>

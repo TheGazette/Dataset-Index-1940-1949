@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dignan</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dimmock</Key>
-      <Text>H. L. F., Sub. not</Text>
+      <Forenames>H. L. F.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doidge</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaghy</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougal</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +564,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K: S. A</Text>
+      <Forenames>K</Forenames>
+      <Text>: S. A</Text>
       <PageNumber>977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowse</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,9 +887,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Baisson</Forenames>
-      <Text>, D. W</Text>
+      <Key>Du Baisson</Key>
+      <Forenames>D. W.</Forenames>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Easton</Key>
-      <Text>J -3-</Text>
+      <Forenames>J</Forenames>
+      <Text>-3-</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,7 +1587,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir TV-R</Text>
+      <Title>Sir</Title>
+      <Text>TV-R</Text>
       <PageNumber>1309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,7 +1715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ehrlich</Key>
-      <Text>H Eisenstadter, F. Eisig, G. W. ... Ekberg, P. R. Eke, A. E el Milli, M Elcox, R. D. Eldrid, A. L Eley, E. A. T. Elgar, R. H. Elgood, B. C. Elias, B. R</Text>
+      <Forenames>H</Forenames>
+      <Text>Eisenstadter, F. Eisig, G. W. ... Ekberg, P. R. Eke, A. E el Milli, M Elcox, R. D. Eldrid, A. L Eley, E. A. T. Elgar, R. H. Elgood, B. C. Elias, B. R</Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elkana</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1769,7 +1773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,7 +1801,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2131,7 +2135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennis</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2184,7 +2188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>I, R. H. M. A</Text>
+      <Forenames>I</Forenames>
+      <Text>, R. H. M. A</Text>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>

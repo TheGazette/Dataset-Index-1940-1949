@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gradel</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +42,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +69,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +91,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +237,9 @@
       <Key>Grant-Lawson</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>493</PageNumber>
     </MainItem>
     <SubItem>
@@ -619,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +775,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimley</Key>
-      <Text>B: F. H</Text>
+      <Forenames>B</Forenames>
+      <Text>: F. H</Text>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grissell</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groom</Key>
-      <Text>D. M</Text>
+      <Forenames>D. M.</Forenames>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hakewill-Smith</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,8 +1605,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>G. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. N. St. J</Forenames>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halsey</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,7 +1708,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>

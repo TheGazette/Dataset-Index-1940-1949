@@ -186,7 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henniker-Heaton</Key>
-      <Text>, M R</Text>
+      <Forenames>M</Forenames>
+      <Text>R</Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hookings</Key>
-      <Text>, P; E</Text>
+      <Forenames>P</Forenames>
+      <Text>; E</Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCollough</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1071,6 @@
   <ItemGroup>
     <MainItem>
       <Key>McKnight-Kauffer</Key>
-      <Text>,</Text>
       <PageNumber>420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manwaring-White</Key>
-      <Text>, D F. A</Text>
+      <Forenames>D</Forenames>
+      <Text>F. A</Text>
       <PageNumber>1112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mattey</Key>
-      <Text>,. F. E. M</Text>
+      <Text>. F. E. M</Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meakin</Key>
-      <Text>,. W</Text>
+      <Text>. W</Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meriaul</Key>
-      <Text>,. H. M</Text>
+      <Text>. H. M</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1284,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, M. ..:</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. ..:</Text>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,8 +1657,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,8 +1679,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, R. C</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,7 +2099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Text>. t\. I. E</Text>
+      <Text>t\. I. E</Text>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2489,7 +2492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spanholtz</Key>
-      <Text>, D-, Corr</Text>
+      <Text>D-, Corr</Text>
       <PageNumber>635</PageNumber>
     </MainItem>
   </ItemGroup>

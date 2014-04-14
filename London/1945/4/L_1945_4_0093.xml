@@ -6,7 +6,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Geen</Key>
-      <Text>, C, Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +51,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Genders</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +344,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilderdale</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H.</Forenames>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,8 +416,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>I. St</Forenames>
-      <Text>. C. H</Text>
+      <Forenames>I. St. C</Forenames>
+      <Text>. H</Text>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +481,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +962,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>4847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooder</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2238,7 +2238,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>

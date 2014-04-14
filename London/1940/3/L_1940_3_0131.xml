@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattison</Key>
-      <Text>. E. R</Text>
+      <Forenames>E. R .</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. M. H</Text>
+      <Forenames>M. H .</Forenames>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stannard</Key>
-      <Text>. I. M</Text>
+      <Forenames>I. M.</Forenames>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,6 +758,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Gelder</Key>
+      <Forenames>N. R.</Forenames>
+      <PageNumber>5497</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vance</Key>
       <Forenames>C.</Forenames>
       <PageNumber>4371</PageNumber>
@@ -859,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wherry</Key>
-      <Text>. M. E. K</Text>
+      <Forenames>M. E. K.</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Workman</Key>
-      <Text>. S. D</Text>
+      <Forenames>S. D.</Forenames>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,11 +998,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Darling, Capt. William Young, C.B.E., M.C</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Gibson, Bt. Col. George, . T.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4529</PageNumber>
     </SubItem>
     <SubItem>
@@ -1014,12 +1026,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanark</Key>
-      <Text>: Carmichael-Anstruther, Sir Windham Eric Francis, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>4017</PageNumber>
+        <Honour>C.B.E</Honour>
       </Text>
       <PageNumber>4017</PageNumber>
     </SubItem>
@@ -1039,6 +1054,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>4809</PageNumber>
       </Text>
       <PageNumber>4809</PageNumber>
@@ -1047,7 +1064,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Peebles</Key>
-      <Text>: H. N. Mitchell 57M Surrey: Hacking, Capt. The Rt. Hon. Sir Douglas Hewitt, Bt., P.C., O.B.E., M.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>4177</PageNumber>
     </MainItem>
     <SubItem>
@@ -1199,7 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>.R.B., cancelling of registry notice</Text>
+      <Forenames>R.B.</Forenames>
+      <Text>, cancelling of registry notice</Text>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>

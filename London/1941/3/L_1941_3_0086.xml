@@ -480,8 +480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robin</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +578,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>B. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
     <SubItem>
@@ -1344,8 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rootham</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>4056</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -114,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huggett</Key>
-      <Text>B, A</Text>
+      <Forenames>B</Forenames>
+      <Text>, A</Text>
       <PageNumber>2347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(152012)</Text>
+      <Title>(152012)</Title>
       <PageNumber>2663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(195093)</Text>
+      <Title>(195093)</Title>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +376,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(185641)</Text>
+      <Title>(185641)</Title>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +385,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(188262)</Text>
+      <Title>(188262)</Title>
       <PageNumber>2790</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
@@ -614,7 +615,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>W.</Text>
+      <Text>W</Text>
       <PageNumber>2346</PageNumber>
     </SubItem>
   </ItemGroup>

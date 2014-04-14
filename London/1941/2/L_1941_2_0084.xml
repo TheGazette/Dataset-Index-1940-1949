@@ -667,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roskell</Key>
-      <Text>. R. N</Text>
+      <Forenames>R. N</Forenames>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +675,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruddin</Key>
-      <Text>. E. C</Text>
+      <Forenames>E. C</Forenames>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,8 +1756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>

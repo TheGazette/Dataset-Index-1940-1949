@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Smith</Key>
-      <Text>,' R. A</Text>
+      <Text>' R. A</Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger</Key>
-      <Text>,' S</Text>
+      <Text>' S</Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +390,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J' E</Text>
+      <Forenames>J</Forenames>
+      <Text>' E</Text>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grantham-Hill</Key>
-      <Text>, }.}</Text>
+      <Text>}.}</Text>
       <PageNumber>2554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +495,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: M. ... '</Text>
+      <Forenames>J</Forenames>
+      <Text>: M. ... '</Text>
       <PageNumber>2612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. A. A. R</Text>
+      <Forenames>A. A. R.</Forenames>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +632,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>K: M</Text>
+      <Forenames>K</Forenames>
+      <Text>: M</Text>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +652,8 @@
       <Key>
         <KeyDitto>___ ___ ——'</KeyDitto>
       </Key>
-      <Text>S: A</Text>
+      <Forenames>S</Forenames>
+      <Text>: A</Text>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grbbler</Key>
-      <Text>, LP</Text>
+      <Text>LP</Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grosso</Key>
-      <Text>. F. W:</Text>
+      <Forenames>F. W</Forenames>
+      <Text>:</Text>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwynedd</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>1764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1305,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>F.H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallifax</Key>
-      <Text>,A. W</Text>
+      <Text>A. W</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harner</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton-Dalrymple</Key>
-      <Text>, 'J. D.i .*; ' ./.,</Text>
+      <Text>'J. D.i .*; ' ./.,</Text>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamleri-Williams</Key>
-      <Text>,' T. R. -,</Text>
+      <Text>' T. R. -,</Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,7 +1681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>, M:C. , '</Text>
+      <Forenames>M</Forenames>
+      <Text>:C. , '</Text>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,7 +2028,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>V7 ___ R. A</Text>
+      <Forenames>V</Forenames>
+      <Text>7 ___ R. A</Text>
       <PageNumber>1972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2059,7 +2068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>. D. W</Text>
+      <Forenames>D. W.</Forenames>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2078,7 +2087,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S -</Text>
+      <Forenames>S</Forenames>
+      <Text>-</Text>
       <PageNumber>2876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2159,7 +2169,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I_L j</Text>
+      <Forenames>I</Forenames>
+      <Text>_L j</Text>
       <PageNumber>1949</PageNumber>
       <PageNumber>2167</PageNumber>
     </MainItem>
@@ -2233,7 +2244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrop</Key>
-      <Text>,A. B. . .:</Text>
+      <Text>A. B. . .:</Text>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2303,7 +2314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartington</Key>
-      <Text>, Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2319,7 +2331,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J; N. .:. '..:</Text>
+      <Forenames>J</Forenames>
+      <Text>; N. .:. '..:</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2350,7 +2363,9 @@
     <MainItem>
       <Key>Hartwell</Key>
       <Forenames>W. C. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2471,7 +2486,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M, .;</Text>
+      <Forenames>M</Forenames>
+      <Text>, .;</Text>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>

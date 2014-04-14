@@ -177,7 +177,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +907,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, F. ..;</Text>
+      <Forenames>J</Forenames>
+      <Text>, F. ..;</Text>
       <PageNumber>6157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,14 +1232,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutter</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C .</Forenames>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cyster</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,7 +1571,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C: C</Text>
+      <Forenames>C</Forenames>
+      <Text>: C</Text>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1839,8 @@
       <Key>
         <KeyDitto>—___ ___ ___</KeyDitto>
       </Key>
-      <Text>W „</Text>
+      <Forenames>W</Forenames>
+      <Text>„</Text>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2177,7 +2180,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F: P</Text>
+      <Forenames>F</Forenames>
+      <Text>: P</Text>
       <PageNumber>5591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2308,6 +2312,27 @@
       <Forenames>W. G.</Forenames>
       <PageNumber>5424</PageNumber>
       <PageNumber>5919</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boltz</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>5935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcier</Key>
+      <Forenames>L. O.</Forenames>
+      <PageNumber>4698</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>N. E.</Forenames>
+      <PageNumber>5305</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

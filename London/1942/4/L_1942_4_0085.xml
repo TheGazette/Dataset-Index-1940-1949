@@ -333,7 +333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacAulay</Key>
-      <Text>D\</Text>
+      <Forenames>D</Forenames>
+      <Text>\</Text>
       <PageNumber>4831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwan</Key>
-      <Text>W:</Text>
+      <Forenames>W</Forenames>
+      <Text>:</Text>
       <PageNumber>4503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne-Watson</Key>
-      <Text>D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Text>G; ,S</Text>
+      <Forenames>G</Forenames>
+      <Text>; ,S</Text>
       <PageNumber>4503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,8 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morehouse</Key>
-      <Forenames>D.</Forenames>
-      <Text>de F</Text>
+      <Forenames>D. de F</Forenames>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mott</Key>
-      <Text>J. R</Text>
+      <Forenames>J. R.</Forenames>
       <PageNumber>4290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,8 +1529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Forenames>L. H. V. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>L. H. V. St. D</Forenames>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,8 +1579,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T.</Forenames>
       <PageNumber>4714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,8 +1595,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. De C, Corr</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. De C</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>4504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,8 +1684,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, A. C</Text>
+      <Key>O'Shea</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>4503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,7 +1764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2196,8 +2198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>I. T. St</Forenames>
-      <Text>. C. ;</Text>
+      <Forenames>I. T. St. C</Forenames>
+      <Text>. ;</Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -491,8 +491,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>1478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnell</Key>
-      <Text>C. H. M</Text>
+      <Forenames>C. H. M.</Forenames>
       <PageNumber>1477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Askew</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +735,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Asquith</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,14 +756,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Aston</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atack</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +786,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B F</Text>
+      <Forenames>B</Forenames>
+      <Text>F</Text>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atlas</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballard</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,7 +1596,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1742,7 +1743,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2254,7 +2257,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton-Chappie</Key>
-      <Text>,</Text>
       <PageNumber>1427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2314,7 +2316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batch</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2381,7 +2383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2553,7 +2555,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>

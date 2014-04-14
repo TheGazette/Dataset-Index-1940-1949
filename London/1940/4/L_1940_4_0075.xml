@@ -95,8 +95,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de G. V. C</Text>
+      <Forenames>P. de G</Forenames>
+      <Text>. V. C</Text>
       <PageNumber>6618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. A. (R.A.M.C.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weatherbee</Key>
-      <Text>. DA</Text>
+      <Text>DA</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiskard</Key>
-      <Text>. R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>6621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1788,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>

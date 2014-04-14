@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mani</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moxon</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nathan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,8 +418,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V.</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +441,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gilvy, W. T</Text>
+      <Key>O'Gilvy</Key>
+      <Forenames>W. T.</Forenames>
       <PageNumber>2441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,8 +456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Title>St.</Title>
-      <Forenames>J. L.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L.</Forenames>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pells</Key>
-      <Text>, H de M., Sub. not</Text>
+      <Forenames>H</Forenames>
+      <Text>de M., Sub. not</Text>
       <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plomer</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raff</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +976,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger, G. R</Text>
+      <Key>St. Leger</Key>
+      <Forenames>G. R .</Forenames>
       <PageNumber>1629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>San</Key>
-      <Forenames>Yee</Forenames>
+      <Title>Yee .</Title>
       <PageNumber>2349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1107,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>, T&gt;. B</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. B</Text>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Silcock</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1807,7 +1809,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westby</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,7 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1865,14 +1867,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wight</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willasey-Wilsey</Key>
-      <Text>, F: H. '</Text>
+      <Forenames>F</Forenames>
+      <Text>: H. '</Text>
       <PageNumber>1629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1946,7 +1949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>, D, F. R. Sub. not</Text>
+      <Forenames>D</Forenames>
+      <Text>, F. R. Sub. not</Text>
       <PageNumber>2952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2094,7 +2098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Regrading</Key>
-      <Text>, notice</Text>
+      <Text>notice</Text>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>

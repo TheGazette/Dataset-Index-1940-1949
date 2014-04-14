@@ -168,7 +168,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T&gt;. E</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. E</Text>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>, -A. L</Text>
+      <Text>-A. L</Text>
       <PageNumber>416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +553,7 @@
       <Key>
         <KeyDitto>___ ..].</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +697,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinder</Key>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>, JH</Text>
+      <Text>JH</Text>
       <PageNumber>1001</PageNumber>
       <PageNumber>1386</PageNumber>
     </MainItem>
@@ -1229,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirker</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchen</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1463,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1481,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1787,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Knock</Key>
-      <Text>,</Text>
       <PageNumber>413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1826,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,7 +1844,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1862,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2229,7 +2231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laird-MacGregor</Key>
-      <Text>, R T. L</Text>
+      <Forenames>R</Forenames>
+      <Text>T. L</Text>
       <PageNumber>1278</PageNumber>
     </MainItem>
   </ItemGroup>

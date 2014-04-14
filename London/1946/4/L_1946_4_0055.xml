@@ -263,7 +263,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. G.</Forenames>
-      <Text>(K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,8 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tisdali</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolliday</Key>
-      <Text>,C. R</Text>
+      <Text>C. R</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toothill</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tough</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Touma</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Troops</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1449,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1535,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turney</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1769,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Udaipur</Key>
-      <Text>(Mewar), Maharana of</Text>
+      <Title>(Mewar)</Title>
+      <Text>, Maharana of</Text>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1923,7 +1927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vale</Key>
-      <Text>, j. D</Text>
+      <Text>j. D</Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1965,7 +1969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valinder</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,63 +1989,61 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Aardt</Forenames>
-      <Text>, L</Text>
+      <Key>Van Aardt</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Linde, P. A. M</Text>
+      <Forenames>de Linde</Forenames>
+      <Text>, P. A. M</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Rydt, C. N</Text>
+      <Forenames>de Rydt</Forenames>
+      <Text>, C. N</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gaast</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gaast</Forenames>
       <Text>, T</Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Weshuisen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Weshuisen</Forenames>
       <Text>, J. H</Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Essen</Forenames>
-      <Text>, W. M</Text>
+      <Key>Van Essen</Key>
+      <Forenames>W. M.</Forenames>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Jaarsveldt</Forenames>
-      <Text>, C. J</Text>
+      <Key>Van Jaarsveldt</Key>
+      <Forenames>C. J.</Forenames>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Peborg</Forenames>
-      <Text>, A. J. M</Text>
+      <Key>Van Peborg</Key>
+      <Forenames>A. J. M.</Forenames>
       <PageNumber>5257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2158,7 +2160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veasey</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2315,8 +2317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>H. O'D</Forenames>
       <PageNumber>5255</PageNumber>
     </MainItem>
   </ItemGroup>

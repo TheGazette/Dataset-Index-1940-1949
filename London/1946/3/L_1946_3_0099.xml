@@ -40,7 +40,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +194,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagger</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +271,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4619</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -398,14 +398,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamie</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffcott</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +584,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E J</Text>
+      <Forenames>E</Forenames>
+      <Text>J</Text>
       <PageNumber>3722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kempner</Key>
-      <Text>D A</Text>
+      <Forenames>D</Forenames>
+      <Text>A</Text>
       <PageNumber>434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennair</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +971,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kersh</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsland</Key>
-      <Text>J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkham</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,7 +1317,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,8 +1744,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Lanigan-O</Key>
-      <Text>'Keefe, F. M</Text>
+      <Key>Lanigan-O'Keefe</Key>
+      <Forenames>F. M.</Forenames>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>

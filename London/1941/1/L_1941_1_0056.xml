@@ -488,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1317,9 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>II. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butlin</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F</Forenames>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1922,14 +1924,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Byatt</Key>
-      <Text>G. P</Text>
+      <Forenames>G. P</Forenames>
       <PageNumber>814</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bye</Key>
-      <Text>R. E J42i Byford. H. E</Text>
+      <Forenames>R. E</Forenames>
+      <Text>J42i Byford. H. E</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,14 +1955,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bynoe</Key>
-      <Text>R. W. E</Text>
+      <Forenames>R. W. E</Forenames>
       <PageNumber>1139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byrde</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2050,7 +2053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caesar</Key>
-      <Text>H. D</Text>
+      <Forenames>H. D</Forenames>
       <PageNumber>247</PageNumber>
     </MainItem>
   </ItemGroup>

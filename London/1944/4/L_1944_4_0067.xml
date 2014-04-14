@@ -363,14 +363,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillen</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5937</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>5138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghbbery</Key>
-      <Text>, .P. H</Text>
+      <Text>.P. H</Text>
       <PageNumber>5786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,9 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of. Earl of Ulster</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of. Earl of Ulster</Text>
       <PageNumber>4907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowans</Key>
-      <Text>, &lt;H. M</Text>
+      <Text>&lt;H. M</Text>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goymour</Key>
-      <Text>, IP. A</Text>
+      <Text>IP. A</Text>
       <PageNumber>4847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1262,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,14 +1705,15 @@
       <Key>
         <KeyDitto>—— ___</KeyDitto>
       </Key>
-      <Text>R G</Text>
+      <Forenames>R</Forenames>
+      <Text>G</Text>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>,' A. V.'</Text>
+      <Text>' A. V.'</Text>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,8 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimshaw</Key>
-      <Forenames>N. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>N. O'D</Forenames>
       <PageNumber>5378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,7 +1948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,7 +1971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grundy</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1993,7 +1992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2031,7 +2030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gundry</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2090,7 +2089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>, N W</Text>
+      <Forenames>N</Forenames>
+      <Text>W</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2132,7 +2132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacking</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2146,14 +2146,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadden</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hagan</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2167,7 +2167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haggis</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,7 +2188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>

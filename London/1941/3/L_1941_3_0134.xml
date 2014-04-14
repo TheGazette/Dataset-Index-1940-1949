@@ -239,8 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blum</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. E. de M</Forenames>
       <PageNumber>4126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1066,9 @@
       <Key>Boulton</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>

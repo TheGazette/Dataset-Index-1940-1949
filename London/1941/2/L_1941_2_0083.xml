@@ -571,8 +571,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>B. O'C</Forenames>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1007,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,8 +1240,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1430,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>

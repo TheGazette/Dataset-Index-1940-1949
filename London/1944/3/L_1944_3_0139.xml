@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterton</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>A. D ,</Text>
+      <Forenames>A. D</Forenames>
+      <Text>,</Text>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>

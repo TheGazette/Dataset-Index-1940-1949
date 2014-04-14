@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Clara</Forenames>
+      <Title>Clara .</Title>
       <PageNumber>2093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wulfi</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yahiel</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zerny</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finklestone</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wedgwood</Key>
-      <Forenames>Shoe Repair Co</Forenames>
+      <Forenames>Shoe Repair</Forenames>
+      <Text>Co</Text>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,21 +517,24 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>Gordon Shore &amp; Co</Text>
+      <Forenames>Gordon Shore</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>Levy &amp; Son</Text>
+      <Forenames>Levy</Forenames>
+      <Text>&amp; Son</Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>Rudd (T. &amp; -R.)</Text>
+      <Forenames>Rudd</Forenames>
+      <Text>(T. &amp; -R.)</Text>
       <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +627,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldersgate</Key>
-      <Forenames>Radio</Forenames>
+      <Title>Radio .</Title>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleby</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +770,6 @@
       <Key>Ashton</Key>
       <Text>&amp; Pemberton</Text>
       <PageNumber>1734</PageNumber>
-      <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -797,8 +800,6 @@
       <Forenames>H. A.</Forenames>
       <PageNumber>1841</PageNumber>
       <PageNumber>1897</PageNumber>
-      <PageNumber>2106</PageNumber>
-      <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -836,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>Cressington</Text>
+      <Forenames>Cressington</Forenames>
       <PageNumber>2277</PageNumber>
       <PageNumber>2693</PageNumber>
     </MainItem>
@@ -927,7 +928,6 @@
       <PageNumber>2163</PageNumber>
       <PageNumber>2163</PageNumber>
       <PageNumber>2277</PageNumber>
-      <PageNumber>2850</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -978,7 +978,6 @@
       <Key>Barnes</Key>
       <Forenames>C. W. H.</Forenames>
       <PageNumber>2416</PageNumber>
-      <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1048,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beardsall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1735</PageNumber>
       <PageNumber>2223</PageNumber>
     </MainItem>
@@ -1080,7 +1079,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H H</Text>
+      <Forenames>H</Forenames>
+      <Text>H</Text>
       <PageNumber>1543</PageNumber>
       <PageNumber>2468</PageNumber>
     </MainItem>
@@ -1114,7 +1114,6 @@
       <Key>Benjamin</Key>
       <Forenames>M. G.</Forenames>
       <PageNumber>2691</PageNumber>
-      <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1133,7 +1132,6 @@
       <Forenames>W. G.</Forenames>
       <PageNumber>2219</PageNumber>
       <PageNumber>2219</PageNumber>
-      <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1309,8 +1307,6 @@
       <Forenames>W. T.</Forenames>
       <PageNumber>1843</PageNumber>
       <PageNumber>1843</PageNumber>
-      <PageNumber>2277</PageNumber>
-      <PageNumber>2277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1319,7 +1315,6 @@
       <Forenames>C. F.</Forenames>
       <Text>(C.)</Text>
       <PageNumber>1792</PageNumber>
-      <PageNumber>1898</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1342,8 +1337,6 @@
       <Forenames>J.</Forenames>
       <PageNumber>2275</PageNumber>
       <PageNumber>2275</PageNumber>
-      <PageNumber>2467</PageNumber>
-      <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1371,7 +1364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bluestone</Key>
-      <Text>M. (R. M.)</Text>
+      <Forenames>M.</Forenames>
+      <Text>(R. M.)</Text>
       <PageNumber>2796</PageNumber>
       <PageNumber>2796</PageNumber>
       <PageNumber>2848</PageNumber>
@@ -1439,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bright</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,7 +1523,6 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. C. W.</Forenames>
-      <PageNumber>2691</PageNumber>
       <PageNumber>2691</PageNumber>
       <PageNumber>2691</PageNumber>
     </MainItem>
@@ -1581,7 +1574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>B. F. C</Text>
+      <Forenames>B. F. C.</Forenames>
       <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1583,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,8 +1759,6 @@
       <Forenames>S. A.</Forenames>
       <PageNumber>1841</PageNumber>
       <PageNumber>1841</PageNumber>
-      <PageNumber>1897</PageNumber>
-      <PageNumber>2469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1788,28 +1779,31 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>H. Brand &amp; Co</Text>
+      <Forenames>H. Brand</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>Sole &amp; Sons</Text>
+      <Forenames>Sole</Forenames>
+      <Text>&amp; Sons</Text>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>W. Pamplin &amp; Son</Text>
+      <Forenames>W. Pamplin</Forenames>
+      <Text>&amp; Son</Text>
       <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>Wilmott</Text>
+      <Title>Wilmott .</Title>
       <PageNumber>2223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,7 +1876,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W _&amp; Son</Text>
+      <Forenames>W</Forenames>
+      <Text>_&amp; Son</Text>
       <PageNumber>1542</PageNumber>
       <PageNumber>1579</PageNumber>
     </MainItem>
@@ -1937,7 +1932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Catterall</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1951,14 +1946,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Central</Key>
-      <Forenames>Radio</Forenames>
+      <Title>Radio .</Title>
       <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Central</Key>
-      <Forenames>Supplies</Forenames>
+      <Title>Supplies .</Title>
       <PageNumber>2741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2010,7 +2005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,7 +2015,6 @@
       <Forenames>H.</Forenames>
       <Text>, Jnr</Text>
       <PageNumber>2322</PageNumber>
-      <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2075,7 +2069,6 @@
       <Forenames>B. H.</Forenames>
       <PageNumber>1687</PageNumber>
       <PageNumber>2162</PageNumber>
-      <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2176,8 +2169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Title>St.</Title>
-      <Forenames>J. L.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L.</Forenames>
       <Text>(R.O., L. Clowes)</Text>
       <PageNumber>1580</PageNumber>
     </MainItem>
@@ -2264,7 +2257,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S:</Text>
+      <Forenames>S</Forenames>
+      <Text>:</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2276,8 +2270,11 @@
       <Forenames>W. M.</Forenames>
       <PageNumber>1897</PageNumber>
       <PageNumber>1951</PageNumber>
-      <PageNumber>1952</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>,</Text>
+      <PageNumber>1952</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

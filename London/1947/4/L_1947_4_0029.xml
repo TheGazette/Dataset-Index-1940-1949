@@ -91,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkcs</Key>
-      <Text>L. V.. C</Text>
+      <Forenames>L. V.</Forenames>
+      <Text>. C</Text>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haycraft</Key>
-      <Text>C: J.C</Text>
+      <Forenames>C</Forenames>
+      <Text>: J.C</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +167,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>L ___ 1. A</Text>
+      <Forenames>L</Forenames>
+      <Text>___ 1. A</Text>
       <PageNumber>6130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +204,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J K</Text>
+      <Forenames>J</Forenames>
+      <Text>K</Text>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaps</Key>
-      <Text>R: B. ' —</Text>
+      <Forenames>R</Forenames>
+      <Text>: B. ' —</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heelis</Key>
-      <Text>L: H</Text>
+      <Forenames>L</Forenames>
+      <Text>: H</Text>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,21 +459,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Heggs</Key>
-      <Text>H. St. J;</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>;</Text>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heilpern</Key>
-      <Text>'E..CH..' .!6l</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heldt</Key>
-      <Text>H: R. ,</Text>
+      <Forenames>H</Forenames>
+      <Text>: R. ,</Text>
       <PageNumber>5806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson-Begg</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,8 +706,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henzell-Ascrqft</Key>
-      <Forenames>Fi</Forenames>
-      <Text>.N: W. ' '' . ' 5639 Hepburn, K</Text>
+      <Title>Fi.</Title>
+      <Forenames>N</Forenames>
+      <Text>: W. ' '' . ' 5639 Hepburn, K</Text>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1903,8 +1914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hpoley</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>,</Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
@@ -1931,7 +1942,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J B</Text>
+      <Forenames>J</Forenames>
+      <Text>B</Text>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2148,7 +2160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hossain</Key>
-      <Text>S:A</Text>
+      <Forenames>S</Forenames>
+      <Text>:A</Text>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2221,7 +2234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard-Harwood</Key>
-      <Text>P: G</Text>
+      <Forenames>P</Forenames>
+      <Text>: G</Text>
       <PageNumber>5413</PageNumber>
     </MainItem>
   </ItemGroup>

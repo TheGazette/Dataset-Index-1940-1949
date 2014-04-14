@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Upson</Key>
-      <Text>,T. W</Text>
+      <Text>T. W</Text>
       <PageNumber>5380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Var</Key>
-      <Text>.Der Goot, D. N</Text>
+      <Forenames>Der Goot</Forenames>
+      <Text>, D. N</Text>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>. Veen, G. T. E. M</Text>
+      <Forenames>Veen</Forenames>
+      <Text>, G. T. E. M</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verity</Key>
-      <Text>, .S. H</Text>
+      <Text>.S. H</Text>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verrinder</Key>
-      <Text>, T:-,E</Text>
+      <Forenames>T</Forenames>
+      <Text>:-,E</Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,14 +504,15 @@
       <Key>
         <KeyDitto>-—___ ___</KeyDitto>
       </Key>
-      <Text>I). W. P</Text>
+      <Forenames>I</Forenames>
+      <Text>). W. P</Text>
       <PageNumber>5786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Voelcker</Key>
-      <Text>., J. W</Text>
+      <Text>, J. W</Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +904,8 @@
       <Key>
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
-      <Text>J W</Text>
+      <Forenames>J</Forenames>
+      <Text>W</Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +979,8 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>R N</Text>
+      <Forenames>R</Forenames>
+      <Text>N</Text>
       <PageNumber>5675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1178,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1578,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>(R.A P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1883,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>T: A. ... -</Text>
+      <Forenames>T</Forenames>
+      <Text>: A. ... -</Text>
       <PageNumber>4735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2317,8 +2327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchinan</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. de V</Forenames>
       <PageNumber>5498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2509,7 +2518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westoby</Key>
-      <Text>, CD. ;</Text>
+      <Text>CD. ;</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2556,7 +2565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whalley</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>

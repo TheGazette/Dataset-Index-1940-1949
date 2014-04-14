@@ -18,14 +18,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McMillan</Key>
-      <Text>, a: '</Text>
+      <Text>a: '</Text>
       <PageNumber>1026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacMiilan</Key>
-      <Text>, £&gt;. ;.-</Text>
+      <Text>£&gt;. ;.-</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMorran</Key>
-      <Text>, J, P. , 53i McMurtrie, D. G. S</Text>
+      <Forenames>J</Forenames>
+      <Text>, P. , 53i McMurtrie, D. G. S</Text>
       <PageNumber>099</PageNumber>
     </MainItem>
     <SubItem>
@@ -266,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maling</Key>
-      <Text>,P. B. .;</Text>
+      <Text>P. B. .;</Text>
       <PageNumber>159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallon</Key>
-      <Text>,' E. J</Text>
+      <Text>' E. J</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,8 +390,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Da</Forenames>
-      <Text>. j:</Text>
+      <Title>Da.</Title>
+      <Text>j:</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsden</Key>
-      <Text>, A:</Text>
+      <Forenames>A</Forenames>
+      <Text>:</Text>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +797,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall-Cornwall</Key>
-      <Text>,</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall-Hughes</Key>
-      <Text>, ,</Text>
+      <Text>,</Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +848,9 @@
         <KeyDitto>___ ___ ',.!</KeyDitto>
       </Key>
       <Forenames>A. J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mattingly</Key>
-      <Text>, RW. .. Mattocks, G. R. ,. ' 97° Maughan, J.L</Text>
+      <Text>RW. .. Mattocks, G. R. ,. ' 97° Maughan, J.L</Text>
       <PageNumber>1125</PageNumber>
     </MainItem>
   </ItemGroup>

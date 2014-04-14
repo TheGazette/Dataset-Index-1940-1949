@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNair</Key>
-      <Text>. D. C</Text>
+      <Forenames>D. C.</Forenames>
       <PageNumber>2809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +433,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>N. J. de V</Forenames>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moran</Key>
-      <Text>. E. P. J</Text>
+      <Forenames>E. P. J.</Forenames>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,8 +1372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichols</Key>
-      <Forenames>J. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. W. de L</Forenames>
       <PageNumber>2742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,8 +1514,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>3094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,15 +1530,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Caffrey, P. M. C</Text>
+      <Key>O'Caffrey</Key>
+      <Forenames>P. M. C .</Forenames>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, TA</Text>
+      <Key>O'Callaghan</Key>
+      <Text>TA</Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,8 +1551,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Friel, A. ]</Text>
+      <Key>O'Friel</Key>
+      <Forenames>A.</Forenames>
+      <Text>]</Text>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,15 +1574,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, R</Text>
+      <Key>O'Kane</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>2443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe-Wilson, E. C. Oley, F. W</Text>
+      <Key>O'Keefe-Wilson</Key>
+      <Forenames>E. C. Oley</Forenames>
+      <Text>, F. W</Text>
       <PageNumber>1958</PageNumber>
       <PageNumber>2444</PageNumber>
     </MainItem>
@@ -1629,8 +1629,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, B. C H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>B. C</Forenames>
+      <Text>H</Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>

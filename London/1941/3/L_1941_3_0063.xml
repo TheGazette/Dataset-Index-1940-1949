@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldfinch</Key>
-      <Text>. E. W</Text>
+      <Forenames>E. W.</Forenames>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,7 @@
       <Key>
         <KeyDitto>___ ___ -—-</KeyDitto>
       </Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +792,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>(R.A.P.C.) .:</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5090</PageNumber>
     </MainItem>
   </ItemGroup>

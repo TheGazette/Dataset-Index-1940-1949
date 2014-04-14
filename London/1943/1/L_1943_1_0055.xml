@@ -186,7 +186,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>S; (R.R.A.)</Text>
+      <Forenames>S</Forenames>
+      <Text>; (R.R.A.)</Text>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridger</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgett</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R: B</Text>
+      <Forenames>R</Forenames>
+      <Text>: B</Text>
       <PageNumber>1124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,8 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brogan</Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. S</Text>
+      <Forenames>W. G. St. S</Forenames>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookman</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1248,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1262,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1272,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(RE.)</Text>
+      <Title>(RE.)</Title>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1357,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(E.R.E;)</Text>
+      <Title>(E.R.E;)</Title>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1366,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R.A.S.C.)</Text>
+      <Title>(R.A.S.C.)</Title>
       <PageNumber>326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1375,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R.W. Fus.),</Text>
+      <Title>(R.W. Fus.)</Title>
+      <Text>,</Text>
       <PageNumber>481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1391,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(R.H.G.)</Text>
+      <Title>(R.H.G.)</Title>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,7 +1400,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(R.R.A.)</Text>
+      <Title>(R.R.A.)</Title>
       <PageNumber>482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulwer</Key>
-      <Text>. P. M</Text>
+      <Forenames>P. M.</Forenames>
       <PageNumber>969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>264</PageNumber>
     </MainItem>
   </ItemGroup>

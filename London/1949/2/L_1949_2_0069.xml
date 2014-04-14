@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillipps</Key>
-      <Text>,. E. M</Text>
+      <Text>. E. M</Text>
       <PageNumber>2673</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitts</Key>
-      <Text>, :D. R</Text>
+      <Text>:D. R</Text>
       <PageNumber>2672</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piatt</Key>
-      <Text>,..AV M</Text>
+      <Text>..AV M</Text>
       <PageNumber>2673</PageNumber>
       <PageNumber>2677</PageNumber>
     </MainItem>
@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendall</Key>
-      <Text>,,J. , :</Text>
+      <Text>,J. , :</Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>,' E.' M.N:</Text>
+      <Text>' E.' M.N:</Text>
       <PageNumber>2840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riggs</Key>
-      <Text>,: M.. A</Text>
+      <Text>: M.. A</Text>
       <PageNumber>2671</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -193,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>,.M M</Text>
+      <Text>.M M</Text>
       <PageNumber>2675</PageNumber>
       <PageNumber>2679</PageNumber>
     </MainItem>
@@ -201,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, . M. F. , ,</Text>
+      <Text>. M. F. , ,</Text>
       <PageNumber>3043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford-Jones</Key>
-      <Text>, M: '</Text>
+      <Forenames>M</Forenames>
+      <Text>: '</Text>
       <PageNumber>1710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Segger</Key>
-      <Text>, W;M.'</Text>
+      <Forenames>W</Forenames>
+      <Text>;M.'</Text>
       <PageNumber>2671</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -307,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharkey</Key>
-      <Text>, V: H..M.V</Text>
+      <Forenames>V</Forenames>
+      <Text>: H..M.V</Text>
       <PageNumber>2672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steinfurth</Key>
-      <Text>, 'O. R</Text>
+      <Text>'O. R</Text>
       <PageNumber>2672</PageNumber>
       <PageNumber>2677</PageNumber>
     </MainItem>
@@ -405,7 +408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steuart</Key>
-      <Text>, .B. .,M,</Text>
+      <Text>.B. .,M,</Text>
       <PageNumber>2672</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -421,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockings</Key>
-      <Text>,/N. E/</Text>
+      <Text>/N. E/</Text>
       <PageNumber>2672</PageNumber>
       <PageNumber>2677</PageNumber>
     </MainItem>
@@ -429,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturge</Key>
-      <Text>,, M. ,M.„ 2672</Text>
+      <Text>, M. ,M.„ 2672</Text>
       <PageNumber>2678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +466,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2671</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -483,21 +486,23 @@
       <Key>
         <KeyDitto>___ *— ___</KeyDitto>
       </Key>
-      <Text>V:E:,..; -2675&gt;2679 .Thompson, W.-.B. ,/ :</Text>
+      <Forenames>V</Forenames>
+      <Text>:E:,..; -2675&gt;2679 .Thompson, W.-.B. ,/ :</Text>
       <PageNumber>1710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorlby</Key>
-      <Text>,' CM</Text>
+      <Text>' CM</Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tbop</Key>
-      <Text>, M:,E</Text>
+      <Forenames>M</Forenames>
+      <Text>:,E</Text>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twaites</Key>
-      <Text>,.H. K</Text>
+      <Text>.H. K</Text>
       <PageNumber>2933</PageNumber>
       <PageNumber>2937</PageNumber>
     </MainItem>
@@ -552,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddington-Watts</Key>
-      <Text>, 'D</Text>
+      <Text>'D</Text>
       <PageNumber>2546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>,-S.M;'</Text>
+      <Text>-S.M;'</Text>
       <PageNumber>2671</PageNumber>
       <PageNumber>2678</PageNumber>
     </MainItem>
@@ -592,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>,' C. -E.,</Text>
+      <Text>' C. -E.,</Text>
       <PageNumber>2672</PageNumber>
       <PageNumber>2677</PageNumber>
     </MainItem>
@@ -646,7 +651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>,. D</Text>
+      <Text>. D</Text>
       <PageNumber>3043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>, R;; advertisement for .. information. re sons'</Text>
+      <Forenames>R</Forenames>
+      <Text>;; advertisement for .. information. re sons'</Text>
       <PageNumber>1867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bitton</Key>
-      <Text>.with Oldlands Allots , -ment Society, cancelling : of registry... :.«.'</Text>
+      <Text>with Oldlands Allots , -ment Society, cancelling : of registry... :.«.'</Text>
       <PageNumber>1908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Credit</Key>
-      <Text>. for 'Industry, exemption . .* from ' Moneylenders Acts '</Text>
+      <Text>for 'Industry, exemption . .* from ' Moneylenders Acts '</Text>
       <PageNumber>2369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastern</Key>
-      <Text>., BengalRailway Company, notice</Text>
+      <Text>, BengalRailway Company, notice</Text>
       <PageNumber>2308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,14 +1111,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Enfield</Key>
-      <Text>.Clock. .Sick , and Benefit. Friendly, Society, dissolution' '</Text>
+      <Title>Clock.</Title>
+      <Text>.Sick , and Benefit. Friendly, Society, dissolution' '</Text>
       <PageNumber>2243</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, ;C, inquiry</Text>
+      <Text>;C, inquiry</Text>
       <PageNumber>2368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>, ,J. S., notices ,, , &gt;-&gt;7</Text>
+      <Text>,J. S., notices ,, , &gt;-&gt;7</Text>
       <PageNumber>2440</PageNumber>
       <PageNumber>2440</PageNumber>
     </MainItem>

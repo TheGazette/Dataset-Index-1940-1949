@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storm</Key>
-      <Text>. S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart-Fox</Key>
-      <Text>. D</Text>
+      <Forenames>D .</Forenames>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,8 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. B. de S</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,7 +2095,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4929</PageNumber>
     </MainItem>
   </ItemGroup>

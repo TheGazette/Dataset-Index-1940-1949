@@ -295,7 +295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redmond-Lyon</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigo</Key>
-      <Text>de Righi, E. K. B</Text>
+      <Forenames>de Righi</Forenames>
+      <Text>, E. K. B</Text>
       <PageNumber>2698</PageNumber>
       <PageNumber>2927</PageNumber>
     </MainItem>
@@ -1145,7 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toole</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1223,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weiss</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windross</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Auction</Key>
-      <Forenames>The Redlands Stores</Forenames>
+      <Title>The</Title>
+      <Forenames>Redlands Stores</Forenames>
       <Text>, Farnham, property, goodwill, etc., Rogers v. Richardson</Text>
       <PageNumber>2151</PageNumber>
     </MainItem>

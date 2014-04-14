@@ -86,7 +86,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,8 +252,8 @@
   <KeyDitto>— ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Mor-O</Key>
-      <Text>'Brien, A. K</Text>
+      <Key>Mor-O'Brien</Key>
+      <Forenames>A. K.</Forenames>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>R: B</Text>
+      <Forenames>R</Forenames>
+      <Text>: B</Text>
       <PageNumber>3116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mound</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Munro</Key>
-      <Text>A; R. .. ,</Text>
+      <Forenames>A</Forenames>
+      <Text>; R. .. ,</Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +993,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newport</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newtown-Butler</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichbl</Key>
-      <Text>W. R. H</Text>
+      <Forenames>W. R. H.</Forenames>
       <PageNumber>3534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>R W. S</Text>
+      <Forenames>R</Forenames>
+      <Text>W. S</Text>
       <PageNumber>4330</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
@@ -1279,8 +1284,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, G</Text>
+      <Key>O'Dell</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>3489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,15 +1384,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>3116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,8 +1455,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, A. G</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>D. T</Text>
+      <Forenames>D. T.</Forenames>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Papworth</Key>
-      <Text>J. S</Text>
+      <Forenames>J. S.</Forenames>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1770,7 +1776,7 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2451,7 +2457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piatt</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2479,7 +2485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>

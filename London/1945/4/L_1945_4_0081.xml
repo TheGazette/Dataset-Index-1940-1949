@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorston</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +18,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +103,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S:J :::</Text>
+      <Forenames>S</Forenames>
+      <Text>:J :::</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +178,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L »</Text>
+      <Forenames>L</Forenames>
+      <Text>»</Text>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yoxall</Key>
-      <Text>. V. T</Text>
+      <Forenames>V. T.</Forenames>
       <PageNumber>6006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zora</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +611,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Text>. G. D</Text>
+      <Forenames>G. D.</Forenames>
       <PageNumber>6214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,7 +1530,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>L. P. F</Text>
+      <Text>L. P. F.</Text>
       <PageNumber>6216</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1548,14 +1552,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyre</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Facey</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullman</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1733,7 +1737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbard</Key>
-      <Text>,/B. C</Text>
+      <Text>/B. C</Text>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,7 +1917,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliwell</Key>
-      <Text>, K?</Text>
+      <Forenames>K</Forenames>
+      <Text>?</Text>
       <PageNumber>5406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,7 +2073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hembry</Key>
-      <Text>, j. U. C</Text>
+      <Text>j. U. C</Text>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2214,8 +2219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacquest</Key>
-      <Forenames>R.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. de M</Forenames>
       <PageNumber>5405</PageNumber>
     </MainItem>
   </ItemGroup>

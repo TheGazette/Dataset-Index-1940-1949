@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Masson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mears</Key>
-      <Forenames>P. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>P. O'M</Forenames>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mdllyard</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +544,9 @@
       <Key>Montagu-Pollock</Key>
       <Title>Sir</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +576,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moron</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>

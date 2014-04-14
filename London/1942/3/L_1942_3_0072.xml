@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCay</Key>
-      <Text>F: H</Text>
+      <Forenames>F</Forenames>
+      <Text>: H</Text>
       <PageNumber>3259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maples</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>J Morrison, T. C. McM</Text>
+      <Forenames>J</Forenames>
+      <Text>Morrison, T. C. McM</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,22 +258,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, A. H</Text>
+      <Key>O'Malley</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. D</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +367,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John Brooks, W</Text>
+      <Key>St. John</Key>
+      <Forenames>Brooks</Forenames>
+      <Text>, W</Text>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhead</Key>
-      <Text>L. S. F</Text>
+      <Forenames>L. S. F.</Forenames>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Learmont</Key>
-      <Text>P, H</Text>
+      <Forenames>P</Forenames>
+      <Text>, H</Text>
       <PageNumber>3367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nott</Key>
-      <Forenames>M. H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>M. H. St. L</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emirze</Key>
-      <Text>Toros Ketenjian</Text>
+      <Forenames>Toros Ketenjian</Forenames>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sun</Key>
-      <Forenames>Cho</Forenames>
+      <Title>Cho .</Title>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1035,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abels</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addihsell</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,7 +1696,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1875,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2136,7 +2139,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2403,9 +2406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amherst</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl</Text>
+      <Title>Rt. Hon. The Earl</Title>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>

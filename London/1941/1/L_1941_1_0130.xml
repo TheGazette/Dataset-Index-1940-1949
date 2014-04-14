@@ -194,8 +194,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. B.</Forenames>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Text>H. F</Text>
+      <Forenames>H. F.</Forenames>
       <PageNumber>1599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,8 +980,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Miller, H. C. E</Text>
+      <Key>St. Clair-Miller</Key>
+      <Forenames>H. C. E.</Forenames>
       <PageNumber>409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>V.C.G</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>

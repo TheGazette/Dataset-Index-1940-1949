@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Text>.J. T</Text>
+      <Forenames>J. T.</Forenames>
       <PageNumber>595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,14 +253,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Nobbs</Key>
-      <Text>, .F. H. T</Text>
+      <Text>.F. H. T</Text>
       <PageNumber>1243</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nockles</Key>
-      <Text>,. W.. E</Text>
+      <Text>. W.. E</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,15 +301,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, P. D</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>, . E. A</Text>
+      <Text>. E. A</Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>. P</Text>
+      <Forenames>P.</Forenames>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>. F. C</Text>
+      <Forenames>F. C.</Forenames>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>537</PageNumber>
     </MainItem>
     <SubItem>
@@ -1232,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>537</PageNumber>
     </MainItem>
     <SubItem>
@@ -1416,7 +1416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rossell</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushby</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryder</Key>
-      <Text>. A. F. R. D</Text>
+      <Forenames>A. F. R. D.</Forenames>
       <PageNumber>327</PageNumber>
     </MainItem>
     <SubItem>
@@ -1560,7 +1560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1243</PageNumber>
     </MainItem>
     <SubItem>
@@ -1715,7 +1715,9 @@
       <Key>Sharp</Key>
       <Title>Sir</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
     <SubItem>
@@ -1868,7 +1870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sims</Key>
-      <Text>. D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>1243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1879,9 @@
       <Key>Sinclair-Lockhart</Key>
       <Title>Sir</Title>
       <Forenames>G. D. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2009,6 +2013,7 @@
         <PageNumber>265</PageNumber>
         <PageNumber>536</PageNumber>
         <PageNumber>1024</PageNumber>
+        <Honour>M.C.</Honour>
       </Text>
       <PageNumber>1070</PageNumber>
     </SubItem>

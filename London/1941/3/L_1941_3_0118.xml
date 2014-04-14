@@ -469,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>IUingworth</Key>
-      <Text>. P. E</Text>
+      <Forenames>P. E .</Forenames>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>. D. L</Text>
+      <Forenames>D. L.</Forenames>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,14 +554,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lightbody</Key>
-      <Text>. S. D</Text>
+      <Forenames>S. D.</Forenames>
       <PageNumber>4063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>. E. E</Text>
+      <Forenames>E. E.</Forenames>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,8 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1772,7 +1771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crozier</Key>
-      <Text>. E. D</Text>
+      <Forenames>E. D.</Forenames>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,6 +1798,20 @@
       <Key>Daunton</Key>
       <Forenames>J. A</Forenames>
       <PageNumber>5290</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>H. A. P</Forenames>
+      <PageNumber>4808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Text>. D. R</Text>
+      <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

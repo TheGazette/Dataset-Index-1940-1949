@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ray</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reaney</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,8 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>2663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,14 +591,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ren-wick</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reygate</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +897,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de R</Text>
+      <Forenames>M. J. de R</Forenames>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +916,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sidney</Forenames>
+      <Title>Sidney .</Title>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1458,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J T</Text>
+      <Forenames>J</Forenames>
+      <Text>T</Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robson</Key>
-      <Text>, D ,</Text>
+      <Forenames>D</Forenames>
+      <Text>,</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2342,7 +2342,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Rouse-Boughton</Key>
-      <Text>. Sir E. H., Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2357,7 +2361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Routledge</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1617</PageNumber>
     </MainItem>
   </ItemGroup>

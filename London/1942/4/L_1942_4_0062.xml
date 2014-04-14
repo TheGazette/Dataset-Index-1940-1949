@@ -40,22 +40,22 @@
   <ItemGroup>
     <MainItem>
       <Key>MacNab</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNab</Key>
-      <Text>D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNabb</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'B., Cane</Text>
+      <Forenames>R. O'B</Forenames>
+      <Text>., Cane</Text>
       <PageNumber>4697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,9 @@
     <MainItem>
       <Key>MacNeill</Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,8 +390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRoberts</Key>
-      <Forenames>N.</Forenames>
-      <Text>de P</Text>
+      <Forenames>N. de P</Forenames>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mailer</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Makin</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,14 +683,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Malins</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malkoff</Key>
-      <Text>Y</Text>
+      <Forenames>Y</Forenames>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malpas</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manby</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,8 +1413,7 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de R</Text>
+      <Forenames>P. de R</Forenames>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1449,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Massie</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1508,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2115,7 +2115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meakin</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2155,7 +2155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meek</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5453</PageNumber>
     </MainItem>
   </ItemGroup>

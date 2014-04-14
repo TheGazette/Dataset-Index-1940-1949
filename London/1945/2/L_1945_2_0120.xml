@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevelyan</Key>
-      <Text>E. W</Text>
+      <Forenames>E. W.</Forenames>
       <PageNumber>2472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tytler</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unsworth</Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>2470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,9 +485,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dijk</Forenames>
-      <Text>, J. H., Corr</Text>
+      <Key>Van Dijk</Key>
+      <Forenames>J. H.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,9 +501,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Peborgh</Forenames>
-      <Text>, A. . J:' M</Text>
+      <Key>Van Peborgh</Key>
+      <Forenames>A.</Forenames>
+      <Text>. J:' M</Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,16 +516,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ryssen</Forenames>
-      <Text>, S. E..:</Text>
+      <Key>Van Ryssen</Key>
+      <Forenames>S. E.</Forenames>
+      <Text>.:</Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>Someren, E. L. :</Text>
+      <Forenames>Someren</Forenames>
+      <Text>, E. L. :</Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +643,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,8 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigor</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. V. J</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. J</Text>
       <PageNumber>21559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,9 +761,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Memerty</Forenames>
-      <Text>, W</Text>
+      <Key>Von Memerty</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1100,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>3120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1111,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>T7___ ___ R. B., Corr</Text>
+      <Forenames>T</Forenames>
+      <Text>7___ ___ R. B., Corr</Text>
       <PageNumber>2341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>

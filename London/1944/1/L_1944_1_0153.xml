@@ -236,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirrie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>166</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -336,7 +336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Place</Key>
-      <Text>, T&gt;. A. J</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. A. J</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +389,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pocock</Key>
-      <Text>, T&gt;. W</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. W</Text>
       <PageNumber>312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +660,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J£ Q</Text>
+      <Forenames>J</Forenames>
+      <Text>£ Q</Text>
       <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>, DA</Text>
+      <Text>DA</Text>
       <PageNumber>1106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,8 +2007,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,7 +2088,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J _ .»</Text>
+      <Forenames>J</Forenames>
+      <Text>_ .»</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>

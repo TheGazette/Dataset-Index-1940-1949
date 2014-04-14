@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brickell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1192</PageNumber>
     </MainItem>
     <SubItem>
@@ -481,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgford</Key>
-      <Text>, R,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>168</PageNumber>
       <PageNumber>757</PageNumber>
     </MainItem>
@@ -498,7 +499,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +555,7 @@
       <Key>
         <KeyDitto>-—</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brine</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Britten</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1471</PageNumber>
     </MainItem>
     <SubItem>
@@ -773,14 +774,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadhurst</Key>
-      <Text>, H n</Text>
+      <Forenames>H</Forenames>
+      <Text>n</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Broadley</Key>
-      <Text>,.K</Text>
+      <Text>.K</Text>
       <PageNumber>1314</PageNumber>
     </MainItem>
     <SubItem>
@@ -849,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1365</PageNumber>
     </MainItem>
     <SubItem>
@@ -866,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromage</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>219</PageNumber>
     </MainItem>
     <SubItem>
@@ -1324,7 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
     <SubItem>
@@ -1483,7 +1485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunicardi</Key>
-      <Text>, . M. . F. J.„</Text>
+      <Text>. M. . F. J.„</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>

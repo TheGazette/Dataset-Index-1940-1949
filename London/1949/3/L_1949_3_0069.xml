@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ceelow</Key>
-      <Forenames>Productions</Forenames>
+      <Title>Productions .</Title>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Celestion</Key>
-      <Text>. \</Text>
+      <Text>\</Text>
       <PageNumber>3310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +95,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chatbury</Key>
-      <Forenames>Shareholdings</Forenames>
+      <Title>Shareholdings .</Title>
       <PageNumber>3826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesney</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4309</PageNumber>
       <PageNumber>4453</PageNumber>
       <PageNumber>4625</PageNumber>
@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chessmount</Key>
-      <Forenames>Estate</Forenames>
+      <Title>Estate .</Title>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,14 +160,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Chilnit</Key>
-      <Text>. ' ',</Text>
+      <Text>' ',</Text>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chislehurst</Key>
-      <Text>. Constructions 7</Text>
+      <Forenames>Constructions</Forenames>
+      <Text>7</Text>
       <PageNumber>3931</PageNumber>
       <PageNumber>3933</PageNumber>
     </MainItem>
@@ -175,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chislehurst</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates.</Title>
       <PageNumber>3361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,21 +190,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Chbrley</Key>
-      <Forenames>Wagons</Forenames>
+      <Title>Wagons .</Title>
       <PageNumber>3826</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chrbmol</Key>
-      <Forenames>Welton</Forenames>
+      <Title>Welton.</Title>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chubbie</Key>
-      <Text>..:' '.:</Text>
+      <Text>.:' '.:</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Claire</Key>
-      <Text>. Bags</Text>
+      <Title>Bags .</Title>
       <PageNumber>3419</PageNumber>
       <PageNumber>3424</PageNumber>
     </MainItem>
@@ -267,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>,' Herbert</Text>
+      <Text>' Herbert</Text>
       <PageNumber>4146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>, T; &amp; E.'</Text>
+      <Forenames>T</Forenames>
+      <Text>; &amp; E.'</Text>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,8 +307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Climpson</Key>
-      <Forenames>Ernest</Forenames>
-      <Text>. (Peter-: borough) '</Text>
+      <Title>Ernest. (Peter-: borough)</Title>
+      <Text>'</Text>
       <PageNumber>3491</PageNumber>
       <PageNumber>3493</PageNumber>
       <PageNumber>3493</PageNumber>
@@ -334,14 +336,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Coastwise</Key>
-      <Forenames>Colliers</Forenames>
+      <Title>Colliers .</Title>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cogas</Key>
-      <Forenames>Chemicals</Forenames>
+      <Title>Chemicals .</Title>
       <PageNumber>4141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colin</Key>
-      <Text>.&amp; Leslie</Text>
+      <Text>&amp; Leslie</Text>
       <PageNumber>3429</PageNumber>
       <PageNumber>3822</PageNumber>
     </MainItem>
@@ -396,7 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colliery</Key>
-      <Forenames>Holdings</Forenames>
+      <Title>Holdings .</Title>
       <PageNumber>4309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conbara</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>3826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copper</Key>
-      <Text>, McDougall, &amp; ' Robertson (South America)</Text>
+      <Text>McDougall, &amp; ' Robertson (South America)</Text>
       <PageNumber>3879</PageNumber>
       <PageNumber>3880</PageNumber>
       <PageNumber>4525</PageNumber>
@@ -533,7 +535,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corner</Key>
-      <Text>. House, (Blackpool)</Text>
+      <Forenames>House</Forenames>
+      <Text>, (Blackpool)</Text>
       <PageNumber>3893</PageNumber>
       <PageNumber>4634</PageNumber>
     </MainItem>
@@ -551,7 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cothay</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowdray</Key>
-      <Text>.Motors</Text>
+      <Forenames>Motors</Forenames>
       <PageNumber>4692</PageNumber>
       <PageNumber>4693</PageNumber>
     </MainItem>
@@ -626,14 +629,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabert</Key>
-      <Text>(Stanley) Cinemas '..--'</Text>
+      <Title>(Stanley)</Title>
+      <Forenames>Cinemas</Forenames>
+      <Text>'..--'</Text>
       <PageNumber>4313</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crag</Key>
-      <Forenames>Hotel</Forenames>
+      <Title>Hotel .</Title>
       <PageNumber>4212</PageNumber>
       <PageNumber>4707</PageNumber>
     </MainItem>
@@ -641,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>, J: T., &amp; Company</Text>
+      <Forenames>J</Forenames>
+      <Text>: T., &amp; Company</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crornford</Key>
-      <Forenames>Portraits</Forenames>
+      <Title>Portraits .</Title>
       <PageNumber>4690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunninghams</Key>
-      <Text>(Wimbledon)</Text>
+      <Title>(Wimbledon)</Title>
       <PageNumber>4453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,14 +797,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>, -. John &amp; Company ,.----'</Text>
+      <Text>-. John &amp; Company ,.----'</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>3771</PageNumber>
       <PageNumber>4525</PageNumber>
     </MainItem>
@@ -821,7 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>.M. (Leeds)</Text>
+      <Forenames>M.</Forenames>
+      <Text>(Leeds)</Text>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dallas</Key>
-      <Text>. Syndicate ,</Text>
+      <Forenames>Syndicate</Forenames>
+      <Text>,</Text>
       <PageNumber>4697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dartford</Key>
-      <Text>. 'Shipbuilding &amp; Engineering Co. ..;.' V</Text>
+      <Text>'Shipbuilding &amp; Engineering Co. ..;.' V</Text>
       <PageNumber>4022</PageNumber>
       <PageNumber>4023</PageNumber>
       <PageNumber>4026</PageNumber>
@@ -903,8 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Distribution</Forenames>
-      <Text>..:</Text>
+      <Title>Distribution .</Title>
+      <Text>.:</Text>
       <PageNumber>4147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,8 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Forenames>Richard</Forenames>
-      <Text>.. -3707, 4097, 4098,-</Text>
+      <Title>Richard .</Title>
+      <Text>. -3707, 4097, 4098,-</Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +955,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Chislehurst)</Text>
+      <Title>(Chislehurst)</Title>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +964,8 @@
       <Key>
         <KeyDitto>___ ___ ——</KeyDitto>
       </Key>
-      <Text>(Kent and Sussex) -</Text>
+      <Title>(Kent and Sussex)</Title>
+      <Text>-</Text>
       <PageNumber>3361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +984,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surrey) ..:</Text>
+      <Title>(Surrey)</Title>
+      <Text>..:</Text>
       <PageNumber>3361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,8 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (Padiham)</Text>
+      <Title>Bros.</Title>
+      <Text>(Padiham)</Text>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dee</Key>
-      <Forenames>Mill</Forenames>
+      <Title>Mill .</Title>
       <PageNumber>3606</PageNumber>
       <PageNumber>3658</PageNumber>
     </MainItem>
@@ -1037,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delfran</Key>
-      <Text>..:</Text>
+      <Text>.:</Text>
       <PageNumber>3554</PageNumber>
       <PageNumber>3558</PageNumber>
     </MainItem>
@@ -1084,14 +1094,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Forenames>Factors</Forenames>
+      <Title>Factors.</Title>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>. and , District Motor Club (Proprietary) .;</Text>
+      <Text>and , District Motor Club (Proprietary) .;</Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dicker</Key>
-      <Forenames>Fred</Forenames>
+      <Title>Fred .</Title>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dix</Key>
-      <Forenames>Ernest</Forenames>
+      <Title>Ernest .</Title>
       <PageNumber>3355</PageNumber>
       <PageNumber>3358</PageNumber>
     </MainItem>
@@ -1168,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>, .A. &amp; S. M</Text>
+      <Text>.A. &amp; S. M</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doe</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drivers</Key>
-      <Forenames>Investments-</Forenames>
+      <Title>Investments-.</Title>
       <PageNumber>4021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,8 +1388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Eve</Forenames>
-      <Text>..:</Text>
+      <Title>Eve .</Title>
+      <Text>.:</Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,7 +1411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durani</Key>
-      <Forenames>Syridicate</Forenames>
+      <Title>Syridicate .</Title>
       <PageNumber>4454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1426,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyesha</Key>
-      <Text>,</Text>
       <PageNumber>3710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eddison</Key>
-      <Text>,' T. E</Text>
+      <Text>' T. E</Text>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eggitt</Key>
-      <Text>,,J. &amp; Sons</Text>
+      <Text>,J. &amp; Sons</Text>
       <PageNumber>3356</PageNumber>
       <PageNumber>3420</PageNumber>
     </MainItem>
@@ -1609,7 +1618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Electronics</Key>
-      <Text>(Ramsgate)</Text>
+      <Title>(Ramsgate)</Title>
       <PageNumber>3983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>(Harrogate)</Text>
+      <Title>(Harrogate)</Title>
       <PageNumber>4138</PageNumber>
     </MainItem>
   </ItemGroup>

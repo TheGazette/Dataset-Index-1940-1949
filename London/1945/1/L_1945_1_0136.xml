@@ -174,7 +174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGee</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McStay</Key>
-      <Text>M^ A</Text>
+      <Forenames>M</Forenames>
+      <Text>^ A</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,8 +1092,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, L. M</Text>
+      <Key>O'Connell</Key>
+      <Forenames>L. M.</Forenames>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,8 +1117,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, H</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>1250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,29 +1131,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Garra, A</Text>
+      <Key>O'Garra</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, M. M</Text>
+      <Key>O'Grady</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, j</Text>
+      <Key>O'Hea</Key>
+      <Text>j</Text>
       <PageNumber>982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, B</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,22 +1166,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Maley, E</Text>
+      <Key>O'Maley</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. P</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, H</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,8 +1208,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, A. C</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1814,7 +1815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>H,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2127,7 +2129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaughnessy</Key>
-      <Text>Lady M</Text>
+      <Title>Lady</Title>
+      <Forenames>M</Forenames>
       <PageNumber>982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2141,7 +2144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheel</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2368,7 +2371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>982</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slatter</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,15 +202,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloan</Key>
-      <Text>. W. C</Text>
+      <Forenames>W. C.</Forenames>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sloane</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +643,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. L.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +728,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +839,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +871,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1016,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>H. P.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1066,9 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1159,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. T.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1204,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,7 +1341,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S. H.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>

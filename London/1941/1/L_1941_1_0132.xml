@@ -927,8 +927,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. K</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. K</Forenames>
       <PageNumber>1809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +942,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,7 +1380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>N E</Text>
+      <Forenames>N</Forenames>
+      <Text>E</Text>
       <PageNumber>1809</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,14 +18,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Porthallow</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portsmouth</Key>
-      <Text>.. Butchers</Text>
+      <Text>. Butchers</Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,8 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Press</Key>
-      <Forenames>Gaps</Forenames>
-      <Text>... '</Text>
+      <Title>Gaps .</Title>
+      <Text>.. '</Text>
       <PageNumber>3821</PageNumber>
       <PageNumber>3928</PageNumber>
     </MainItem>
@@ -115,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Press</Key>
-      <Forenames>Pharmacies</Forenames>
+      <Title>Pharmacies .</Title>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Presto</Key>
-      <Forenames>Potatoes</Forenames>
+      <Title>Potatoes .</Title>
       <PageNumber>3435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Text>. . Turkish .Baths</Text>
+      <Text>. Turkish .Baths</Text>
       <PageNumber>3883</PageNumber>
       <PageNumber>3884</PageNumber>
       <PageNumber>3933</PageNumber>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puricine</Key>
-      <Forenames>Products</Forenames>
+      <Title>Products .</Title>
       <PageNumber>4309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,29 +233,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Qualrad</Key>
-      <Forenames>Products</Forenames>
-      <Text>...-</Text>
+      <Title>Products .</Title>
+      <Text>..-</Text>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Quick</Key>
-      <Forenames>Davis</Forenames>
+      <Title>Davis .</Title>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>. C. Rowland Motors &gt;</Text>
+      <Forenames>C. Rowland Motors</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>.E.S</Text>
+      <Forenames>E.S.</Forenames>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Regulo</Key>
-      <Forenames>Feeders</Forenames>
+      <Title>Feeders .</Title>
       <PageNumber>4028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rejang</Key>
-      <Forenames>Estate</Forenames>
+      <Title>Estate .</Title>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Repanspray</Key>
-      <Text>.... ...,</Text>
+      <Text>... ...,</Text>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rex</Key>
-      <Forenames>Radio</Forenames>
+      <Title>Radio .</Title>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richfield</Key>
-      <Text>,' R. &amp; Sons</Text>
+      <Text>' R. &amp; Sons</Text>
       <PageNumber>3424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roman</Key>
-      <Text>. Landing Estate Company</Text>
+      <Forenames>Landing Estate Company</Forenames>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowells</Key>
-      <Text>(Chemists)</Text>
+      <Title>(Chemists)</Title>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Royal-Hotel</Key>
-      <Text>(Dundee)</Text>
+      <Title>(Dundee)</Title>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>.T.C. (Distributors)</Text>
+      <Forenames>T.C.</Forenames>
+      <Text>(Distributors)</Text>
       <PageNumber>3605</PageNumber>
       <PageNumber>3606</PageNumber>
     </MainItem>
@@ -758,14 +760,14 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. &amp; W. Builders Supplies</Text>
+      <Text>&amp; W. Builders Supplies</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Alban's Jewish Institute '</Text>
+      <Key>St. Alban</Key>
+      <Text>'s Jewish Institute '</Text>
       <PageNumber>3490</PageNumber>
       <PageNumber>3492</PageNumber>
       <PageNumber>3557</PageNumber>
@@ -774,15 +776,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. ,Anne's Trawling Co</Text>
+      <Text>,Anne's Trawling Co</Text>
       <PageNumber>4355</PageNumber>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Bartholomew's (Sheffield) Sports Field</Text>
+      <Key>St. Bartholomew</Key>
+      <Text>'s (Sheffield) Sports Field</Text>
       <PageNumber>4571</PageNumber>
       <PageNumber>4572</PageNumber>
     </MainItem>
@@ -790,7 +792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>.-Winifred's Hotel (Scarborough)</Text>
+      <Text>-Winifred's Hotel (Scarborough)</Text>
       <PageNumber>3309</PageNumber>
       <PageNumber>3709</PageNumber>
       <PageNumber>3712</PageNumber>
@@ -898,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searl</Key>
-      <Forenames>Lorna</Forenames>
+      <Title>Lorna .</Title>
       <PageNumber>4101</PageNumber>
       <PageNumber>4693</PageNumber>
     </MainItem>
@@ -945,8 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sentinel</Key>
-      <Forenames>Publications</Forenames>
-      <Text>.(London)-. ,</Text>
+      <Title>Publications .</Title>
+      <Text>(London)-. ,</Text>
       <PageNumber>3506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Severn</Key>
-      <Text>. Valley (Construction ' ?Company)iC</Text>
+      <Forenames>Valley</Forenames>
+      <Text>(Construction ' ?Company)iC</Text>
       <PageNumber>3819</PageNumber>
       <PageNumber>3823</PageNumber>
     </MainItem>
@@ -971,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Forenames>Geoffrey</Forenames>
+      <Title>Geoffrey .</Title>
       <PageNumber>4352</PageNumber>
       <PageNumber>4353</PageNumber>
       <PageNumber>4524</PageNumber>
@@ -987,7 +990,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shalford</Key>
-      <Forenames>Cottages</Forenames>
+      <Title>Cottages .</Title>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shard</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>3424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheaf</Key>
-      <Forenames>Horticulture</Forenames>
+      <Title>Horticulture .</Title>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shephard</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shingle</Key>
-      <Text>(Portsmouth)</Text>
+      <Title>(Portsmouth)</Title>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shotton</Key>
-      <Forenames>Pictures</Forenames>
+      <Title>Pictures .</Title>
       <PageNumber>3980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sigmund</Key>
-      <Text>.Pumps (Great Britain)</Text>
+      <Forenames>Pumps</Forenames>
+      <Text>(Great Britain)</Text>
       <PageNumber>4455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,14 +1162,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonstone</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates.</Title>
       <PageNumber>4630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpkin</Key>
-      <Forenames>Marshall</Forenames>
+      <Title>Marshall .</Title>
       <PageNumber>3358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,8 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (Brigg)</Text>
+      <Title>Bros. (Brigg)</Title>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,8 +1317,9 @@
   <ItemGroup>
     <MainItem>
       <Key>South</Key>
-      <Forenames>African</Forenames>
-      <Text>. G&amp;rundunv ' Company</Text>
+      <Title>African .</Title>
+      <Forenames>G</Forenames>
+      <Text>&amp;rundunv ' Company</Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,16 +1383,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Southdown</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>4691</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southend</Key>
-      <Title>Master.</Title>
-      <Forenames>Builders</Forenames>
-      <Text>. '</Text>
+      <Title>Master. Builders.</Title>
+      <Text>'</Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Forenames>Solvents</Forenames>
+      <Title>Solvents .</Title>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spelman</Key>
-      <Forenames>Properties</Forenames>
+      <Title>Properties .</Title>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sreeves</Key>
-      <Text>(Shirley)</Text>
+      <Title>(Shirley)</Title>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>Villa</Forenames>
+      <Title>Villa .</Title>
       <PageNumber>4570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staples</Key>
-      <Text>(Stockport)</Text>
+      <Title>(Stockport)</Title>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,14 +1558,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Forenames>Developments</Forenames>
+      <Title>Developments .</Title>
       <PageNumber>3313</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Forenames>Erectors</Forenames>
+      <Title>Erectors .</Title>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steetori</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>

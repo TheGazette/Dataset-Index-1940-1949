@@ -29,7 +29,9 @@
       <Key>Schomberg</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Reginald Charles Francis</Forenames>
-      <Text>, C.I.E., D.S.O., H.M. ConsulGeneral at Pondicherry</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
       <Key>Shaw</Key>
       <Title>Comdr. Sir</Title>
       <Forenames>John James Ken</Forenames>
-      <Text>ward, Bt., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +94,9 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>Edward Henry Gerald</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at Amsterdam</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +133,9 @@
       <Key>Simms</Key>
       <Title>Comdr. (E)</Title>
       <Forenames>Charles E.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +161,11 @@
     <MainItem>
       <Key>Staton</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. William Ernest, M.C., D.F.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +173,11 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Title>Lieut.</Title>
-      <Text>Colonel Arthur, C.M.G., D.S.O., M.C., Unofficial Member of Executive Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +186,10 @@
       <Key>Stevens-Guille</Key>
       <Title>Comdr.</Title>
       <Forenames>George Frederick</Forenames>
-      <Text>, O.B.E., Distinguished Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +231,9 @@
     <MainItem>
       <Key>Swan</Key>
       <Forenames>Harold Couch</Forenames>
-      <Text>, O.B.E., H.M. Consul at Trieste</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +250,9 @@
       <Key>Tabuteau</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>George Grant</Forenames>
-      <Text>, D.S.O., Commander (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +269,9 @@
     <MainItem>
       <Key>Tait-Bowie</Key>
       <Forenames>William</Forenames>
-      <Text>, O.B.E., Member of Executive Council, Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,8 +288,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Maurice Patrick O</Forenames>
-      <Text>'Connor, H.M. Vice-Consul at Zabul</Text>
+      <Forenames>Maurice Patrick O'Connor</Forenames>
+      <Text>, H.M. Vice-Consul at Zabul</Text>
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +384,9 @@
     <MainItem>
       <Key>Vereker</Key>
       <Forenames>George Gordon Medli-</Forenames>
-      <Text>cott, M.C., Counsellor of Embassy in H.M: Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +403,9 @@
     <MainItem>
       <Key>Walsh</Key>
       <Forenames>Henry Francis Chester</Forenames>
-      <Text>, O.B.E., H.M. Consul-General at Batavia and H.M. Consul-General for Portuguese Timor</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +447,9 @@
       <Key>Warren</Key>
       <Title>Col.</Title>
       <Forenames>Thomas Richard Pennefather</Forenames>
-      <Text>, C.B.E., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +458,9 @@
       <Key>Washbourn</Key>
       <Title>Lt.</Title>
       <Forenames>Richard E.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +469,11 @@
       <Key>Watson</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Hugh Dudley</Forenames>
-      <Text>, K.C.B., C.V.O., C.B.E., Member, Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +526,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Oswald</Forenames>
-      <Text>, C.M.G., H.M. Consul-General in China n</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>00</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +609,9 @@
       <Key>Woodforde-Booth</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Vincent</Forenames>
-      <Text>, M.C., H.M. Consul at Punta Arenas</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +619,9 @@
     <MainItem>
       <Key>Woodhouse</Key>
       <Forenames>Capt</Forenames>
-      <Text>: Charles Henry Lawrence, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>

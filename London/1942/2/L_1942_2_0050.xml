@@ -59,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>A, E</Text>
+      <Forenames>A</Forenames>
+      <Text>, E</Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,8 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>G. O.</Forenames>
-      <Text>de R</Text>
+      <Forenames>G. O. de R</Forenames>
       <PageNumber>2325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charnley</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chrystal</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1261,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1367,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1587,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H ,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>2114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,7 +1644,7 @@
       <Key>
         <KeyDitto>___ ___ ..</KeyDitto>
       </Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>964</PageNumber>
     </MainItem>
     <KeyDitto>___</KeyDitto>
@@ -1934,7 +1935,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2187,7 +2190,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G, E</Text>
+      <Forenames>G</Forenames>
+      <Text>, E</Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2207,7 +2211,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2434,7 +2440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corney</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2474,7 +2480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corrigan</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1908</PageNumber>
     </MainItem>
   </ItemGroup>

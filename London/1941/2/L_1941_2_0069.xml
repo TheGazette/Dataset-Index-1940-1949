@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kotch</Key>
-      <Text>. J. K</Text>
+      <Forenames>J. K .</Forenames>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,8 +156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacamp</Key>
-      <Forenames>L.</Forenames>
-      <Text>de G</Text>
+      <Forenames>L. de G</Forenames>
       <PageNumber>2025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>J. N. De W.</Forenames>
+      <Forenames>J. N. De W</Forenames>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1200,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>P. R. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layton</Key>
-      <Text>. P. C</Text>
+      <Forenames>P. C.</Forenames>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,8 +1663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>E. de M</Forenames>
       <PageNumber>3447</PageNumber>
     </MainItem>
   </ItemGroup>

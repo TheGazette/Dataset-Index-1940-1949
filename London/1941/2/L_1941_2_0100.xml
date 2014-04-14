@@ -431,8 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Title>St.</Title>
-      <Forenames>G.</Forenames>
+      <Title>St. G.</Title>
       <PageNumber>2033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,22 +986,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. M.</Forenames>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Onions</Key>
-      <Text>. G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Patey, W</Text>
+      <Key>O'Reilly-Patey</Key>
+      <Forenames>W</Forenames>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>. C. D Rimmer, A. E</Text>
+      <Forenames>C. D</Forenames>
+      <Text>Rimmer, A. E</Text>
       <PageNumber>3165</PageNumber>
     </MainItem>
   </ItemGroup>

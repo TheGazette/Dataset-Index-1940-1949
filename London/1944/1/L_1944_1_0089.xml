@@ -122,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jsserlis</Key>
-      <Text>, K! P</Text>
+      <Forenames>K</Forenames>
+      <Text>! P</Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>fJacob</Key>
-      <Text>,. H. S..M.. -</Text>
+      <Text>. H. S..M.. -</Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaques</Key>
-      <Text>, P: H</Text>
+      <Forenames>P</Forenames>
+      <Text>: H</Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeater</Key>
-      <Text>, F: T</Text>
+      <Forenames>F</Forenames>
+      <Text>: T</Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jebb</Key>
-      <Text>, A:-C&gt; ...,'</Text>
+      <Forenames>A</Forenames>
+      <Text>:-C&gt; ...,'</Text>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +574,8 @@
       <Key>
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
-      <Text>M:</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>1271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +659,8 @@
       <Key>
         <KeyDitto>___ ___ '</KeyDitto>
       </Key>
-      <Forenames>Is</Forenames>
-      <Text>. ;M: ... ..;</Text>
+      <Title>Is.</Title>
+      <Text>;M: ... ..;</Text>
       <PageNumber>1430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jestice</Key>
-      <Text>,, H. C</Text>
+      <Text>, H. C</Text>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickling</Key>
-      <Text>, C4.B.. K:..:1157b Jilla, D. A:</Text>
+      <Forenames>C</Forenames>
+      <Text>4.B.. K:..:1157b Jilla, D. A:</Text>
       <PageNumber>208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,14 +840,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Toanes</Key>
-      <Text>,. P. R</Text>
+      <Text>. P. R</Text>
       <PageNumber>572</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jobling</Key>
-      <Text>, ~R</Text>
+      <Text>~R</Text>
       <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +994,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>G '</Text>
+      <Forenames>G</Forenames>
+      <Text>'</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1004,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1306,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. E.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>80</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1425,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C; F</Text>
+      <Forenames>C</Forenames>
+      <Text>; F</Text>
       <PageNumber>1484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2100,7 +2110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jubert</Key>
-      <Text>, TG</Text>
+      <Text>TG</Text>
       <PageNumber>673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2164,7 +2174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kadomtzeff</Key>
-      <Text>, I:</Text>
+      <Forenames>I</Forenames>
+      <Text>:</Text>
       <PageNumber>988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2241,7 +2252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Katz</Key>
-      <Text>, M: ... ... iioi Katzenelson, G</Text>
+      <Forenames>M</Forenames>
+      <Text>: ... ... iioi Katzenelson, G</Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2335,7 +2347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kear</Key>
-      <Text>,,. R. -T;f</Text>
+      <Text>,. R. -T;f</Text>
       <PageNumber>1482</PageNumber>
     </MainItem>
   </ItemGroup>

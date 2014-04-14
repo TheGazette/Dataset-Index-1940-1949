@@ -428,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kernick</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B .</Forenames>
       <PageNumber>2501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +480,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>M. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>M. O'D</Forenames>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1316,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>.A. D</Text>
+      <Forenames>A. D</Forenames>
       <PageNumber>2574</PageNumber>
     </MainItem>
   </ItemGroup>

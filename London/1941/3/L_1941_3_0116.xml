@@ -117,8 +117,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. H.</Forenames>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,6 +324,13 @@
       <Key>Davies</Key>
       <Forenames>A. G.</Forenames>
       <PageNumber>5293</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Voil</Key>
+      <Forenames>L. C</Forenames>
+      <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -675,8 +682,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Gore-Langton, A. H</Text>
+      <Key>St. Gore-Langton</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>4274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>. F. R. A</Text>
+      <Forenames>F. R. A</Forenames>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1060,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sorapure</Key>
-      <Text>. V. E</Text>
+      <Forenames>V. E.</Forenames>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1530,8 +1537,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. D</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. D.</Forenames>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>

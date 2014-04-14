@@ -71,7 +71,9 @@
     <MainItem>
       <Key>Stewart-Richardson</Key>
       <Forenames>V. R.</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +148,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stott</Key>
-      <Text>H., Commander (Brother), Order of St. John of Jerusalem ... -</Text>
+      <Forenames>H.</Forenames>
+      <Text>, Commander (Brother), Order of St. John of Jerusalem ... -</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +157,9 @@
     <MainItem>
       <Key>Strafford</Key>
       <Forenames>S. C</Forenames>
-      <Text>, Commander, Order of the British Empire _ ... rr ___ Streatfeild, G. H. B., M.C., K.C., Attorney-General of the County Palatine of Durham</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturges</Key>
-      <Text>J. A., Member, Order of the British Empire</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
-      <Text>S., Member, Order of the</Text>
+      <Forenames>S.</Forenames>
+      <Text>, Member, Order of the</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +324,9 @@
     <MainItem>
       <Key>Symons</Key>
       <Forenames>N. V. H.</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... Sze Jen Chan, Knight Commander, Order of St. Michael and St. George ... Tariq Bey el Jundi, Honorary Member, Order of the British Empire Taunton, I. H., Companion, Order of St. Michael and St. George Tayler, S. E., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +366,9 @@
     <MainItem>
       <Key>Teacher</Key>
       <Forenames>N. J. M.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Theobald</Key>
-      <Text>_ F. G. A., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +598,10 @@
     <MainItem>
       <Key>Thring</Key>
       <Forenames>G. A.</Forenames>
-      <Text>, Distinguished Service Order Todd, J. B. L., Member, Order of the British Empire Tolerton, R. H., Companion, Order of the Bath ... Topley, W. W. C, Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +634,9 @@
     <MainItem>
       <Key>Valentine</Key>
       <Forenames>R. T.</Forenames>
-      <Text>, Member, Order of the British Empire Valenzia, E., Nominated Member, Executive Council of Malta ... Vallintine, R. T., Member, Order of the British.Empire, correction ... . ... ... Vanbrugh, I., Dame Commander, Order of the British Empire ... ... Vandepeer, D. E., Knight Commander, Order of the British Empire ... ... Vaughan, F., Member, Royal Victorian Order ... ... Vellam, H., Member, Order of the British Empire ... Vernon, F. E., Officer, Order of the Britisri Empire ... Verschoyle-Campbell, W. H. McN., Companion, Order of St. Michael and St. George ..: ... ... Vigus, F. E., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -84,10 +84,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Micklethwait</Key>
-      <Title>Comdr.</Title>
-      <Forenames>S. John Aldrich</Forenames>
-      <Text>, Distinguished Service Medal ... Milne, Robert Alexander, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Key>de Menezes</Key>
+      <Title>Dr.</Title>
+      <Forenames>Luzia Laetitia Cornelia</Forenames>
+      <Text>, Serving Sister, Order of St. John of Jerusalem Micklethwait, Comdr. S. John Aldrich, Distinguished Service Medal ... Milne, Robert Alexander, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +95,10 @@
     <MainItem>
       <Key>Moloney</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Bernard, D.S.C., Distinguished Service Order ... Moody, Mrs. Eva Mary, Serving Sister, Order of St. John of Jerusalem Moore, Sir Leopold Frank, Kt., Unofficial Member of Executive Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +119,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Walter Kingsbury</Forenames>
-      <Text>, C.B.E., Unofficial Member, Executive Council of the Bahama Islands</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +138,9 @@
       <Key>Morgan</Key>
       <Title>Sir</Title>
       <Forenames>Herbert Edward</Forenames>
-      <Text>, K.B.E., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +181,9 @@
       <Key>Neame</Key>
       <Title>Comdr.</Title>
       <Forenames>Douglas M. L.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +208,9 @@
     <MainItem>
       <Key>Nichols</Key>
       <Forenames>Philip Bouverie Bow-</Forenames>
-      <Text>yer, M.C., Acting Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +227,9 @@
       <Key>Noble</Key>
       <Title>Sir</Title>
       <Forenames>Andrew Napier</Forenames>
-      <Text>, Bt., Acting First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,12 +247,20 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>George Graham</Forenames>
-      <Text>, Chief Justice of Sierra Leone Pearce, Wing Cdr. Frederick Laurence, Distinguished Service Order ... ... Peel, Arthur, Serving Brother, Order of St. John of Jerusalem ... Pell, Daniel William Gurney, Serving Brother, Order of St. John of Jerusalem ... Pemberton-Peake, Charles Brinsley, M.C., Acting Counsellor of Embassy in H.M. Diplomatic Service... Perowne, Miss Rosabelle, Officer (Sister), Order of St. John of Jerusalem ... Petyt, Mrs. Violet, Serving Sister, Order of St. John of Jerusalem ... ... Phillips, Lt.-Comdr. George Chesterman, Distinguished Service Order ... ... Pierce, Lt. Alan Henry, Officer, Order of the British Empire Pink, Ivor Thomas Montague, Second Secretary in H.M. Diplomatic Service ... Pollock, Sir Henry Edward, Kt., K.C., Unofficial Member of Legislative Council of Hong Kong ... Popham, Sir Henry Bradshaw, JK.C.M.G., M.B.E., Governor and Commander in Chief of the Windward Islands ... ... ... Poulton, Frederick Ernest, Serving Brother, Or^.er of St. John of Jerusalem ... Price, Charles, Serving Brother, Order of St. John of Jerusalem ... ... ... Pringle, Ivan Terence St. Clair, Serving Brother, Order of St. John of Jerusalem Pringle, Lt.-Col. William Ernest, M.C., Officer (Brother), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>298</PageNumber>
+        <Honour>C.B.E.</Honour>
       </Text>
       <PageNumber>851</PageNumber>
     </SubItem>

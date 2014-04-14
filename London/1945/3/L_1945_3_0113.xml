@@ -28,7 +28,9 @@
       <Key>Noble</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,14 +44,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Norbury</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norrie</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +93,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: ». ::: :::</Text>
+      <Forenames>J</Forenames>
+      <Text>: ». ::: :::</Text>
       <PageNumber>3915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,15 +133,15 @@
   <KeyDitto>___ ___ ___ ..</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, P. R</Text>
+      <Key>O'Hara</Key>
+      <Forenames>P. R.</Forenames>
       <PageNumber>4603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, E. L</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>E. L.</Forenames>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +186,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, J</Text>
+      <Key>O'Neil</Key>
+      <Forenames>J .</Forenames>
       <PageNumber>3663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +196,9 @@
       <Key>Onslow</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +578,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pletts</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radford</Key>
-      <Text>, TA</Text>
+      <Text>TA</Text>
       <PageNumber>4692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2335,7 +2340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robin</Key>
-      <Text>,, G. F</Text>
+      <Text>, G. F</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>

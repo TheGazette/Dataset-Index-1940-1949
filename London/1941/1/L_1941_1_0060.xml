@@ -21,8 +21,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +36,9 @@
     <MainItem>
       <Key>Cohen</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +112,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collings</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>1293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connor</Key>
-      <Text>C. M</Text>
+      <Forenames>C. M.</Forenames>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1591,9 @@
         <KeyDitto>___ ___ \.</KeyDitto>
       </Key>
       <Forenames>B.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1295</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tabor</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +236,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Olive</Forenames>
+      <Title>Olive .</Title>
       <PageNumber>3959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +254,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Olwen</Forenames>
+      <Title>Olwen .</Title>
       <PageNumber>3960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trafforri</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waye</Key>
-      <Text>J D</Text>
+      <Forenames>J</Forenames>
+      <Text>D</Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1233,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Z F S</Text>
+      <Forenames>Z</Forenames>
+      <Text>F S</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1251,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>E: E</Text>
+      <Forenames>E</Forenames>
+      <Text>: E</Text>
       <PageNumber>3959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1530,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>H: R</Text>
+      <Forenames>H</Forenames>
+      <Text>: R</Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2028,7 +2034,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2095,7 +2101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagot</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2146,7 +2152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bandeen</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2355,7 +2361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>

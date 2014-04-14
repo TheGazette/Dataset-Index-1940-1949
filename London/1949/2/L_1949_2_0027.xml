@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Text>. G. T</Text>
+      <Forenames>G. T</Forenames>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,14 +64,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Caley</Key>
-      <Text>. R. D. L</Text>
+      <Forenames>R. D. L.</Forenames>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Callan</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +93,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Text>, Marquis</Text>
+      <Title>Marquis .</Title>
       <PageNumber>1830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>. F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carless</Key>
-      <Text>, F: H</Text>
+      <Forenames>F</Forenames>
+      <Text>: H</Text>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlyon</Key>
-      <Text>, P: T. G. ...,</Text>
+      <Forenames>P</Forenames>
+      <Text>: T. G. ...,</Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnie</Key>
-      <Text>, ,L</Text>
+      <Text>,L</Text>
       <PageNumber>1971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrington</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, ___ A. E. .,. ..:</Text>
+      <Text>___ A. E. .,. ..:</Text>
       <PageNumber>1829</PageNumber>
     </MainItem>
     <SubItem>
@@ -600,7 +602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Car</Key>
-      <Text>.twright, C. R., Sub. not</Text>
+      <Text>twright, C. R., Sub. not</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cathcart</Key>
-      <Text>, w:.G.,-A/.-' 1642;</Text>
+      <Text>w:.G.,-A/.-' 1642;</Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,15 +833,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazeriove</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chadwick</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +968,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G: W</Text>
+      <Forenames>G</Forenames>
+      <Text>: W</Text>
       <PageNumber>2168</PageNumber>
       <PageNumber>2845</PageNumber>
     </MainItem>
@@ -1082,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheetham</Key>
-      <Text>,.G</Text>
+      <Text>.G</Text>
       <PageNumber>2843</PageNumber>
       <PageNumber>3175</PageNumber>
     </MainItem>
@@ -1254,7 +1256,9 @@
       <Key>Christison</Key>
       <Title>Sir</Title>
       <Forenames>A. F. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clain</Key>
-      <Text>,. H., Sub. not</Text>
+      <Text>. H., Sub. not</Text>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clemmey</Key>
-      <Text>, W, J.S. ... Clerehugh, R. H. A., Corr. ' . '</Text>
+      <Forenames>W</Forenames>
+      <Text>, J.S. ... Clerehugh, R. H. A., Corr. ' . '</Text>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1594,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2095</PageNumber>
       <PageNumber>3045</PageNumber>
     </MainItem>
@@ -1772,14 +1777,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cogan-Harris</Key>
-      <Text>,E. H</Text>
+      <Text>E. H</Text>
       <PageNumber>2342</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cogger</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collard</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2152,7 +2157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>,' J</Text>
+      <Text>' J</Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>

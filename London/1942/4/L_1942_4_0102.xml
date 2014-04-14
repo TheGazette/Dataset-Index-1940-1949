@@ -63,7 +63,7 @@
       <Key>
         <KeyDitto>___ ___ '.</KeyDitto>
       </Key>
-      <Text>(82842)</Text>
+      <Title>(82842)</Title>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +72,7 @@
       <Key>
         <KeyDitto>___ ___ ___ '..</KeyDitto>
       </Key>
-      <Text>(132102)</Text>
+      <Title>(132102)</Title>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>T ___ C. A. T</Text>
+      <Forenames>T</Forenames>
+      <Text>___ C. A. T</Text>
       <PageNumber>4489</PageNumber>
     </MainItem>
     <SubItem>
@@ -302,56 +303,74 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bock-Porter</Forenames>
-      <Text>, M. E ^ ~</Text>
+      <Key>De Bock-Porter</Key>
+      <Forenames>M. E</Forenames>
+      <Text>^ ~</Text>
       <PageNumber>4931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bunsen</Forenames>
-      <Text>, R. L</Text>
+      <Key>De Bunsen</Key>
+      <Forenames>R. L.</Forenames>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, D. H</Text>
+      <Key>De Burgh</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>5392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Charmoy</Forenames>
-      <Text>, P. J</Text>
+      <Key>De Charmoy</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Kretser</Forenames>
-      <Text>, D. B</Text>
+      <Key>de Freitas</Key>
+      <Forenames>G. S.</Forenames>
+      <PageNumber>4266</PageNumber>
+      <PageNumber>5398</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gency</Key>
+      <Forenames>G. W.</Forenames>
+      <PageNumber>5039</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Haan</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>4265</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Kretser</Key>
+      <Forenames>D. B.</Forenames>
       <PageNumber>5044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Cour</Forenames>
+      <Key>De La</Key>
+      <Forenames>Cour</Forenames>
       <Text>, J. P</Text>
       <PageNumber>5287</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Coze</Forenames>
+      <Key>De La</Key>
+      <Forenames>Coze</Forenames>
       <Text>, J. R</Text>
       <PageNumber>4704</PageNumber>
     </MainItem>
@@ -367,34 +386,47 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Plain</Forenames>
+      <Key>De La</Key>
+      <Forenames>Plain</Forenames>
       <Text>, I. J</Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Torre</Forenames>
+      <Key>De La</Key>
+      <Forenames>Torre</Forenames>
       <Text>, B. E</Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lara</Forenames>
-      <Text>, L. G. C</Text>
+      <Key>De Lara</Key>
+      <Forenames>L. G. C.</Forenames>
       <PageNumber>5101</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Neut</Forenames>
-      <Text>, A. E</Text>
+      <Key>De Neut</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>4279</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Normanville</Key>
+      <Forenames>P. B.</Forenames>
+      <PageNumber>4986</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pellette</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>5101</PageNumber>
+      <PageNumber>5393</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -406,98 +438,138 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougement</Forenames>
-      <Text>, E. C</Text>
+      <Key>de Putron</Key>
+      <Forenames>O. W.</Forenames>
+      <PageNumber>5033</PageNumber>
+      <PageNumber>5640</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>J. G. H.</Forenames>
+      <PageNumber>4261</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rouet</Key>
+      <Forenames>L. E.</Forenames>
+      <PageNumber>4262</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rougement</Key>
+      <Forenames>E. C.</Forenames>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ste Croix</Forenames>
+      <Key>De Ste</Key>
+      <Forenames>Croix</Forenames>
       <Text>, G. E. M</Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>,' G. A</Text>
+      <Key>de Sausmarez</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>4706</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Text>' G. A</Text>
       <PageNumber>5272</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Thier</Forenames>
-      <Text>, L. R</Text>
+      <Key>De Thier</Key>
+      <Forenames>L. R.</Forenames>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vigne</Forenames>
-      <Text>, L. C. E</Text>
+      <Key>De Vigne</Key>
+      <Forenames>L. C. E.</Forenames>
       <PageNumber>4931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, E. P</Text>
+      <Key>De Ville</Key>
+      <Forenames>E. P.</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiers</Forenames>
-      <Text>, J. M</Text>
+      <Key>De Villiers</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>5044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vinny</Forenames>
-      <Text>, A. M</Text>
+      <Key>de Villiers</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>4987</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vinny</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ward</Forenames>
-      <Text>, T., R</Text>
+      <Key>De Ward</Key>
+      <Forenames>T.</Forenames>
+      <Text>, R</Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wesselow</Forenames>
-      <Text>, C. P</Text>
+      <Key>De Wesselow</Key>
+      <Forenames>C. P.</Forenames>
       <PageNumber>5273</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, R. C</Text>
+      <Key>de Wilde</Key>
+      <Forenames>H. R.</Forenames>
+      <PageNumber>4387</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wilde</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, D</Text>
+      <Key>De Wolf</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>4934</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wynter</Key>
+      <Forenames>I. H.</Forenames>
+      <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -536,7 +608,8 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Text>G F</Text>
+      <Forenames>G</Forenames>
+      <Text>F</Text>
       <PageNumber>5042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deuntzer</Key>
-      <Text>D, C</Text>
+      <Forenames>D</Forenames>
+      <Text>, C</Text>
       <PageNumber>5272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,7 +1527,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>L: w</Text>
+      <Forenames>L</Forenames>
+      <Text>: w</Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,21 +1588,22 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dick-Cleland</Key>
-      <Text>J, K. ... Dick^Larkham, R</Text>
+      <Forenames>J</Forenames>
+      <Text>, K. ... Dick^Larkham, R</Text>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dicken</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,7 +1694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>5163</PageNumber>
     </MainItem>
   </ItemGroup>

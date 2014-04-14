@@ -1237,7 +1237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Merrill</Key>
-      <Text>. E Merrin, F. W</Text>
+      <Forenames>E</Forenames>
+      <Text>Merrin, F. W</Text>
       <PageNumber>3834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1436,9 @@
       <Key>Milbanke</Key>
       <Title>Sir</Title>
       <Forenames>J. C. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>

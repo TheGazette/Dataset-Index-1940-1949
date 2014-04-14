@@ -440,7 +440,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chubb</Key>
-      <Text>. N. A</Text>
+      <Forenames>N. A</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapcott</Key>
-      <Text>. W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>5010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Claridge</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,8 +1425,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>G. H. L.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>H. L.</Forenames>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1499,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>H. T</Text>
+      <Forenames>H. T.</Forenames>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +12,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J&lt;. (47845)</Text>
+      <Forenames>J</Forenames>
+      <Text>&lt;. (47845)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +690,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5396</PageNumber>
     </MainItem>
     <SubItem>
@@ -702,7 +703,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Cane</Forenames>
+      <Title>Cane.</Title>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +830,7 @@
       <PageNumber>5288</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. G</Text>
+      <Text>J. G.</Text>
       <PageNumber>4757</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1148,7 +1149,7 @@
       <PageNumber>5272</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>T</Text>
+      <Text>T.</Text>
       <PageNumber>5283</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1162,7 +1163,7 @@
       <PageNumber>5038</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>F. A</Text>
+      <Text>F. A.</Text>
       <PageNumber>5270</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1915,7 +1916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowbotham</Key>
-      <Text>P. V</Text>
+      <Forenames>P. V.</Forenames>
       <PageNumber>5151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2094,7 +2095,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2254,7 +2255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rubin</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2346,8 +2347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolph</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>5276</PageNumber>
     </MainItem>
   </ItemGroup>

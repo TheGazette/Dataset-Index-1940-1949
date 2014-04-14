@@ -226,7 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Text>H. B</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>5096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,8 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipers</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. D. de B</Forenames>
       <PageNumber>4752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riches</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robins</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +888,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,14 +937,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowley</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +983,9 @@
       <Key>Sharp</Key>
       <Title>Sir</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>C. H. K</Text>
+      <Forenames>C. H. K.</Forenames>
       <PageNumber>4380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snelson</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,7 +1792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrenford</Key>
-      <Text>C. R. B</Text>
+      <Forenames>C. R. B.</Forenames>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2163,7 +2164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>G. E. H</Text>
+      <Forenames>G. E. H.</Forenames>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2240,7 +2241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2288,14 +2289,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barrah</Key>
-      <Text>B , 55°</Text>
+      <Forenames>B</Forenames>
+      <Text>, 55°</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2379,7 +2381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2448,7 +2450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentley</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2476,7 +2478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -60,14 +60,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hade</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haden</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +239,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M G. ... ...^</Text>
+      <Forenames>M</Forenames>
+      <Text>G. ... ...^</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>A. S. L</Text>
+      <Forenames>A. S. L.</Forenames>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannah</Key>
-      <Text>F J</Text>
+      <Forenames>F</Forenames>
+      <Text>J</Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harari</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +612,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>3063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +640,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P:</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hards</Key>
-      <Text>G; J., Sub. not</Text>
+      <Forenames>G</Forenames>
+      <Text>; J., Sub. not</Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +961,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1080,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1121,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartridge</Key>
-      <Text>F; W</Text>
+      <Forenames>F</Forenames>
+      <Text>; W</Text>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazara</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1906,7 +1916,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1969,8 +1979,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>4023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2228,8 +2237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herdon</Key>
-      <Forenames>D. J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>D. J. de L</Forenames>
       <PageNumber>4383</PageNumber>
     </MainItem>
   </ItemGroup>

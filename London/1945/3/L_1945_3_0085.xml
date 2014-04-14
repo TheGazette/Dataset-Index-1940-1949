@@ -1210,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allibone</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1430,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,7 +1469,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,7 +1535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Apps</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1896,7 +1898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnall</Key>
-      <Text>. D. T</Text>
+      <Forenames>D. T.</Forenames>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2434,7 +2436,7 @@
       <PageNumber>3912</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.-.</Text>
+      <Text>.-</Text>
       <PageNumber>4473</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2482,7 +2484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>,. A. H</Text>
+      <Text>. A. H</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2510,7 +2512,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>G J. W</Text>
+      <Forenames>G</Forenames>
+      <Text>J. W</Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>

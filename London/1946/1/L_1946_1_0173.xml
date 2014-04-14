@@ -118,14 +118,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barons</Key>
-      <Text>... ... a</Text>
+      <Text>.. ... a</Text>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,13 +142,12 @@
       <Forenames>Montgomery</Forenames>
       <Text>, Lloyd and Ward &amp; Co</Text>
       <PageNumber>1099</PageNumber>
-      <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beaufoy</Key>
-      <Forenames>Laundry</Forenames>
+      <Title>Laundry .</Title>
       <PageNumber>922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carl</Key>
-      <Forenames>Goldschmidt</Forenames>
+      <Title>Goldschmidt .</Title>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavendish</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors .</Title>
       <PageNumber>257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cottage</Key>
-      <Forenames>Industries</Forenames>
+      <Title>Industries .</Title>
       <PageNumber>1456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creative</Key>
-      <Forenames>Advertising Co</Forenames>
+      <Forenames>Advertising</Forenames>
+      <Text>Co</Text>
       <PageNumber>257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>. &amp; M. Foster</Text>
+      <Text>&amp; M. Foster</Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Empire</Key>
-      <Forenames>Garages</Forenames>
+      <Title>Garages .</Title>
       <PageNumber>1100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fincken</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>. A. and Company</Text>
+      <Forenames>A.</Forenames>
+      <Text>and Company</Text>
       <PageNumber>1304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,14 +697,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Glenway</Key>
-      <Forenames>Services</Forenames>
+      <Title>Services .</Title>
       <PageNumber>877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goldschmidt</Key>
-      <Forenames>Carl</Forenames>
+      <Title>Carl .</Title>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammonds</Key>
-      <Forenames>Agency</Forenames>
+      <Title>Agency .</Title>
       <PageNumber>877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leicester</Key>
-      <Forenames>Commission Co</Forenames>
-      <Text>. -</Text>
+      <Forenames>Commission</Forenames>
+      <Text>Co. -</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Forenames>Swallowfields</Forenames>
+      <Title>Swallowfields .</Title>
       <PageNumber>426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1039,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mary</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>1401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>1504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pimbley</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Service</Key>
-      <Forenames>Pools</Forenames>
+      <Title>Pools .</Title>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,7 +1645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westwood</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,8 +1725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Bros</Forenames>
-      <Text>., &amp; Co</Text>
+      <Title>Bros.</Title>
+      <Text>, &amp; Co</Text>
       <PageNumber>1551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,7 +1749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,7 +1763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abram</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,7 +1880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adye</Key>
-      <Text>. F. J</Text>
+      <Forenames>F. J.</Forenames>
       <PageNumber>266</PageNumber>
     </MainItem>
   </ItemGroup>

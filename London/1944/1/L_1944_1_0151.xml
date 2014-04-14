@@ -66,8 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, S. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,8 +90,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, F. E</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>F. E.</Forenames>
       <PageNumber>1001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orriss</Key>
-      <Text>. H. S</Text>
+      <Forenames>H. S.</Forenames>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osborn</Key>
-      <Text>. E. S</Text>
+      <Forenames>E. S.</Forenames>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +363,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. L</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +393,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, E. H</Text>
+      <Key>O'Toole</Key>
+      <Forenames>E. H.</Forenames>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +656,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Packer</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paddon</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1122,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(86952)</Text>
+      <Title>(86952)</Title>
       <PageNumber>413</PageNumber>
     </MainItem>
     <SubItem>
@@ -1400,7 +1400,8 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>R; S</Text>
+      <Forenames>R</Forenames>
+      <Text>; S</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1516,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1598,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,14 +1649,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsell</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,7 +1728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parvin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>

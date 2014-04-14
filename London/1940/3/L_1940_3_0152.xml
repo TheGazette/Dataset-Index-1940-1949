@@ -48,7 +48,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>E. and Sons</Text>
+      <Forenames>E.</Forenames>
+      <Text>and Sons</Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,9 +77,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praagh</Forenames>
-      <Text>, C, and Company 57^ White, Frederick, and Son</Text>
+      <Key>Van Praagh</Key>
+      <Forenames>C</Forenames>
+      <Text>, and Company 57^ White, Frederick, and Son</Text>
       <PageNumber>5604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +364,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleton</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardagh</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,9 @@
       <Key>Armstrong</Key>
       <Title>Sir</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atherton</Key>
-      <Forenames>Frank</Forenames>
+      <Title>Frank .</Title>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +891,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>5174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +986,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Ernest</Forenames>
+      <Title>Ernest .</Title>
       <PageNumber>4633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1160,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1338,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F *</Text>
+      <Forenames>F</Forenames>
+      <Text>*</Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>

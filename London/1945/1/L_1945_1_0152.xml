@@ -719,7 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doughty</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,6 +1518,13 @@
       <Forenames>C. F.</Forenames>
       <Text>, Corr</Text>
       <PageNumber>1125</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Sautoy</Key>
+      <Forenames>P. F.</Forenames>
+      <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1662,7 +1669,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M R</Text>
+      <Forenames>M</Forenames>
+      <Text>R</Text>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1944,7 +1952,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(187863)</Text>
+      <Title>(187863)</Title>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>

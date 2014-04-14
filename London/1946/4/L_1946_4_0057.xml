@@ -31,7 +31,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiles</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilinski</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +314,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +699,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C, R. (R.R.A</Text>
+      <Forenames>C</Forenames>
+      <Text>, R. (R.R.A</Text>
       <PageNumber>5612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +790,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>. W</Text>
+      <Text>. W.</Text>
       <PageNumber>5611</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -875,7 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winn</Key>
-      <Text>. Hon. C. J. F</Text>
+      <Title>Hon.</Title>
+      <Forenames>C. J. F.</Forenames>
       <PageNumber>5071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiseman</Key>
-      <Text>, ]</Text>
+      <Text>]</Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolfe</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1150,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F.</Forenames>
-      <Text>(R.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1171,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1260,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1615,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,7 +1822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yafeh</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yoeli</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6069</PageNumber>
     </MainItem>
   </ItemGroup>

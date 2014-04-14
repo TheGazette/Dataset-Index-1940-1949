@@ -191,14 +191,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Gabbe</Key>
-      <Text>S: W</Text>
+      <Forenames>S</Forenames>
+      <Text>: W</Text>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gabbitas</Key>
-      <Text>V: C</Text>
+      <Forenames>V</Forenames>
+      <Text>: C</Text>
       <PageNumber>3201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gage</Key>
-      <Text>A; W</Text>
+      <Forenames>A</Forenames>
+      <Text>; W</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainsley</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garlick</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gavin</Key>
-      <Text>L; J., Cprr</Text>
+      <Forenames>L</Forenames>
+      <Text>; J., Cprr</Text>
       <PageNumber>4136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +602,8 @@
       <Key>
         <KeyDitto>___ —.—</KeyDitto>
       </Key>
-      <Text>L: W</Text>
+      <Forenames>L</Forenames>
+      <Text>: W</Text>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,22 +716,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Gharsi</Key>
-      <Forenames>Ram</Forenames>
-      <Text>... .,</Text>
+      <Title>Ram .</Title>
+      <Text>.. .,</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ghazi</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ghulam</Key>
-      <Forenames>Mustfa</Forenames>
+      <Title>Mustfa .</Title>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1088,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M:' (RiA.M.C.)</Text>
+      <Forenames>M</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1100,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .-</KeyDitto>
       </Key>
-      <Text>i-^M. .(R.A.M.C., Pales'' tine , Section) ;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Duff</Key>
-      <Text>T; R</Text>
+      <Forenames>T</Forenames>
+      <Text>; R</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1600,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>A'</Text>
+      <Forenames>A</Forenames>
+      <Text>'</Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
     <SubItem>
@@ -1600,7 +1612,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grasset</Key>
-      <Text>Sir A: E</Text>
+      <Title>Sir</Title>
+      <Forenames>A</Forenames>
+      <Text>: E</Text>
       <PageNumber>2991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1694,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>S/ C</Text>
+      <Forenames>S</Forenames>
+      <Text>/ C</Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,7 +1713,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V; L</Text>
+      <Forenames>V</Forenames>
+      <Text>; L</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,7 +1842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greeves</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3245</PageNumber>
     </MainItem>
   </ItemGroup>

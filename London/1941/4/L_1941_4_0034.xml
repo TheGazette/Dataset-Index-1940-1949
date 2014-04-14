@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Office</Key>
-      <Text>(cont.): Names of persons mentioned in despatches and commended for services (cont.): Young, K. W</Text>
+      <Title>(cont.)</Title>
+      <Text>: Names of persons mentioned in despatches and commended for services (cont.): Young, K. W</Text>
       <PageNumber>7360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,6 +72,7 @@
       <PageNumber>5960</PageNumber>
     </SubItem>
   </ItemGroup>
+  <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Balmforth</Key>
@@ -215,16 +217,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Rev</Forenames>
-      <Text>. _R., presented to Rectory of Toppesfield</Text>
+      <Title>Rev.</Title>
+      <Text>_R., presented to Rectory of Toppesfield</Text>
       <PageNumber>6439</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL APPOINTMENTS AND PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +247,9 @@
     <MainItem>
       <Key>Abdalla</Key>
       <Forenames>El Siddik Dar Salieh</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +318,9 @@
     <MainItem>
       <Key>Allison</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +328,9 @@
     <MainItem>
       <Key>Aman</Key>
       <Forenames>Singh</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>6087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +353,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>E. L. B., C.B.E</Text>
+      <Forenames>E. L. B.</Forenames>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +364,9 @@
     <MainItem>
       <Key>Andrew</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +374,9 @@
     <MainItem>
       <Key>Annandale</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +384,9 @@
     <MainItem>
       <Key>Arif</Key>
       <Forenames>Bey Salim</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +394,9 @@
     <MainItem>
       <Key>Armstrong</Key>
       <Forenames>B. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +406,9 @@
         <KeyDitto>-—___ ___</KeyDitto>
       </Key>
       <Forenames>P. F. B. N.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +416,9 @@
     <MainItem>
       <Key>Arnold</Key>
       <Forenames>A. C</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +434,9 @@
     <MainItem>
       <Key>Austen</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +460,9 @@
     <MainItem>
       <Key>Babington</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +470,9 @@
     <MainItem>
       <Key>Backhouse</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +480,9 @@
     <MainItem>
       <Key>Bagnall-Wild</Key>
       <Forenames>R. E</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +490,9 @@
     <MainItem>
       <Key>Baillon</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +500,9 @@
     <MainItem>
       <Key>Banker</Key>
       <Forenames>R. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +510,9 @@
     <MainItem>
       <Key>Barclay</Key>
       <Forenames>M. K.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +520,9 @@
     <MainItem>
       <Key>Barker</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +540,9 @@
     <MainItem>
       <Key>Barraclough</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +550,9 @@
     <MainItem>
       <Key>Barrett</Key>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +568,9 @@
     <MainItem>
       <Key>Barry</Key>
       <Forenames>E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +578,9 @@
     <MainItem>
       <Key>Bartholomew</Key>
       <Forenames>W. G. H.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +588,9 @@
     <MainItem>
       <Key>Bassett</Key>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +598,9 @@
     <MainItem>
       <Key>Bates</Key>
       <Forenames>D. A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7328</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Text>A: H. T</Text>
+      <Forenames>A</Forenames>
+      <Text>: H. T</Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>C. F. A</Text>
+      <Forenames>C. F. A.</Forenames>
       <PageNumber>1909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,8 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscbmbe</Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>2751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +877,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth-St</Key>
-      <Text>Aubyn, H. C</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, H. C</Text>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Munn</Key>
-      <Text>L. S., Sub. not</Text>
+      <Forenames>L. S.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>2427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1069,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>C: A. H. c Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>: A. H. c Sub. not</Text>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,8 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peele</Key>
-      <Forenames>M. C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. C. de C</Forenames>
       <PageNumber>2328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdy</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandison</Key>
-      <Text>J: F. W</Text>
+      <Forenames>J</Forenames>
+      <Text>: F. W</Text>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,14 +1538,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,14 +1717,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Springate</Key>
-      <Text>G. F</Text>
+      <Forenames>G. F.</Forenames>
       <PageNumber>2328</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>R. K</Text>
+      <Forenames>R. K.</Forenames>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,15 +1812,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swallow</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1832,7 +1836,9 @@
       <Key>Sykes</Key>
       <Title>Sir</Title>
       <Forenames>R. M. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1885,7 +1891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Telfer</Key>
-      <Text>F. T</Text>
+      <Forenames>F. T</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1937,14 +1943,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turton</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2035,7 +2041,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2313,7 +2319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Broke, Lord</Text>
+      <Forenames>de Broke</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>2816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2330,7 +2337,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>

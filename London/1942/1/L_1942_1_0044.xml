@@ -21,7 +21,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S: J. R</Text>
+      <Forenames>S</Forenames>
+      <Text>: J. R</Text>
       <PageNumber>889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,14 +323,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Brabazon-Drenning</Key>
-      <Text>J W</Text>
+      <Forenames>J</Forenames>
+      <Text>W</Text>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brabazon</Key>
-      <Text>van Reheh, D. W</Text>
+      <Forenames>van Reheh</Forenames>
+      <Text>, D. W</Text>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +389,7 @@
     <KeyDitto>___ ___ ,</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W.</Text>
+      <Text>W</Text>
       <PageNumber>1158</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -569,7 +572,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S: E</Text>
+      <Forenames>S</Forenames>
+      <Text>: E</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,14 +692,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Brentford</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brereton</Key>
-      <Text>G/E.-</Text>
+      <Forenames>G</Forenames>
+      <Text>/E.-</Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +940,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooman</Key>
-      <Text>A; C</Text>
+      <Forenames>A</Forenames>
+      <Text>; C</Text>
       <PageNumber>763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brossell</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1590,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,7 +1886,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1964,7 +1972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryans</Key>
-      <Forenames>P. De W.</Forenames>
+      <Forenames>P. De W</Forenames>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2074,7 +2082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckee</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2139,7 +2147,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2230,7 +2238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2302,8 +2310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>G. B. St. P</Forenames>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2501,7 +2508,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>

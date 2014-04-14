@@ -294,7 +294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medcalf</Key>
-      <Text>. L. R</Text>
+      <Forenames>L. R</Forenames>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +741,9 @@
       <Key>Meyer</Key>
       <Title>Sir</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>

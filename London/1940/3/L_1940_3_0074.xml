@@ -273,8 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>5568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,8 +528,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, J. H. A. G</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>J. H. A. G.</Forenames>
       <PageNumber>4159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,21 +554,23 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair Erskine, Hon. J. A. W</Text>
+      <Forenames>Clair</Forenames>
+      <Text>Erskine, Hon. J. A. W</Text>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John-Smith, J. E</Text>
+      <Key>St. John-Smith</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, Sir R</Text>
+      <Forenames>Johnston</Forenames>
+      <Text>, Sir R</Text>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +774,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,7 +1652,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(A.M.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>

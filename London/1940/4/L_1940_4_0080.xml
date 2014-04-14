@@ -403,8 +403,10 @@
     <MainItem>
       <Key>Haggerston</Key>
       <Title>Sir</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>de M., Bt</Text>
+      <Forenames>H. C. de M</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6066</PageNumber>
       <PageNumber>7288</PageNumber>
     </MainItem>
@@ -606,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harms</Key>
-      <Text>. G. G</Text>
+      <Forenames>G. G</Forenames>
       <PageNumber>5824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F</Forenames>
       <PageNumber>6682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +918,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>=Sir S., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hetts</Key>
-      <Text>.iSA. I</Text>
+      <Text>iSA. I</Text>
       <PageNumber>7292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holroyd</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H .</Forenames>
       <PageNumber>6682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1291,9 @@
       <Key>Hood</Key>
       <Title>Sir</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6187</PageNumber>
     </MainItem>
   </ItemGroup>

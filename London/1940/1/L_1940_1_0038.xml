@@ -199,7 +199,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,8 +274,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>G. V. R.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>V. R.</Forenames>
       <PageNumber>1233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,8 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,8 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groundes-Peace</Key>
-      <Forenames>J. V. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. V. St. C</Forenames>
       <PageNumber>448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1487,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>C, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1857,7 +1859,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hair</Key>
-      <Text>N. B;</Text>
+      <Forenames>N. B</Forenames>
+      <Text>;</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>

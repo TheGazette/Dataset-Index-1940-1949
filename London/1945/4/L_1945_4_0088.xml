@@ -243,7 +243,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +275,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>J. D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campion</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,14 +486,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbonell</Key>
-      <Text>, j. R. (Corr.)</Text>
+      <Text>j. R. (Corr.)</Text>
       <PageNumber>9219</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cardoe</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Canpendale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +683,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cattley</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, G. A. O</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, G. A. O</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,7 +1624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chestnut</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1659,7 +1663,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1736,7 +1740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Choy</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,8 +1862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chute</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C. R</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. R</Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +1914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1946,7 +1950,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>C F</Text>
+      <Forenames>C</Forenames>
+      <Text>F</Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1997,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2056,7 +2061,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2240,14 +2245,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayhills</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2360,7 +2365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2445,7 +2450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>

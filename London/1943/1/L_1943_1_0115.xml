@@ -324,7 +324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougall</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downes</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1251</PageNumber>
     </MainItem>
     <SubItem>
@@ -643,7 +643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracup</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1419</PageNumber>
     </MainItem>
     <SubItem>
@@ -739,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dreyer</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driscoll</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>489</PageNumber>
     </MainItem>
     <SubItem>
@@ -823,8 +823,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Boulay.</Title>
+      <Key>Du Boulay</Key>
       <Forenames>R. W. H.</Forenames>
       <PageNumber>166</PageNumber>
     </MainItem>
@@ -839,10 +838,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, C. E. B</Text>
+      <Key>Du Cane</Key>
+      <Forenames>C. E. B.</Forenames>
       <PageNumber>981</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Sautoy</Key>
+      <Forenames>P. F.</Forenames>
+      <PageNumber>598</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -912,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffy</Key>
-      <Text>, j. S</Text>
+      <Text>j. S</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
     <SubItem>
@@ -955,7 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumbill</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunhill</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,14 +1195,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Durkin</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Durling</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edge</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>218</PageNumber>
     </MainItem>
     <SubItem>

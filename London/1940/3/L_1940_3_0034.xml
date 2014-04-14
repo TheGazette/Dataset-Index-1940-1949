@@ -80,7 +80,9 @@
       <Key>Leese</Key>
       <Title>Sir</Title>
       <Forenames>O. W. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +568,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alland</Key>
-      <Text>. E. G. V</Text>
+      <Forenames>E. G. V.</Forenames>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>

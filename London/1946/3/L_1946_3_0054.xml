@@ -200,15 +200,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Arathon</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M. J</Text>
+      <Forenames>A. de M</Forenames>
+      <Text>. J</Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3370</PageNumber>
       <PageNumber>3978</PageNumber>
     </MainItem>
@@ -834,7 +834,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aubrey-Smith</Key>
-      <Text>D! H</Text>
+      <Forenames>D</Forenames>
+      <Text>! H</Text>
       <PageNumber>3376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>I. G</Text>
+      <Forenames>I. G.</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,7 +1536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bambridge</Key>
-      <Text>P G</Text>
+      <Forenames>P</Forenames>
+      <Text>G</Text>
       <PageNumber>3379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,14 +1746,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkham</Key>
-      <Text>E: S</Text>
+      <Forenames>E</Forenames>
+      <Text>: S</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>A K. .:</Text>
+      <Forenames>A</Forenames>
+      <Text>K. .:</Text>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1914,7 +1918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnley</Key>
-      <Text>T J</Text>
+      <Forenames>T</Forenames>
+      <Text>J</Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,7 +2073,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barstdw</Key>
-      <Text>H. S. P. .:</Text>
+      <Forenames>H. S. P.</Forenames>
+      <Text>.:</Text>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>

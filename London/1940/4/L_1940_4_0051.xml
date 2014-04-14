@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>. E. N</Text>
+      <Forenames>E. N .</Forenames>
       <PageNumber>6621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +620,9 @@
     <MainItem>
       <Key>Frankland-Payne-</Key>
       <Forenames>Gallwey</Forenames>
-      <Text>, Sir JBt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyfe</Key>
-      <Text>. J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>7289</PageNumber>
     </MainItem>
   </ItemGroup>

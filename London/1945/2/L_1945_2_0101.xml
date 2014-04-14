@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blois</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T</Forenames>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blondell</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bluett</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boan</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boast</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boiangiu</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,14 +361,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonaci</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bonar</Key>
-      <Text>T&gt;</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>2773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonello</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulter</Key>
-      <Text>K, G</Text>
+      <Forenames>K</Forenames>
+      <Text>, G</Text>
       <PageNumber>38</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,8 +890,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>P. O'F</Forenames>
       <PageNumber>2659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Britain</Key>
-      <Text>J W</Text>
+      <Forenames>J</Forenames>
+      <Text>W</Text>
       <PageNumber>2342</PageNumber>
     </MainItem>
   </ItemGroup>

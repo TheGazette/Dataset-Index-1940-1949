@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swallow</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweet</Key>
-      <Text>, A! H. P</Text>
+      <Forenames>A</Forenames>
+      <Text>! H. P</Text>
       <PageNumber>1705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tayler</Key>
-      <Text>, &lt;j. G</Text>
+      <Text>&lt;j. G</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +277,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,14 +399,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Thirkell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>, A. R</Text>
+      <Text>A. R</Text>
       <PageNumber>2039</PageNumber>
       <PageNumber>2040</PageNumber>
     </MainItem>
@@ -423,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>, A, C</Text>
+      <Forenames>A</Forenames>
+      <Text>, C</Text>
       <PageNumber>2039</PageNumber>
       <PageNumber>2040</PageNumber>
     </MainItem>
@@ -526,7 +528,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrisi</Key>
-      <Text>,V. F</Text>
+      <Text>V. F</Text>
       <PageNumber>2548</PageNumber>
       <PageNumber>2549</PageNumber>
     </MainItem>
@@ -971,7 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>To</Key>
-      <Text>.wnsend, B. K</Text>
+      <Text>wnsend, B. K</Text>
       <PageNumber>2544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travis</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2290</PageNumber>
       <PageNumber>2292</PageNumber>
     </MainItem>
@@ -1395,14 +1397,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,25 +1497,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bok</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bok</Forenames>
       <Text>, R.-</Text>
       <PageNumber>2932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lancker</Forenames>
-      <Text>, P</Text>
+      <Key>Van Lancker</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wadenouen</Forenames>
-      <Text>, H. C</Text>
+      <Key>Van Wadenouen</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>2286</PageNumber>
       <PageNumber>2289</PageNumber>
     </MainItem>
@@ -1792,7 +1792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wainwright</Key>
-      <Text>, J A</Text>
+      <Forenames>J</Forenames>
+      <Text>A</Text>
       <PageNumber>2394</PageNumber>
     </MainItem>
   </ItemGroup>

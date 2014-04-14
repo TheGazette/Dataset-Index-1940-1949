@@ -772,8 +772,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. E. de B</Forenames>
       <PageNumber>1902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,8 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>B.</Forenames>
-      <Text>de F</Text>
+      <Forenames>B. de F</Forenames>
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,7 +1467,9 @@
       <Key>Prevost</Key>
       <Title>Sir</Title>
       <Forenames>G. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1591,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,8 +1703,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N.</Forenames>
-      <Text>de B</Text>
+      <Forenames>N. de B</Forenames>
       <PageNumber>2701</PageNumber>
     </MainItem>
   </ItemGroup>

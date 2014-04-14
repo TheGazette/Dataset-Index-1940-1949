@@ -21,7 +21,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +70,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darney</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daw</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,6 +811,13 @@
   <KeyDitto>___ ___ ...</KeyDitto>
   <ItemGroup>
     <MainItem>
+      <Key>de Beneducci</Key>
+      <Forenames>T. W. J.</Forenames>
+      <PageNumber>2236</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Bosdari</Forenames>
       <Text>, C. D</Text>
@@ -826,17 +833,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, R. U. P</Text>
+      <Key>De Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcier</Forenames>
-      <Text>, L. O</Text>
+      <Key>De Courcier</Key>
+      <Forenames>L. O.</Forenames>
       <PageNumber>2869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,9 +854,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Knock</Forenames>
-      <Text>, W. L</Text>
+      <Key>De Knock</Key>
+      <Forenames>W. L.</Forenames>
       <PageNumber>1610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,26 +869,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Rue</Forenames>
+      <Key>De La</Key>
+      <Forenames>Rue</Forenames>
       <Text>, C. A</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lestang</Forenames>
-      <Text>, R. M. C. N</Text>
+      <Key>De Lestang</Key>
+      <Forenames>R. M. C. N.</Forenames>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pa</Forenames>
+      <Key>De Pa</Key>
       <Text>«s. F. G</Text>
       <PageNumber>2869</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>B. P. H.</Forenames>
+      <PageNumber>2058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -898,65 +907,66 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, W. T</Text>
+      <Key>De Salis</Key>
+      <Forenames>W. T.</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Ste. Croix.</Title>
+      <Key>De Ste</Key>
+      <Title>Croix.</Title>
       <Forenames>R.</Forenames>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sibour</Forenames>
-      <Text>, T. T. B</Text>
+      <Key>De Sibour</Key>
+      <Forenames>T. T. B.</Forenames>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vere Hunt</Forenames>
+      <Key>De Vere</Key>
+      <Forenames>Hunt</Forenames>
       <Text>, T</Text>
       <PageNumber>2749</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiers</Forenames>
-      <Text>. TM</Text>
+      <Key>de Verteuil</Key>
+      <Forenames>N. T.</Forenames>
+      <PageNumber>2985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Villiers</Key>
+      <Text>TM</Text>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wet</Forenames>
-      <Text>, J. I</Text>
+      <Key>De Wet</Key>
+      <Forenames>J. I.</Forenames>
       <PageNumber>1611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolfe</Forenames>
-      <Text>, E. F. S</Text>
+      <Key>De Wolfe</Key>
+      <Forenames>E. F. S.</Forenames>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Yarburgh-Bateson</Forenames>
-      <Text>, R. A</Text>
+      <Key>De Yarburgh-Bateson</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1000,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1084,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearden</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1287,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearlove</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deaves</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deerin</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,7 +1493,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denholm</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,14 +1586,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denmark</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1647,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1665,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>

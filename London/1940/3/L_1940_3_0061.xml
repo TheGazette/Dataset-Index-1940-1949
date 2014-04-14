@@ -1302,8 +1302,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>H. W. T.</Forenames>
+      <Title>St. H.</Title>
+      <Forenames>W. T.</Forenames>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,7 +1552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>. C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1648,9 @@
     <MainItem>
       <Key>Lindsay</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C</Forenames>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Litt</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H</Forenames>
       <PageNumber>5391</PageNumber>
     </MainItem>
   </ItemGroup>

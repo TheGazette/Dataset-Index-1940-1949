@@ -128,7 +128,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sonierville</Key>
-      <Text>, Sir J; F</Text>
+      <Title>Sir</Title>
+      <Forenames>J</Forenames>
+      <Text>; F</Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stebbins</Key>
-      <Text>, 0. E</Text>
+      <Text>0. E</Text>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stein</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +755,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +800,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ——</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stiff</Key>
-      <Text>. R. A</Text>
+      <Forenames>R. A.</Forenames>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stobert</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storton</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweeting</Key>
-      <Text>, AM</Text>
+      <Text>AM</Text>
       <PageNumber>4932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinchatt</Key>
-      <Text>, M\ J</Text>
+      <Forenames>M</Forenames>
+      <Text>\ J</Text>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2230,7 +2233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timmins</Key>
-      <Text>, T-</Text>
+      <Text>T-</Text>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2304,14 +2307,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolhurst</Key>
-      <Text>. R. W</Text>
+      <Forenames>R. W</Forenames>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tollafield</Key>
-      <Text>. T. PL H</Text>
+      <Forenames>T.</Forenames>
+      <Text>PL H</Text>
       <PageNumber>5642</PageNumber>
     </MainItem>
   </ItemGroup>

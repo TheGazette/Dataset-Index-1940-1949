@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwan</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mcintosh</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mateer</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meades</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,14 +1309,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellett</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1499,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,8 +1750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Modder</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. St. G</Forenames>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,7 +1792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mogford</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1815,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monks</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1974,7 +1973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2028,7 +2027,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W. G. O.</Text>
+      <Text>W. G. O</Text>
       <PageNumber>2072</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2223,7 +2222,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T Mortimore, R. A</Text>
+      <Forenames>T</Forenames>
+      <Text>Mortimore, R. A</Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>

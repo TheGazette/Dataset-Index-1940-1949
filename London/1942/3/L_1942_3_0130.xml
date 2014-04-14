@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M: A. ... ..'</Text>
+      <Forenames>M</Forenames>
+      <Text>: A. ... ..'</Text>
       <PageNumber>3793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,14 +301,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Goad</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goddard</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +317,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +326,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +365,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +535,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>DL</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1168,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q g</Text>
+      <Forenames>Q</Forenames>
+      <Text>g</Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1288,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Aron</Forenames>
+      <Title>Aron .</Title>
       <PageNumber>2948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,7 +1612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Text>H: F</Text>
+      <Forenames>H</Forenames>
+      <Text>: F</Text>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1817,9 @@
       <Key>Herbert</Key>
       <Title>Hon. Sir</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4045</PageNumber>
     </MainItem>
   </ItemGroup>

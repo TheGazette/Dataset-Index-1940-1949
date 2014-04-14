@@ -125,7 +125,9 @@
     <MainItem>
       <Key>Benson</Key>
       <Forenames>F.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +135,9 @@
     <MainItem>
       <Key>Bent</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +401,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S. S.</Forenames>
-      <Text>, Companion, Order of the Bath Boret, J. A., Officer, Order of the British Empire Borg, G., Chief Justice of Island of Malta</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +427,9 @@
     <MainItem>
       <Key>Bottomley</Key>
       <Forenames>N. H.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,14 +501,17 @@
     <MainItem>
       <Key>Boys-Smith</Key>
       <Forenames>H. G.</Forenames>
-      <Text>, Bar to the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1290</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bradfield</Key>
-      <Text>E. W. C, Knight Commander, Order of St. Michael and St. George</Text>
+      <Forenames>E. W. C</Forenames>
+      <Text>, Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +569,9 @@
     <MainItem>
       <Key>Branson</Key>
       <Forenames>V. C</Forenames>
-      <Text>, Member, Order of the British Empire Brayne, F. L., Companion, Star of India ... Bremner, C. E. U., H.M. Consul for the Portuguese possessions in India at Panjim 75i Brett, D. A. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,8 +777,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. A. Member</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A. Member</Forenames>
       <Text>, Order of the British Empire</Text>
       <PageNumber>1572</PageNumber>
     </MainItem>

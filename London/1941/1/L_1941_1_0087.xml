@@ -382,7 +382,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. H. C.</Text>
+      <Text>W. H. C</Text>
       <PageNumber>1199</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -822,7 +822,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. F.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lysaght</Key>
-      <Forenames>F.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. de S</Forenames>
       <PageNumber>1588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McAra</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W .</Forenames>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,8 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClosky</Key>
-      <Forenames>F. L. St</Forenames>
-      <Text>. T</Text>
+      <Forenames>F. L. St. T</Forenames>
       <PageNumber>958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1736,8 +1736,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>D. St. D</Forenames>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>

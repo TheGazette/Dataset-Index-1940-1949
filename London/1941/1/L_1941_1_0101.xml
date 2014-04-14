@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Text>D. P. K</Text>
+      <Forenames>D. P. K.</Forenames>
       <PageNumber>538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +247,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +345,7 @@
       <PageNumber>1202</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>1139.</Text>
+      <Text>1139</Text>
       <PageNumber>1586</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1214,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritson</Key>
-      <Text>F. C</Text>
+      <Forenames>F. C.</Forenames>
       <PageNumber>1276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rob</Key>
-      <Text>J. V</Text>
+      <Forenames>J. V.</Forenames>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>

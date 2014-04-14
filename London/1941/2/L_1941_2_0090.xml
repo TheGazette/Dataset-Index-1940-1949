@@ -317,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sythes</Key>
-      <Text>.P. H. C</Text>
+      <Forenames>P. H. C.</Forenames>
       <PageNumber>2657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,14 +450,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanfield</Key>
-      <Text>. T. G</Text>
+      <Forenames>T. G.</Forenames>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tannahill</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1110,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1149,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. E.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1200,9 @@
         <KeyDitto>___ —___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. Wr</Forenames>
-      <Text>(R-.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>

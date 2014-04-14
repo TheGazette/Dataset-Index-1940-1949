@@ -126,7 +126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Text>W. A</Text>
+      <Forenames>W. A.</Forenames>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>P. R</Text>
+      <Forenames>P. R .</Forenames>
       <PageNumber>1244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons-Montgomery</Key>
-      <Forenames>L. De W.</Forenames>
+      <Forenames>L. De W</Forenames>
       <PageNumber>22</PageNumber>
       <PageNumber>1393</PageNumber>
     </MainItem>
@@ -730,14 +730,16 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair-Morford, A. C</Text>
+      <Forenames>Clair-Morford</Forenames>
+      <Text>, A. C</Text>
       <PageNumber>1244</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, J. R</Text>
+      <Forenames>John</Forenames>
+      <Text>, J. R</Text>
       <PageNumber>604</PageNumber>
       <PageNumber>1393</PageNumber>
     </MainItem>
@@ -1038,8 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Forenames>A. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. E. St. J</Forenames>
       <PageNumber>604</PageNumber>
       <PageNumber>1393</PageNumber>
     </MainItem>

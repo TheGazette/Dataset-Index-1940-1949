@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibby</Key>
-      <Text>F. C</Text>
+      <Forenames>F. C</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,8 +816,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boase</Key>
-      <Text>R. B. O</Text>
+      <Forenames>R. B. O.</Forenames>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1544,9 @@
       <Key>Bonham</Key>
       <Title>Sir</Title>
       <Forenames>A. L. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1946,7 +1947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne-May</Key>
-      <Text>J. B. S</Text>
+      <Forenames>J. B. S</Forenames>
       <PageNumber>522</PageNumber>
     </MainItem>
   </ItemGroup>

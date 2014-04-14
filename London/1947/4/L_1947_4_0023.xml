@@ -551,7 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>H. S. Von P.</Forenames>
+      <Forenames>H. S. Von P</Forenames>
       <PageNumber>5009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +756,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +850,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +869,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. B.</Forenames>
-      <Text>(R.A.M.C.) 54i</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +899,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +968,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>G Sub. not</Text>
+      <Forenames>G</Forenames>
+      <Text>Sub. not</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1794,8 +1797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byford</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. St. L</Forenames>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,7 +1881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galdwell-Nichols</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,15 +1931,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Forenames>M. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. R. St. J</Forenames>
       <PageNumber>5012</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1991,7 +1992,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2176,7 +2177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campion</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4872</PageNumber>
     </MainItem>
   </ItemGroup>

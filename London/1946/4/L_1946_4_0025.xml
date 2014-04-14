@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Srishukh</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonier</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubbs</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sugden</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweeney</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tallant</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thanga</Key>
-      <Forenames>Servai</Forenames>
+      <Title>Servai .</Title>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +709,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,14 +821,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tolson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trebilcork</Key>
-      <Text>. H T ... r</Text>
+      <Forenames>H</Forenames>
+      <Text>T ... r</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,25 +1096,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, J. P</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Heerden</Forenames>
-      <Text>, C. J. J</Text>
+      <Key>Van Heerden</Key>
+      <Forenames>C. J. J.</Forenames>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Kett</Forenames>
-      <Text>, E. H</Text>
+      <Key>Van Kett</Key>
+      <Forenames>E. H.</Forenames>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakefield</Key>
-      <Text>. D. J., Corr</Text>
+      <Forenames>D. J.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>5146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1255,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitlev</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>4905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>. G. E. A</Text>
+      <Forenames>G. E. A.</Forenames>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Widrose</Key>
-      <Text>. J. B., Corr</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>5146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1895,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2071,7 +2072,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynne-Jones</Key>
-      <Text>, Mrs</Text>
+      <Title>Mrs.</Title>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>

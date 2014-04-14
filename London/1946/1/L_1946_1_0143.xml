@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hellyer</Key>
-      <Text>F: E</Text>
+      <Forenames>F</Forenames>
+      <Text>: E</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HlleSiP</Key>
-      <Text>N. ... —</Text>
+      <Forenames>N.</Forenames>
+      <Text>... —</Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +782,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>O; F</Text>
+      <Forenames>O</Forenames>
+      <Text>; F</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +976,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>R*. G. ... Hoban, D. G. H. Cane. Hobart, E. J. Hobbins, W. A. Hobbs, D. M.i... .!</Text>
+      <Forenames>R</Forenames>
+      <Text>*. G. ... Hoban, D. G. H. Cane. Hobart, E. J. Hobbins, W. A. Hobbs, D. M.i... .!</Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogan</Key>
-      <Text>J; F</Text>
+      <Forenames>J</Forenames>
+      <Text>; F</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holwell</Key>
-      <Text>G;,.C6rr</Text>
+      <Forenames>G</Forenames>
+      <Text>;,.C6rr</Text>
       <PageNumber>860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2146,14 +2152,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hovey</Key>
-      <Text>K. P; B</Text>
+      <Forenames>K. P</Forenames>
+      <Text>; B</Text>
       <PageNumber>1382</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>

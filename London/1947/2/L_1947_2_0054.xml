@@ -76,7 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stallwood</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starkey</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D:</Text>
+      <Forenames>D</Forenames>
+      <Text>:</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +547,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Summers</Key>
-      <Text>, D; C</Text>
+      <Forenames>D</Forenames>
+      <Text>; C</Text>
       <PageNumber>1718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swarne</Key>
-      <Forenames>Samakoses</Forenames>
+      <Title>Samakoses .</Title>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sythes</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2263,7 +2265,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2325,7 +2327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Telford</Key>
-      <Text>,' G.' W. '.'</Text>
+      <Text>' G.' W. '.'</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2454,7 +2456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetlow</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>

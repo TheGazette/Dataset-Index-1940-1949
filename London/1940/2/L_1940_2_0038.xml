@@ -989,6 +989,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beer</Key>
+      <Forenames>G. R.</Forenames>
+      <PageNumber>3092</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -1003,33 +1010,164 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sa</Forenames>
-      <Text>, P. G</Text>
+      <Key>de Broe-Ferguson</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2789</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>2886</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh-Thomas</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2615</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>V. L.</Forenames>
+      <PageNumber>3022</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Domenico</Key>
+      <Forenames>V.</Forenames>
+      <PageNumber>3093</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Garis</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>2049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hadeln</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3265</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jong</Key>
+      <Forenames>D. F. de J</Forenames>
+      <PageNumber>3927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lissa</Key>
+      <Forenames>D. C.</Forenames>
+      <PageNumber>1980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mier</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>2461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>F. F.</Forenames>
+      <PageNumber>2148</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>G. R.</Forenames>
+      <PageNumber>1896</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pevrecave</Key>
+      <Forenames>R. L.</Forenames>
+      <PageNumber>3418</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roemer</Key>
+      <Forenames>C. W.</Forenames>
+      <PageNumber>2795</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sa</Key>
+      <Forenames>P. G .</Forenames>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Steiger</Forenames>
-      <Text>, E. A</Text>
+      <Key>de Saram</Key>
+      <Forenames>C. F. W.</Forenames>
+      <PageNumber>2957</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sousa</Key>
+      <Forenames>E. V.</Forenames>
+      <PageNumber>3022</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Steiger</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Val</Forenames>
-      <Text>, R. S</Text>
+      <Key>de Stuart</Key>
+      <Forenames>S. V. V. D. D. C. G</Forenames>
+      <Text>S</Text>
+      <PageNumber>2546</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Val</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>2951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, J. C</Text>
+      <Key>de Villiers</Key>
+      <Forenames>L.</Forenames>
+      <Text>dH</Text>
+      <PageNumber>3347</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vine</Key>
+      <Forenames>J. C .</Forenames>
       <PageNumber>2959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,7 +1638,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3178</PageNumber>
     </MainItem>
   </ItemGroup>

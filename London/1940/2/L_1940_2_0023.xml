@@ -30,7 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buccleuch</Key>
-      <Text>and Queensberry, Colonel the Duke of, G.C.V.O., Ensign, King's Body Guard for Scotland</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +58,9 @@
       <Key>Bullard</Key>
       <Title>Sir</Title>
       <Forenames>Reader William</Forenames>
-      <Text>, K.C.M.G., C.I.E., H.M. Envoy Extraordinary and Minister Plenipotentiary to His Imperial Majesty the Shahinshah of Iran</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +68,9 @@
     <MainItem>
       <Key>Burch</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Ronald James, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +78,9 @@
     <MainItem>
       <Key>Burn</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,8 +95,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bute</Key>
-      <Forenames>The Marchioness</Forenames>
-      <Text>of, D.B.E., Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>The</Title>
+      <Forenames>Marchioness</Forenames>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +116,9 @@
       <Key>Campbell</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Ronald Hugh</Forenames>
-      <Text>, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary to the French Republic</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +126,9 @@
     <MainItem>
       <Key>Cannon</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +137,9 @@
       <Key>Cape</Key>
       <Title>Col.</Title>
       <Forenames>Herbert Anderson</Forenames>
-      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +165,9 @@
       <Key>Carruthers</Key>
       <Title>Mrs.</Title>
       <Forenames>James</Forenames>
-      <Text>, C.H., Deputy Chairman of Assistance Board</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +175,9 @@
     <MainItem>
       <Key>Catoni</Key>
       <Forenames>Joseph Augustine</Forenames>
-      <Text>, M.B.E., H.M. Consul at Alexandretta</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +186,9 @@
       <Key>Champness</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,15 +221,22 @@
     <MainItem>
       <Key>Churchill</Key>
       <Title>Flt.</Title>
-      <Text>-Lt. Walter Myers, D.F.C., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of, K.G., GiC.V.O., G.C.M.G., P.C., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>The Earl</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +244,9 @@
     <MainItem>
       <Key>Clifden</Key>
       <Forenames>Francis Gerald</Forenames>
-      <Text>, Viscount, M.V.O., Lord in Waiting to H.M. King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +280,11 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>Iain</Forenames>
-      <Text>, Bart., K.T., D.S.O., High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +338,9 @@
     <MainItem>
       <Key>Courage</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Raie Edward, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +349,11 @@
       <Key>Croft</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Henry Page</Forenames>
-      <Text>, Bart., C.M.G., T.D., Baron Croft of Bournemouth</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +369,9 @@
     <MainItem>
       <Key>Daley</Key>
       <Forenames>William Allen</Forenames>
-      <Text>, M.D., F.R.C.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,6 +394,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gripenberg</Key>
+      <Title>Madame</Title>
+      <Forenames>Peggy Associate</Forenames>
+      <Text>Commander, of St. John of Jerusalem</Text>
+      <PageNumber>3778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Warr, Rt. Hon. Herbrand Edward Dundonald Brassey, Earl, First Commissioner of Works and Public Buildings</Text>
       <PageNumber>2235</PageNumber>
@@ -360,7 +413,9 @@
       <Key>Dean</Key>
       <Title>Cdr.</Title>
       <Forenames>Brian</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +424,9 @@
       <Key>Denny</Key>
       <Title>Capt.</Title>
       <Forenames>Michael May-</Forenames>
-      <Text>nard, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3499</PageNumber>
       <PageNumber>3917</PageNumber>
     </MainItem>
@@ -386,7 +443,10 @@
     <MainItem>
       <Key>Dewar</Key>
       <Title>Sqdn.</Title>
-      <Text>-Ldr. John Scatliff, D.F.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +497,9 @@
       <Key>Donaldson</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>Ed-</Forenames>
-      <Text>ward Mortlock, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +510,9 @@
       </Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>John William</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +574,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Roy Berryman, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +584,11 @@
     <MainItem>
       <Key>Embry</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Basil Edward, D.S.O., A.F.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +626,10 @@
     <MainItem>
       <Key>Ewing</Key>
       <Title>Brig.</Title>
-      <Text>-General Sir Norman A. Orr, Bart., D.S.O., Brigadier, King's Body / Guard for Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +655,9 @@
       <Key>Fisher</Key>
       <Title>Cdlr.</Title>
       <Forenames>Ralph</Forenames>
-      <Text>! Lindsay, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +690,9 @@
     <MainItem>
       <Key>Forbes</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. John Hay, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +745,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>William Jocelyn Ian</Forenames>
-      <Text>, C.B.E., Member of Parliament for Lonsdale</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>

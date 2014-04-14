@@ -397,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Templing</Key>
-      <Text>B; C</Text>
+      <Forenames>B</Forenames>
+      <Text>; C</Text>
       <PageNumber>5067</PageNumber>
       <PageNumber>5584</PageNumber>
     </MainItem>
@@ -478,7 +479,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +608,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>K' *A '</Text>
+      <Forenames>K</Forenames>
+      <Text>' *A '</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +724,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>5198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurlby</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tibbies</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,14 +1101,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilsey</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6083</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tilsley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Titmus</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5935</PageNumber>
     </MainItem>
     <SubItem>
@@ -1244,7 +1246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torbet</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>P '. W</Text>
+      <Forenames>P</Forenames>
+      <Text>'. W</Text>
       <PageNumber>5434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,7 +1677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Text>F? &lt;</Text>
+      <Forenames>F</Forenames>
+      <Text>? &lt;</Text>
       <PageNumber>5931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tull</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1778,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(108315)</Text>
+      <Title>(108315)</Title>
       <PageNumber>5929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,7 +1787,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(143518)</Text>
+      <Title>(143518)</Title>
       <PageNumber>5935</PageNumber>
     </MainItem>
   </ItemGroup>

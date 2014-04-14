@@ -151,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardisty</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>E. W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>1301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>H. A. G. . . I</Text>
+      <Forenames>H. A. G.</Forenames>
+      <Text>. . I</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howland</Key>
-      <Text>R. L</Text>
+      <Forenames>R. L.</Forenames>
       <PageNumber>132</PageNumber>
       <PageNumber>966</PageNumber>
     </MainItem>
@@ -1004,8 +1005,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. de B</Forenames>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,7 +1408,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,8 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidiard</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. D. St. J</Forenames>
       <PageNumber>1301</PageNumber>
     </MainItem>
   </ItemGroup>

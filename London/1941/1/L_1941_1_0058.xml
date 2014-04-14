@@ -138,8 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +312,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>K. H. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheesman</Key>
-      <Text>G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>

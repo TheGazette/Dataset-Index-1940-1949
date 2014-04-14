@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Head</Key>
-      <Text>,. W. E. K</Text>
+      <Text>. W. E. K</Text>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Healy</Key>
-      <Text>, H; A</Text>
+      <Forenames>H</Forenames>
+      <Text>; A</Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +134,9 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>^-C.B. ... ''</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton</Key>
-      <Text>,. D; S. '</Text>
+      <Text>. D; S. '</Text>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hedgecoe</Key>
-      <Text>, S: F. .&lt;.:.;] Hedger*; J. E. .:.-</Text>
+      <Forenames>S</Forenames>
+      <Text>: F. .&lt;.:.;] Hedger*; J. E. .:.-</Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,21 +206,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Hellian-Smith</Key>
-      <Text>, P: L:'</Text>
+      <Forenames>P</Forenames>
+      <Text>: L:'</Text>
       <PageNumber>4896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hellier</Key>
-      <Text>. F. E. ..'</Text>
+      <Forenames>F. E.</Forenames>
+      <Text>..'</Text>
       <PageNumber>5356</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hellihgs</Key>
-      <Text>, S: ' 5350;</Text>
+      <Text>S: ' 5350;</Text>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helm</Key>
-      <Text>, C, Sub. not</Text>
+      <Forenames>C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>4893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +278,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>E, J; ... J..l</Text>
+      <Forenames>E</Forenames>
+      <Text>, J; ... J..l</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +289,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G: W.' :.: .:</Text>
+      <Forenames>G</Forenames>
+      <Text>: W.' :.: .:</Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendrick</Key>
-      <Text>,' C. M</Text>
+      <Text>' C. M</Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hetherington</Key>
-      <Text>,' J. F.'</Text>
+      <Text>' J. F.'</Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibbert</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. -63^</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. -63^</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hili</Key>
-      <Text>, A; G.. '</Text>
+      <Forenames>A</Forenames>
+      <Text>; G.. '</Text>
       <PageNumber>5069</PageNumber>
       <PageNumber>5069</PageNumber>
     </MainItem>
@@ -845,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillyard</Key>
-      <Text>, G: A</Text>
+      <Forenames>G</Forenames>
+      <Text>: A</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +895,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T^— ___ ___ R. C. D</Text>
+      <Forenames>T</Forenames>
+      <Text>^— ___ ___ R. C. D</Text>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +948,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S H</Text>
+      <Forenames>S</Forenames>
+      <Text>H</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1051,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>. A: El T:-.:</Text>
+      <Forenames>A</Forenames>
+      <Text>: El T:-.:</Text>
       <PageNumber>6287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1094,7 @@
       <PageNumber>5953</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>5614.:</Text>
+      <Text>5614.:.</Text>
       <PageNumber>6065</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1189,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>, ID. B. ... :</Text>
+      <Text>ID. B. ... :</Text>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>, .T. Tl</Text>
+      <Text>.T. Tl</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holliman</Key>
-      <Text>, P: D. : '...!. .-</Text>
+      <Forenames>P</Forenames>
+      <Text>: D. : '...!. .-</Text>
       <PageNumber>5400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Honess</Key>
-      <Text>,. S.;E</Text>
+      <Text>. S.;E</Text>
       <PageNumber>5253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobk</Key>
-      <Text>.iF. A, ..v UO--59S</Text>
+      <Text>iF. A, ..v UO--59S</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopcroft</Key>
-      <Text>, 11. K</Text>
+      <Text>11. K</Text>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1623,7 +1638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horn</Key>
-      <Text>, DA</Text>
+      <Text>DA</Text>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horner</Key>
-      <Text>,,G. A</Text>
+      <Text>,G. A</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hortoh</Key>
-      <Text>,, D. B</Text>
+      <Text>, D. B</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horton-SmithrHartley</Key>
-      <Text>, 4</Text>
+      <Text>4</Text>
       <PageNumber>936</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ..</KeyDitto>
@@ -1889,7 +1904,7 @@
       <PageNumber>5254</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>E</Text>
+      <Text>E.</Text>
       <PageNumber>5973</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ' ...</KeyDitto>
@@ -1958,7 +1973,7 @@
       <PageNumber>5352</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>„ W. T. ... &gt;</Text>
+      <Text>„ W. T. ... &gt;.</Text>
       <PageNumber>5397</PageNumber>
     </SubItem>
   </ItemGroup>

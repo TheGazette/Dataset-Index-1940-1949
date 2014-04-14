@@ -22,7 +22,9 @@
       <Key>Craik</Key>
       <Title>Sir</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, Bt., Knight Grand Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,8 +48,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'M., Knight Commander, Order of the British Empire</Text>
+      <Forenames>M. O'M</Forenames>
+      <Text>., Knight Commander, Order of the British Empire</Text>
       <PageNumber>1304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +97,9 @@
     <MainItem>
       <Key>Cronyn</Key>
       <Title>St.</Title>
-      <Text>j., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +157,9 @@
     <MainItem>
       <Key>Crouch</Key>
       <Forenames>C. B.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +230,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. G.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +242,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. C</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +279,9 @@
     <MainItem>
       <Key>Custance</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +313,9 @@
     <MainItem>
       <Key>Dallmeyer</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>51</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +332,9 @@
       <Key>Dairymple-Champneys</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,6 +503,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>M. L.</Forenames>
+      <Text>, Mrs. L., Associate Officer (Sister), Order of St. John of Jerusalem</Text>
+      <PageNumber>54</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Villiers</Forenames>
       <Text>, J. S., Member, Order of the British Empire</Text>
@@ -555,7 +579,9 @@
     <MainItem>
       <Key>Dewhurst</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +837,9 @@
     <MainItem>
       <Key>Dunbar</Key>
       <Forenames>J. T.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +912,9 @@
     <MainItem>
       <Key>Eastwood</Key>
       <Forenames>T. R.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
